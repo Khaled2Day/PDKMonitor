@@ -304,8 +304,8 @@
             "thickness": 220
           },
           "entities": [],
-          "status": "",
-          "kind": "",
+          "status": "available",
+          "kind": "passive",
           "collapsed": false
         },
         {
@@ -316,8 +316,8 @@
             "thickness": 340
           },
           "entities": [],
-          "status": "",
-          "kind": "",
+          "status": "available",
+          "kind": "passive",
           "collapsed": false
         },
         {
@@ -328,8 +328,8 @@
             "thickness": 500
           },
           "entities": [],
-          "status": "",
-          "kind": "",
+          "status": "available",
+          "kind": "passive",
           "collapsed": false
         },
         {
@@ -340,8 +340,8 @@
             "thickness": 300
           },
           "entities": [],
-          "status": "",
-          "kind": "",
+          "status": "planned",
+          "kind": "passive",
           "collapsed": false
         },
         {
@@ -352,8 +352,8 @@
             "thickness": 300
           },
           "entities": [],
-          "status": "",
-          "kind": "",
+          "status": "available",
+          "kind": "passive",
           "collapsed": false
         },
         {
@@ -364,8 +364,8 @@
             "thickness": 200
           },
           "entities": [],
-          "status": "",
-          "kind": "",
+          "status": "available",
+          "kind": "passive",
           "collapsed": false
         },
         {
@@ -430,8 +430,8 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-05-24T18:25:39.555Z",
-    "lastFetchedSha": "43696f5cf6934ed9415942009b1343b839b55568",
+    "lastFetchedAt": "2026-05-24T18:29:30.990Z",
+    "lastFetchedSha": "0b0a1fec5cb7feabc39a25280c9db71fea6d876d",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -445,13 +445,13 @@
     },
     "lastSecurityStats": {
       "guestsAdded": 0,
-      "guestsKept": 4,
+      "guestsKept": 5,
       "contactEmailUpdated": false,
       "labelsAdded": 0
     },
-    "lastPublishedAt": "2026-05-24T18:25:35.038Z",
-    "lastPublishedSha": "6c39a0738e8db7ccba83d881ccfed4fe73d8a766",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/6c39a0738e8db7ccba83d881ccfed4fe73d8a766"
+    "lastPublishedAt": "2026-05-24T18:29:25.872Z",
+    "lastPublishedSha": "eb285763b67e34c2c10e49d9b2055ddb3afc17eb",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/eb285763b67e34c2c10e49d9b2055ddb3afc17eb"
   },
   "sketchLibrary": [],
   "contributors": [],
@@ -518,7 +518,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-24T18:29:25.872Z",
+    "publishedAt": "2026-05-24T18:33:37.103Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
