@@ -285,7 +285,9 @@
   "ownership": {
     "g_wbajg88": "admin",
     "g_7ea4pxt": "admin",
-    "e_77krt6b": "admin"
+    "e_77krt6b": "admin",
+    "p_d9a60gf": "admin",
+    "p_40wlmfz": "admin"
   },
   "labels": {},
   "uploads": [],
@@ -428,14 +430,14 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-05-24T18:23:36.790Z",
-    "lastFetchedSha": "3d6f48a7fba82d8481917c656b3f6f5054bf1e47",
+    "lastFetchedAt": "2026-05-24T18:25:39.555Z",
+    "lastFetchedSha": "43696f5cf6934ed9415942009b1343b839b55568",
     "lastMergeStats": {
       "tabs": 0,
-      "groups": 2,
+      "groups": 0,
       "entities": 0,
       "contributors": 0,
-      "ownership": 2,
+      "ownership": 0,
       "labels": 0,
       "statuses": 0,
       "categories": 0,
@@ -446,7 +448,10 @@
       "guestsKept": 4,
       "contactEmailUpdated": false,
       "labelsAdded": 0
-    }
+    },
+    "lastPublishedAt": "2026-05-24T18:25:35.038Z",
+    "lastPublishedSha": "6c39a0738e8db7ccba83d881ccfed4fe73d8a766",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/6c39a0738e8db7ccba83d881ccfed4fe73d8a766"
   },
   "sketchLibrary": [],
   "contributors": [],
@@ -495,6 +500,17 @@
         "expiresOn": "",
         "createdAt": "2026-05-24",
         "lastUsed": ""
+      },
+      {
+        "id": "p_d9a60gf",
+        "label": "CS_Emre",
+        "role": "user-admin",
+        "password": "CS2026_Emre_PDK",
+        "githubUser": "https://github.com/AEmreKaplan/",
+        "email": "",
+        "expiresOn": "",
+        "createdAt": "2026-05-24",
+        "lastUsed": ""
       }
     ],
     "accessRequestEmail": "pdk.cornerstone@soton.ac.uk",
@@ -502,14 +518,14 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-24T18:25:35.038Z",
+    "publishedAt": "2026-05-24T18:29:25.872Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
     "appVersion": "v1.0",
     "contributorCount": 0,
     "bbCount": 0,
-    "guestCount": 4,
+    "guestCount": 5,
     "termsVersion": "1.1.0"
   }
 }
