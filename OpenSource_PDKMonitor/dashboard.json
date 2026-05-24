@@ -397,12 +397,6 @@
       "name": "Post-Processing",
       "groups": [],
       "kind": "platforms"
-    },
-    {
-      "id": "tab_ogq4xpf",
-      "name": "Design Manuals",
-      "groups": [],
-      "kind": "docs"
     }
   ],
   "distribution": {
@@ -428,10 +422,10 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-24T19:56:01.548Z",
-    "lastPublishedSha": "6047e8125debadb8cc857b0bb8919d25a45dabdc",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/6047e8125debadb8cc857b0bb8919d25a45dabdc",
-    "lastFetchedAt": "2026-05-24T19:56:07.301Z",
+    "lastPublishedAt": "2026-05-24T19:57:26.828Z",
+    "lastPublishedSha": "c002ad1ff871d30122c78a0a8c5fdc6277b640c2",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/c002ad1ff871d30122c78a0a8c5fdc6277b640c2",
+    "lastFetchedAt": "2026-05-24T19:57:35.317Z",
     "lastFetchedSha": "be89901bd5bcdce7fec2fb6ce4fbb783ee6d44d6",
     "lastMergeStats": {
       "tabs": 1,
@@ -518,7 +512,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-24T19:57:26.828Z",
+    "publishedAt": "2026-05-24T19:58:21.512Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
