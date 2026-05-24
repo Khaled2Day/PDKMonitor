@@ -174,7 +174,7 @@
               "id": "e_w0ff3c2",
               "name": "tst_wg_emre",
               "status": "available",
-              "owner": "",
+              "owner": "CS",
               "description": "",
               "githubUrl": "",
               "files": [],
@@ -194,8 +194,20 @@
               "gdsName": "",
               "gdsSize": 0,
               "gdsContent": "",
-              "edaTools": [],
-              "cdi": {},
+              "edaTools": [
+                "ipkiss",
+                "gdsfactory",
+                "synopsys",
+                "klayout",
+                "virtuoso",
+                "ledit",
+                "picstudio"
+              ],
+              "cdi": {
+                "chip": 3,
+                "wafer": 3,
+                "packaging": 3
+              },
               "fabTabs": [],
               "plannedReleaseDate": "",
               "trl": null,
@@ -222,7 +234,7 @@
   },
   "contributors": [],
   "_distribution": {
-    "publishedAt": "2026-05-24T21:05:29.980Z",
+    "publishedAt": "2026-05-24T21:13:36.248Z",
     "publisherIdentity": "https://github.com/AEmreKaplan/",
     "publisherLabel": "CS_Emre",
     "publisherRole": "user-admin",
