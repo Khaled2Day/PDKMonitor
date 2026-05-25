@@ -19919,9 +19919,9 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-25T07:39:16.957Z",
-    "lastPublishedSha": "e82154ff6465054b4ac6da6ee9388d00b484eb02",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/e82154ff6465054b4ac6da6ee9388d00b484eb02",
+    "lastPublishedAt": "2026-05-25T07:49:38.839Z",
+    "lastPublishedSha": "a22d9de5886140500432c45c1ec5da4763448577",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/a22d9de5886140500432c45c1ec5da4763448577",
     "lastFetchedAt": "2026-05-25T07:39:50.375Z",
     "lastFetchedSha": "2e82458896f8f5cf7755c7208fd986955fca27bc",
     "lastMergeStats": {
@@ -19951,7 +19951,7 @@
   "lastGithubFetch": "2026-05-25T04:32:16.587Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T07:44:25.195Z",
+    "publishedAt": "2026-05-25T08:00:56.010Z",
     "publisherIdentity": "https://github.com/AEmreKaplan/",
     "publisherLabel": "CS_Emre",
     "publisherRole": "user-admin",
@@ -20123,5 +20123,6 @@
       "description": "Floorplan / placement helper",
       "color": "#c4742d"
     }
-  ]
+  ],
+  "contributors": []
 }
