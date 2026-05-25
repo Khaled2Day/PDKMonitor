@@ -1319,7 +1319,9 @@
     "e_apwja2q": "https://github.com/AEmreKaplan/",
     "tg_v64enml": "https://github.com/AEmreKaplan/",
     "t_4bcr9so": "https://github.com/AEmreKaplan/",
-    "t_kybsbe3": "CS_Bilge"
+    "t_kybsbe3": "CS_Bilge",
+    "tg_aksryby": "CS_Bilge",
+    "t_tltzmo6": "CS_Bilge"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -10234,6 +10236,86 @@
                       },
                       "who": "CS_Bilge",
                       "added": "2026-05-25T09:19:55.492Z",
+                      "updated": "2026-05-25",
+                      "_stripped": true
+                    }
+                  ],
+                  "collapsed": true
+                },
+                {
+                  "id": "tg_aksryby",
+                  "name": "bilge test",
+                  "tests": [
+                    {
+                      "id": "t_tltzmo6",
+                      "name": "dashboard (1)",
+                      "filename": "dashboard (1).json",
+                      "kind": "json",
+                      "size": 1328279,
+                      "parsed": {
+                        "sweep": {
+                          "name": "statuses",
+                          "values": [
+                            null,
+                            null,
+                            null,
+                            null
+                          ]
+                        },
+                        "traces": [
+                          {
+                            "name": "categories",
+                            "values": [
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null
+                            ]
+                          },
+                          {
+                            "name": "bbTypes",
+                            "values": [
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null
+                            ]
+                          },
+                          {
+                            "name": "tabs",
+                            "values": [
+                              null
+                            ]
+                          },
+                          {
+                            "name": "contributors",
+                            "values": []
+                          }
+                        ]
+                      },
+                      "imageUrl": null,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-25",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Bilge",
+                      "added": "2026-05-25T09:24:51.874Z",
                       "updated": "2026-05-25",
                       "_stripped": true
                     }
@@ -19987,17 +20069,17 @@
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
-        "enabled": false
+        "enabled": true
       }
     ],
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-25T09:20:59.764Z",
-    "lastPublishedSha": "2079305df64ef24ac6aa2754d63768b80db7aec6",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/2079305df64ef24ac6aa2754d63768b80db7aec6",
-    "lastFetchedAt": "2026-05-25T09:19:02.325Z",
+    "lastPublishedAt": "2026-05-25T09:23:20.452Z",
+    "lastPublishedSha": "5a5638b7bce3641c3e667810e0f08d01eea83498",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/5a5638b7bce3641c3e667810e0f08d01eea83498",
+    "lastFetchedAt": "2026-05-25T09:24:14.177Z",
     "lastFetchedSha": "e3c5f7d4f5121e13f5d28c91a2b5b41e7aa4ae69",
     "lastMergeStats": {
       "tabs": 0,
@@ -20026,7 +20108,7 @@
   "lastGithubFetch": "2026-05-25T04:32:16.587Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T09:23:20.452Z",
+    "publishedAt": "2026-05-25T09:25:49.007Z",
     "publisherIdentity": "CS_Bilge",
     "publisherLabel": "CS_Bilge",
     "publisherRole": "user-admin",
@@ -20069,7 +20151,7 @@
         "email": "",
         "expiresOn": "",
         "createdAt": "2026-05-24",
-        "lastUsed": "2026-05-25"
+        "lastUsed": "2026-05-24"
       },
       {
         "id": "p_0ew3qn8",
