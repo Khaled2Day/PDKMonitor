@@ -844,15 +844,15 @@
     "t_gcz7j70": "admin",
     "t_3tq8aq7": "admin",
     "t_7fkx8to": "admin",
-    "layout:e_ltl8sye": "admin",
+    "layout:e_ltl8sye": "CS_Aiman",
     "t_hf9jyuk": "admin",
-    "layout:e_j50vobe": "admin",
+    "layout:e_j50vobe": "CS_Aiman",
     "t_h4mawad": "admin",
-    "layout:e_miu7hij": "admin",
+    "layout:e_miu7hij": "CS_Aiman",
     "t_bphy9cq": "admin",
-    "layout:e_9o9pouy": "admin",
+    "layout:e_9o9pouy": "CS_Aiman",
     "t_i689neu": "admin",
-    "layout:e_z1e654s": "admin",
+    "layout:e_z1e654s": "CS_Aiman",
     "e_hj2ueiw": "admin",
     "e_pbwt824": "admin",
     "e_m0na48r": "admin",
@@ -1319,8 +1319,81 @@
     "e_apwja2q": "https://github.com/AEmreKaplan/",
     "tg_v64enml": "https://github.com/AEmreKaplan/",
     "t_4bcr9so": "https://github.com/AEmreKaplan/",
-    "tg_ivkpapj": "CS_Aiman",
-    "t_emadma7": "CS_Aiman"
+    "t_dr5v2ag": "CS_Aiman",
+    "t_93admyd": "CS_Aiman",
+    "t_53vo8jn": "CS_Aiman",
+    "t_y9lqzcb": "CS_Aiman",
+    "t_lve448h": "CS_Aiman",
+    "t_qmqit2o": "CS_Aiman",
+    "layout:e_1qkhwfh": "CS_Aiman",
+    "t_30s8q0b": "CS_Aiman",
+    "layout:e_waxpurf": "CS_Aiman",
+    "t_rexqigz": "CS_Aiman",
+    "t_whxvzgu": "CS_Aiman",
+    "layout:e_2t8txsw": "CS_Aiman",
+    "t_aukp3cz": "CS_Aiman",
+    "t_auqljp3": "CS_Aiman",
+    "layout:e_qe07omd": "CS_Aiman",
+    "t_oyb7fzh": "CS_Aiman",
+    "t_gjjqbf9": "CS_Aiman",
+    "layout:e_cfaz00p": "CS_Aiman",
+    "t_nc11au9": "CS_Aiman",
+    "t_9zr6xit": "CS_Aiman",
+    "layout:e_obg8p1t": "CS_Aiman",
+    "t_9p4j8yr": "CS_Aiman",
+    "layout:e_qieb6sk": "CS_Aiman",
+    "t_2ssg7l6": "CS_Aiman",
+    "t_r53ygma": "CS_Aiman",
+    "layout:e_xd3v45x": "CS_Aiman",
+    "t_78yurql": "CS_Aiman",
+    "t_58k10e1": "CS_Aiman",
+    "layout:e_jtpff1b": "CS_Aiman",
+    "t_0zgi9i9": "CS_Aiman",
+    "t_e0j4l7v": "CS_Aiman",
+    "layout:e_19nr975": "CS_Aiman",
+    "t_cnf99zd": "CS_Aiman",
+    "t_8vjmxzu": "CS_Aiman",
+    "layout:e_66vbu6g": "CS_Aiman",
+    "t_u2mw3vn": "CS_Aiman",
+    "t_xop6w5u": "CS_Aiman",
+    "layout:e_z9rrek5": "CS_Aiman",
+    "t_qp04uja": "CS_Aiman",
+    "layout:e_mjcm4p8": "CS_Aiman",
+    "t_6iwyeqm": "CS_Aiman",
+    "t_plrlf0q": "CS_Aiman",
+    "layout:e_svzy7po": "CS_Aiman",
+    "t_17f05st": "CS_Aiman",
+    "t_87ah9lg": "CS_Aiman",
+    "layout:e_jyw43mo": "CS_Aiman",
+    "t_qkvnluh": "CS_Aiman",
+    "t_4yfhjh8": "CS_Aiman",
+    "layout:e_luh771z": "CS_Aiman",
+    "t_b5twu4l": "CS_Aiman",
+    "t_f4yvuhs": "CS_Aiman",
+    "layout:e_2i7s9wq": "CS_Aiman",
+    "t_m6cn2l4": "CS_Aiman",
+    "t_g5zpyp1": "CS_Aiman",
+    "layout:e_ig3x40h": "CS_Aiman",
+    "t_v0fifpp": "CS_Aiman",
+    "layout:e_fgyoxlk": "CS_Aiman",
+    "t_heeyfw0": "CS_Aiman",
+    "t_vcyi6hx": "CS_Aiman",
+    "layout:e_j6nxmw7": "CS_Aiman",
+    "t_yubu7zv": "CS_Aiman",
+    "t_yqk2791": "CS_Aiman",
+    "layout:e_t9kcnqg": "CS_Aiman",
+    "t_xbj06c1": "CS_Aiman",
+    "t_2yygpws": "CS_Aiman",
+    "layout:e_mv15bsy": "CS_Aiman",
+    "t_d0rbv3k": "CS_Aiman",
+    "t_jrlluto": "CS_Aiman",
+    "layout:e_hg9zuab": "CS_Aiman",
+    "t_nfizx05": "CS_Aiman",
+    "t_yujifhp": "CS_Aiman",
+    "layout:e_6hl2ktz": "CS_Aiman",
+    "t_gzubwj2": "CS_Aiman",
+    "layout:e_99sq18j": "CS_Aiman",
+    "t_dunfb7f": "CS_Aiman"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -10019,7 +10092,7 @@
           "_stripped": true
         },
         {
-          "id": "t_7fkx8to",
+          "id": "t_dr5v2ag",
           "name": "SOI220nm_1310nm_TE_MZI_Modulator.gds",
           "filename": "SOI220nm_1310nm_TE_MZI_Modulator.gds",
           "size": 55222,
@@ -10038,7 +10111,7 @@
           "_stripped": true
         },
         {
-          "id": "t_hf9jyuk",
+          "id": "t_93admyd",
           "name": "SOI220nm_1550nm_SingleQubitGate_IIF_UoSheffield.gds",
           "filename": "SOI220nm_1550nm_SingleQubitGate_IIF_UoSheffield.gds",
           "size": 85704,
@@ -10057,7 +10130,7 @@
           "_stripped": true
         },
         {
-          "id": "t_h4mawad",
+          "id": "t_53vo8jn",
           "name": "SOI220nm_1550nm_TE_Defect_Detector.gds",
           "filename": "SOI220nm_1550nm_TE_Defect_Detector.gds",
           "size": 8680,
@@ -10076,7 +10149,7 @@
           "_stripped": true
         },
         {
-          "id": "t_bphy9cq",
+          "id": "t_y9lqzcb",
           "name": "SOI220nm_1550nm_TE_IsolatedDetector.gds",
           "filename": "SOI220nm_1550nm_TE_IsolatedDetector.gds",
           "size": 842,
@@ -10095,7 +10168,7 @@
           "_stripped": true
         },
         {
-          "id": "t_i689neu",
+          "id": "t_lve448h",
           "name": "SOI220nm_1550nm_TE_MZI_Modulator.gds",
           "filename": "SOI220nm_1550nm_TE_MZI_Modulator.gds",
           "size": 69134,
@@ -10108,6 +10181,481 @@
           "_routedTo": {
             "bbId": "e_z1e654s",
             "bbName": "SOI220nm_1550nm_TE_MZI_Modulator",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          },
+          "_stripped": true
+        },
+        {
+          "id": "t_qmqit2o",
+          "name": "Heater.gds",
+          "filename": "Heater.gds",
+          "size": 684,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "Heater",
+            "bbId": "e_1qkhwfh"
+          },
+          "binaryContent": "AAYAAgJYABwBAgfpAAYABAAKACIABwfpAAYABAAKACIABwAIAgZMSUIAABQDBT5BiTdLxqfwOUS4L6CbWlQAHAUCB+kABgAEAAoAIgAHB+kABgAEAAoAIgAHAAoGBkhlYXRlcgAECAAABg0CAA0ABg4CAAAALBADAAMNQgAAw1AAAg9YAAFMDAADR9gAAUwMAAPQkgAAw1AAAw1CAADDUAAEEQAABAgAAAYNAgANAAYOAgAAACwQAwAAYagAAAAEAAAAAAAAw1QAAMNQAADDVAAAZZAAAAAEAABhqAAAAAQABBEAAAQIAAAGDQIADQAGDgIAAAAsEAMAAGGoAAAABAAAAAAAAMNUAADDUAAAw1QAAGWQAAAABAAAYagAAAAEAAQRAAAECAAABg0CAA0ABg4CAAAALBADAAAAAAAAw1QAAIi4AAFMDAABwTgAAUwMAADDUAAAw1QAAAAAAADDVAAEEQAABAgAAAYNAgANAAYOAgAAACwQAwADbuoAAAAAAAMNQgAAw1AAA9CSAADDUAADctIAAAAAAANu6gAAAAAABBEAAAQIAAAGDQIADQAGDgIAAAAsEAMAA27qAAAAAAADDUIAAMNQAAPQkgAAw1AAA3LSAAAAAAADbuoAAAAAAAQRAAAECAAABg0CAA0ABg4CAAAALBADAABjmwAAAAAAAGObAAAXcAADcNsAABdwAANw2wAAAAAAAGObAAAAAAAEEQAABAgAAAYNAgANAAYOAgAAACwQAwAAiLgAAUwMAACIuAADlfwAAcE4AAOV/AABwTgAAUwMAACIuAABTAwABBEAAAQIAAAGDQIADQAGDgIAAAAsEAMAAg9YAAFMDAACD1gAA5X8AANH2AADlfwAA0fYAAFMDAACD1gAAUwMAAQRAAAEBwAABAQA",
+          "_routedTo": {
+            "bbId": "e_1qkhwfh",
+            "bbName": "Heater",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          }
+        },
+        {
+          "id": "t_30s8q0b",
+          "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI.gds",
+          "filename": "SOI220nm_1310nm_TE_RIB_2x1_MMI.gds",
+          "size": 500,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
+            "bbId": "e_waxpurf"
+          },
+          "binaryContent": "AAYAAgJYABwBAgfpAAYABAAKACMAFQfpAAYABAAKACMAFQAIAgZMSUIAABQDBT5BiTdLxqfwOUS4L6CbWlQAHAUCB+kABgAEAAoAIwAVB+kABgAEAAoAIwAVACIGBlNPSTIyMG5tXzEzMTBubV9URV9SSUJfMngxX01NSQAECAAABg0CAAMABg4CAAAAvBADAAChuP//9EgAAKG4///9EgAAU5j///84AAAAAP///zgAAAAAAAAAyAAAU5gAAADIAAChuAAAAu4AAKG4AAALuAABQRgAAAu4AAFBGAAACOMAAY84AAAGvQAB4tAAAAa9AAHi0AAABS0AAY84AAAFLQABQRgAAAMHAAFBGP///PkAAY84///60wAB4tD///rTAAHi0P//+UMAAY84///5QwABQRj///cdAAFBGP//9EgAAKG4///0SAAEEQAABAgAAAYNAgAFAAYOAgAAAIwQAwAAjjD//+DAAACOMP//6hIAAFNY///rsAAAAAD//+uwAAAAAAAAFFAAAFNYAAAUUAAAjjAAABXuAACOMAAAH0AAAVSgAAAfQAABVKAAABvjAAGPeAAAGkUAAeLQAAAaRQAB4tD//+W7AAGPeP//5bsAAVSg///kHQABVKD//+DAAACOMP//4MAABBEAAAQHAAAEBAA=",
+          "_routedTo": {
+            "bbId": "e_waxpurf",
+            "bbName": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          }
+        },
+        {
+          "id": "t_whxvzgu",
+          "name": "SOI220nm_1310nm_TE_RIB_2x2_MMI.gds",
+          "filename": "SOI220nm_1310nm_TE_RIB_2x2_MMI.gds",
+          "size": 868,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1310nm_TE_RIB_2x2_MMI",
+            "bbId": "e_2t8txsw"
+          },
+          "_routedTo": {
+            "bbId": "e_2t8txsw",
+            "bbName": "SOI220nm_1310nm_TE_RIB_2x2_MMI",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          },
+          "_stripped": true
+        },
+        {
+          "id": "t_auqljp3",
+          "name": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend.gds",
+          "filename": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend.gds",
+          "size": 2236,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend",
+            "bbId": "e_qe07omd"
+          },
+          "_routedTo": {
+            "bbId": "e_qe07omd",
+            "bbName": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          },
+          "_stripped": true
+        },
+        {
+          "id": "t_gjjqbf9",
+          "name": "SOI220nm_1310nm_TE_RIB_Grating_Coupler.gds",
+          "filename": "SOI220nm_1310nm_TE_RIB_Grating_Coupler.gds",
+          "size": 5468,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1310nm_TE_RIB_Grating_Coupler",
+            "bbId": "e_cfaz00p"
+          },
+          "_routedTo": {
+            "bbId": "e_cfaz00p",
+            "bbName": "SOI220nm_1310nm_TE_RIB_Grating_Coupler",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          },
+          "_stripped": true
+        },
+        {
+          "id": "t_9zr6xit",
+          "name": "SOI220nm_1310nm_TE_RIB_Waveguide.gds",
+          "filename": "SOI220nm_1310nm_TE_RIB_Waveguide.gds",
+          "size": 262,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1310nm_TE_RIB_Waveguide",
+            "bbId": "e_obg8p1t"
+          },
+          "binaryContent": "AAYAAgJYABwBAgfpAAYABAAKACUAAQfpAAYABAAKACUAAQAIAgZMSUIAABQDBT5BiTdLxqfwOUS4L6CbWlQAHAUCB+kABgAEAAoAJQABB+kABgAEAAoAJQABACQGBlNPSTIyMG5tXzEzMTBubV9URV9SSUJfV2F2ZWd1aWRlAAQIAAAGDQIAAwAGDgIAAAAsEAMAAAAA////OAAAAAAAAADIAAGGoAAAAMgAAYag////OAAAAAD///84AAQRAAAECAAABg0CAAUABg4CAAAALBADAAAAAP//67AAAAAAAAAUUAABhqAAABRQAAGGoP//67AAAAAA///rsAAEEQAABAcAAAQEAA==",
+          "_routedTo": {
+            "bbId": "e_obg8p1t",
+            "bbName": "SOI220nm_1310nm_TE_RIB_Waveguide",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          }
+        },
+        {
+          "id": "t_9p4j8yr",
+          "name": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.gds",
+          "filename": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.gds",
+          "size": 1104,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing",
+            "bbId": "e_qieb6sk"
+          },
+          "_routedTo": {
+            "bbId": "e_qieb6sk",
+            "bbName": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          },
+          "_stripped": true
+        },
+        {
+          "id": "t_r53ygma",
+          "name": "SOI220nm_1310nm_TE_STRIP_2x1_MMI.gds",
+          "filename": "SOI220nm_1310nm_TE_STRIP_2x1_MMI.gds",
+          "size": 582,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1310nm_TE_STRIP_2x1_MMI",
+            "bbId": "e_xd3v45x"
+          },
+          "binaryContent": "AAYAAgJYABwBAgfpAAYABAAKACUAMQfpAAYABAAKACUAMQAIAgZMSUIAABQDBT5BiTdLxqfwOUS4L6CbWlQAHAUCB+kABgAEAAoAJQAxB+kABgAEAAoAJQAxACQGBlNPSTIyMG5tXzEzMTBubV9URV9TVFJJUF8yeDFfTU1JAAQIAAAGDQIAAwAGDgIAAAAsEAMAAT5c///3HQABPlz///z5AAGMfP//+tMAAYx8///5QwABPlz///cdAAQRAAAECAAABg0CAAMABg4CAAAALBADAAE+XAAAAwcAAT5cAAAI4wABjHwAAAa9AAGMfAAABS0AAT5cAAADBwAEEQAABAgAAAYNAgADAAYOAgAAACwQAwAAobj///0SAABTmP///zgAAFOYAAAAyAAAobgAAALuAAChuP///RIABBEAAAQIAAAGDQIAAwAGDgIAAAAsEAMAAKG4///0SAAAobgAAAu4AAE+XAAAC7gAAT5c///0SAAAobj///RIAAQRAAAECAAABg0CAAMABg4CAAAALBADAAGMfP//+UMAAYx8///60wAB4BT///rTAAHgFP//+UMAAYx8///5QwAEEQAABAgAAAYNAgADAAYOAgAAACwQAwABjHwAAAUtAAGMfAAABr0AAeAUAAAGvQAB4BQAAAUtAAGMfAAABS0ABBEAAAQIAAAGDQIAAwAGDgIAAAAsEAMAAAAA////OAAAAAAAAADIAABTmAAAAMgAAFOY////OAAAAAD///84AAQRAAAEBwAABAQA",
+          "_routedTo": {
+            "bbId": "e_xd3v45x",
+            "bbName": "SOI220nm_1310nm_TE_STRIP_2x1_MMI",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          }
+        },
+        {
+          "id": "t_58k10e1",
+          "name": "SOI220nm_1310nm_TE_STRIP_2x2_MMI.gds",
+          "filename": "SOI220nm_1310nm_TE_STRIP_2x2_MMI.gds",
+          "size": 710,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1310nm_TE_STRIP_2x2_MMI",
+            "bbId": "e_jtpff1b"
+          },
+          "binaryContent": "AAYAAgJYABwBAgfpAAYABAAKACYACQfpAAYABAAKACYACQAIAgZMSUIAABQDBT5BiTdLxqfwOUS4L6CbWlQAHAUCB+kABgAEAAoAJgAJB+kABgAEAAoAJgAJACQGBlNPSTIyMG5tXzEzMTBubV9URV9TVFJJUF8yeDJfTU1JAAQIAAAGDQIAAwAGDgIAAAAsEAMAAIX8///5GwAAN9z///tBAAA33P///NEAAIX8///+9wAAhfz///kbAAQRAAAECAAABg0CAAMABg4CAAAALBADAACF/AAAAQkAADfcAAADLwAAN9wAAAS/AACF/AAABuUAAIX8AAABCQAEEQAABAgAAAYNAgADAAYOAgAAACwQAwABVvj///kbAAFW+P///vcAAaUY///80QABpRj///tBAAFW+P//+RsABBEAAAQIAAAGDQIAAwAGDgIAAAAsEAMAAVb4AAABCQABVvgAAAblAAGlGAAABL8AAaUYAAADLwABVvgAAAEJAAQRAAAECAAABg0CAAMABg4CAAAALBADAACF/P//9EgAAIX8AAALuAABVvgAAAu4AAFW+P//9EgAAIX8///0SAAEEQAABAgAAAYNAgADAAYOAgAAACwQAwAAAAAAAAMvAAAAAAAABL8AADfcAAAEvwAAN9wAAAMvAAAAAAAAAy8ABBEAAAQIAAAGDQIAAwAGDgIAAAAsEAMAAAAA///7QQAAAAD///zRAAA33P///NEAADfc///7QQAAAAD///tBAAQRAAAECAAABg0CAAMABg4CAAAALBADAAGlGP//+0EAAaUY///80QAB3PT///zRAAHc9P//+0EAAaUY///7QQAEEQAABAgAAAYNAgADAAYOAgAAACwQAwABpRgAAAMvAAGlGAAABL8AAdz0AAAEvwAB3PQAAAMvAAGlGAAAAy8ABBEAAAQHAAAEBAA=",
+          "_routedTo": {
+            "bbId": "e_jtpff1b",
+            "bbName": "SOI220nm_1310nm_TE_STRIP_2x2_MMI",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          }
+        },
+        {
+          "id": "t_e0j4l7v",
+          "name": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.gds",
+          "filename": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.gds",
+          "size": 646,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend",
+            "bbId": "e_19nr975"
+          },
+          "binaryContent": "AAYAAgJYABwBAgfpAAYABAAKACYAGwfpAAYABAAKACYAGwAIAgZMSUIAABQDBT5BiTdLxqfwOUS4L6CbWlQAHAUCB+kABgAEAAoAJgAbB+kABgAEAAoAJgAbACwGBlNPSTIyMG5tXzEzMTBubV9URV9TVFJJUF85MF9EZWdyZWVfQmVuZAAABAgAAAYNAgADAAYOAgAAAeQQAwAAAAAAAAAAAAAABwAAARkAAAAdAAACMgAAAEMAAANJAAAAeAAABF4AAAC8AAAFbwAAAQ8AAAZ8AAABcAAAB4UAAAHgAAAIiAAAAl0AAAmEAAAC5wAACnkAAAN/AAALZgAABCMAAAxLAAAE1AAADScAAAWQAAAN+QAABlcAAA7AAAAHKQAAD3wAAAgFAAAQLQAACOoAABDRAAAJ1wAAEWkAAArMAAAR8wAAC8gAABJwAAAMywAAEuAAAA3TAAATQQAADuAAABOTAAAP8QAAE9cAABEGAAAUDAAAEh0AABQyAAATNgAAFEkAABRQAAAUUAAAFFAAABLAAAATRAAAEroAABI4AAASowAAES0AABJ9AAAQJQAAEkkAAA8gAAASBgAADh8AABG0AAANIwAAEVQAAAwtAAAQ5gAACz4AABBqAAAKVgAAD+EAAAl2AAAPTAAACJ8AAA6qAAAH0QAADfwAAAcNAAANQwAABlQAAAx/AAAFpgAAC7EAAAUEAAAK2gAABG8AAAn6AAAD5gAACRIAAANqAAAIIwAAAv0AAActAAACnAAABjIAAAJLAAAFMQAAAgcAAAQsAAAB0wAAAyQAAAGtAAACGQAAAZcAAAENAAABkAAAAAAAAAAAAAAAAAAEEQAABAcAAAQEAA==",
+          "_routedTo": {
+            "bbId": "e_19nr975",
+            "bbName": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          }
+        },
+        {
+          "id": "t_8vjmxzu",
+          "name": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler.gds",
+          "filename": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler.gds",
+          "size": 5390,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler",
+            "bbId": "e_66vbu6g"
+          },
+          "_routedTo": {
+            "bbId": "e_66vbu6g",
+            "bbName": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          },
+          "_stripped": true
+        },
+        {
+          "id": "t_xop6w5u",
+          "name": "SOI220nm_1310nm_TE_STRIP_Waveguide.gds",
+          "filename": "SOI220nm_1310nm_TE_STRIP_Waveguide.gds",
+          "size": 200,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1310nm_TE_STRIP_Waveguide",
+            "bbId": "e_z9rrek5"
+          },
+          "binaryContent": "AAYAAgJYABwBAgfpAAYABAAKACcADQfpAAYABAAKACcADQAIAgZMSUIAABQDBT5BiTdLxqfwOUS4L6CbWlQAHAUCB+kABgAEAAoAJwANB+kABgAEAAoAJwANACYGBlNPSTIyMG5tXzEzMTBubV9URV9TVFJJUF9XYXZlZ3VpZGUABAgAAAYNAgADAAYOAgAAACwQAwAAAAD///84AAAAAAAAAMgAAYagAAAAyAABhqD///84AAAAAP///zgABBEAAAQHAAAEBAA=",
+          "_routedTo": {
+            "bbId": "e_z9rrek5",
+            "bbName": "SOI220nm_1310nm_TE_STRIP_Waveguide",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          }
+        },
+        {
+          "id": "t_qp04uja",
+          "name": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.gds",
+          "filename": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.gds",
+          "size": 722,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing",
+            "bbId": "e_mjcm4p8"
+          },
+          "binaryContent": "AAYAAgJYABwBAgfpAAYABAAKACcAJQfpAAYABAAKACcAJQAIAgZMSUIAABQDBT5BiTdLxqfwOUS4L6CbWlQAHAUCB+kABgAEAAoAJwAlB+kABgAEAAoAJwAlADAGBlNPSTIyMG5tXzEzMTBubV9URV9TVFJJUF9XYXZlZ3VpZGVfQ3Jvc3NpbmcAAAQIAAAGDQIAAwAGDgIAAAIsEAMAAA/D///vdQAAD1////D2AAAOM///8ncAAA5D///z+AAADkP///V5AAAN/v//9voAAA3B///4ewAADTn///n8AAAMyP///D4AAAqH///8rgAACQb///02AAAHhf///XMAAAYE///9uAAABIP///24AAADAv///agAAAGB///+1AAAAAD///84AAAAAAAAAMgAAAGBAAABLAAAAwIAAAJYAAAEgwAAAkgAAAYEAAACSAAAB4UAAAKNAAAJBgAAAsoAAAqHAAADUgAADMgAAAPCAAANOQAABgQAAA3BAAAHhQAADf4AAAkGAAAOQwAACocAAA5DAAAMCAAADjMAAA2JAAAPXwAADwoAAA/DAAAQiwAAEVMAABCLAAARtwAADwoAABLjAAANiQAAEtMAAAwIAAAS0wAACocAABMYAAAJBgAAE1UAAAeFAAAT3QAABgQAABRNAAADwgAAFo8AAANSAAAYEAAAAsoAABmRAAACjQAAGxIAAAJIAAAckwAAAkgAAB4UAAACWAAAH5UAAAEsAAAhFgAAAMgAACEW////OAAAH5X///7UAAAeFP///agAAByT///9uAAAGxL///24AAAZkf///XMAABgQ///9NgAAFo////yuAAAUTf///D4AABPd///5/AAAE1X///h7AAATGP//9voAABLT///1eQAAEtP///P4AAAS4///8ncAABG3///w9gAAEVP//+91AAAPw///73UABBEAAAQHAAAEBAA=",
+          "_routedTo": {
+            "bbId": "e_mjcm4p8",
+            "bbName": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          }
+        },
+        {
+          "id": "t_plrlf0q",
+          "name": "SOI220nm_1550nm_TE_RIB_2x1_MMI.gds",
+          "filename": "SOI220nm_1550nm_TE_RIB_2x1_MMI.gds",
+          "size": 740,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1550nm_TE_RIB_2x1_MMI",
+            "bbId": "e_svzy7po"
+          },
+          "binaryContent": "AAYAAgJYABwBAgfpAAYABAAKACkAGQfpAAYABAAKACkAGQAIAgZMSUIAABQDBT5BiTdLxqfwOUS4L6CbWlQAHAUCB+kABgAEAAoAKQAZB+kABgAEAAoAKQAZACIGBlNPSTIyMG5tXzE1NTBubV9URV9SSUJfMngxX01NSQAECAAABg0CAAMABg4CAAAALBADAAD07AAAAzQAAPTsAAAJEAABQwwAAAcDAAFDDAAABUEAAPTsAAADNAAEEQAABAgAAAYNAgADAAYOAgAAACwQAwAA9Oz///bwAAD07P///MwAAUMM///6vwABQwz///j9AAD07P//9vAABBEAAAQIAAAGDQIAAwAGDgIAAAAsEAMAAHUw///9EgAAJxD///8fAAAnEAAAAOEAAHUwAAAC7gAAdTD///0SAAQRAAAECAAABg0CAAMABg4CAAAALBADAAB1MP//9EgAAHUwAAALuAAA9OwAAAu4AAD07P//9EgAAHUw///0SAAEEQAABAgAAAYNAgADAAYOAgAAACwQAwABQwz///j9AAFDDP//+r8AAWoc///6vwABahz///j9AAFDDP//+P0ABBEAAAQIAAAGDQIAAwAGDgIAAAAsEAMAAUMMAAAFQQABQwwAAAcDAAFqHAAABwMAAWocAAAFQQABQwwAAAVBAAQRAAAECAAABg0CAAMABg4CAAAALBADAAAAAP///x8AAAAAAAAA4QAAJxAAAADhAAAnEP///x8AAAAA////HwAEEQAABAgAAAYNAgAFAAYOAgAAAIwQAwAAYaj//+DAAABhqP//6gwAACbZ///rlwAAAAD//+uXAAAAAAAAFGkAACbZAAAUaQAAYagAABX0AABhqAAAH0AAAQh0AAAfQAABCHQAABwWAAFDQwAAGosAAWocAAAaiwABahz//+V1AAFDQ///5XUAAQh0///j6gABCHT//+DAAABhqP//4MAABBEAAAQHAAAEBAA=",
+          "_routedTo": {
+            "bbId": "e_svzy7po",
+            "bbName": "SOI220nm_1550nm_TE_RIB_2x1_MMI",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          }
+        },
+        {
+          "id": "t_87ah9lg",
+          "name": "SOI220nm_1550nm_TE_RIB_2x2_MMI.gds",
+          "filename": "SOI220nm_1550nm_TE_RIB_2x2_MMI.gds",
+          "size": 868,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1550nm_TE_RIB_2x2_MMI",
+            "bbId": "e_jyw43mo"
+          },
+          "_routedTo": {
+            "bbId": "e_jyw43mo",
+            "bbName": "SOI220nm_1550nm_TE_RIB_2x2_MMI",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          },
+          "_stripped": true
+        },
+        {
+          "id": "t_4yfhjh8",
+          "name": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend.gds",
+          "filename": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend.gds",
+          "size": 2268,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend",
+            "bbId": "e_luh771z"
+          },
+          "_routedTo": {
+            "bbId": "e_luh771z",
+            "bbName": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          },
+          "_stripped": true
+        },
+        {
+          "id": "t_f4yvuhs",
+          "name": "SOI220nm_1550nm_TE_RIB_Grating_Coupler.gds",
+          "filename": "SOI220nm_1550nm_TE_RIB_Grating_Coupler.gds",
+          "size": 4188,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1550nm_TE_RIB_Grating_Coupler",
+            "bbId": "e_2i7s9wq"
+          },
+          "_routedTo": {
+            "bbId": "e_2i7s9wq",
+            "bbName": "SOI220nm_1550nm_TE_RIB_Grating_Coupler",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          },
+          "_stripped": true
+        },
+        {
+          "id": "t_g5zpyp1",
+          "name": "SOI220nm_1550nm_TE_RIB_Waveguide.gds",
+          "filename": "SOI220nm_1550nm_TE_RIB_Waveguide.gds",
+          "size": 262,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1550nm_TE_RIB_Waveguide",
+            "bbId": "e_ig3x40h"
+          },
+          "binaryContent": "AAYAAgJYABwBAgfpAAYABAAKADUAHQfpAAYABAAKADUAHQAIAgZMSUIAABQDBT5BiTdLxqfwOUS4L6CbWlQAHAUCB+kABgAEAAoANQAdB+kABgAEAAoANQAdACQGBlNPSTIyMG5tXzE1NTBubV9URV9SSUJfV2F2ZWd1aWRlAAQIAAAGDQIAAwAGDgIAAAAsEAMAAAAA////HwAAAAAAAADhAAGGoAAAAOEAAYag////HwAAAAD///8fAAQRAAAECAAABg0CAAUABg4CAAAALBADAAAAAP//65cAAAAAAAAUaQABhqAAABRpAAGGoP//65cAAAAA///rlwAEEQAABAcAAAQEAA==",
+          "_routedTo": {
+            "bbId": "e_ig3x40h",
+            "bbName": "SOI220nm_1550nm_TE_RIB_Waveguide",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          }
+        },
+        {
+          "id": "t_v0fifpp",
+          "name": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.gds",
+          "filename": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.gds",
+          "size": 1104,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing",
+            "bbId": "e_fgyoxlk"
+          },
+          "_routedTo": {
+            "bbId": "e_fgyoxlk",
+            "bbName": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          },
+          "_stripped": true
+        },
+        {
+          "id": "t_vcyi6hx",
+          "name": "SOI220nm_1550nm_TE_STRIP_2x1_MMI.gds",
+          "filename": "SOI220nm_1550nm_TE_STRIP_2x1_MMI.gds",
+          "size": 582,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1550nm_TE_STRIP_2x1_MMI",
+            "bbId": "e_j6nxmw7"
+          },
+          "binaryContent": "AAYAAgJYABwBAgfpAAYABAAKADYACwfpAAYABAAKADYACwAIAgZMSUIAABQDBT5BiTdLxqfwOUS4L6CbWlQAHAUCB+kABgAEAAoANgALB+kABgAEAAoANgALACQGBlNPSTIyMG5tXzE1NTBubV9URV9TVFJJUF8yeDFfTU1JAAQIAAAGDQIAAwAGDgIAAAAsEAMAAHUw///9EgAAJxD///8fAAAnEAAAAOEAAHUwAAAC7gAAdTD///0SAAQRAAAECAAABg0CAAMABg4CAAAALBADAADxaP//9vAAAPFo///8zAABP4j///q/AAE/iP//+P0AAPFo///28AAEEQAABAgAAAYNAgADAAYOAgAAACwQAwAA8WgAAAM0AADxaAAACRAAAT+IAAAHAwABP4gAAAVBAADxaAAAAzQABBEAAAQIAAAGDQIAAwAGDgIAAAAsEAMAAHUw///0SAAAdTAAAAu4AADxaAAAC7gAAPFo///0SAAAdTD///RIAAQRAAAECAAABg0CAAMABg4CAAAALBADAAAAAP///x8AAAAAAAAA4QAAJxAAAADhAAAnEP///x8AAAAA////HwAEEQAABAgAAAYNAgADAAYOAgAAACwQAwABP4gAAAVBAAE/iAAABwMAAWaYAAAHAwABZpgAAAVBAAE/iAAABUEABBEAAAQIAAAGDQIAAwAGDgIAAAAsEAMAAT+I///4/QABP4j///q/AAFmmP//+r8AAWaY///4/QABP4j///j9AAQRAAAEBwAABAQA",
+          "_routedTo": {
+            "bbId": "e_j6nxmw7",
+            "bbName": "SOI220nm_1550nm_TE_STRIP_2x1_MMI",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          }
+        },
+        {
+          "id": "t_yqk2791",
+          "name": "SOI220nm_1550nm_TE_STRIP_2x2_MMI.gds",
+          "filename": "SOI220nm_1550nm_TE_STRIP_2x2_MMI.gds",
+          "size": 710,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1550nm_TE_STRIP_2x2_MMI",
+            "bbId": "e_t9kcnqg"
+          },
+          "binaryContent": "AAYAAgJYABwBAgfpAAYABAAKADYAHQfpAAYABAAKADYAHQAIAgZMSUIAABQDBT5BiTdLxqfwOUS4L6CbWlQAHAUCB+kABgAEAAoANgAdB+kABgAEAAoANgAdACQGBlNPSTIyMG5tXzE1NTBubV9URV9TVFJJUF8yeDJfTU1JAAQIAAAGDQIAAwAGDgIAAAAsEAMAAHUwAAABCQAAJxAAAAMWAAAnEAAABNgAAHUwAAAG5QAAdTAAAAEJAAQRAAAECAAABg0CAAMABg4CAAAALBADAAB1MP//+RsAACcQ///7KAAAJxD///zqAAB1MP///vcAAHUw///5GwAEEQAABAgAAAYNAgADAAYOAgAAACwQAwABGzQAAAEJAAEbNAAABuUAAWlUAAAE2AABaVQAAAMWAAEbNAAAAQkABBEAAAQIAAAGDQIAAwAGDgIAAAAsEAMAARs0///5GwABGzT///73AAFpVP///OoAAWlU///7KAABGzT///kbAAQRAAAECAAABg0CAAMABg4CAAAALBADAAB1MP//9EgAAHUwAAALuAABGzQAAAu4AAEbNP//9EgAAHUw///0SAAEEQAABAgAAAYNAgADAAYOAgAAACwQAwAAAAD///soAAAAAP///OoAACcQ///86gAAJxD///soAAAAAP//+ygABBEAAAQIAAAGDQIAAwAGDgIAAAAsEAMAAAAAAAADFgAAAAAAAATYAAAnEAAABNgAACcQAAADFgAAAAAAAAMWAAQRAAAECAAABg0CAAMABg4CAAAALBADAAFpVAAAAxYAAWlUAAAE2AABkGQAAATYAAGQZAAAAxYAAWlUAAADFgAEEQAABAgAAAYNAgADAAYOAgAAACwQAwABaVT///soAAFpVP///OoAAZBk///86gABkGT///soAAFpVP//+ygABBEAAAQHAAAEBAA=",
+          "_routedTo": {
+            "bbId": "e_t9kcnqg",
+            "bbName": "SOI220nm_1550nm_TE_STRIP_2x2_MMI",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          }
+        },
+        {
+          "id": "t_2yygpws",
+          "name": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.gds",
+          "filename": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.gds",
+          "size": 646,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend",
+            "bbId": "e_mv15bsy"
+          },
+          "binaryContent": "AAYAAgJYABwBAgfpAAYABAAKADYAMAfpAAYABAAKADYAMAAIAgZMSUIAABQDBT5BiTdLxqfwOUS4L6CbWlQAHAUCB+kABgAEAAoANgAwB+kABgAEAAoANgAwACwGBlNPSTIyMG5tXzE1NTBubV9URV9TVFJJUF85MF9EZWdyZWVfQmVuZAAABAgAAAYNAgADAAYOAgAAAeQQAwAAAAAAAAAAAAAABwAAARwAAAAeAAACNgAAAEQAAANOAAAAeQAABGQAAAC+AAAFdwAAAREAAAaFAAABcgAAB48AAAHiAAAIkwAAAmAAAAmQAAAC6wAACocAAAOEAAALdQAABCkAAAxbAAAE2gAADTcAAAWXAAAOCgAABl8AAA7SAAAHMQAAD48AAAgOAAAQQAAACPQAABDmAAAJ4wAAEX4AAArZAAASCQAAC9cAABKHAAAM2wAAEvcAAA3lAAATWQAADvMAABOsAAAQBgAAE/AAABEcAAAUJQAAEjQAABRLAAATTgAAFGIAABRpAAAUaQAAFGkAABKnAAATXQAAEqAAABJSAAASigAAEUkAABJkAAAQQgAAEjAAAA8/AAAR7QAADkAAABGcAAANRQAAET0AAAxRAAAQzwAAC2MAABBUAAAKfAAAD8wAAAmdAAAPNwAACMcAAA6WAAAH+gAADekAAAc3AAANMQAABn8AAAxuAAAF0gAAC6EAAAUxAAAKywAABJwAAAnsAAAEFAAACQUAAAOaAAAIFwAAAywAAAcjAAACzQAABikAAAJ8AAAFKgAAAjkAAAQnAAACBQAAAyAAAAHfAAACFwAAAckAAAEMAAABwgAAAAAAAAAAAAAAAAAEEQAABAcAAAQEAA==",
+          "_routedTo": {
+            "bbId": "e_mv15bsy",
+            "bbName": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          }
+        },
+        {
+          "id": "t_jrlluto",
+          "name": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler.gds",
+          "filename": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler.gds",
+          "size": 4110,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler",
+            "bbId": "e_hg9zuab"
+          },
+          "_routedTo": {
+            "bbId": "e_hg9zuab",
+            "bbName": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          },
+          "_stripped": true
+        },
+        {
+          "id": "t_yujifhp",
+          "name": "SOI220nm_1550nm_TE_STRIP_Waveguide.gds",
+          "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide.gds",
+          "size": 200,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1550nm_TE_STRIP_Waveguide",
+            "bbId": "e_6hl2ktz"
+          },
+          "binaryContent": "AAYAAgJYABwBAgfpAAYABAAKADcABAfpAAYABAAKADcABAAIAgZMSUIAABQDBT5BiTdLxqfwOUS4L6CbWlQAHAUCB+kABgAEAAoANwAEB+kABgAEAAoANwAEACYGBlNPSTIyMG5tXzE1NTBubV9URV9TVFJJUF9XYXZlZ3VpZGUABAgAAAYNAgADAAYOAgAAACwQAwAAAAD///8fAAAAAAAAAOEAAYagAAAA4QABhqD///8fAAAAAP///x8ABBEAAAQHAAAEBAA=",
+          "_routedTo": {
+            "bbId": "e_6hl2ktz",
+            "bbName": "SOI220nm_1550nm_TE_STRIP_Waveguide",
+            "section": "layout",
+            "folderName": "📤 Layout uploads"
+          }
+        },
+        {
+          "id": "t_gzubwj2",
+          "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.gds",
+          "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.gds",
+          "size": 850,
+          "kind": "gds",
+          "metadata": {
+            "kind": "gds",
+            "bb": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
+            "bbId": "e_99sq18j"
+          },
+          "_routedTo": {
+            "bbId": "e_99sq18j",
+            "bbName": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
             "section": "layout",
             "folderName": "📤 Layout uploads"
           },
@@ -10234,9 +10782,7 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true,
-              "layoutSvg": "",
-              "gdsContent": ""
+              "_svgStripped": true
             },
             {
               "id": "e_j50vobe",
@@ -10293,9 +10839,7 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true,
-              "layoutSvg": "",
-              "gdsContent": ""
+              "_svgStripped": true
             },
             {
               "id": "e_miu7hij",
@@ -10473,9 +11017,7 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true,
-              "layoutSvg": "",
-              "gdsContent": ""
+              "_svgStripped": true
             },
             {
               "id": "e_9o9pouy",
@@ -10532,9 +11074,7 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true,
-              "layoutSvg": "",
-              "gdsContent": ""
+              "_svgStripped": true
             },
             {
               "id": "e_z1e654s",
@@ -10591,9 +11131,7 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true,
-              "layoutSvg": "",
-              "gdsContent": ""
+              "_svgStripped": true
             },
             {
               "id": "e_1qkhwfh",
@@ -10644,7 +11182,6 @@
               "_gdsStripped": true,
               "plannedReleaseDate": "",
               "smatrixGroups": [],
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -10710,7 +11247,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_t48p484",
+                      "id": "t_rexqigz",
                       "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
                       "filename": "SOI220nm_1310nm_TE_RIB_2x1_MMI.csv",
                       "kind": "csv",
@@ -10723,8 +11260,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:10.235Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:50:48.694Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -10735,7 +11272,6 @@
               ],
               "_gdsStripped": true,
               "plannedReleaseDate": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -10801,7 +11337,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_v9t5t13",
+                      "id": "t_aukp3cz",
                       "name": "SOI220nm_1310nm_TE_RIB_2x2_MMI",
                       "filename": "SOI220nm_1310nm_TE_RIB_2x2_MMI.csv",
                       "kind": "csv",
@@ -10814,8 +11350,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:10.869Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:50:50.077Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -10826,7 +11362,6 @@
               ],
               "_gdsStripped": true,
               "plannedReleaseDate": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -10892,7 +11427,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_zv3vemk",
+                      "id": "t_oyb7fzh",
                       "name": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend",
                       "filename": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend.csv",
                       "kind": "csv",
@@ -10905,8 +11440,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:11.390Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:50:51.268Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -10917,7 +11452,6 @@
               ],
               "_gdsStripped": true,
               "plannedReleaseDate": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -10982,7 +11516,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_n4r7th7",
+                      "id": "t_nc11au9",
                       "name": "SOI220nm_1310nm_TE_RIB_Grating_Coupler",
                       "filename": "SOI220nm_1310nm_TE_RIB_Grating_Coupler.csv",
                       "kind": "csv",
@@ -10995,8 +11529,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:11.842Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:50:52.562Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -11008,8 +11542,6 @@
               "_gdsStripped": true,
               "_svgStripped": true,
               "plannedReleaseDate": "",
-              "layoutSvg": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -11067,7 +11599,6 @@
               "_gdsStripped": true,
               "plannedReleaseDate": "",
               "smatrixGroups": [],
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -11133,7 +11664,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_waqxxdu",
+                      "id": "t_2ssg7l6",
                       "name": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing",
                       "filename": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.csv",
                       "kind": "csv",
@@ -11146,8 +11677,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:12.479Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:50:54.786Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -11158,7 +11689,6 @@
               ],
               "_gdsStripped": true,
               "plannedReleaseDate": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -11224,7 +11754,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_3ccohe7",
+                      "id": "t_78yurql",
                       "name": "SOI220nm_1310nm_TE_STRIP_2x1_MMI",
                       "filename": "SOI220nm_1310nm_TE_STRIP_2x1_MMI.csv",
                       "kind": "csv",
@@ -11237,8 +11767,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:12.984Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:50:56.421Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -11249,7 +11779,6 @@
               ],
               "_gdsStripped": true,
               "plannedReleaseDate": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -11315,7 +11844,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_5i5185w",
+                      "id": "t_0zgi9i9",
                       "name": "SOI220nm_1310nm_TE_STRIP_2x2_MMI",
                       "filename": "SOI220nm_1310nm_TE_STRIP_2x2_MMI.csv",
                       "kind": "csv",
@@ -11328,8 +11857,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:13.416Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:50:57.745Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -11340,7 +11869,6 @@
               ],
               "_gdsStripped": true,
               "plannedReleaseDate": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -11406,7 +11934,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_5dxok4l",
+                      "id": "t_cnf99zd",
                       "name": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend",
                       "filename": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.csv",
                       "kind": "csv",
@@ -11419,8 +11947,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:13.748Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:50:59.079Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -11431,7 +11959,6 @@
               ],
               "_gdsStripped": true,
               "plannedReleaseDate": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -11496,7 +12023,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_lytccjc",
+                      "id": "t_u2mw3vn",
                       "name": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler",
                       "filename": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler.csv",
                       "kind": "csv",
@@ -11509,8 +12036,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:14.209Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:51:00.411Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -11522,8 +12049,6 @@
               "_gdsStripped": true,
               "_svgStripped": true,
               "plannedReleaseDate": "",
-              "layoutSvg": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -11581,7 +12106,6 @@
               "_gdsStripped": true,
               "plannedReleaseDate": "",
               "smatrixGroups": [],
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -11647,7 +12171,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_lnzqno6",
+                      "id": "t_6iwyeqm",
                       "name": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing",
                       "filename": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.csv",
                       "kind": "csv",
@@ -11660,8 +12184,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:14.770Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:51:03.473Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -11672,7 +12196,6 @@
               ],
               "_gdsStripped": true,
               "plannedReleaseDate": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -11738,7 +12261,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_gusu3ck",
+                      "id": "t_17f05st",
                       "name": "SOI220nm_1550nm_TE_RIB_2x1_MMI",
                       "filename": "SOI220nm_1550nm_TE_RIB_2x1_MMI.csv",
                       "kind": "csv",
@@ -11751,8 +12274,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:15.308Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:51:04.870Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -11763,7 +12286,6 @@
               ],
               "_gdsStripped": true,
               "plannedReleaseDate": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -11829,7 +12351,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_jas8nfz",
+                      "id": "t_qkvnluh",
                       "name": "SOI220nm_1550nm_TE_RIB_2x2_MMI",
                       "filename": "SOI220nm_1550nm_TE_RIB_2x2_MMI.csv",
                       "kind": "csv",
@@ -11842,8 +12364,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:15.658Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:51:06.560Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -11854,7 +12376,6 @@
               ],
               "_gdsStripped": true,
               "plannedReleaseDate": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -11920,7 +12441,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_wad9awh",
+                      "id": "t_b5twu4l",
                       "name": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend",
                       "filename": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend.csv",
                       "kind": "csv",
@@ -11933,8 +12454,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:16.047Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:51:07.900Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -11945,7 +12466,6 @@
               ],
               "_gdsStripped": true,
               "plannedReleaseDate": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -12010,7 +12530,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_1ozqf0c",
+                      "id": "t_m6cn2l4",
                       "name": "SOI220nm_1550nm_TE_RIB_Grating_Coupler",
                       "filename": "SOI220nm_1550nm_TE_RIB_Grating_Coupler.csv",
                       "kind": "csv",
@@ -12023,8 +12543,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:16.359Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:51:09.172Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -12036,8 +12556,6 @@
               "_gdsStripped": true,
               "_svgStripped": true,
               "plannedReleaseDate": "",
-              "layoutSvg": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -12095,7 +12613,6 @@
               "_gdsStripped": true,
               "plannedReleaseDate": "",
               "smatrixGroups": [],
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -12161,7 +12678,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_urxs7x0",
+                      "id": "t_heeyfw0",
                       "name": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing",
                       "filename": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.csv",
                       "kind": "csv",
@@ -12174,8 +12691,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:16.777Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:51:11.476Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -12186,7 +12703,6 @@
               ],
               "_gdsStripped": true,
               "plannedReleaseDate": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -12252,7 +12768,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_e93kppx",
+                      "id": "t_yubu7zv",
                       "name": "SOI220nm_1550nm_TE_STRIP_2x1_MMI",
                       "filename": "SOI220nm_1550nm_TE_STRIP_2x1_MMI.csv",
                       "kind": "csv",
@@ -12265,8 +12781,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:17.197Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:51:13.224Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -12277,7 +12793,6 @@
               ],
               "_gdsStripped": true,
               "plannedReleaseDate": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -12343,7 +12858,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_shu4sri",
+                      "id": "t_xbj06c1",
                       "name": "SOI220nm_1550nm_TE_STRIP_2x2_MMI",
                       "filename": "SOI220nm_1550nm_TE_STRIP_2x2_MMI.csv",
                       "kind": "csv",
@@ -12356,8 +12871,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:17.664Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:51:15.222Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -12368,7 +12883,6 @@
               ],
               "_gdsStripped": true,
               "plannedReleaseDate": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -12434,7 +12948,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_yby55vz",
+                      "id": "t_d0rbv3k",
                       "name": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend",
                       "filename": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.csv",
                       "kind": "csv",
@@ -12447,8 +12961,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:18.152Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:51:16.590Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -12459,7 +12973,6 @@
               ],
               "_gdsStripped": true,
               "plannedReleaseDate": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -12524,7 +13037,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_z4o600d",
+                      "id": "t_nfizx05",
                       "name": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler",
                       "filename": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler.csv",
                       "kind": "csv",
@@ -12537,8 +13050,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:18.543Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:51:17.827Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -12550,8 +13063,6 @@
               "_gdsStripped": true,
               "_svgStripped": true,
               "plannedReleaseDate": "",
-              "layoutSvg": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -12609,7 +13120,6 @@
               "_gdsStripped": true,
               "plannedReleaseDate": "",
               "smatrixGroups": [],
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -12675,7 +13185,7 @@
                   "name": "Files",
                   "datasets": [
                     {
-                      "id": "t_twxd644",
+                      "id": "t_dunfb7f",
                       "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
                       "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
                       "kind": "csv",
@@ -12688,8 +13198,8 @@
                         "conditions": "",
                         "notes": ""
                       },
-                      "who": "",
-                      "added": "2026-05-25T07:35:18.981Z",
+                      "who": "CS_Aiman",
+                      "added": "2026-05-25T08:51:20.283Z",
                       "updated": "2026-05-25",
                       "_stripped": true,
                       "_parsedStripped": true
@@ -12700,7 +13210,6 @@
               ],
               "_gdsStripped": true,
               "plannedReleaseDate": "",
-              "gdsContent": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -12746,88 +13255,7 @@
               "files": [],
               "scripts": [],
               "datasets": [],
-              "testGroups": [
-                {
-                  "id": "tg_ivkpapj",
-                  "name": "test aiman",
-                  "tests": [
-                    {
-                      "id": "t_emadma7",
-                      "name": "dashboard (1)",
-                      "filename": "dashboard (1).json",
-                      "kind": "json",
-                      "size": 1328279,
-                      "parsed": {
-                        "sweep": {
-                          "name": "statuses",
-                          "values": [
-                            null,
-                            null,
-                            null,
-                            null
-                          ]
-                        },
-                        "traces": [
-                          {
-                            "name": "categories",
-                            "values": [
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null
-                            ]
-                          },
-                          {
-                            "name": "bbTypes",
-                            "values": [
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null
-                            ]
-                          },
-                          {
-                            "name": "tabs",
-                            "values": [
-                              null
-                            ]
-                          },
-                          {
-                            "name": "contributors",
-                            "values": []
-                          }
-                        ]
-                      },
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T08:26:47.011Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true
-                    }
-                  ],
-                  "collapsed": false
-                }
-              ],
+              "testGroups": [],
               "documents": [
                 {
                   "id": "d_gsm534c",
@@ -20002,10 +20430,10 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-25T08:00:56.010Z",
-    "lastPublishedSha": "80196f4ce7b7584c880e9265a21b0b12313a2da6",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/80196f4ce7b7584c880e9265a21b0b12313a2da6",
-    "lastFetchedAt": "2026-05-25T08:39:05.700Z",
+    "lastPublishedAt": "2026-05-25T08:42:52.879Z",
+    "lastPublishedSha": "3b10d5e4cc938f1d6fb3551bcbde7349d71f9ceb",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/3b10d5e4cc938f1d6fb3551bcbde7349d71f9ceb",
+    "lastFetchedAt": "2026-05-25T08:45:03.409Z",
     "lastFetchedSha": "e3c5f7d4f5121e13f5d28c91a2b5b41e7aa4ae69",
     "lastMergeStats": {
       "tabs": 0,
@@ -20031,10 +20459,10 @@
       "labelsAdded": 0
     }
   },
-  "lastGithubFetch": "2026-05-25T04:32:16.587Z",
+  "lastGithubFetch": "2026-05-25T08:51:20.308Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T08:42:52.879Z",
+    "publishedAt": "2026-05-25T08:52:34.308Z",
     "publisherIdentity": "CS_Aiman",
     "publisherLabel": "CS_Aiman",
     "publisherRole": "user-admin",
