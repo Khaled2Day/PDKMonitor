@@ -166,79 +166,95 @@
           "collapsed": false,
           "entities": [
             {
-              "id": "e_1zy8kws",
-              "name": "bilgeBB",
-              "status": "available",
-              "owner": "",
-              "description": "",
-              "githubUrl": "",
+              "id": "e_ltl8sye",
+              "name": "SOI220nm_1310nm_TE_MZI_Modulator",
               "files": [],
               "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsSize": 0,
-              "gdsContent": "",
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "plannedReleaseDate": "",
-              "trl": null,
               "documents": [],
-              "smatrixGroups": []
-            }
-          ]
-        },
-        {
-          "id": "g_08lhfzj",
-          "name": "Suspended-Silicon Biased",
-          "platformMeta": {
-            "material": "Si",
-            "thickness": 500
-          },
-          "collapsed": false,
-          "entities": [
-            {
-              "id": "e_xg6qd9d",
-              "name": "BilgeBB",
-              "status": "discontinued",
-              "owner": "",
-              "description": "",
-              "githubUrl": "",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "updated": "2026-05-25",
-              "kind": "source",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 500
-              },
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsSize": 0,
-              "gdsContent": "",
-              "edaTools": [],
-              "cdi": {},
+              "testGroups": [
+                {
+                  "id": "tg_1cqh74o",
+                  "name": "bilge test",
+                  "tests": [
+                    {
+                      "id": "t_1csbr1i",
+                      "name": "dashboard (1)",
+                      "filename": "dashboard (1).json",
+                      "kind": "json",
+                      "size": 1328279,
+                      "parsed": {
+                        "sweep": {
+                          "name": "statuses",
+                          "values": [
+                            null,
+                            null,
+                            null,
+                            null
+                          ]
+                        },
+                        "traces": [
+                          {
+                            "name": "categories",
+                            "values": [
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null
+                            ]
+                          },
+                          {
+                            "name": "bbTypes",
+                            "values": [
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null
+                            ]
+                          },
+                          {
+                            "name": "tabs",
+                            "values": [
+                              null
+                            ]
+                          },
+                          {
+                            "name": "contributors",
+                            "values": []
+                          }
+                        ]
+                      },
+                      "imageUrl": null,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-25",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Bilge",
+                      "added": "2026-05-25T09:39:59.114Z",
+                      "updated": "2026-05-25",
+                      "_stripped": true
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [],
               "fabTabs": [],
-              "plannedReleaseDate": "",
-              "trl": null,
-              "documents": [],
-              "smatrixGroups": []
+              "_contribOnly": true
             }
           ]
         }
@@ -246,25 +262,34 @@
     }
   ],
   "ownership": {
-    "e_1zy8kws": "CS_Bilge",
-    "e_xg6qd9d": "CS_Bilge"
+    "e_ltl8sye": "admin",
+    "layout:e_ltl8sye": "admin"
   },
   "labels": {
     "CS_Bilge": "CS_Bilge"
   },
   "contributors": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T09:56:19.534Z",
+    "publishedAt": "2026-05-25T10:11:11.360Z",
     "publisherIdentity": "CS_Bilge",
     "publisherLabel": "CS_Bilge",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.0",
-    "bbCount": 2,
-    "groupCount": 2,
+    "bbCount": 1,
+    "groupCount": 1,
     "tabCount": 1,
-    "fileCount": 0,
+    "fileCount": 1,
     "sliceFor": "CS_Bilge",
-    "termsVersion": "1.1.0"
+    "termsVersion": "1.1.0",
+    "stripped": {
+      "gdsContent": 0,
+      "layoutSvg": 0,
+      "documents": 0,
+      "datasets": 2,
+      "parsed": 0,
+      "approxBytes": 2033184,
+      "note": "All embedded binaries (GDS, document data URLs, large SVGs, raw CSV / S-matrix bytes) were stripped from this published payload — only metadata remains. Adopters: run a per-BB or per-platform GitHub sync to repopulate the bytes from the original GitHub source."
+    }
   }
 }
