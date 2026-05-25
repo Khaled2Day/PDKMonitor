@@ -1369,7 +1369,8 @@
     "https://github.com/AEmreKaplan/": "CS_Emre",
     "CS_Aiman": "CS_Aiman",
     "CS_Bilge": "CS_Bilge",
-    "CS_Shengqi": "CS_Shengqi"
+    "CS_Shengqi": "CS_Shengqi",
+    "dashboard_admin": "Dashboard Admin"
   },
   "uploads": [
     {
@@ -22454,17 +22455,25 @@
         "branch": "main",
         "path": "users",
         "enabled": true
+      },
+      {
+        "id": "s_mpl6xqem_5po",
+        "label": "CORNERSTONE main (Open-source PDK)",
+        "repo": "cornerstone-uos/PDKMonitor",
+        "branch": "main",
+        "path": "OpenSource_PDKMonitor/dashboard_26_mqy.json",
+        "enabled": true
       }
     ],
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-25T12:33:45.426Z",
-    "lastPublishedSha": "20ba7de03550c1357471a39b3f40186f37b07b49",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/20ba7de03550c1357471a39b3f40186f37b07b49",
-    "lastFetchedAt": "2026-05-25T12:25:58.910Z",
-    "lastFetchedSha": "a5f99a90e23e5d5215a475a3605155b6cbf05142",
+    "lastPublishedAt": "2026-05-25T12:39:10.830Z",
+    "lastPublishedSha": "7d51fcf7938c2be0a1a5fd2c5be36f5755e5ec13",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/7d51fcf7938c2be0a1a5fd2c5be36f5755e5ec13",
+    "lastFetchedAt": "2026-05-25T12:40:27.172Z",
+    "lastFetchedSha": "a5cd8ad186237f08085263cc3937d2d1444c1159",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -22484,7 +22493,7 @@
     },
     "lastSecurityStats": {
       "guestsAdded": 0,
-      "guestsKept": 0,
+      "guestsKept": 10,
       "contactEmailUpdated": false,
       "labelsAdded": 0
     }
@@ -22492,12 +22501,12 @@
   "lastGithubFetch": "2026-05-25T12:35:56.969Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T12:36:19.622Z",
+    "publishedAt": "2026-05-25T12:41:02.811Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
     "appVersion": "v1.0",
-    "contributorCount": 5,
+    "contributorCount": 6,
     "bbCount": 118,
     "guestCount": 5,
     "termsVersion": "1.1.0"
@@ -22565,7 +22574,8 @@
       "https://github.com/AEmreKaplan/": "CS_Emre",
       "CS_Aiman": "CS_Aiman",
       "CS_Bilge": "CS_Bilge",
-      "CS_Shengqi": "CS_Shengqi"
+      "CS_Shengqi": "CS_Shengqi",
+      "dashboard_admin": "Dashboard Admin"
     },
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
@@ -22700,6 +22710,12 @@
       "identity": "CS_Khaled",
       "affiliation": "",
       "note": ""
+    },
+    {
+      "identity": "dashboard_admin",
+      "name": "Dashboard Admin",
+      "role": "admin",
+      "addedAt": "2026-05-25T12:40:27.172Z"
     }
   ]
 }
