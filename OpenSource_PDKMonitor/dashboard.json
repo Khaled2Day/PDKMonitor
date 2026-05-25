@@ -19919,9 +19919,9 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-25T07:44:25.195Z",
-    "lastPublishedSha": "0b0274c58ba0313cd45637a2940fb545cdffbfbd",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/0b0274c58ba0313cd45637a2940fb545cdffbfbd",
+    "lastPublishedAt": "2026-05-25T08:00:56.010Z",
+    "lastPublishedSha": "80196f4ce7b7584c880e9265a21b0b12313a2da6",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/80196f4ce7b7584c880e9265a21b0b12313a2da6",
     "lastFetchedAt": "2026-05-25T07:39:50.375Z",
     "lastFetchedSha": "2e82458896f8f5cf7755c7208fd986955fca27bc",
     "lastMergeStats": {
@@ -19951,7 +19951,7 @@
   "lastGithubFetch": "2026-05-25T04:32:16.587Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T07:49:38.839Z",
+    "publishedAt": "2026-05-25T08:07:03.824Z",
     "publisherIdentity": "https://github.com/AEmreKaplan/",
     "publisherLabel": "CS_Emre",
     "publisherRole": "user-admin",
