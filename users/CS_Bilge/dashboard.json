@@ -189,9 +189,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/SOI220nm_1310nm_TE_MZI_Modulator.yaml",
-                  "repoSha": "ff0f66807e21ecdbfa7deae047ef14baa9f3b6df"
+                  "repoSha": "ff0f66807e21ecdbfa7deae047ef14baa9f3b6df",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX01aSV9Nb2R1bGF0b3IKY29tcG9uZW50X3R5cGU6IE1aTQphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDI4LzA3LzIwMjUKbW9kZXM6Ci0gbW9kZV9udW1iZXJzOgogIC0gMAogIC0gMAogIHBvbGFyaXNhdGlvbjogVEUKICB3YXZlbGVuZ3RoOiAxMzEwCnBvcnRzOgotIG5hbWU6IHRvcF9hcm1fbl9idXMKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfcmYKICBjZW50ZXI6CiAgLSAyMjcwLjk4NQogIC0gMzYwCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogbW9kdWxhdG9yX3RyaQotIG5hbWU6IGJvdF9hcm1fbl9idXMKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfcmYKICBjZW50ZXI6CiAgLSAyNDcwLjk4NQogIC0gMzYwCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogbW9kdWxhdG9yX3RyaQotIG5hbWU6IHRvcF9hcm1fc19idXMKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfcmYKICBjZW50ZXI6CiAgLSAyODAuOTg1CiAgLSAtMzYwCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IG1vZHVsYXRvcl90cmkKLSBuYW1lOiBib3RfYXJtX3NfYnVzCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX3JmCiAgY2VudGVyOgogIC0gNDgwLjk4NQogIC0gLTM2MAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBtb2R1bGF0b3JfdHJpCi0gbmFtZTogdmVydGljYWxfdGVfdzEKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gMjUuNDQ2CiAgLSAxNDYuNTUKICBvcmllbnRhdGlvbjogMTgwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODcxMwogIGZpYnJlX21vZGVzOgogIC0gZmlicmVfdHlwZTogU01GLTI4CiAgICB3YXZlbGVuZ3RoOiAxMzEwLjAKLSBuYW1lOiB2ZXJ0aWNhbF90ZTJfdzIKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gMjUuNDQ2CiAgLSAxOTYuNTUKICBvcmllbnRhdGlvbjogMTgwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODcxMwogIGZpYnJlX21vZGVzOgogIC0gZmlicmVfdHlwZTogU01GLTI4CiAgICB3YXZlbGVuZ3RoOiAxMzEwLjAKLSBuYW1lOiB2ZXJ0aWNhbF90ZTFfZQogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSAyNzI2LjUyNAogIC0gLTEzMi40MzUKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg3MTMKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTMxMC4wCg==",
+                  "rawText": "name: SOI220nm_1310nm_TE_MZI_Modulator\ncomponent_type: MZM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: top_arm_n_bus\n  port_type: electrical_rf\n  center:\n  - 2270.985\n  - 360\n  orientation: 90\n  cross_section: modulator_tri\n- name: bot_arm_n_bus\n  port_type: electrical_rf\n  center:\n  - 2470.985\n  - 360\n  orientation: 90\n  cross_section: modulator_tri\n- name: top_arm_s_bus\n  port_type: electrical_rf\n  center:\n  - 280.985\n  - -360\n  orientation: 270\n  cross_section: modulator_tri\n- name: bot_arm_s_bus\n  port_type: electrical_rf\n  center:\n  - 480.985\n  - -360\n  orientation: 270\n  cross_section: modulator_tri\n- name: vertical_te_w1\n  port_type: vertical_te\n  center:\n  - 25.446\n  - 146.55\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n- name: vertical_te2_w2\n  port_type: vertical_te\n  center:\n  - 25.446\n  - 196.55\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n- name: vertical_te1_e\n  port_type: vertical_te\n  center:\n  - 2726.524\n  - -132.435\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n"
                 },
                 {
                   "id": "d_5jjmxl1",
@@ -203,9 +204,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/components.md",
-                  "repoSha": "38fe7b13944ace287aa8726bc76d56787e3ec4f3"
+                  "repoSha": "38fe7b13944ace287aa8726bc76d56787e3ec4f3",
+                  "binaryContent": "IyBCYXNpYyBjb21wb25lbnRzIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKSGVhdGVyLm1kClNPSTIyMG5tXzEzMTBubV9URV9NWklfTW9kdWxhdG9yLm1kClNPSTIyMG5tXzEzMTBubV9URV9SSUJfMngxX01NSS5tZApTT0kyMjBubV8xMzEwbm1fVEVfUklCXzJ4Ml9NTUkubWQKU09JMjIwbm1fMTMxMG5tX1RFX1JJQl85MF9EZWdyZWVfQmVuZC5tZApTT0kyMjBubV8xMzEwbm1fVEVfUklCX0dyYXRpbmdfQ291cGxlci5tZApTT0kyMjBubV8xMzEwbm1fVEVfUklCX1dhdmVndWlkZS5tZApTT0kyMjBubV8xMzEwbm1fVEVfUklCX1dhdmVndWlkZV9Dcm9zc2luZy5tZApTT0kyMjBubV8xMzEwbm1fVEVfU1RSSVBfMngxX01NSS5tZApTT0kyMjBubV8xMzEwbm1fVEVfU1RSSVBfMngyX01NSS5tZApTT0kyMjBubV8xMzEwbm1fVEVfU1RSSVBfOTBfRGVncmVlX0JlbmQubWQKU09JMjIwbm1fMTMxMG5tX1RFX1NUUklQX0dyYXRpbmdfQ291cGxlci5tZApTT0kyMjBubV8xMzEwbm1fVEVfU1RSSVBfV2F2ZWd1aWRlLm1kClNPSTIyMG5tXzEzMTBubV9URV9TVFJJUF9XYXZlZ3VpZGVfQ3Jvc3NpbmcubWQKU09JMjIwbm1fMTU1MG5tX1NpbmdsZVF1Yml0R2F0ZV9JSUZfVW9TaGVmZmllbGQubWQKU09JMjIwbm1fMTU1MG5tX1RFX0RlZmVjdF9EZXRlY3Rvci5tZApTT0kyMjBubV8xNTUwbm1fVEVfSXNvbGF0ZWREZXRlY3Rvci5tZApTT0kyMjBubV8xNTUwbm1fVEVfTVpJX01vZHVsYXRvci5tZApTT0kyMjBubV8xNTUwbm1fVEVfUklCXzJ4MV9NTUkubWQKU09JMjIwbm1fMTU1MG5tX1RFX1JJQl8yeDJfTU1JLm1kClNPSTIyMG5tXzE1NTBubV9URV9SSUJfOTBfRGVncmVlX0JlbmQubWQKU09JMjIwbm1fMTU1MG5tX1RFX1JJQl9HcmF0aW5nX0NvdXBsZXIubWQKU09JMjIwbm1fMTU1MG5tX1RFX1JJQl9XYXZlZ3VpZGUubWQKU09JMjIwbm1fMTU1MG5tX1RFX1JJQl9XYXZlZ3VpZGVfQ3Jvc3NpbmcubWQKU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQXzJ4MV9NTUkubWQKU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQXzJ4Ml9NTUkubWQKU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQXzkwX0RlZ3JlZV9CZW5kLm1kClNPSTIyMG5tXzE1NTBubV9URV9TVFJJUF9HcmF0aW5nX0NvdXBsZXIubWQKU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQX1dhdmVndWlkZS5tZApTT0kyMjBubV8xNTUwbm1fVEVfU1RSSVBfV2F2ZWd1aWRlX0Nyb3NzaW5nLm1kCmBgYA==",
+                  "rawText": "# Basic components \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nHeater.md\nSOI220nm_1310nm_TE_MZI_Modulator.md\nSOI220nm_1310nm_TE_RIB_2x1_MMI.md\nSOI220nm_1310nm_TE_RIB_2x2_MMI.md\nSOI220nm_1310nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1310nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1310nm_TE_RIB_Waveguide.md\nSOI220nm_1310nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1310nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1310nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1310nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1310nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1310nm_TE_STRIP_Waveguide.md\nSOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.md\nSOI220nm_1550nm_SingleQubitGate_IIF_UoSheffield.md\nSOI220nm_1550nm_TE_Defect_Detector.md\nSOI220nm_1550nm_TE_IsolatedDetector.md\nSOI220nm_1550nm_TE_MZI_Modulator.md\nSOI220nm_1550nm_TE_RIB_2x1_MMI.md\nSOI220nm_1550nm_TE_RIB_2x2_MMI.md\nSOI220nm_1550nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1550nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1550nm_TE_RIB_Waveguide.md\nSOI220nm_1550nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1550nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1550nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1550nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1550nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1550nm_TE_STRIP_Waveguide.md\nSOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.md\n```"
                 },
                 {
                   "id": "d_46uqy4a",
@@ -217,737 +219,17 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/ready-made.md",
-                  "repoSha": "65143648e068d415984f16870dd05590b1a203de"
+                  "repoSha": "65143648e068d415984f16870dd05590b1a203de",
+                  "binaryContent": "IyBSZWFkeS1tYWRlIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKYGBg",
+                  "rawText": "# Ready-made \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\n```"
                 }
               ],
               "testGroups": [
                 {
                   "id": "tg_avxaq8b",
                   "name": "bilge tes modu",
-                  "tests": [
-                    {
-                      "id": "t_qocgaht",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG1",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.158Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG1.txt",
-                      "repoSha": "3aaed3f02cb0f9cc11a698d992afa93a7d1c7bf7"
-                    },
-                    {
-                      "id": "t_h8gtr7h",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG2",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.185Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG2.txt",
-                      "repoSha": "8a2acb7904aaabd3dcf8b9337ffd2dd0b715ebea"
-                    },
-                    {
-                      "id": "t_n84bk98",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG3",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.205Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG3.txt",
-                      "repoSha": "4f8de8e2c868a61f813b75c01f27b1c6f7c04035"
-                    },
-                    {
-                      "id": "t_011vo9b",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG4",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.223Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG4.txt",
-                      "repoSha": "c40578eb33140d0e4d21b90184d460f3c25e515c"
-                    },
-                    {
-                      "id": "t_ibma5gu",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG5",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.242Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG5.txt",
-                      "repoSha": "4c565c9a83586f68706ed2120f73cea7aa66842e"
-                    },
-                    {
-                      "id": "t_evej16z",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG6",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.260Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip37_WG6.txt",
-                      "repoSha": "90347c584f3d2f0b44618858452164d8738fb7c0"
-                    },
-                    {
-                      "id": "t_0l6grug",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG1",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.279Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG1.txt",
-                      "repoSha": "cb52d073ebfa7412fbeb21e0e367645a42678e12"
-                    },
-                    {
-                      "id": "t_in8fz9n",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG2",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.294Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG2.txt",
-                      "repoSha": "7e92a10113587444e2de19a7719ff0111b4d623d"
-                    },
-                    {
-                      "id": "t_9go1f14",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG3",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.312Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG3.txt",
-                      "repoSha": "c6e42c33fff92904549c7990fe9e698340aa9889"
-                    },
-                    {
-                      "id": "t_zdst0d1",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG4",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.330Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG4.txt",
-                      "repoSha": "500f6769a935840ab0c0a50b0be8315a4bc3cfc2"
-                    },
-                    {
-                      "id": "t_qlx6fau",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG5",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.344Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG5.txt",
-                      "repoSha": "988732f75fbe288398e8592f70a00a3be8a73768"
-                    },
-                    {
-                      "id": "t_289ecxg",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG6",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.358Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip41_WG6.txt",
-                      "repoSha": "98e12a5e05b903310140843eeb5174e60fd2ecd2"
-                    },
-                    {
-                      "id": "t_yxw0pry",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG1",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.373Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG1.txt",
-                      "repoSha": "2d06a69f58d91d0ce9053e1172faee9fcbd2aecf"
-                    },
-                    {
-                      "id": "t_p17zqw3",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG2",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.392Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG2.txt",
-                      "repoSha": "ab5bef70b3c2b373ed891f5fff01b6ca9a356abd"
-                    },
-                    {
-                      "id": "t_x3bx8le",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG3",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.409Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG3.txt",
-                      "repoSha": "5deadc5b7364de16042fda62cd679fdcb6806516"
-                    },
-                    {
-                      "id": "t_u3rtnbm",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG4",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.426Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG4.txt",
-                      "repoSha": "d26adbd07ea469677192878394f2ecd29fe75dfb"
-                    },
-                    {
-                      "id": "t_h31ujqs",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG5",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.442Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG5.txt",
-                      "repoSha": "2f9406690771eb44723c988827c64eedaec9a223"
-                    },
-                    {
-                      "id": "t_k45wihc",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG6",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.462Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip49_WG6.txt",
-                      "repoSha": "453f5aeb873637c2fc6ee1ae2338217b2d44fc57"
-                    },
-                    {
-                      "id": "t_1utb8uh",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG1",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.481Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG1.txt",
-                      "repoSha": "9485a3a7117aa18b072a8e3a7d304d309dd9c909"
-                    },
-                    {
-                      "id": "t_jmp6lzs",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG2",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.498Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG2.txt",
-                      "repoSha": "a2cc2fbc50f96cc9592e776dac724a63ea1bece3"
-                    },
-                    {
-                      "id": "t_jpc2gq0",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG3",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.516Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG3.txt",
-                      "repoSha": "1e44855cfde2d28d13fd97f276e60e4759be1863"
-                    },
-                    {
-                      "id": "t_38n4i8w",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG4",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.533Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG4.txt",
-                      "repoSha": "4002623e9097b23083c03f36a2d3aa3d04f8a47b"
-                    },
-                    {
-                      "id": "t_d72kant",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG5",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.551Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG5.txt",
-                      "repoSha": "9fd7466d0d1f8d9ea25ddfe5a4b470d28b8e42a8"
-                    },
-                    {
-                      "id": "t_oegty4e",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG6",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.564Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip53_WG6.txt",
-                      "repoSha": "c62e7dbf4882cbbfb9fb188ccac2ede7dbb02cd5"
-                    },
-                    {
-                      "id": "t_dt88f68",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG1",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.580Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG1.txt",
-                      "repoSha": "738c22c1c941fd5646623a9043a042d614cec760"
-                    },
-                    {
-                      "id": "t_izc30z6",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG2",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.596Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG2.txt",
-                      "repoSha": "dcd238184414af49445f35cffa9788deae392259"
-                    },
-                    {
-                      "id": "t_81riys6",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG3",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.616Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG3.txt",
-                      "repoSha": "ada40eb735e4ae116626b20472222e1c6559f849"
-                    },
-                    {
-                      "id": "t_s3zrtva",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG4",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.637Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG4.txt",
-                      "repoSha": "02f4b530fe902ea5ae8bd2f795f8d6c71e520952"
-                    },
-                    {
-                      "id": "t_1prplb2",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG5",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.651Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG5.txt",
-                      "repoSha": "510f16b8003447ccaad2a49cbeb94f7113f3f001"
-                    },
-                    {
-                      "id": "t_evwzc4p",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG6",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.686Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip61_WG6.txt",
-                      "repoSha": "0e033cb86bd30edd2fb6966318081e5dcf069d92"
-                    },
-                    {
-                      "id": "t_g27dlht",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG1",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.700Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG1.txt",
-                      "repoSha": "70f4b6ac785ca4079f9042fd9df2270e7195f511"
-                    },
-                    {
-                      "id": "t_ziiwhja",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG2",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.718Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG2.txt",
-                      "repoSha": "171fb835c0d24c4045eda50d8b80d65e384559f5"
-                    },
-                    {
-                      "id": "t_nfostlc",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG3",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.732Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG3.txt",
-                      "repoSha": "8a97bfe3b5baa1e2f105ccf1e4459e3ece4d5277"
-                    },
-                    {
-                      "id": "t_c5tp4tw",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG4",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.750Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG4.txt",
-                      "repoSha": "d208e9656bf69522be97c9d82278d786fb837d0b"
-                    },
-                    {
-                      "id": "t_2k3rhy3",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG5",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.767Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG5.txt",
-                      "repoSha": "84e82e56476f7353263330eea8ea3f3f82922409"
-                    },
-                    {
-                      "id": "t_wftd1nl",
-                      "name": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG6",
-                      "filename": "WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T23:44:22.784Z",
-                      "updated": "2026-05-25",
-                      "_externalized": true,
-                      "repoPath": "users/CS_Bilge/tests/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/WaferMPW45_slot5_strip_fastfibrev3_test1_Chip65_WG6.txt",
-                      "repoSha": "585ea834fec731c137a0d9f1ec83247d5b01dedf"
-                    }
-                  ]
+                  "tests": []
                 }
               ],
               "smatrixGroups": [],
@@ -970,9 +252,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1550nm_SingleQubitGate_IIF_UoSheffield__50vobe/SOI220nm_1550nm_SingleQubitGate_IIF_UoSheffield.yaml",
-                  "repoSha": "357906b0fb3b7f2ae2182155b7eb590351a473d1"
+                  "repoSha": "357906b0fb3b7f2ae2182155b7eb590351a473d1",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1NpbmdsZVF1Yml0R2F0ZV9JSUZfVW9TaGVmZmllbGQKY29tcG9uZW50X3R5cGU6IEFtcGxpdHVkZU1vZHVsYXRvcgphdXRob3JzOgotIG5hbWU6IERyIEltYWQgRmFydXF1ZQogIG9yZ2FuaXNhdGlvbjogVW5pdmVyc2l0eSBvZiBTaGVmZmllbGQKbGFzdF91cGRhdGVkOiAwMS8xMC8yMDI1Cm1vZGVzOgotIG1vZGVfbnVtYmVyczoKICAtIDAKICAtIDAKICBwb2xhcmlzYXRpb246IFRFCiAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBlMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDExMC4wMjUwMAogIC0gMTIzLjAwNzAwCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBlMgogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDIwMC4wMjUwMAogIC0gMTIzLjAwNzAwCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBlMwogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDMxNS4wNjcwMAogIC0gMTIzLjAwNzAwCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBlNAogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDQwNS4wNjcwMAogIC0gMTIzLjAwNzAwCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIDMwLjU2NQogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIDQyLjU2NQogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiBvMwogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDQwNC4wODQwMAogIC0gNDIuNTY1CiAgb3JpZW50YXRpb246IDAuMAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG80CiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gNDA0LjA4NDAwCiAgLSAzMC41NjUKICBvcmllbnRhdGlvbjogMC4wCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTU1MG5t",
+                  "rawText": "name: SOI220nm_1550nm_SingleQubitGate_IIF_UoSheffield\ncomponent_type: AmplitudeModulator\nauthors:\n- name: Dr Imad Faruque\n  organisation: University of Sheffield\nlast_updated: 01/10/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - 110.02500\n  - 123.00700\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 200.02500\n  - 123.00700\n  orientation: 90\n  cross_section: dc\n- name: e3\n  port_type: electrical_dc\n  center:\n  - 315.06700\n  - 123.00700\n  orientation: 90\n  cross_section: dc\n- name: e4\n  port_type: electrical_dc\n  center:\n  - 405.06700\n  - 123.00700\n  orientation: 90\n  cross_section: dc\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 30.565\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 42.565\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 404.08400\n  - 42.565\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o4\n  port_type: optical\n  center:\n  - 404.08400\n  - 30.565\n  orientation: 0.0\n  cross_section: strip_1550nm"
                 }
               ],
               "testGroups": [],
@@ -996,9 +279,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1550nm_TE_Defect_Detector__iu7hij/SOI220nm_1550nm_TE_Defect_Detector.yaml",
-                  "repoSha": "0ed2555b7655ac79a9cbdd9bad9680adca6c8747"
+                  "repoSha": "0ed2555b7655ac79a9cbdd9bad9680adca6c8747",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX0RlZmVjdF9EZXRlY3Rvcgpjb21wb25lbnRfdHlwZTogUGhvdG9kaW9kZQphdXRob3JzOgotIG5hbWU6IEggQmlsZ2UgWWFnY2kKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCiAgZW1haWw6IGhieTFyMjVAc290b24uYWMudWsKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgotIG1vZGVfbnVtYmVyczoKICAtIDAKICAtIDAKICBwb2xhcmlzYXRpb246IFRFCiAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBlMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9yZgogIGNlbnRlcjoKICAtIDU0MgogIC0gLTkyLjUKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGV0ZWN0b3IKLSBuYW1lOiBlMgogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9yZgogIGNlbnRlcjoKICAtIDY5MgogIC0gLTkyLjUKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGV0ZWN0b3IKLSBuYW1lOiB2ZXJ0aWNhbF90ZV93CiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDI3LjkxNQogIC0gNTAKICBvcmllbnRhdGlvbjogMTgwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAuMAotIG5hbWU6IHZlcnRpY2FsX3RlMV9lCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDI3NjYuMDg0CiAgLSA1MAogIG9yaWVudGF0aW9uOiAwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAuMAphbmNlc3RvcnM6Ci0gbmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX0lzb2xhdGVkRGV0ZWN0b3IKICBjb21taXQ6IFJlZmVyZW5jZVdpdGhpbkNvbW1pdAotIG5hbWU6IFNPSTIyMG5tXzE1NTBubV9URV9SSUJfR3JhdGluZ19Db3VwbGVyCiAgY29tbWl0OiBSZWZlcmVuY2VXaXRoaW5Db21taXQKCg==",
+                  "rawText": "name: SOI220nm_1550nm_TE_Defect_Detector\ncomponent_type: Photodiode\nauthors:\n- name: H Bilge Yagci\n  organisation: CORNERSTONE\n  email: hby1r25@soton.ac.uk\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_rf\n  center:\n  - 542\n  - -92.5\n  orientation: 270\n  cross_section: detector\n- name: e2\n  port_type: electrical_rf\n  center:\n  - 692\n  - -92.5\n  orientation: 270\n  cross_section: detector\n- name: vertical_te_w\n  port_type: vertical_te\n  center:\n  - 27.915\n  - 50\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te1_e\n  port_type: vertical_te\n  center:\n  - 2766.084\n  - 50\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\nancestors:\n- name: SOI220nm_1550nm_TE_IsolatedDetector\n  commit: ReferenceWithinCommit\n- name: SOI220nm_1550nm_TE_RIB_Grating_Coupler\n  commit: ReferenceWithinCommit\n\n"
                 }
               ],
               "testGroups": [],
@@ -1022,9 +306,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1550nm_TE_MZI_Modulator__1e654s/SOI220nm_1550nm_TE_MZI_Modulator.yaml",
-                  "repoSha": "586edb6b61646e012cbb140ba8c75d09cc28bd2d"
+                  "repoSha": "586edb6b61646e012cbb140ba8c75d09cc28bd2d",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX01aSV9Nb2R1bGF0b3IKY29tcG9uZW50X3R5cGU6IE1aTQphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDI4LzA3LzIwMjUKbW9kZXM6Ci0gbW9kZV9udW1iZXJzOgogIC0gMAogIC0gMAogIHBvbGFyaXNhdGlvbjogVEUKICB3YXZlbGVuZ3RoOiAxNTUwCnBvcnRzOgotIG5hbWU6IHRvcF9hcm1fbl9idXMKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfcmYKICBjZW50ZXI6CiAgLSAyMjcwLjk4NQogIC0gMzYwCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogbW9kdWxhdG9yX3RyaQotIG5hbWU6IGJvdF9hcm1fbl9idXMKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfcmYKICBjZW50ZXI6CiAgLSAyNDcwLjk4NQogIC0gMzYwCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogbW9kdWxhdG9yX3RyaQotIG5hbWU6IHRvcF9hcm1fc19idXMKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfcmYKICBjZW50ZXI6CiAgLSAyODAuOTg1CiAgLSAtMzYwCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IG1vZHVsYXRvcl90cmkKLSBuYW1lOiBib3RfYXJtX3NfYnVzCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX3JmCiAgY2VudGVyOgogIC0gNDgwLjk4NQogIC0gLTM2MAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBtb2R1bGF0b3JfdHJpCi0gbmFtZTogdmVydGljYWxfdGVfdzEKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gMjcuOTE1CiAgLSAxNDYuNTUKICBvcmllbnRhdGlvbjogMTgwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAuMAotIG5hbWU6IHZlcnRpY2FsX3RlMl93MgogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSAyNy45MTUKICAtIDE5Ni41NQogIG9yaWVudGF0aW9uOiAxODAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTU1MC4wCi0gbmFtZTogdmVydGljYWxfdGUxX2UKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gMjcyNC4wNTQKICAtIC0xMzIuNDM1CiAgb3JpZW50YXRpb246IDAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTU1MC4wCg==",
+                  "rawText": "name: SOI220nm_1550nm_TE_MZI_Modulator\ncomponent_type: MZM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: top_arm_n_bus\n  port_type: electrical_rf\n  center:\n  - 2270.985\n  - 360\n  orientation: 90\n  cross_section: modulator_tri\n- name: bot_arm_n_bus\n  port_type: electrical_rf\n  center:\n  - 2470.985\n  - 360\n  orientation: 90\n  cross_section: modulator_tri\n- name: top_arm_s_bus\n  port_type: electrical_rf\n  center:\n  - 280.985\n  - -360\n  orientation: 270\n  cross_section: modulator_tri\n- name: bot_arm_s_bus\n  port_type: electrical_rf\n  center:\n  - 480.985\n  - -360\n  orientation: 270\n  cross_section: modulator_tri\n- name: vertical_te_w1\n  port_type: vertical_te\n  center:\n  - 27.915\n  - 146.55\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te2_w2\n  port_type: vertical_te\n  center:\n  - 27.915\n  - 196.55\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te1_e\n  port_type: vertical_te\n  center:\n  - 2724.054\n  - -132.435\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n"
                 }
               ],
               "testGroups": [],
@@ -1048,9 +333,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1550nm_TE_IsolatedDetector__48tl3w/SOI220nm_1550nm_TE_IsolatedDetector.yaml",
-                  "repoSha": "7d45b37c8396b81baa9f4f5a713c14e5d203c3e6"
+                  "repoSha": "7d45b37c8396b81baa9f4f5a713c14e5d203c3e6",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX0lzb2xhdGVkRGV0ZWN0b3IKY29tcG9uZW50X3R5cGU6IFBob3RvZGlvZGUKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgotIG1vZGVfbnVtYmVyczoKICAtIDAKICAtIDAKICBwb2xhcmlzYXRpb246IFRFCiAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBlMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9yZgogIGNlbnRlcjoKICAtIDE0NQogIC0gLTE0Mi41MDAwMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBkZXRlY3RvcgotIG5hbWU6IGUyCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX3JmCiAgY2VudGVyOgogIC0gMjk1CiAgLSAtMTQyLjUwMDAwCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IGRldGVjdG9yCi0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUKLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDE5MDAKICAtIDAKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUK",
+                  "rawText": "name: SOI220nm_1550nm_TE_IsolatedDetector\ncomponent_type: Photodiode\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_rf\n  center:\n  - 145\n  - -142.50000\n  orientation: 270\n  cross_section: detector\n- name: e2\n  port_type: electrical_rf\n  center:\n  - 295\n  - -142.50000\n  orientation: 270\n  cross_section: detector\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 1900\n  - 0\n  orientation: 0\n  cross_section: rib_1550nm_TE\n"
                 }
               ],
               "testGroups": [],
@@ -1074,9 +360,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/Heater__7gojep/Heater.yaml",
-                  "repoSha": "a890b0bc14d077f68618e4baeede4d5b759d2580"
+                  "repoSha": "a890b0bc14d077f68618e4baeede4d5b759d2580",
+                  "binaryContent": "bmFtZTogSGVhdGVyCmNvbXBvbmVudF90eXBlOiBDb250YWN0UGFkREMKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1CnBvcnRzOgotIG5hbWU6IGUxCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gNzUuMDAwMDAKICAtIDIzNS4wMDQwMAogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogZTIKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAxNzUuMDAwMDAKICAtIDIzNS4wMDQwMAogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IGRjCg==",
+                  "rawText": "name: Heater\ncomponent_type: ContactPadDC\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - 75.00000\n  - 235.00400\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 175.00000\n  - 235.00400\n  orientation: 90\n  cross_section: dc\n"
                 }
               ],
               "testGroups": [],
@@ -1100,9 +387,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1310nm_TE_RIB_2x1_MMI__ka3s14/SOI220nm_1310nm_TE_RIB_2x1_MMI.yaml",
-                  "repoSha": "31f76f7f925cf293715336d35b1af52f253e3b40"
+                  "repoSha": "31f76f7f925cf293715336d35b1af52f253e3b40",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1JJQl8yeDFfTU1JCmNvbXBvbmVudF90eXBlOiBNTUkxeDIKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDEzMTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUKLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDEyMy42CiAgLSAxLjUyNTAwCiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiByaWJfMTMxMG5tX1RFCi0gbmFtZTogbzMKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAxMjMuNgogIC0gLTEuNTI1CiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiByaWJfMTMxMG5tX1RFCg==",
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 123.6\n  - 1.52500\n  orientation: 0\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 123.6\n  - -1.525\n  orientation: 0\n  cross_section: rib_1310nm_TE\n"
                 }
               ],
               "testGroups": [],
@@ -1126,9 +414,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1310nm_TE_RIB_2x2_MMI__zpdo9l/SOI220nm_1310nm_TE_RIB_2x2_MMI.yaml",
-                  "repoSha": "de59b3bcfae88fd4c75d71ea96f17c855c8950b4"
+                  "repoSha": "de59b3bcfae88fd4c75d71ea96f17c855c8950b4",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1JJQl8yeDJfTU1JCmNvbXBvbmVudF90eXBlOiBNTUkyeDIKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDEzMTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAtMS4wMTUwMAogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiByaWJfMTMxMG5tX1RFCi0gbmFtZTogbzIKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAxLjAxNTAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUKLSBuYW1lOiBvMwogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDEyMy42CiAgLSAxLjAxNQogIG9yaWVudGF0aW9uOiAwLjAKICBjcm9zc19zZWN0aW9uOiByaWJfMTMxMG5tX1RFCi0gbmFtZTogbzQKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAxMjMuNgogIC0gLTEuMDE1CiAgb3JpZW50YXRpb246IDAuMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUKICAK",
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.01500\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.01500\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 123.6\n  - 1.015\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 123.6\n  - -1.015\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n  \n"
                 }
               ],
               "testGroups": [],
@@ -1152,9 +441,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1310nm_TE_RIB_90_Degree_Bend__n30cco/SOI220nm_1310nm_TE_RIB_90_Degree_Bend.yaml",
-                  "repoSha": "d9166bf7fedcf1fae795ec8f1a9de85e53821f7b"
+                  "repoSha": "d9166bf7fedcf1fae795ec8f1a9de85e53821f7b",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1JJQl85MF9EZWdyZWVfQmVuZApjb21wb25lbnRfdHlwZTogQmVuZAphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDI4LzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTMxMApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDUuMgogIC0gMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiByaWJfMTMxMG5tX1RFCi0gbmFtZTogbzIKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAzMC4yCiAgLSAyNS4wCiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiByaWJfMTMxMG5tX1RFCg==",
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5.2\n  - 0\n  orientation: 270\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 30.2\n  - 25.0\n  orientation: 0\n  cross_section: rib_1310nm_TE\n"
                 }
               ],
               "testGroups": [],
@@ -1178,9 +468,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1310nm_TE_RIB_Grating_Coupler__wma1mj/SOI220nm_1310nm_TE_RIB_Grating_Coupler.yaml",
-                  "repoSha": "6e25f28f3186d20f189fa848593c22db5b73781e"
+                  "repoSha": "6e25f28f3186d20f189fa848593c22db5b73781e",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1JJQl9HcmF0aW5nX0NvdXBsZXIKY29tcG9uZW50X3R5cGU6IEdyYXRpbmdDb3VwbGVyMUQKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1CnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMAogIC0gMC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUKICBtb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAxMzEwCi0gbmFtZTogdmVydGljYWxfdGUKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gMzcxLjc1CiAgLSAwLjAKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg3MTMKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTMxMC4wCg==",
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 371.75\n  - 0.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n"
                 }
               ],
               "testGroups": [],
@@ -1204,9 +495,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1310nm_TE_RIB_Waveguide__8pikmj/SOI220nm_1310nm_TE_RIB_Waveguide.yaml",
-                  "repoSha": "6e628e5c20246fc450a4f7cf212b1f9f06f82ecb"
+                  "repoSha": "6e628e5c20246fc450a4f7cf212b1f9f06f82ecb",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1JJQl9XYXZlZ3VpZGUKY29tcG9uZW50X3R5cGU6IFdhdmVndWlkZQphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDI4LzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTMxMApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIDAuMAogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiByaWJfMTMxMG5tX1RFCi0gbmFtZTogbzIKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAxMDAKICAtIDAuMAogIG9yaWVudGF0aW9uOiAwLjAKICBjcm9zc19zZWN0aW9uOiByaWJfMTMxMG5tX1RFCiAgCg==",
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n  \n"
                 }
               ],
               "testGroups": [],
@@ -1230,9 +522,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing__yp5mya/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.yaml",
-                  "repoSha": "57591ffdd04935fa0c2bfac50329ae78cbfe1655"
+                  "repoSha": "57591ffdd04935fa0c2bfac50329ae78cbfe1655",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1JJQl9XYXZlZ3VpZGVfQ3Jvc3NpbmcKY29tcG9uZW50X3R5cGU6IENyb3NzaW5nCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjgvMDcvMjAyNQptb2RlczoKLSBtb2RlX251bWJlcnM6CiAgLSAwCiAgLSAwCiAgcG9sYXJpc2F0aW9uOiBURQogIHdhdmVsZW5ndGg6IDEzMTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA1CiAgLSAwLjAKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzEzMTBubV9URQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gOS42MgogIC0gNC42MgogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUKLSBuYW1lOiBvMwogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDE0LjI0CiAgLSAwLjAKICBvcmllbnRhdGlvbjogMC4wCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzEzMTBubV9URQotIG5hbWU6IG80CiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gOS42MgogIC0gLTQuNjIKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzEzMTBubV9URQo=",
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 9.62\n  - 4.62\n  orientation: 90\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 14.24\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 9.62\n  - -4.62\n  orientation: 270\n  cross_section: rib_1310nm_TE\n"
                 }
               ],
               "testGroups": [],
@@ -1256,9 +549,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1310nm_TE_STRIP_2x1_MMI__8ks3p8/SOI220nm_1310nm_TE_STRIP_2x1_MMI.yaml",
-                  "repoSha": "fe5ae3ab0a8014924ad8fb3193a3275ae7ecd996"
+                  "repoSha": "fe5ae3ab0a8014924ad8fb3193a3275ae7ecd996",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1NUUklQXzJ4MV9NTUkKY29tcG9uZW50X3R5cGU6IE1NSTF4MgphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDI4LzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTMxMApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIDAuMAogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xMzEwbm0KLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDEyMi45CiAgLSAxLjUyNQogIG9yaWVudGF0aW9uOiAwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTMxMG5tCi0gbmFtZTogbzMKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAxMjIuOQogIC0gLTEuNTI1CiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xMzEwbm0KICAK",
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 122.9\n  - 1.525\n  orientation: 0\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 122.9\n  - -1.525\n  orientation: 0\n  cross_section: strip_1310nm\n  \n"
                 }
               ],
               "testGroups": [],
@@ -1282,9 +576,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1310nm_TE_STRIP_2x2_MMI__ucs88m/SOI220nm_1310nm_TE_STRIP_2x2_MMI.yaml",
-                  "repoSha": "49449c9755ca6d281f95d702cac917aef65b4ecc"
+                  "repoSha": "49449c9755ca6d281f95d702cac917aef65b4ecc",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1NUUklQXzJ4Ml9NTUkKY29tcG9uZW50X3R5cGU6IE1NSTJ4MgphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDI4LzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTMxMApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIC0xLjAxNQogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xMzEwbm0KLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIDEuMDE1CiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzEzMTBubQotIG5hbWU6IG8zCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTIyLjEKICAtIDEuMDE1CiAgb3JpZW50YXRpb246IDAuMAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzEzMTBubQotIG5hbWU6IG80CiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTIyLjEKICAtIC0xLjAxNQogIG9yaWVudGF0aW9uOiAwLjAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xMzEwbm0KICAK",
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 122.1\n  - 1.015\n  orientation: 0.0\n  cross_section: strip_1310nm\n- name: o4\n  port_type: optical\n  center:\n  - 122.1\n  - -1.015\n  orientation: 0.0\n  cross_section: strip_1310nm\n  \n"
                 }
               ],
               "testGroups": [],
@@ -1308,9 +603,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend__4m6txo/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.yaml",
-                  "repoSha": "3c2c9106593a875cecf9ff75ee6c59c214fc70aa"
+                  "repoSha": "3c2c9106593a875cecf9ff75ee6c59c214fc70aa",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1NUUklQXzkwX0RlZ3JlZV9CZW5kCmNvbXBvbmVudF90eXBlOiBCZW5kCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjgvMDcvMjAyNQptb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAxMzEwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMC4yCiAgLSAwCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzEzMTBubQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gNS4yCiAgLSA1LjAKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzEzMTBubQogIAo=",
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0.2\n  - 0\n  orientation: 270\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 5.2\n  - 5.0\n  orientation: 0\n  cross_section: strip_1310nm\n  \n"
                 }
               ],
               "testGroups": [],
@@ -1334,9 +630,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1310nm_TE_STRIP_Grating_Coupler__x7nrgf/SOI220nm_1310nm_TE_STRIP_Grating_Coupler.yaml",
-                  "repoSha": "bf49c4fb006fb4e9d9510b9a948102f385fbd4af"
+                  "repoSha": "bf49c4fb006fb4e9d9510b9a948102f385fbd4af",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1NUUklQX0dyYXRpbmdfQ291cGxlcgpjb21wb25lbnRfdHlwZTogR3JhdGluZ0NvdXBsZXIxRAphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDI4LzA3LzIwMjUKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzEzMTBubQogIG1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDEzMTAKLSBuYW1lOiB2ZXJ0aWNhbF90ZQogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSAzNzEuNzUKICAtIDAKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg3MTMKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTMxMC4wCg==",
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1310nm\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 371.75\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n"
                 }
               ],
               "testGroups": [],
@@ -1360,9 +657,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1310nm_TE_STRIP_Waveguide__221hwe/SOI220nm_1310nm_TE_STRIP_Waveguide.yaml",
-                  "repoSha": "e713ce498358477c016d799706304beee94b38aa"
+                  "repoSha": "e713ce498358477c016d799706304beee94b38aa",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1NUUklQX1dhdmVndWlkZQpjb21wb25lbnRfdHlwZTogV2F2ZWd1aWRlCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjgvMDcvMjAyNQptb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAxMzEwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMAogIC0gMC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzEzMTBubQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTAwCiAgLSAwLjAKICBvcmllbnRhdGlvbjogMC4wCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTMxMG5tCiAgCg==",
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1310nm\n  \n"
                 }
               ],
               "testGroups": [],
@@ -1386,9 +684,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing__l9airr/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.yaml",
-                  "repoSha": "51aaa082218bb6f97dd2754510e6c76416ced66c"
+                  "repoSha": "51aaa082218bb6f97dd2754510e6c76416ced66c",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1NUUklQX1dhdmVndWlkZV9Dcm9zc2luZwpjb21wb25lbnRfdHlwZTogQ3Jvc3NpbmcKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDEzMTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwLjAKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTMxMG5tCi0gbmFtZTogbzIKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA0LjIzNQogIC0gNC4yMzUKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xMzEwbm0KLSBuYW1lOiBvMwogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDguNDcKICAtIDAuMAogIG9yaWVudGF0aW9uOiAwLjAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xMzEwbm0KLSBuYW1lOiBvNAogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDQuMjM1CiAgLSAtNC4yMzUKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTMxMG5tCiAgCg==",
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 4.235\n  - 4.235\n  orientation: 90\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 8.47\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1310nm\n- name: o4\n  port_type: optical\n  center:\n  - 4.235\n  - -4.235\n  orientation: 270\n  cross_section: strip_1310nm\n  \n"
                 }
               ],
               "testGroups": [],
@@ -1412,9 +711,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1550nm_TE_RIB_2x1_MMI__ce6i4t/SOI220nm_1550nm_TE_RIB_2x1_MMI.yaml",
-                  "repoSha": "b73d4cda2c617b2dc1dde3c0ff654f37211a1235"
+                  "repoSha": "b73d4cda2c617b2dc1dde3c0ff654f37211a1235",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1JJQl8yeDFfTU1JCmNvbXBvbmVudF90eXBlOiBNTUkxeDIKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDE1NTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwLjAKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzE1NTBubV9URQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gOTIuNwogIC0gMS41NwogIG9yaWVudGF0aW9uOiAwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzE1NTBubV9URQotIG5hbWU6IG8zCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gOTIuNwogIC0gLTEuNTcKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUKICA=",
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 92.7\n  - 1.57\n  orientation: 0\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 92.7\n  - -1.57\n  orientation: 0\n  cross_section: rib_1550nm_TE\n  "
                 }
               ],
               "testGroups": [],
@@ -1438,9 +738,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1550nm_TE_RIB_2x2_MMI__oexl8y/SOI220nm_1550nm_TE_RIB_2x2_MMI.yaml",
-                  "repoSha": "cd5d8727dc1836e379a75c565561672c56a0990a"
+                  "repoSha": "cd5d8727dc1836e379a75c565561672c56a0990a",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1JJQl8yeDJfTU1JCmNvbXBvbmVudF90eXBlOiBNTUkyeDIKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDE1NTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAtMS4wMTUKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzE1NTBubV9URQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMAogIC0gMS4wMTUKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzE1NTBubV9URQotIG5hbWU6IG8zCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTA0LjgKICAtIDEuMDE1CiAgb3JpZW50YXRpb246IDAuMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUKLSBuYW1lOiBvNAogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDEwNC44CiAgLSAtMS4wMTUKICBvcmllbnRhdGlvbjogMC4wCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzE1NTBubV9URQogIAo=",
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 104.8\n  - 1.015\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 104.8\n  - -1.015\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n  \n"
                 }
               ],
               "testGroups": [],
@@ -1464,9 +765,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1550nm_TE_RIB_90_Degree_Bend__yyz781/SOI220nm_1550nm_TE_RIB_90_Degree_Bend.yaml",
-                  "repoSha": "213b1853bc4e34aee4322aeb0ac11454cef4a91f"
+                  "repoSha": "213b1853bc4e34aee4322aeb0ac11454cef4a91f",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1JJQl85MF9EZWdyZWVfQmVuZApjb21wb25lbnRfdHlwZTogQmVuZAphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDI4LzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDUuMjI1CiAgLSAwLjAKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzE1NTBubV9URQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMzAuMjI1CiAgLSAyNS4wCiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiByaWJfMTU1MG5tX1RFCiAgCg==",
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5.225\n  - 0.0\n  orientation: 270\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 30.225\n  - 25.0\n  orientation: 0\n  cross_section: rib_1550nm_TE\n  \n"
                 }
               ],
               "testGroups": [],
@@ -1490,9 +792,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1550nm_TE_RIB_Grating_Coupler__o2fj62/SOI220nm_1550nm_TE_RIB_Grating_Coupler.yaml",
-                  "repoSha": "3715b7d793ea3609f6526bddcf29285ba0cd3849"
+                  "repoSha": "3715b7d793ea3609f6526bddcf29285ba0cd3849",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1JJQl9HcmF0aW5nX0NvdXBsZXIKY29tcG9uZW50X3R5cGU6IEdyYXRpbmdDb3VwbGVyMUQKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1CnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMAogIC0gMAogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiByaWJfMTU1MG5tX1RFCiAgbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTU1MAotIG5hbWU6IHZlcnRpY2FsX3RlCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDM2OS4wODQKICAtIDAKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg4NgogIGZpYnJlX21vZGVzOgogIC0gZmlicmVfdHlwZTogU01GLTI4CiAgICB3YXZlbGVuZ3RoOiAxNTUwLjAK",
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 369.084\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n"
                 }
               ],
               "testGroups": [],
@@ -1516,9 +819,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1550nm_TE_RIB_Waveguide__n3dejo/SOI220nm_1550nm_TE_RIB_Waveguide.yaml",
-                  "repoSha": "dc130db0edd500f338911153d4c2e09dc5fc9b40"
+                  "repoSha": "dc130db0edd500f338911153d4c2e09dc5fc9b40",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1JJQl9XYXZlZ3VpZGUKY29tcG9uZW50X3R5cGU6IFdhdmVndWlkZQphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDI4LzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIDAuMAogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiByaWJfMTU1MG5tX1RFCi0gbmFtZTogbzIKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAxMDAKICAtIDAuMAogIG9yaWVudGF0aW9uOiAwLjAKICBjcm9zc19zZWN0aW9uOiByaWJfMTU1MG5tX1RFCiAgCg==",
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n  \n"
                 }
               ],
               "testGroups": [],
@@ -1542,9 +846,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing__vuh2rm/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.yaml",
-                  "repoSha": "46dc4b48ca4b5cc7dc8eaeff61da343a99e769b5"
+                  "repoSha": "46dc4b48ca4b5cc7dc8eaeff61da343a99e769b5",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1JJQl9XYXZlZ3VpZGVfQ3Jvc3NpbmcKY29tcG9uZW50X3R5cGU6IENyb3NzaW5nCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjgvMDcvMjAyNQptb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAxNTUwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gNQogIC0gMC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUKLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDkuNjIKICAtIDQuNjIKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiByaWJfMTU1MG5tX1RFCi0gbmFtZTogbzMKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAxNC4yNAogIC0gMC4wCiAgb3JpZW50YXRpb246IDAuMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUKLSBuYW1lOiBvNAogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDkuNjIKICAtIC00LjYyCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUKICAK",
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 9.62\n  - 4.62\n  orientation: 90\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 14.24\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 9.62\n  - -4.62\n  orientation: 270\n  cross_section: rib_1550nm_TE\n  \n"
                 }
               ],
               "testGroups": [],
@@ -1568,9 +873,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1550nm_TE_STRIP_2x1_MMI__5ir1c1/SOI220nm_1550nm_TE_STRIP_2x1_MMI.yaml",
-                  "repoSha": "63c8662791c6792c1f2c13e0e95419e510412cba"
+                  "repoSha": "63c8662791c6792c1f2c13e0e95419e510412cba",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQXzJ4MV9NTUkKY29tcG9uZW50X3R5cGU6IE1NSTF4MgphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDI4LzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIDAuMAogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDkxLjgKICAtIDEuNTcKICBvcmllbnRhdGlvbjogMC4wCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTU1MG5tCi0gbmFtZTogbzMKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA5MS44CiAgLSAtMS41NwogIG9yaWVudGF0aW9uOiAwLjAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KICAK",
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 91.8\n  - 1.57\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 91.8\n  - -1.57\n  orientation: 0.0\n  cross_section: strip_1550nm\n  \n"
                 }
               ],
               "testGroups": [],
@@ -1594,9 +900,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1550nm_TE_STRIP_2x2_MMI__dcsidb/SOI220nm_1550nm_TE_STRIP_2x2_MMI.yaml",
-                  "repoSha": "2492fb28b06e7fcf8941b2da2fd9489aff28864d"
+                  "repoSha": "2492fb28b06e7fcf8941b2da2fd9489aff28864d",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQXzJ4Ml9NTUkKY29tcG9uZW50X3R5cGU6IE1NSTJ4MgphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDI4LzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIC0xLjAxNQogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIDEuMDE1CiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG8zCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTAyLjUKICAtIDEuMDE1CiAgb3JpZW50YXRpb246IDAuMAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG80CiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTAyLjUKICAtIC0xLjAxNQogIG9yaWVudGF0aW9uOiAwLjAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KICAK",
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 102.5\n  - 1.015\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o4\n  port_type: optical\n  center:\n  - 102.5\n  - -1.015\n  orientation: 0.0\n  cross_section: strip_1550nm\n  \n"
                 }
               ],
               "testGroups": [],
@@ -1620,9 +927,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend__9wt029/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.yaml",
-                  "repoSha": "edc32c3d40e498797ebf52e2325231239a0d7cb3"
+                  "repoSha": "edc32c3d40e498797ebf52e2325231239a0d7cb3",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQXzkwX0RlZ3JlZV9CZW5kCmNvbXBvbmVudF90eXBlOiBCZW5kCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjgvMDcvMjAyNQptb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAxNTUwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMC4yMjUKICAtIDAuMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDUuMjI1CiAgLSA1CiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KICAK",
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0.225\n  - 0.0\n  orientation: 270\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 5.225\n  - 5\n  orientation: 0\n  cross_section: strip_1550nm\n  \n"
                 }
               ],
               "testGroups": [],
@@ -1646,9 +954,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1550nm_TE_STRIP_Grating_Coupler__vdera8/SOI220nm_1550nm_TE_STRIP_Grating_Coupler.yaml",
-                  "repoSha": "78d04522a12c3d07b0104a3038c8de5cb16424f5"
+                  "repoSha": "78d04522a12c3d07b0104a3038c8de5cb16424f5",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQX0dyYXRpbmdfQ291cGxlcgpjb21wb25lbnRfdHlwZTogR3JhdGluZ0NvdXBsZXIxRAphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDI4LzA3LzIwMjUKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQogIG1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDE1NTAKLSBuYW1lOiB2ZXJ0aWNhbF90ZQogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSAzNjkuMDg0CiAgLSAwCiAgb3JpZW50YXRpb246IDAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogICAxNTUwLjAK",
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1550nm\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 369.084\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength:   1550.0\n"
                 }
               ],
               "testGroups": [],
@@ -1672,9 +981,10 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1550nm_TE_STRIP_Waveguide__tmu8l5/SOI220nm_1550nm_TE_STRIP_Waveguide.yaml",
-                  "repoSha": "76bc272a22ac8d54bd6ee8b009129a455f4b3359"
+                  "repoSha": "76bc272a22ac8d54bd6ee8b009129a455f4b3359",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQX1dhdmVndWlkZQpjb21wb25lbnRfdHlwZTogV2F2ZWd1aWRlCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjgvMDcvMjAyNQptb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAxNTUwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMAogIC0gMC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTAwCiAgLSAwLjAKICBvcmllbnRhdGlvbjogMC4wCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTU1MG5tCg==",
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1550nm\n"
                 }
               ],
               "testGroups": [],
@@ -1698,14 +1008,44 @@
                   "who": "CS_Bilge",
                   "added": "2026-05-25",
                   "description": "",
-                  "_externalized": true,
                   "repoPath": "users/CS_Bilge/documents/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing__3twwpn/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.yaml",
-                  "repoSha": "579992720d2a88a9f17c180fee6cf7657be6c11c"
+                  "repoSha": "579992720d2a88a9f17c180fee6cf7657be6c11c",
+                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQX1dhdmVndWlkZV9Dcm9zc2luZwpjb21wb25lbnRfdHlwZTogQ3Jvc3NpbmcKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDE1NTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gNC42MgogIC0gNC42MgogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG8zCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gOS4yNAogIC0gMAogIG9yaWVudGF0aW9uOiAwLjAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiBvNAogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDQuNjIKICAtIC00LjYyCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQogIAo=",
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 4.62\n  - 4.62\n  orientation: 90\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 9.24\n  - 0\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o4\n  port_type: optical\n  center:\n  - 4.62\n  - -4.62\n  orientation: 270\n  cross_section: strip_1550nm\n  \n"
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [],
               "fabTabs": [],
+              "_contribOnly": true
+            }
+          ]
+        },
+        {
+          "id": "g_pxvrznx",
+          "name": "SOI 220 nm Passive",
+          "platformMeta": {
+            "material": "Si",
+            "thickness": 220
+          },
+          "collapsed": false,
+          "entities": [
+            {
+              "id": "e_86635m3",
+              "name": "Cell0_SOI220_Full_1550nm_Packaging_Template",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [],
+              "fabTabs": [
+                {
+                  "id": "ft_h3k57bv",
+                  "name": "bilge fab",
+                  "notes": "",
+                  "tests": []
+                }
+              ],
               "_contribOnly": true
             }
           ]
@@ -1723,7 +1063,9 @@
     "e_z1e654s": "admin",
     "layout:e_z1e654s": "admin",
     "e_n48tl3w": "admin",
-    "layout:e_n48tl3w": "admin"
+    "layout:e_n48tl3w": "admin",
+    "e_86635m3": "admin",
+    "layout:e_86635m3": "admin"
   },
   "labels": {
     "CS_Bilge": "CS_Bilge"
@@ -1738,25 +1080,27 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-25T23:44:32.507Z",
+    "publishedAt": "2026-05-25T23:51:13.476Z",
     "publisherIdentity": "CS_Bilge",
     "publisherLabel": "CS_Bilge",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.0",
-    "bbCount": 30,
-    "groupCount": 1,
+    "bbCount": 31,
+    "groupCount": 2,
     "tabCount": 1,
-    "fileCount": 68,
+    "fileCount": 70,
     "sliceFor": "CS_Bilge",
     "termsVersion": "1.1.0",
     "externalized": {
-      "uploaded": 68,
+      "uploaded": 2,
       "skipped": 0,
       "failed": 0,
-      "reused": 0,
+      "reused": 68,
       "usersDir": "users/CS_Bilge/",
       "note": "Uploaded items live as separate files under users/CS_Bilge/<section>/<bb>/. Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent — items already carrying a repoPath are skipped."
-    }
+    },
+    "nuclearStripped": true,
+    "nuclearNote": "Second-pass strip: even after removing binaries, the payload was still over the safe limit. Test/smatrix/fab folder contents were emptied, scripts/documents reduced to filenames. Adopters: run a per-platform GitHub sync to repopulate."
   }
 }
