@@ -157,6 +157,49 @@
       "name": "Technology Platforms",
       "groups": [
         {
+          "id": "g_3u8hhdf",
+          "name": "SOI 220 nm Active",
+          "platformMeta": {
+            "material": "Si",
+            "thickness": 220
+          },
+          "collapsed": false,
+          "entities": [
+            {
+              "id": "e_1zy8kws",
+              "name": "bilgeBB",
+              "status": "available",
+              "owner": "",
+              "description": "",
+              "githubUrl": "",
+              "files": [],
+              "scripts": [],
+              "datasets": [],
+              "testGroups": [],
+              "updated": "2026-05-25",
+              "kind": "passive",
+              "bbType": "waveguide",
+              "dimensionsOn": true,
+              "params": {
+                "width_nm": 500,
+                "length_um": 100,
+                "thickness_nm": 220
+              },
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "edaTools": [],
+              "cdi": {},
+              "fabTabs": [],
+              "plannedReleaseDate": "",
+              "trl": null,
+              "documents": [],
+              "smatrixGroups": []
+            }
+          ]
+        },
+        {
           "id": "g_08lhfzj",
           "name": "Suspended-Silicon Biased",
           "platformMeta": {
@@ -203,6 +246,7 @@
     }
   ],
   "ownership": {
+    "e_1zy8kws": "CS_Bilge",
     "e_xg6qd9d": "CS_Bilge"
   },
   "labels": {
@@ -210,14 +254,14 @@
   },
   "contributors": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T09:53:18.085Z",
+    "publishedAt": "2026-05-25T09:54:27.469Z",
     "publisherIdentity": "CS_Bilge",
     "publisherLabel": "CS_Bilge",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.0",
-    "bbCount": 1,
-    "groupCount": 1,
+    "bbCount": 2,
+    "groupCount": 2,
     "tabCount": 1,
     "fileCount": 0,
     "sliceFor": "CS_Bilge",
