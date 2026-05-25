@@ -1359,7 +1359,9 @@
     "layout:e_29ntsp6": "https://github.com/AEmreKaplan/",
     "layout:e_bxsv70o": "https://github.com/AEmreKaplan/",
     "layout:e_ivvgfwv": "https://github.com/AEmreKaplan/",
-    "layout:e_axwq5cb": "https://github.com/AEmreKaplan/"
+    "layout:e_axwq5cb": "https://github.com/AEmreKaplan/",
+    "tg_xx45kmo": "CS_Bilge",
+    "t_qr0d7of": "CS_Bilge"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -10626,7 +10628,92 @@
               "files": [],
               "scripts": [],
               "datasets": [],
-              "testGroups": [],
+              "testGroups": [
+                {
+                  "id": "tg_xx45kmo",
+                  "name": "bilge test",
+                  "tests": [
+                    {
+                      "id": "t_qr0d7of",
+                      "name": "pdk-monitor-pre-adopt-2026-05-25 (1)",
+                      "filename": "pdk-monitor-pre-adopt-2026-05-25 (1).json",
+                      "kind": "json",
+                      "size": 90661,
+                      "parsed": {
+                        "sweep": {
+                          "name": "statuses",
+                          "values": [
+                            null,
+                            null,
+                            null,
+                            null
+                          ]
+                        },
+                        "traces": [
+                          {
+                            "name": "categories",
+                            "values": [
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null
+                            ]
+                          },
+                          {
+                            "name": "bbTypes",
+                            "values": [
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null
+                            ]
+                          },
+                          {
+                            "name": "tabs",
+                            "values": [
+                              null
+                            ]
+                          },
+                          {
+                            "name": "contributors",
+                            "values": [
+                              null,
+                              null,
+                              null,
+                              null
+                            ]
+                          }
+                        ]
+                      },
+                      "imageUrl": null,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-25",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Bilge",
+                      "added": "2026-05-25T12:30:18.008Z",
+                      "updated": "2026-05-25",
+                      "_stripped": true
+                    }
+                  ],
+                  "collapsed": false
+                }
+              ],
               "documents": [
                 {
                   "id": "d_inlou6f",
@@ -21062,15 +21149,15 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mpl439op_0",
+        "id": "s_mpl6jlx5_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "OpenSource_PDKMonitor/dashboard.json",
-        "enabled": false
+        "enabled": true
       },
       {
-        "id": "s_mpl439op_1",
+        "id": "s_mpl6jlx5_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -21081,11 +21168,11 @@
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
-    "path": "users",
-    "lastPublishedAt": "2026-05-25T11:18:39.090Z",
-    "lastPublishedSha": "4e7213f2b60447126661e9a4b75659211e77fe2e",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/4e7213f2b60447126661e9a4b75659211e77fe2e",
-    "lastFetchedAt": "2026-05-25T12:08:38.368Z",
+    "path": "OpenSource_PDKMonitor/dashboard.json",
+    "lastPublishedAt": "2026-05-25T12:30:31.706Z",
+    "lastPublishedSha": "ebbc5988ff59c1cebb39351e16f2b4f54350fbd3",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/ebbc5988ff59c1cebb39351e16f2b4f54350fbd3",
+    "lastFetchedAt": "2026-05-25T12:25:58.910Z",
     "lastFetchedSha": "a5f99a90e23e5d5215a475a3605155b6cbf05142",
     "lastMergeStats": {
       "tabs": 0,
@@ -21114,7 +21201,7 @@
   "lastGithubFetch": "2026-05-25T04:32:16.587Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T12:25:05.228Z",
+    "publishedAt": "2026-05-25T12:32:13.973Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -21157,7 +21244,7 @@
         "email": "",
         "expiresOn": "",
         "createdAt": "2026-05-24",
-        "lastUsed": "2026-05-24"
+        "lastUsed": "2026-05-25"
       },
       {
         "id": "p_0ew3qn8",
