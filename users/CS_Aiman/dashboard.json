@@ -168,6 +168,7 @@
             "material": "Si",
             "thickness": 220
           },
+          "collapsed": false,
           "entities": [
             {
               "id": "e_c3ncicz",
@@ -16264,7 +16265,7 @@
   },
   "contributors": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T02:43:14.202Z",
+    "publishedAt": "2026-05-25T02:44:33.658Z",
     "publisherIdentity": "CS_Aiman",
     "publisherLabel": "CS_Aiman",
     "publisherRole": "user-admin",
