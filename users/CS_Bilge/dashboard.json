@@ -275,6 +275,101 @@
               "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
+            },
+            {
+              "id": "e_9o9pouy",
+              "name": "SOI220nm_1550nm_TE_IsolatedDetector",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_xx45kmo",
+                  "name": "bilge test",
+                  "tests": [
+                    {
+                      "id": "t_qr0d7of",
+                      "name": "pdk-monitor-pre-adopt-2026-05-25 (1)",
+                      "filename": "pdk-monitor-pre-adopt-2026-05-25 (1).json",
+                      "kind": "json",
+                      "size": 90661,
+                      "parsed": {
+                        "sweep": {
+                          "name": "statuses",
+                          "values": [
+                            null,
+                            null,
+                            null,
+                            null
+                          ]
+                        },
+                        "traces": [
+                          {
+                            "name": "categories",
+                            "values": [
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null
+                            ]
+                          },
+                          {
+                            "name": "bbTypes",
+                            "values": [
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null,
+                              null
+                            ]
+                          },
+                          {
+                            "name": "tabs",
+                            "values": [
+                              null
+                            ]
+                          },
+                          {
+                            "name": "contributors",
+                            "values": [
+                              null,
+                              null,
+                              null,
+                              null
+                            ]
+                          }
+                        ]
+                      },
+                      "imageUrl": null,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-25",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Bilge",
+                      "added": "2026-05-25T12:30:18.008Z",
+                      "updated": "2026-05-25",
+                      "_stripped": true
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [],
+              "fabTabs": [],
+              "_contribOnly": true
             }
           ]
         },
@@ -387,6 +482,8 @@
   "ownership": {
     "e_ltl8sye": "admin",
     "layout:e_ltl8sye": "admin",
+    "e_9o9pouy": "admin",
+    "layout:e_9o9pouy": "admin",
     "e_smtk0h0": "admin"
   },
   "labels": {
@@ -402,17 +499,26 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-25T11:10:44.521Z",
+    "publishedAt": "2026-05-25T12:30:31.706Z",
     "publisherIdentity": "CS_Bilge",
     "publisherLabel": "CS_Bilge",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.0",
-    "bbCount": 2,
+    "bbCount": 3,
     "groupCount": 2,
     "tabCount": 1,
-    "fileCount": 3,
+    "fileCount": 4,
     "sliceFor": "CS_Bilge",
-    "termsVersion": "1.1.0"
+    "termsVersion": "1.1.0",
+    "stripped": {
+      "gdsContent": 0,
+      "layoutSvg": 0,
+      "documents": 0,
+      "datasets": 2,
+      "parsed": 0,
+      "approxBytes": 211543,
+      "note": "All embedded binaries (GDS, document data URLs, large SVGs, raw CSV / S-matrix bytes) were stripped from this published payload — only metadata remains. Adopters: run a per-BB or per-platform GitHub sync to repopulate the bytes from the original GitHub source."
+    }
   }
 }
