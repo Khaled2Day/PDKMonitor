@@ -12957,17 +12957,24 @@
                 }
               ],
               "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
+              "kind": "active",
+              "bbType": "photodetector",
               "dimensionsOn": true,
               "params": {
-                "width_nm": 500,
-                "length_um": 100,
+                "length_um": 50,
+                "width_um": 4,
                 "thickness_nm": 220
               },
               "gdsName": "SOI220nm_1550nm_TE_Defect_Detector.gds",
               "gdsSize": 8680,
-              "edaTools": [],
+              "edaTools": [
+                "ipkiss",
+                "gdsfactory",
+                "klayout",
+                "virtuoso",
+                "ledit",
+                "picstudio"
+              ],
               "cdi": {},
               "fabTabs": [],
               "fetchHistory": [
@@ -13016,17 +13023,25 @@
                 }
               ],
               "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
+              "kind": "active",
+              "bbType": "mzi",
               "dimensionsOn": true,
               "params": {
+                "arm_length_um": 200,
+                "arm_imbalance_um": 50,
                 "width_nm": 500,
-                "length_um": 100,
                 "thickness_nm": 220
               },
               "gdsName": "SOI220nm_1550nm_TE_MZI_Modulator.gds",
               "gdsSize": 69134,
-              "edaTools": [],
+              "edaTools": [
+                "ipkiss",
+                "gdsfactory",
+                "klayout",
+                "virtuoso",
+                "ledit",
+                "picstudio"
+              ],
               "cdi": {},
               "fabTabs": [],
               "fetchHistory": [
@@ -13164,28 +13179,7 @@
                 {
                   "id": "sg_8yl8nt3",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_75zi1vr",
-                      "name": "SOI220nm_1310nm_TE_STRIP_2x1_MMI",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_2x1_MMI.csv",
-                      "kind": "csv",
-                      "size": 357973,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:16.116Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
+                  "datasets": [],
                   "collapsed": false
                 }
               ],
@@ -13256,28 +13250,7 @@
                 {
                   "id": "sg_6z68791",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_fxjrjqi",
-                      "name": "SOI220nm_1310nm_TE_STRIP_2x2_MMI",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_2x2_MMI.csv",
-                      "kind": "csv",
-                      "size": 631444,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:16.685Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
+                  "datasets": [],
                   "collapsed": false
                 }
               ],
@@ -13347,28 +13320,7 @@
                 {
                   "id": "sg_ouucniz",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_9ctc8xr",
-                      "name": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163660,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:17.444Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
+                  "datasets": [],
                   "collapsed": false
                 }
               ],
@@ -13499,28 +13451,7 @@
                 {
                   "id": "sg_cs1i0ye",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_h0ydh9e",
-                      "name": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.csv",
-                      "kind": "csv",
-                      "size": 630936,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:17.990Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
+                  "datasets": [],
                   "collapsed": false
                 }
               ],
@@ -13591,28 +13522,7 @@
                 {
                   "id": "sg_b3arpas",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_592is3o",
-                      "name": "SOI220nm_1550nm_TE_RIB_2x1_MMI",
-                      "filename": "SOI220nm_1550nm_TE_RIB_2x1_MMI.csv",
-                      "kind": "csv",
-                      "size": 358185,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:18.479Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
+                  "datasets": [],
                   "collapsed": false
                 }
               ],
@@ -13683,28 +13593,7 @@
                 {
                   "id": "sg_8rym890",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_hqiu3uf",
-                      "name": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend",
-                      "filename": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend.csv",
-                      "kind": "csv",
-                      "size": 164771,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:19.496Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
+                  "datasets": [],
                   "collapsed": false
                 }
               ],
@@ -13774,28 +13663,7 @@
                 {
                   "id": "sg_gkup2vs",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_gfk64gs",
-                      "name": "SOI220nm_1550nm_TE_RIB_Grating_Coupler",
-                      "filename": "SOI220nm_1550nm_TE_RIB_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163429,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:20.026Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
+                  "datasets": [],
                   "collapsed": false
                 }
               ],
@@ -13926,28 +13794,7 @@
                 {
                   "id": "sg_rri9ds2",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_779ryg4",
-                      "name": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing",
-                      "filename": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.csv",
-                      "kind": "csv",
-                      "size": 633381,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:20.700Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
+                  "datasets": [],
                   "collapsed": false
                 }
               ],
@@ -14018,28 +13865,7 @@
                 {
                   "id": "sg_nh9zyzu",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_oldfri0",
-                      "name": "SOI220nm_1550nm_TE_STRIP_2x1_MMI",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_2x1_MMI.csv",
-                      "kind": "csv",
-                      "size": 357474,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:21.249Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
+                  "datasets": [],
                   "collapsed": false
                 }
               ],
@@ -14110,28 +13936,7 @@
                 {
                   "id": "sg_j150dkf",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_7lz5vv1",
-                      "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
-                      "filename": "SOI220nm_1310nm_TE_RIB_2x1_MMI.csv",
-                      "kind": "csv",
-                      "size": 358334,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:13.670Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
+                  "datasets": [],
                   "collapsed": false
                 }
               ],
@@ -14202,28 +14007,7 @@
                 {
                   "id": "sg_7gtkg8t",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_azjkg58",
-                      "name": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.csv",
-                      "kind": "csv",
-                      "size": 165483,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:22.377Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
+                  "datasets": [],
                   "collapsed": false
                 }
               ],
@@ -14293,28 +14077,7 @@
                 {
                   "id": "sg_mteplob",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_ms2y01r",
-                      "name": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163429,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:22.770Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
+                  "datasets": [],
                   "collapsed": false
                 }
               ],
@@ -22050,9 +21813,9 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-25T14:37:24.414Z",
-    "lastPublishedSha": "3e6d629fdfc5885775eda0fd45c96da7ffebbdf5",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/3e6d629fdfc5885775eda0fd45c96da7ffebbdf5",
+    "lastPublishedAt": "2026-05-25T14:50:42.162Z",
+    "lastPublishedSha": "9087f725c5fe0dc01f174995e9fce82524f1fa2a",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/9087f725c5fe0dc01f174995e9fce82524f1fa2a",
     "lastFetchedAt": "2026-05-25T14:25:30.607Z",
     "lastFetchedSha": "d553e5b3e9dfbbfc8915f9f180a66684a18988a2",
     "lastMergeStats": {
@@ -22079,10 +21842,10 @@
       "labelsAdded": 0
     }
   },
-  "lastGithubFetch": "2026-05-25T14:08:47.705Z",
+  "lastGithubFetch": "2026-05-25T14:55:24.636Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T14:50:42.162Z",
+    "publishedAt": "2026-05-25T14:57:04.355Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
