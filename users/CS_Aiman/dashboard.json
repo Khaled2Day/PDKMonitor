@@ -168,6 +168,7 @@
             "material": "Si",
             "thickness": 220
           },
+          "collapsed": false,
           "entities": [
             {
               "id": "e_c3ncicz",
@@ -16242,7 +16243,14 @@
                   ]
                 }
               ],
-              "documents": []
+              "documents": [],
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "fetchHistory": [],
+              "edaLinks": []
             }
           ]
         }
@@ -16257,7 +16265,7 @@
   },
   "contributors": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T02:14:07.187Z",
+    "publishedAt": "2026-05-25T02:15:49.915Z",
     "publisherIdentity": "CS_Aiman",
     "publisherLabel": "CS_Aiman",
     "publisherRole": "user-admin",
