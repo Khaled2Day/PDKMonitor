@@ -277,38 +277,151 @@
               "_contribOnly": true
             }
           ]
+        },
+        {
+          "id": "g_pxvrznx",
+          "name": "SOI 220 nm Passive",
+          "platformMeta": {
+            "material": "Si",
+            "thickness": 220
+          },
+          "collapsed": false,
+          "entities": [
+            {
+              "id": "e_smtk0h0",
+              "name": "Heater",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_ivlh06u",
+                  "name": "bilge heater test",
+                  "tests": [
+                    {
+                      "id": "t_rwgwnno",
+                      "name": "pdk-bb-summary-2026-05-10 (1)",
+                      "filename": "pdk-bb-summary-2026-05-10 (1).xlsx",
+                      "kind": "xlsx",
+                      "size": 24845,
+                      "parsed": {
+                        "sweep": {
+                          "name": "Thickness (nm)",
+                          "values": [
+                            220,
+                            220,
+                            340,
+                            500,
+                            null
+                          ]
+                        },
+                        "traces": [
+                          {
+                            "name": "Tests",
+                            "values": [
+                              2,
+                              0,
+                              0,
+                              0,
+                              0
+                            ]
+                          },
+                          {
+                            "name": "S-matrix datasets",
+                            "values": [
+                              1,
+                              0,
+                              1,
+                              0,
+                              0
+                            ]
+                          },
+                          {
+                            "name": "Scripts",
+                            "values": [
+                              0,
+                              0,
+                              0,
+                              0,
+                              0
+                            ]
+                          },
+                          {
+                            "name": "Variants",
+                            "values": [
+                              0,
+                              0,
+                              0,
+                              0,
+                              0
+                            ]
+                          }
+                        ]
+                      },
+                      "rawText": null,
+                      "imageUrl": null,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-25",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Bilge",
+                      "added": "2026-05-25T10:54:38.617Z",
+                      "updated": "2026-05-25",
+                      "_stripped": true
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [],
+              "fabTabs": [],
+              "_contribOnly": true
+            }
+          ]
         }
       ]
     }
   ],
   "ownership": {
     "e_ltl8sye": "admin",
-    "layout:e_ltl8sye": "admin"
+    "layout:e_ltl8sye": "admin",
+    "e_smtk0h0": "admin"
   },
   "labels": {
     "CS_Bilge": "CS_Bilge"
   },
   "contributors": [
     {
-      "id": "c_mpl2uzbs_ksz2",
-      "name": "CS_Bilge",
       "identity": "CS_Bilge",
-      "affiliation": "",
-      "note": ""
+      "name": "CS_Bilge",
+      "role": "user-admin",
+      "addedAt": "2026-05-25T10:53:22.349Z",
+      "fromSlice": "users/CS_Bilge/dashboard.json"
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-25T10:42:57.399Z",
+    "publishedAt": "2026-05-25T10:54:54.412Z",
     "publisherIdentity": "CS_Bilge",
     "publisherLabel": "CS_Bilge",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.0",
-    "bbCount": 1,
-    "groupCount": 1,
+    "bbCount": 2,
+    "groupCount": 2,
     "tabCount": 1,
-    "fileCount": 2,
+    "fileCount": 3,
     "sliceFor": "CS_Bilge",
-    "termsVersion": "1.1.0"
+    "termsVersion": "1.1.0",
+    "stripped": {
+      "gdsContent": 0,
+      "layoutSvg": 0,
+      "documents": 0,
+      "datasets": 1,
+      "parsed": 0,
+      "approxBytes": 33128,
+      "note": "All embedded binaries (GDS, document data URLs, large SVGs, raw CSV / S-matrix bytes) were stripped from this published payload — only metadata remains. Adopters: run a per-BB or per-platform GitHub sync to repopulate the bytes from the original GitHub source."
+    }
   }
 }
