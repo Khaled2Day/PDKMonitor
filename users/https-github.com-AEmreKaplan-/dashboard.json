@@ -342,7 +342,414 @@
               "files": [],
               "scripts": [],
               "datasets": [],
-              "testGroups": [],
+              "testGroups": [
+                {
+                  "id": "tg_ix7s1sj",
+                  "name": "MPW45 CBand TM",
+                  "tests": [
+                    {
+                      "id": "t_o74g1tz",
+                      "name": "Chip1_Apodized_GC_Cband_TM_pvariation",
+                      "filename": "Chip1_Apodized_GC_Cband_TM_pvariation.fig",
+                      "kind": "fig",
+                      "size": 1302530,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:30.508Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/Chip1_Apodized_GC_Cband_TM_pvariation.fig",
+                      "repoSha": "9e41ec5003bd9bfea4adcb821aa5bbe602ead5a1"
+                    },
+                    {
+                      "id": "t_p0q5wxa",
+                      "name": "Chip1_Apodized_GC_Cband_TM_pvariation",
+                      "filename": "Chip1_Apodized_GC_Cband_TM_pvariation.png",
+                      "kind": "png",
+                      "size": 230025,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:30.564Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/Chip1_Apodized_GC_Cband_TM_pvariation.png",
+                      "repoSha": "ddeae1b90231dff3a732ff369275db86d865f275"
+                    },
+                    {
+                      "id": "t_jdb1kim",
+                      "name": "Chip1_Apodized_GC_Cband_TM_tvariation",
+                      "filename": "Chip1_Apodized_GC_Cband_TM_tvariation.fig",
+                      "kind": "fig",
+                      "size": 1304357,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:30.568Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/Chip1_Apodized_GC_Cband_TM_tvariation.fig",
+                      "repoSha": "e10f24d733d5337c0c331df4e01352ff81ed29c1"
+                    },
+                    {
+                      "id": "t_tfkzm9d",
+                      "name": "Chip1_Apodized_GC_Cband_TM_tvariation",
+                      "filename": "Chip1_Apodized_GC_Cband_TM_tvariation.png",
+                      "kind": "png",
+                      "size": 192212,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:30.584Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/Chip1_Apodized_GC_Cband_TM_tvariation.png",
+                      "repoSha": "91b9fa2fa749b32749c45bc858559ef747e85319"
+                    },
+                    {
+                      "id": "t_yvqo38h",
+                      "name": "GC_plot_Apodized Focusing_p-variation_10deg_TM",
+                      "filename": "GC_plot_Apodized Focusing_p-variation_10deg_TM.fig",
+                      "kind": "fig",
+                      "size": 1305218,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:30.588Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/GC_plot_Apodized_Focusing_p-variation_10deg_TM.fig",
+                      "repoSha": "04a57a386764820dd62b073c949d6278003ad2e5"
+                    },
+                    {
+                      "id": "t_cswmw3e",
+                      "name": "GC_plot_Apodized Focusing_p-variation_10deg_TM",
+                      "filename": "GC_plot_Apodized Focusing_p-variation_10deg_TM.png",
+                      "kind": "png",
+                      "size": 695639,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:30.603Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/GC_plot_Apodized_Focusing_p-variation_10deg_TM.png",
+                      "repoSha": "b8afc006f9d180ed5484f8ff2c5d38b3d094039b"
+                    },
+                    {
+                      "id": "t_acvh0oc",
+                      "name": "GC_plot_Apodized Focusing_p-variation_10deg_TM",
+                      "filename": "GC_plot_Apodized Focusing_p-variation_10deg_TM.xlsx",
+                      "kind": "xlsx",
+                      "size": 13007,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:30.608Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/GC_plot_Apodized_Focusing_p-variation_10deg_TM.xlsx",
+                      "repoSha": "b7c365a24065deca7e925e9e185dcd1812b3cef9"
+                    },
+                    {
+                      "id": "t_kq2a79x",
+                      "name": "GC_plot_Apodized Focusing_t-variation_10deg_TM",
+                      "filename": "GC_plot_Apodized Focusing_t-variation_10deg_TM.fig",
+                      "kind": "fig",
+                      "size": 1307129,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:30.709Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/GC_plot_Apodized_Focusing_t-variation_10deg_TM.fig",
+                      "repoSha": "e8f472ed5bece1efd490b2ca3f511f4846a31016"
+                    },
+                    {
+                      "id": "t_u02sg24",
+                      "name": "GC_plot_Apodized Focusing_t-variation_10deg_TM",
+                      "filename": "GC_plot_Apodized Focusing_t-variation_10deg_TM.png",
+                      "kind": "png",
+                      "size": 597662,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:30.728Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/GC_plot_Apodized_Focusing_t-variation_10deg_TM.png",
+                      "repoSha": "486e0f3760cce6f616c0d8b7898415181b807671"
+                    },
+                    {
+                      "id": "t_w99re3a",
+                      "name": "GC_plot_Apodized Focusing_t-variation_10deg_TM",
+                      "filename": "GC_plot_Apodized Focusing_t-variation_10deg_TM.xlsx",
+                      "kind": "xlsx",
+                      "size": 13055,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:30.733Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/GC_plot_Apodized_Focusing_t-variation_10deg_TM.xlsx",
+                      "repoSha": "e6b92622f71825cdcc7cdeb5da98c79cde480130"
+                    },
+                    {
+                      "id": "t_125st2y",
+                      "name": "p-15",
+                      "filename": "p-15.xlsx",
+                      "kind": "xlsx",
+                      "size": 417500,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:30.741Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/p-15.xlsx",
+                      "repoSha": "cc5fb7cfc66309469f6da3f5e034fc8b2d6d79c6"
+                    },
+                    {
+                      "id": "t_93q4rzr",
+                      "name": "p-30",
+                      "filename": "p-30.xlsx",
+                      "kind": "xlsx",
+                      "size": 419057,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:30.861Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/p-30.xlsx",
+                      "repoSha": "db34e61086cf30ddf194a0fc676c3ce6f6ec5e4e"
+                    },
+                    {
+                      "id": "t_hbuwat1",
+                      "name": "p0",
+                      "filename": "p0.xlsx",
+                      "kind": "xlsx",
+                      "size": 420076,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:30.952Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/p0.xlsx",
+                      "repoSha": "1925bb48811d900fa4f958a284b4026b874aafb8"
+                    },
+                    {
+                      "id": "t_h3mgexu",
+                      "name": "p15",
+                      "filename": "p15.xlsx",
+                      "kind": "xlsx",
+                      "size": 423551,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:31.042Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/p15.xlsx",
+                      "repoSha": "e2b181b490ee9bb7aaff664b75b8df472484506c"
+                    },
+                    {
+                      "id": "t_s80qynv",
+                      "name": "p30",
+                      "filename": "p30.xlsx",
+                      "kind": "xlsx",
+                      "size": 423874,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:31.129Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/p30.xlsx",
+                      "repoSha": "be91129fb2ae2e88047b522a1e4c4c3f7275aabf"
+                    },
+                    {
+                      "id": "t_dfoqs31",
+                      "name": "t-15",
+                      "filename": "t-15.xlsx",
+                      "kind": "xlsx",
+                      "size": 451331,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:31.209Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/t-15.xlsx",
+                      "repoSha": "afd96275f7c2958e8ea06a6597cf697780ff154a"
+                    },
+                    {
+                      "id": "t_zgvjou9",
+                      "name": "t-30",
+                      "filename": "t-30.xlsx",
+                      "kind": "xlsx",
+                      "size": 422358,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:31.299Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/t-30.xlsx",
+                      "repoSha": "95c2a6e737ec2878be4a1479437583428feb16f8"
+                    },
+                    {
+                      "id": "t_yzhxy7q",
+                      "name": "t0",
+                      "filename": "t0.xlsx",
+                      "kind": "xlsx",
+                      "size": 456557,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:31.392Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/t0.xlsx",
+                      "repoSha": "8a5bfb660eed8698f2b72929ef3ea077d3a25507"
+                    },
+                    {
+                      "id": "t_qph6z0l",
+                      "name": "t15",
+                      "filename": "t15.xlsx",
+                      "kind": "xlsx",
+                      "size": 423530,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:31.485Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/t15.xlsx",
+                      "repoSha": "37c3eb4a7aeb2e21314629e152410f44a922f246"
+                    },
+                    {
+                      "id": "t_7xg37zt",
+                      "name": "t30",
+                      "filename": "t30.xlsx",
+                      "kind": "xlsx",
+                      "size": 423381,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T16:32:31.567Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/tests/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/t30.xlsx",
+                      "repoSha": "17cf21806242778705c601fc0bd49bc40d75b1f3"
+                    }
+                  ]
+                }
+              ],
               "updated": "2026-05-26",
               "kind": "passive",
               "bbType": "grating-coupler",
@@ -419,7 +826,7 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-26T16:27:33.605Z",
+    "publishedAt": "2026-05-26T16:36:43.026Z",
     "publisherIdentity": "https://github.com/AEmreKaplan/",
     "publisherLabel": "CS_Emre",
     "publisherRole": "user-admin",
@@ -428,7 +835,7 @@
     "bbCount": 5,
     "groupCount": 1,
     "tabCount": 1,
-    "fileCount": 1,
+    "fileCount": 21,
     "sliceFor": "https://github.com/AEmreKaplan/",
     "termsVersion": "1.1.0",
     "stripped": {
@@ -441,10 +848,10 @@
       "note": "All embedded binaries (GDS, document data URLs, large SVGs, raw CSV / S-matrix bytes) were stripped from this published payload — only metadata remains. Adopters: run a per-BB or per-platform GitHub sync to repopulate the bytes from the original GitHub source."
     },
     "externalized": {
-      "uploaded": 1,
+      "uploaded": 20,
       "skipped": 0,
       "failed": 0,
-      "reused": 0,
+      "reused": 1,
       "usersDir": "users/https-github.com-AEmreKaplan-/",
       "note": "Uploaded items live as separate files under users/https-github.com-AEmreKaplan-/<section>/<bb>/. Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent — items already carrying a repoPath are skipped."
     }
