@@ -13044,7 +13044,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mpluqfa5_0",
+        "id": "s_mplwff7o_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -13052,19 +13052,11 @@
         "enabled": true
       },
       {
-        "id": "s_mpluqfa5_1",
+        "id": "s_mplwff7o_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
-        "enabled": true
-      },
-      {
-        "id": "s_mplvf36e_xtk",
-        "label": "CS_Bilge",
-        "repo": "cornerstone-uos/PDKMonitor/users",
-        "branch": "main",
-        "path": "CS_Bilge/dashboard.json",
         "enabled": true
       }
     ],
@@ -13072,24 +13064,24 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-26T00:03:42.660Z",
-    "lastPublishedSha": "6cb8d855963cff551f36e58bf5da0a6784344b2e",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/6cb8d855963cff551f36e58bf5da0a6784344b2e",
-    "lastFetchedAt": "2026-05-26T00:01:57.691Z",
+    "lastPublishedAt": "2026-05-26T01:21:27.270Z",
+    "lastPublishedSha": "0102576249eddeb64073364756ae601af1a4d526",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/0102576249eddeb64073364756ae601af1a4d526",
+    "lastFetchedAt": "2026-05-26T01:20:32.732Z",
     "lastFetchedSha": "d553e5b3e9dfbbfc8915f9f180a66684a18988a2",
     "lastMergeStats": {
-      "tabs": 3,
-      "groups": 7,
-      "entities": 55,
+      "tabs": 0,
+      "groups": 0,
+      "entities": 0,
       "contributors": 0,
-      "ownership": 2811,
-      "labels": 1,
+      "ownership": 0,
+      "labels": 0,
       "statuses": 0,
       "categories": 0,
       "bbTypes": 0,
       "files": 0,
       "scripts": 0,
-      "documents": 69,
+      "documents": 0,
       "tg": 0,
       "sm": 0,
       "fab": 0
@@ -13104,7 +13096,7 @@
   "lastGithubFetch": "2026-05-25T19:15:25.939Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-26T00:04:53.556Z",
+    "publishedAt": "2026-05-26T01:21:51.823Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
