@@ -3624,7 +3624,7 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-27T17:35:40.354Z",
+    "publishedAt": "2026-05-27T17:34:39.597Z",
     "publisherIdentity": "https://github.com/AEmreKaplan/",
     "publisherLabel": "CS_Emre",
     "publisherRole": "user-admin",
@@ -3646,10 +3646,10 @@
       "note": "All embedded binaries (GDS, document data URLs, large SVGs, raw CSV / S-matrix bytes) were stripped from this published payload — only metadata remains. Adopters: run a per-BB or per-platform GitHub sync to repopulate the bytes from the original GitHub source."
     },
     "externalized": {
-      "uploaded": 11,
+      "uploaded": 80,
       "skipped": 0,
       "failed": 1,
-      "reused": 75,
+      "reused": 6,
       "usersDir": "users/https-github.com-AEmreKaplan-/",
       "layoutVersion": "rev4-pdkmonitor-prefix",
       "note": "Per-BB folder layout: users/https-github.com-AEmreKaplan-/<bb>/PDKMonitor_<section>/<file> — section folders prefixed with PDKMonitor_ so it's clear which dirs this dashboard wrote (PDKMonitor_components, PDKMonitor_sparams, PDKMonitor_characterisation, PDKMonitor_fabrication, PDKMonitor_scripts, PDKMonitor_documents, PDKMonitor_layout, PDKMonitor_variants). Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent."
