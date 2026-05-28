@@ -1,0 +1,1660 @@
+{
+  "statuses": [
+    {
+      "id": "available",
+      "name": "Available",
+      "color": "#3fb950"
+    },
+    {
+      "id": "progress",
+      "name": "In progress",
+      "color": "#d29922"
+    },
+    {
+      "id": "planned",
+      "name": "Planned",
+      "color": "#58a6ff"
+    },
+    {
+      "id": "discontinued",
+      "name": "Discontinued",
+      "color": "#f85149"
+    }
+  ],
+  "categories": [
+    {
+      "id": "passive",
+      "name": "Passive",
+      "color": "#58a6ff"
+    },
+    {
+      "id": "active",
+      "name": "Active",
+      "color": "#0fc7c4"
+    },
+    {
+      "id": "packaging",
+      "name": "Packaging",
+      "color": "#a371f7"
+    },
+    {
+      "id": "detector",
+      "name": "Detector",
+      "color": "#3fb950"
+    },
+    {
+      "id": "source",
+      "name": "Laser",
+      "color": "#c84674"
+    },
+    {
+      "id": "hybrid",
+      "name": "Hybrid",
+      "color": "#8b6cf5"
+    },
+    {
+      "id": "heater",
+      "name": "Electrical",
+      "color": "#d7da4e"
+    }
+  ],
+  "bbTypes": [
+    {
+      "id": "waveguide",
+      "name": "waveguide",
+      "sketch": "waveguide"
+    },
+    {
+      "id": "mmi",
+      "name": "mmi",
+      "sketch": "mmi"
+    },
+    {
+      "id": "crossing",
+      "name": "crossing",
+      "sketch": "crossing"
+    },
+    {
+      "id": "bend",
+      "name": "bend",
+      "sketch": "bend"
+    },
+    {
+      "id": "mzi",
+      "name": "mzi",
+      "sketch": "mzi"
+    },
+    {
+      "id": "ring",
+      "name": "ring",
+      "sketch": "ring"
+    },
+    {
+      "id": "directional-coupler",
+      "name": "directional coupler",
+      "sketch": "directional-coupler"
+    },
+    {
+      "id": "grating-coupler",
+      "name": "grating coupler",
+      "sketch": "grating-coupler"
+    },
+    {
+      "id": "edge-coupler",
+      "name": "edge coupler",
+      "sketch": "edge-coupler"
+    },
+    {
+      "id": "spiral",
+      "name": "spiral",
+      "sketch": "spiral"
+    },
+    {
+      "id": "photodetector",
+      "name": "photodetector",
+      "sketch": "photodetector"
+    },
+    {
+      "id": "modulator",
+      "name": "modulator",
+      "sketch": "modulator"
+    },
+    {
+      "id": "custom",
+      "name": "custom",
+      "sketch": "custom"
+    }
+  ],
+  "edaTools": [
+    {
+      "id": "ipkiss",
+      "name": "IPKISS (Luceda Photonics)",
+      "color": "#58a6ff"
+    },
+    {
+      "id": "gdsfactory",
+      "name": "gdsfactory",
+      "color": "#3fb950"
+    },
+    {
+      "id": "synopsys",
+      "name": "Synopsys",
+      "color": "#d29922"
+    },
+    {
+      "id": "nazca",
+      "name": "Nazca",
+      "color": "#db61a2"
+    },
+    {
+      "id": "klayout",
+      "name": "KLayout",
+      "color": "#a371f7"
+    },
+    {
+      "id": "virtuoso",
+      "name": "Virtuoso (Cadence)",
+      "color": "#f85149"
+    },
+    {
+      "id": "ledit",
+      "name": "L-Edit (Siemens)",
+      "color": "#79c0ff"
+    },
+    {
+      "id": "picstudio",
+      "name": "PIC Studio",
+      "color": "#7ee48b"
+    }
+  ],
+  "cdiAxes": [
+    {
+      "id": "chip",
+      "name": "Chip level",
+      "min": 1,
+      "max": 4,
+      "color": "#58a6ff"
+    },
+    {
+      "id": "wafer",
+      "name": "Wafer level",
+      "min": 1,
+      "max": 4,
+      "color": "#3fb950"
+    },
+    {
+      "id": "packaging",
+      "name": "Assembly level",
+      "min": 1,
+      "max": 4,
+      "color": "#a371f7"
+    }
+  ],
+  "layers": [
+    {
+      "id": "l1",
+      "name": "Si full etch",
+      "layer": 3,
+      "datatype": 0,
+      "description": "Strip waveguides \u2014 silicon fully etched",
+      "color": "#d29922"
+    },
+    {
+      "id": "l2",
+      "name": "Waveguide etch",
+      "layer": 4,
+      "datatype": 0,
+      "description": "Silicon etch \u2014 defines rib waveguide regions",
+      "color": "#db61a2"
+    },
+    {
+      "id": "l3",
+      "name": "Slab etch",
+      "layer": 5,
+      "datatype": 0,
+      "description": "Partial silicon etch for slab/rib transitions",
+      "color": "#f5a83a"
+    },
+    {
+      "id": "l4",
+      "name": "Grating",
+      "layer": 6,
+      "datatype": 0,
+      "description": "Grating teeth \u2014 fibre coupler",
+      "color": "#c4742d"
+    },
+    {
+      "id": "l5",
+      "name": "Heater",
+      "layer": 22,
+      "datatype": 0,
+      "description": "TiN / NiCr metallic heater filament",
+      "color": "#3fb950"
+    },
+    {
+      "id": "l6",
+      "name": "Contact",
+      "layer": 39,
+      "datatype": 0,
+      "description": "Via / contact to underlying metal layer",
+      "color": "#db61a2"
+    },
+    {
+      "id": "l7",
+      "name": "Metal 1 (pads)",
+      "layer": 41,
+      "datatype": 0,
+      "description": "Aluminium metallisation \u2014 bond pads / routing",
+      "color": "#a371f7"
+    },
+    {
+      "id": "l8",
+      "name": "Implant n+",
+      "layer": 60,
+      "datatype": 0,
+      "description": "n+ doping implant \u2014 modulator / PD contacts",
+      "color": "#58a6ff"
+    },
+    {
+      "id": "l9",
+      "name": "Label / text",
+      "layer": 99,
+      "datatype": 0,
+      "description": "Text labels \u2014 non-fabricated, documentation only",
+      "color": "#6e7681"
+    },
+    {
+      "id": "l10",
+      "name": "Cell outline",
+      "layer": 100,
+      "datatype": 0,
+      "description": "Logical bounding box / cell outline marker",
+      "color": "#58a6ff"
+    },
+    {
+      "id": "l11",
+      "name": "DRC waiver",
+      "layer": 203,
+      "datatype": 0,
+      "description": "DRC exemption marker",
+      "color": "#d29922"
+    },
+    {
+      "id": "l12",
+      "name": "Floorplan",
+      "layer": 204,
+      "datatype": 0,
+      "description": "Floorplan / placement helper",
+      "color": "#c4742d"
+    }
+  ],
+  "about": {
+    "version": "v1.0.0",
+    "contact": "pdk.cornerstone.soton.ac.uk",
+    "notes": "CORNERSTONE PDK Monitor v1.0.0 \u2014 default dashboard.\nPre-loaded with building blocks for SOI 220/340/500 nm, TFLN 300 nm, and SiN 300/200 nm platforms.\nAll BBs shown are available or in-progress components from the CORNERSTONE open-source PDK.\nImport your own dashboard.json to replace this seed data.",
+    "logoUrl": "",
+    "links": [
+      {
+        "label": "github PDK (open platform)",
+        "url": "https://github.com/cornerstone-uos/cornerstone-community"
+      },
+      {
+        "label": "github PDK (main)",
+        "url": "https://github.com/cornerstone-uos/cornerstone-pdk"
+      },
+      {
+        "label": "website (open platform)",
+        "url": "https://cornerstone.sotonfab.co.uk/cornerstone-open-platform/"
+      },
+      {
+        "label": "CORNERSTONE website",
+        "url": "https://cornerstone.sotonfab.co.uk"
+      }
+    ]
+  },
+  "contributors": [
+    {
+      "id": "c_seed_author",
+      "name": "Emre Kaplan",
+      "identity": "a.emrekaplan@gmail.com",
+      "affiliation": "University of Southampton \u2014 CORNERSTONE Open Platform",
+      "note": "Dashboard author + initial maintainer"
+    }
+  ],
+  "ownership": {},
+  "labels": {},
+  "uploads": [],
+  "tabs": [
+    {
+      "id": "tab_fel6246h",
+      "name": "Technology Platforms",
+      "groups": [
+        {
+          "id": "g_253j2d54",
+          "name": "SOI 220 nm",
+          "platformMeta": {
+            "material": "Si",
+            "thickness": 220
+          },
+          "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
+          "githubSubdir": "components",
+          "entities": [
+            {
+              "id": "e_xaji0y6d",
+              "name": "Strip Waveguide",
+              "bbType": "waveguide",
+              "category": "passive",
+              "status": "available",
+              "description": "Single-mode strip waveguide. Standard width 500 nm, height 220 nm. Propagation loss ~2.5 dB/cm.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "width_nm": 500,
+                "height_nm": 220,
+                "loss_dBcm": 2.5
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout",
+                "ipkiss"
+              ],
+              "cdi": {
+                "chip": 4,
+                "wafer": 3,
+                "packaging": 2
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_pbhsahxt",
+              "name": "Rib Waveguide",
+              "bbType": "waveguide",
+              "category": "passive",
+              "status": "available",
+              "description": "Rib waveguide for low-loss routing. Slab height 90 nm, rib width 800 nm.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "rib_width_nm": 800,
+                "slab_height_nm": 90
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_hv3a3zmf",
+              "name": "Euler Bend 90\u00b0",
+              "bbType": "bend",
+              "category": "passive",
+              "status": "available",
+              "description": "Low-loss Euler (clothoid) bend, 90\u00b0 rotation. Minimum radius 5 \u00b5m, loss < 0.05 dB/bend.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "radius_um": 5,
+                "angle_deg": 90,
+                "loss_dB": 0.05
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 4,
+                "wafer": 3,
+                "packaging": 2
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_8mdd4v30",
+              "name": "S-bend",
+              "bbType": "bend",
+              "category": "passive",
+              "status": "available",
+              "description": "S-shaped bend for lateral offset routing.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "offset_um": 10,
+                "length_um": 30
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_t9nt3w5u",
+              "name": "MMI 1\u00d72",
+              "bbType": "mmi",
+              "category": "passive",
+              "status": "available",
+              "description": "1\u00d72 multimode interferometer, 50:50 splitting. IL < 0.3 dB, imbalance < 0.1 dB.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "width_um": 3.0,
+                "length_um": 13.5,
+                "gap_nm": 500,
+                "IL_dB": 0.3
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout",
+                "ipkiss"
+              ],
+              "cdi": {
+                "chip": 4,
+                "wafer": 4,
+                "packaging": 2
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_zbikcidk",
+              "name": "MMI 2\u00d72",
+              "bbType": "mmi",
+              "category": "passive",
+              "status": "available",
+              "description": "2\u00d72 MMI coupler, 3 dB hybrid. Used in MZI arms and coherent receivers.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "width_um": 3.4,
+                "length_um": 27.0
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_wnnhj7xv",
+              "name": "Directional Coupler",
+              "bbType": "directional-coupler",
+              "category": "passive",
+              "status": "available",
+              "description": "Evanescent directional coupler. Gap 200 nm, coupling length tuned per split ratio.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "gap_nm": 200,
+                "coupling_length_um": 15
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_g0fn9xuy",
+              "name": "Grating Coupler (TE)",
+              "bbType": "grating-coupler",
+              "category": "passive",
+              "status": "available",
+              "description": "Focusing grating coupler, TE polarisation. IL ~2.5 dB, 1 dB BW ~40 nm @ 1550 nm.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "period_nm": 630,
+                "ff": 0.5,
+                "angle_deg": 10,
+                "IL_dB": 2.5,
+                "BW_1dB_nm": 40
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 4,
+                "wafer": 3,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_41ibljh7",
+              "name": "Edge Coupler",
+              "bbType": "edge-coupler",
+              "category": "passive",
+              "status": "available",
+              "description": "Inverse taper edge coupler. Mode-matched to lensed fibre, IL < 1 dB.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "tip_width_nm": 120,
+                "length_um": 300,
+                "IL_dB": 1.0
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_5lxo6qji",
+              "name": "Ring Resonator (add-drop)",
+              "bbType": "ring",
+              "category": "passive",
+              "status": "available",
+              "description": "Add-drop microring resonator. FSR ~5 nm, Q ~10 000, ER > 20 dB.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "radius_um": 10,
+                "gap_nm": 200,
+                "FSR_nm": 5.0,
+                "Q": 10000
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 3,
+                "wafer": 2,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_ujv6oh9s",
+              "name": "Ring Resonator (all-pass)",
+              "bbType": "ring",
+              "category": "passive",
+              "status": "available",
+              "description": "All-pass ring resonator for sensing and filtering.",
+              "contributor": "Emre Kaplan",
+              "params": {},
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_dbdw2pcn",
+              "name": "Waveguide Crossing",
+              "bbType": "crossing",
+              "category": "passive",
+              "status": "available",
+              "description": "Low-crosstalk waveguide crossing. IL < 0.1 dB, XT < -35 dB.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "IL_dB": 0.1,
+                "XT_dB": -35
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_9t84azyt",
+              "name": "MZI (balanced)",
+              "bbType": "mzi",
+              "category": "passive",
+              "status": "available",
+              "description": "Balanced Mach-Zehnder interferometer built from two MMI 1\u00d72 and straight arms.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "arm_length_um": 200
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_jxepq85j",
+              "name": "Thermo-optic Phase Shifter",
+              "bbType": "waveguide",
+              "category": "heater",
+              "status": "available",
+              "description": "TiN heater over waveguide, P\u03c0 ~20 mW, rise time ~10 \u00b5s.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "Ppi_mW": 20,
+                "rise_time_us": 10,
+                "resistance_ohm": 1000
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 3,
+                "wafer": 2,
+                "packaging": 2
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_sg65kxvf",
+              "name": "Photodetector (Ge)",
+              "bbType": "photodetector",
+              "category": "detector",
+              "status": "progress",
+              "description": "Ge-on-Si photodetector. Responsivity ~1 A/W @ 1550 nm, BW ~20 GHz.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "responsivity_AW": 1.0,
+                "BW_GHz": 20
+              },
+              "edaTools": [
+                "gdsfactory"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_1t2tala7",
+              "name": "Spiral Delay Line",
+              "bbType": "spiral",
+              "category": "passive",
+              "status": "available",
+              "description": "Compact spiral waveguide for on-chip delay. Configurable total length.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "total_length_um": 5000
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            }
+          ]
+        },
+        {
+          "id": "g_i3qk2iag",
+          "name": "SOI 340 nm",
+          "platformMeta": {
+            "material": "Si",
+            "thickness": 340
+          },
+          "entities": [
+            {
+              "id": "e_53lc58dr",
+              "name": "Strip Waveguide 340 nm",
+              "bbType": "waveguide",
+              "category": "passive",
+              "status": "available",
+              "description": "Single-mode strip waveguide on 340 nm SOI. Width 800 nm.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "width_nm": 800,
+                "height_nm": 340
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_c11ertj5",
+              "name": "Grating Coupler (TE) 340",
+              "bbType": "grating-coupler",
+              "category": "passive",
+              "status": "available",
+              "description": "Grating coupler optimised for 340 nm SOI platform. IL ~2 dB.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "IL_dB": 2.0,
+                "BW_1dB_nm": 35
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_pht0hl9x",
+              "name": "MMI 1\u00d72 340 nm",
+              "bbType": "mmi",
+              "category": "passive",
+              "status": "available",
+              "description": "1\u00d72 MMI on 340 nm platform.",
+              "contributor": "Emre Kaplan",
+              "params": {},
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_pseimvih",
+              "name": "Ring Resonator 340 nm",
+              "bbType": "ring",
+              "category": "passive",
+              "status": "progress",
+              "description": "Add-drop ring, 340 nm SOI. Larger FSR due to different dispersion.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "radius_um": 8,
+                "FSR_nm": 7.5
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_cwi64ciy",
+              "name": "MZI Modulator",
+              "bbType": "modulator",
+              "category": "active",
+              "status": "progress",
+              "description": "PN-junction MZI modulator. V\u03c0\u00b7L ~1 V\u00b7cm, BW ~30 GHz.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "VpiL_Vcm": 1.0,
+                "BW_GHz": 30
+              },
+              "edaTools": [
+                "gdsfactory"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            }
+          ]
+        },
+        {
+          "id": "g_l58kxo9t",
+          "name": "SOI 500 nm",
+          "platformMeta": {
+            "material": "Si",
+            "thickness": 500
+          },
+          "entities": [
+            {
+              "id": "e_he7ur23g",
+              "name": "Strip Waveguide 500 nm",
+              "bbType": "waveguide",
+              "category": "passive",
+              "status": "available",
+              "description": "Multi-mode strip waveguide, 500 nm SOI. Width 1 \u00b5m.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "width_nm": 1000,
+                "height_nm": 500
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_dppq0y9d",
+              "name": "Grating Coupler 500 nm",
+              "bbType": "grating-coupler",
+              "category": "passive",
+              "status": "planned",
+              "description": "Grating coupler for 500 nm platform.",
+              "contributor": "Emre Kaplan",
+              "params": {},
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_om5igqpk",
+              "name": "MMI 1\u00d72 500 nm",
+              "bbType": "mmi",
+              "category": "passive",
+              "status": "planned",
+              "description": "1\u00d72 MMI coupler, 500 nm SOI.",
+              "contributor": "Emre Kaplan",
+              "params": {},
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            }
+          ]
+        },
+        {
+          "id": "g_7e8g8jdp",
+          "name": "TFLN 300 nm",
+          "platformMeta": {
+            "material": "LN",
+            "thickness": 300
+          },
+          "entities": [
+            {
+              "id": "e_i7p5tb94",
+              "name": "LN Strip Waveguide",
+              "bbType": "waveguide",
+              "category": "passive",
+              "status": "available",
+              "description": "Thin-film lithium niobate strip waveguide. Width 1.5 \u00b5m, height 300 nm. Loss ~0.3 dB/cm.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "width_nm": 1500,
+                "height_nm": 300,
+                "loss_dBcm": 0.3
+              },
+              "edaTools": [
+                "gdsfactory"
+              ],
+              "cdi": {
+                "chip": 3,
+                "wafer": 2,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_874frhoc",
+              "name": "LN Grating Coupler",
+              "bbType": "grating-coupler",
+              "category": "passive",
+              "status": "available",
+              "description": "Grating coupler for TFLN platform, TE polarisation.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "IL_dB": 3.5
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_n9j2qp89",
+              "name": "LN Edge Coupler",
+              "bbType": "edge-coupler",
+              "category": "passive",
+              "status": "available",
+              "description": "Inverse taper edge coupler for TFLN. IL < 1.5 dB.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "IL_dB": 1.5
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_uzfk8ut0",
+              "name": "EO Phase Shifter",
+              "bbType": "modulator",
+              "category": "active",
+              "status": "available",
+              "description": "Electro-optic phase shifter, LN. V\u03c0\u00b7L ~2.5 V\u00b7cm, BW > 40 GHz.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "VpiL_Vcm": 2.5,
+                "BW_GHz": 40
+              },
+              "edaTools": [
+                "gdsfactory"
+              ],
+              "cdi": {
+                "chip": 3,
+                "wafer": 2,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_cvs4f8cg",
+              "name": "MZI Modulator (LN)",
+              "bbType": "mzi",
+              "category": "active",
+              "status": "progress",
+              "description": "High-speed MZI modulator on TFLN. Target BW > 50 GHz.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "BW_GHz": 50
+              },
+              "edaTools": [
+                "gdsfactory"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_vyie6ivw",
+              "name": "LN Ring Modulator",
+              "bbType": "ring",
+              "category": "active",
+              "status": "planned",
+              "description": "Microring EO modulator, TFLN.",
+              "contributor": "Emre Kaplan",
+              "params": {},
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            }
+          ]
+        },
+        {
+          "id": "g_0lvsnujz",
+          "name": "SiN 300 nm",
+          "platformMeta": {
+            "material": "SiN",
+            "thickness": 300
+          },
+          "entities": [
+            {
+              "id": "e_pvs7hzio",
+              "name": "SiN Waveguide 300 nm",
+              "bbType": "waveguide",
+              "category": "passive",
+              "status": "available",
+              "description": "SiN waveguide, 300 nm thickness. Ultra-low loss ~0.1 dB/cm, width 1.2 \u00b5m.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "width_nm": 1200,
+                "height_nm": 300,
+                "loss_dBcm": 0.1
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 4,
+                "wafer": 3,
+                "packaging": 2
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_ykl1cq99",
+              "name": "SiN Grating Coupler",
+              "bbType": "grating-coupler",
+              "category": "passive",
+              "status": "available",
+              "description": "Grating coupler for SiN 300 nm. IL ~2 dB.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "IL_dB": 2.0
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_chj755nf",
+              "name": "SiN MMI 1\u00d72",
+              "bbType": "mmi",
+              "category": "passive",
+              "status": "available",
+              "description": "1\u00d72 MMI on SiN 300 nm platform. IL < 0.2 dB.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "IL_dB": 0.2
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_4zw9xa3k",
+              "name": "SiN Ring Resonator",
+              "bbType": "ring",
+              "category": "passive",
+              "status": "available",
+              "description": "High-Q SiN microring. Q > 100 000, ultra-low loss.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "Q": 100000,
+                "radius_um": 50
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_x7eedtjv",
+              "name": "SiN Euler Bend",
+              "bbType": "bend",
+              "category": "passive",
+              "status": "available",
+              "description": "Euler bend for SiN 300 nm. Minimum radius 200 \u00b5m for single mode.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "radius_um": 200
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            }
+          ]
+        },
+        {
+          "id": "g_a7tz0ync",
+          "name": "SiN 200 nm",
+          "platformMeta": {
+            "material": "SiN",
+            "thickness": 200
+          },
+          "entities": [
+            {
+              "id": "e_zhwjr64d",
+              "name": "SiN Waveguide 200 nm",
+              "bbType": "waveguide",
+              "category": "passive",
+              "status": "available",
+              "description": "SiN waveguide, 200 nm thickness. Low loss, wide transparency window.",
+              "contributor": "Emre Kaplan",
+              "params": {
+                "width_nm": 1000,
+                "height_nm": 200
+              },
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_pja1wj0t",
+              "name": "SiN Grating Coupler 200",
+              "bbType": "grating-coupler",
+              "category": "passive",
+              "status": "planned",
+              "description": "Grating coupler for SiN 200 nm platform.",
+              "contributor": "Emre Kaplan",
+              "params": {},
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            },
+            {
+              "id": "e_pac56t4u",
+              "name": "SiN MMI 1\u00d72 200 nm",
+              "bbType": "mmi",
+              "category": "passive",
+              "status": "planned",
+              "description": "1\u00d72 MMI on SiN 200 nm.",
+              "contributor": "Emre Kaplan",
+              "params": {},
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {
+                "chip": 2,
+                "wafer": 1,
+                "packaging": 1
+              },
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "created": "2026-05-28",
+              "updated": "2026-05-28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tab_id25owf7",
+      "name": "Design Manual",
+      "groups": [
+        {
+          "id": "g_xll4zklo",
+          "name": "Process Specifications",
+          "kind": "docs",
+          "entities": [
+            {
+              "id": "e_okep7y6w",
+              "name": "SOI 220 nm Process Flow",
+              "category": "passive",
+              "status": "available",
+              "description": "Layer stack, etch depths, and process steps for the SOI 220 nm platform.",
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "params": {},
+              "edaTools": [],
+              "cdi": {}
+            },
+            {
+              "id": "e_ktakpuxq",
+              "name": "TFLN 300 nm Process Flow",
+              "category": "active",
+              "status": "available",
+              "description": "Process specification for thin-film lithium niobate platform.",
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "params": {},
+              "edaTools": [],
+              "cdi": {}
+            },
+            {
+              "id": "e_phr62gds",
+              "name": "SiN Process Flow",
+              "category": "passive",
+              "status": "progress",
+              "description": "SiN 300/200 nm LPCVD process flow and layer definitions.",
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "params": {},
+              "edaTools": [],
+              "cdi": {}
+            }
+          ]
+        },
+        {
+          "id": "g_wm31yiha",
+          "name": "Layer Maps & Design Rules",
+          "kind": "docs",
+          "entities": [
+            {
+              "id": "e_ir4cowgz",
+              "name": "GDS Layer Map",
+              "category": "passive",
+              "status": "available",
+              "description": "GDS layer numbers, datatypes, colours and descriptions for all platforms.",
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "params": {},
+              "edaTools": [],
+              "cdi": {}
+            },
+            {
+              "id": "e_rixa11dp",
+              "name": "Design Rule Check (DRC)",
+              "category": "passive",
+              "status": "available",
+              "description": "KLayout DRC deck for all Cornerstone platforms. Min widths, spacings, enclosures.",
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "params": {},
+              "edaTools": [],
+              "cdi": {}
+            },
+            {
+              "id": "e_g8sbi4q2",
+              "name": "Designer Guide",
+              "category": "passive",
+              "status": "progress",
+              "description": "Best practices, routing rules, and worked examples for each platform.",
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "params": {},
+              "edaTools": [],
+              "cdi": {}
+            }
+          ]
+        },
+        {
+          "id": "g_y9v86wzs",
+          "name": "EDA Integration",
+          "kind": "docs",
+          "entities": [
+            {
+              "id": "e_3t60rjiw",
+              "name": "gdsfactory PDK",
+              "category": "passive",
+              "status": "available",
+              "description": "gdsfactory component library for all Cornerstone platforms. Install via pip.",
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "params": {},
+              "edaTools": [
+                "gdsfactory"
+              ],
+              "cdi": {}
+            },
+            {
+              "id": "e_1swjckjl",
+              "name": "IPKISS PDK",
+              "category": "passive",
+              "status": "available",
+              "description": "IPKISS (Luceda) component library.",
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "params": {},
+              "edaTools": [
+                "ipkiss"
+              ],
+              "cdi": {}
+            },
+            {
+              "id": "e_teiyzcot",
+              "name": "KLayout Scripts",
+              "category": "passive",
+              "status": "available",
+              "description": "KLayout DRC, LVS and viewer scripts for all platforms.",
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "params": {},
+              "edaTools": [
+                "klayout"
+              ],
+              "cdi": {}
+            }
+          ]
+        }
+      ],
+      "kind": "docs"
+    },
+    {
+      "id": "tab_5935a0l7",
+      "name": "Post-Processing",
+      "groups": [
+        {
+          "id": "g_ohp6vz41",
+          "name": "DRC & Verification",
+          "entities": [
+            {
+              "id": "e_nam148p0",
+              "name": "DRC Deck (SOI)",
+              "category": "passive",
+              "status": "available",
+              "description": "KLayout .lydrc rule deck for SOI platforms. Covers min width, spacing, density.",
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "params": {},
+              "edaTools": [
+                "klayout"
+              ],
+              "cdi": {}
+            },
+            {
+              "id": "e_tvhhpbmy",
+              "name": "DRC Deck (TFLN)",
+              "category": "active",
+              "status": "progress",
+              "description": "DRC deck for TFLN 300 nm platform.",
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "params": {},
+              "edaTools": [
+                "klayout"
+              ],
+              "cdi": {}
+            },
+            {
+              "id": "e_ofqewaou",
+              "name": "LVS Check",
+              "category": "passive",
+              "status": "planned",
+              "description": "Layout vs Schematic verification.",
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "params": {},
+              "edaTools": [],
+              "cdi": {}
+            }
+          ]
+        },
+        {
+          "id": "g_axeqbnhl",
+          "name": "Tape-out",
+          "entities": [
+            {
+              "id": "e_1n13jcat",
+              "name": "GDS Merge Script",
+              "category": "passive",
+              "status": "available",
+              "description": "Python script to merge all component GDS into a single tape-out file with frame and alignment marks.",
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "params": {},
+              "edaTools": [
+                "gdsfactory",
+                "klayout"
+              ],
+              "cdi": {}
+            },
+            {
+              "id": "e_9mx2x18h",
+              "name": "Density Fill",
+              "category": "passive",
+              "status": "progress",
+              "description": "Automated density fill for metal and poly layers to meet foundry density rules.",
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "params": {},
+              "edaTools": [
+                "klayout"
+              ],
+              "cdi": {}
+            },
+            {
+              "id": "e_afeyuhz1",
+              "name": "Tape-out Checklist",
+              "category": "passive",
+              "status": "available",
+              "description": "End-to-end tape-out checklist: DRC clean, cell references, frame placement, label check.",
+              "files": [],
+              "tests": [],
+              "variants": [],
+              "params": {},
+              "edaTools": [],
+              "cdi": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
