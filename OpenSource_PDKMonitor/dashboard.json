@@ -6135,7 +6135,9 @@
     "e_ezu7ksj": "admin",
     "layout:e_ezu7ksj": "CS_Aiman",
     "t_t3b4qx0": "https://github.com/AEmreKaplan/",
-    "t_otf68dw": "https://github.com/AEmreKaplan/"
+    "t_otf68dw": "https://github.com/AEmreKaplan/",
+    "t_di5visc": "admin",
+    "t_wgczhjg": "admin"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -6291,7 +6293,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_j50vobe",
@@ -6358,7 +6363,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_z1e654s",
@@ -6433,298 +6441,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
-            },
-            {
-              "id": "e_n48tl3w",
-              "name": "SOI220nm_1550nm_TE_IsolatedDetector",
-              "status": "available",
-              "owner": "admin",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_IsolatedDetector.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_8qlfe5y",
-                  "name": "SOI220nm_1550nm_TE_IsolatedDetector.yaml",
-                  "filename": "SOI220nm_1550nm_TE_IsolatedDetector.yaml",
-                  "mime": "application/yaml",
-                  "size": 672,
-                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX0lzb2xhdGVkRGV0ZWN0b3IKY29tcG9uZW50X3R5cGU6IFBob3RvZGlvZGUKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgotIG1vZGVfbnVtYmVyczoKICAtIDAKICAtIDAKICBwb2xhcmlzYXRpb246IFRFCiAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBlMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9yZgogIGNlbnRlcjoKICAtIDE0NQogIC0gLTE0Mi41MDAwMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBkZXRlY3RvcgotIG5hbWU6IGUyCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX3JmCiAgY2VudGVyOgogIC0gMjk1CiAgLSAtMTQyLjUwMDAwCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IGRldGVjdG9yCi0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUKLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDE5MDAKICAtIDAKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUK",
-                  "bbType": "photodetector",
-                  "who": "admin",
-                  "added": "2026-05-28",
-                  "rawText": "name: SOI220nm_1550nm_TE_IsolatedDetector\ncomponent_type: Photodiode\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_rf\n  center:\n  - 145\n  - -142.50000\n  orientation: 270\n  cross_section: detector\n- name: e2\n  port_type: electrical_rf\n  center:\n  - 295\n  - -142.50000\n  orientation: 270\n  cross_section: detector\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 1900\n  - 0\n  orientation: 0\n  cross_section: rib_1550nm_TE\n",
-                  "description": ""
-                },
-                {
-                  "id": "d_8zmy6vc",
-                  "name": "SOI220nm_1550nm_TE_IsolatedDetector.yaml",
-                  "filename": "SOI220nm_1550nm_TE_IsolatedDetector.yaml",
-                  "mime": "application/yaml",
-                  "size": 672,
-                  "bbType": "photodetector",
-                  "who": "https://github.com/AEmreKaplan/",
-                  "added": "2026-05-28",
-                  "description": "",
-                  "repoPath": "users/https-github.com-AEmreKaplan-/SOI220nm_1550nm_TE_IsolatedDetector__48tl3w/layout/SOI220nm_1550nm_TE_IsolatedDetector.yaml",
-                  "repoSha": "7d45b37c8396b81baa9f4f5a713c14e5d203c3e6",
-                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX0lzb2xhdGVkRGV0ZWN0b3IKY29tcG9uZW50X3R5cGU6IFBob3RvZGlvZGUKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgotIG1vZGVfbnVtYmVyczoKICAtIDAKICAtIDAKICBwb2xhcmlzYXRpb246IFRFCiAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBlMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9yZgogIGNlbnRlcjoKICAtIDE0NQogIC0gLTE0Mi41MDAwMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBkZXRlY3RvcgotIG5hbWU6IGUyCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX3JmCiAgY2VudGVyOgogIC0gMjk1CiAgLSAtMTQyLjUwMDAwCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IGRldGVjdG9yCi0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUKLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDE5MDAKICAtIDAKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUK",
-                  "rawText": "name: SOI220nm_1550nm_TE_IsolatedDetector\ncomponent_type: Photodiode\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_rf\n  center:\n  - 145\n  - -142.50000\n  orientation: 270\n  cross_section: detector\n- name: e2\n  port_type: electrical_rf\n  center:\n  - 295\n  - -142.50000\n  orientation: 270\n  cross_section: detector\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 1900\n  - 0\n  orientation: 0\n  cross_section: rib_1550nm_TE\n"
-                }
-              ],
-              "updated": "2026-05-28",
-              "kind": "detector",
-              "bbType": "photodetector",
-              "dimensionsOn": true,
-              "params": {
-                "length_um": 50,
-                "width_um": 4,
-                "thickness_nm": 220
-              },
-              "gdsSize": 842,
-              "edaTools": [
-                "ipkiss",
-                "gdsfactory",
-                "klayout",
-                "virtuoso",
-                "ledit",
-                "picstudio"
-              ],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [],
-              "plannedReleaseDate": "",
-              "smatrixGroups": [],
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null,
-              "_gdsStripped": true,
-              "_svgStripped": true
-            },
-            {
-              "id": "e_miu7hij",
-              "name": "SOI220nm_1550nm_TE_Defect_Detector",
-              "status": "available",
-              "owner": "admin",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_Defect_Detector.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_vt4w0h6",
-                  "name": "SOI220nm_1550nm_TE_Defect_Detector.yaml",
-                  "filename": "SOI220nm_1550nm_TE_Defect_Detector.yaml",
-                  "mime": "application/yaml",
-                  "size": 1051,
-                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX0RlZmVjdF9EZXRlY3Rvcgpjb21wb25lbnRfdHlwZTogUGhvdG9kaW9kZQphdXRob3JzOgotIG5hbWU6IEggQmlsZ2UgWWFnY2kKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCiAgZW1haWw6IGhieTFyMjVAc290b24uYWMudWsKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgotIG1vZGVfbnVtYmVyczoKICAtIDAKICAtIDAKICBwb2xhcmlzYXRpb246IFRFCiAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBlMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9yZgogIGNlbnRlcjoKICAtIDU0MgogIC0gLTkyLjUKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGV0ZWN0b3IKLSBuYW1lOiBlMgogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9yZgogIGNlbnRlcjoKICAtIDY5MgogIC0gLTkyLjUKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGV0ZWN0b3IKLSBuYW1lOiB2ZXJ0aWNhbF90ZV93CiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDI3LjkxNQogIC0gNTAKICBvcmllbnRhdGlvbjogMTgwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAuMAotIG5hbWU6IHZlcnRpY2FsX3RlMV9lCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDI3NjYuMDg0CiAgLSA1MAogIG9yaWVudGF0aW9uOiAwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAuMAphbmNlc3RvcnM6Ci0gbmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX0lzb2xhdGVkRGV0ZWN0b3IKICBjb21taXQ6IFJlZmVyZW5jZVdpdGhpbkNvbW1pdAotIG5hbWU6IFNPSTIyMG5tXzE1NTBubV9URV9SSUJfR3JhdGluZ19Db3VwbGVyCiAgY29tbWl0OiBSZWZlcmVuY2VXaXRoaW5Db21taXQKCg==",
-                  "bbType": "photodetector",
-                  "who": "admin",
-                  "added": "2026-05-28",
-                  "rawText": "name: SOI220nm_1550nm_TE_Defect_Detector\ncomponent_type: Photodiode\nauthors:\n- name: H Bilge Yagci\n  organisation: CORNERSTONE\n  email: hby1r25@soton.ac.uk\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_rf\n  center:\n  - 542\n  - -92.5\n  orientation: 270\n  cross_section: detector\n- name: e2\n  port_type: electrical_rf\n  center:\n  - 692\n  - -92.5\n  orientation: 270\n  cross_section: detector\n- name: vertical_te_w\n  port_type: vertical_te\n  center:\n  - 27.915\n  - 50\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te1_e\n  port_type: vertical_te\n  center:\n  - 2766.084\n  - 50\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\nancestors:\n- name: SOI220nm_1550nm_TE_IsolatedDetector\n  commit: ReferenceWithinCommit\n- name: SOI220nm_1550nm_TE_RIB_Grating_Coupler\n  commit: ReferenceWithinCommit\n\n",
-                  "description": ""
-                },
-                {
-                  "id": "d_lhhf0o1",
-                  "name": "SOI220nm_1550nm_TE_Defect_Detector.yaml",
-                  "filename": "SOI220nm_1550nm_TE_Defect_Detector.yaml",
-                  "mime": "application/yaml",
-                  "size": 1051,
-                  "bbType": "photodetector",
-                  "who": "https://github.com/AEmreKaplan/",
-                  "added": "2026-05-27",
-                  "description": "",
-                  "repoPath": "users/https-github.com-AEmreKaplan-/SOI220nm_1550nm_TE_Defect_Detector__iu7hij/PDKMonitor_components/SOI220nm_1550nm_TE_Defect_Detector.yaml",
-                  "repoSha": "0ed2555b7655ac79a9cbdd9bad9680adca6c8747",
-                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX0RlZmVjdF9EZXRlY3Rvcgpjb21wb25lbnRfdHlwZTogUGhvdG9kaW9kZQphdXRob3JzOgotIG5hbWU6IEggQmlsZ2UgWWFnY2kKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCiAgZW1haWw6IGhieTFyMjVAc290b24uYWMudWsKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgotIG1vZGVfbnVtYmVyczoKICAtIDAKICAtIDAKICBwb2xhcmlzYXRpb246IFRFCiAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBlMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9yZgogIGNlbnRlcjoKICAtIDU0MgogIC0gLTkyLjUKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGV0ZWN0b3IKLSBuYW1lOiBlMgogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9yZgogIGNlbnRlcjoKICAtIDY5MgogIC0gLTkyLjUKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGV0ZWN0b3IKLSBuYW1lOiB2ZXJ0aWNhbF90ZV93CiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDI3LjkxNQogIC0gNTAKICBvcmllbnRhdGlvbjogMTgwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAuMAotIG5hbWU6IHZlcnRpY2FsX3RlMV9lCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDI3NjYuMDg0CiAgLSA1MAogIG9yaWVudGF0aW9uOiAwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAuMAphbmNlc3RvcnM6Ci0gbmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX0lzb2xhdGVkRGV0ZWN0b3IKICBjb21taXQ6IFJlZmVyZW5jZVdpdGhpbkNvbW1pdAotIG5hbWU6IFNPSTIyMG5tXzE1NTBubV9URV9SSUJfR3JhdGluZ19Db3VwbGVyCiAgY29tbWl0OiBSZWZlcmVuY2VXaXRoaW5Db21taXQKCg==",
-                  "rawText": "name: SOI220nm_1550nm_TE_Defect_Detector\ncomponent_type: Photodiode\nauthors:\n- name: H Bilge Yagci\n  organisation: CORNERSTONE\n  email: hby1r25@soton.ac.uk\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_rf\n  center:\n  - 542\n  - -92.5\n  orientation: 270\n  cross_section: detector\n- name: e2\n  port_type: electrical_rf\n  center:\n  - 692\n  - -92.5\n  orientation: 270\n  cross_section: detector\n- name: vertical_te_w\n  port_type: vertical_te\n  center:\n  - 27.915\n  - 50\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te1_e\n  port_type: vertical_te\n  center:\n  - 2766.084\n  - 50\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\nancestors:\n- name: SOI220nm_1550nm_TE_IsolatedDetector\n  commit: ReferenceWithinCommit\n- name: SOI220nm_1550nm_TE_RIB_Grating_Coupler\n  commit: ReferenceWithinCommit\n\n"
-                },
-                {
-                  "id": "d_4sltmj3",
-                  "name": "SOI220nm_1550nm_TE_Defect_Detector.yaml",
-                  "filename": "SOI220nm_1550nm_TE_Defect_Detector.yaml",
-                  "mime": "application/yaml",
-                  "size": 1051,
-                  "bbType": "waveguide",
-                  "who": "https://github.com/AEmreKaplan/",
-                  "added": "2026-05-28",
-                  "description": "",
-                  "repoPath": "users/https-github.com-AEmreKaplan-/SOI220nm_1550nm_TE_Defect_Detector__iu7hij/documents/SOI220nm_1550nm_TE_Defect_Detector.yaml",
-                  "repoSha": "0ed2555b7655ac79a9cbdd9bad9680adca6c8747",
-                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX0RlZmVjdF9EZXRlY3Rvcgpjb21wb25lbnRfdHlwZTogUGhvdG9kaW9kZQphdXRob3JzOgotIG5hbWU6IEggQmlsZ2UgWWFnY2kKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCiAgZW1haWw6IGhieTFyMjVAc290b24uYWMudWsKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgotIG1vZGVfbnVtYmVyczoKICAtIDAKICAtIDAKICBwb2xhcmlzYXRpb246IFRFCiAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBlMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9yZgogIGNlbnRlcjoKICAtIDU0MgogIC0gLTkyLjUKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGV0ZWN0b3IKLSBuYW1lOiBlMgogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9yZgogIGNlbnRlcjoKICAtIDY5MgogIC0gLTkyLjUKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGV0ZWN0b3IKLSBuYW1lOiB2ZXJ0aWNhbF90ZV93CiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDI3LjkxNQogIC0gNTAKICBvcmllbnRhdGlvbjogMTgwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAuMAotIG5hbWU6IHZlcnRpY2FsX3RlMV9lCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDI3NjYuMDg0CiAgLSA1MAogIG9yaWVudGF0aW9uOiAwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAuMAphbmNlc3RvcnM6Ci0gbmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX0lzb2xhdGVkRGV0ZWN0b3IKICBjb21taXQ6IFJlZmVyZW5jZVdpdGhpbkNvbW1pdAotIG5hbWU6IFNPSTIyMG5tXzE1NTBubV9URV9SSUJfR3JhdGluZ19Db3VwbGVyCiAgY29tbWl0OiBSZWZlcmVuY2VXaXRoaW5Db21taXQKCg==",
-                  "rawText": "name: SOI220nm_1550nm_TE_Defect_Detector\ncomponent_type: Photodiode\nauthors:\n- name: H Bilge Yagci\n  organisation: CORNERSTONE\n  email: hby1r25@soton.ac.uk\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_rf\n  center:\n  - 542\n  - -92.5\n  orientation: 270\n  cross_section: detector\n- name: e2\n  port_type: electrical_rf\n  center:\n  - 692\n  - -92.5\n  orientation: 270\n  cross_section: detector\n- name: vertical_te_w\n  port_type: vertical_te\n  center:\n  - 27.915\n  - 50\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te1_e\n  port_type: vertical_te\n  center:\n  - 2766.084\n  - 50\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\nancestors:\n- name: SOI220nm_1550nm_TE_IsolatedDetector\n  commit: ReferenceWithinCommit\n- name: SOI220nm_1550nm_TE_RIB_Grating_Coupler\n  commit: ReferenceWithinCommit\n\n"
-                }
-              ],
-              "updated": "2026-05-28",
-              "kind": "active",
-              "bbType": "photodetector",
-              "dimensionsOn": true,
-              "params": {
-                "length_um": 50,
-                "width_um": 4,
-                "thickness_nm": 220
-              },
-              "gdsSize": 8680,
-              "edaTools": [
-                "ipkiss",
-                "gdsfactory",
-                "klayout",
-                "virtuoso",
-                "ledit",
-                "picstudio"
-              ],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [],
-              "plannedReleaseDate": "",
-              "smatrixGroups": [],
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null,
-              "_gdsStripped": true,
               "_svgStripped": true,
-              "platform": "SOI 220 nm Active",
-              "lastSyncStats": {
-                "ranAt": 1779962362555,
-                "urlsTotal": 1,
-                "filesFound": 0,
-                "urlsEmpty": 1,
-                "deadUrls": [
-                  {
-                    "section": "layout",
-                    "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_Defect_Detector.gds"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "e_miu7hij",
-              "name": "SOI220nm_1550nm_TE_Defect_Detector",
-              "files": [],
-              "scripts": [],
-              "documents": [
-                {
-                  "id": "d_lhhf0o1",
-                  "name": "SOI220nm_1550nm_TE_Defect_Detector.yaml",
-                  "filename": "SOI220nm_1550nm_TE_Defect_Detector.yaml",
-                  "mime": "application/yaml",
-                  "size": 1051,
-                  "bbType": "photodetector",
-                  "who": "https://github.com/AEmreKaplan/",
-                  "added": "2026-05-27",
-                  "description": "",
-                  "repoPath": "users/https-github.com-AEmreKaplan-/SOI220nm_1550nm_TE_Defect_Detector__iu7hij/PDKMonitor_components/SOI220nm_1550nm_TE_Defect_Detector.yaml",
-                  "repoSha": "0ed2555b7655ac79a9cbdd9bad9680adca6c8747",
-                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX0RlZmVjdF9EZXRlY3Rvcgpjb21wb25lbnRfdHlwZTogUGhvdG9kaW9kZQphdXRob3JzOgotIG5hbWU6IEggQmlsZ2UgWWFnY2kKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCiAgZW1haWw6IGhieTFyMjVAc290b24uYWMudWsKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgotIG1vZGVfbnVtYmVyczoKICAtIDAKICAtIDAKICBwb2xhcmlzYXRpb246IFRFCiAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBlMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9yZgogIGNlbnRlcjoKICAtIDU0MgogIC0gLTkyLjUKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGV0ZWN0b3IKLSBuYW1lOiBlMgogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9yZgogIGNlbnRlcjoKICAtIDY5MgogIC0gLTkyLjUKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGV0ZWN0b3IKLSBuYW1lOiB2ZXJ0aWNhbF90ZV93CiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDI3LjkxNQogIC0gNTAKICBvcmllbnRhdGlvbjogMTgwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAuMAotIG5hbWU6IHZlcnRpY2FsX3RlMV9lCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDI3NjYuMDg0CiAgLSA1MAogIG9yaWVudGF0aW9uOiAwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAuMAphbmNlc3RvcnM6Ci0gbmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX0lzb2xhdGVkRGV0ZWN0b3IKICBjb21taXQ6IFJlZmVyZW5jZVdpdGhpbkNvbW1pdAotIG5hbWU6IFNPSTIyMG5tXzE1NTBubV9URV9SSUJfR3JhdGluZ19Db3VwbGVyCiAgY29tbWl0OiBSZWZlcmVuY2VXaXRoaW5Db21taXQKCg==",
-                  "rawText": "name: SOI220nm_1550nm_TE_Defect_Detector\ncomponent_type: Photodiode\nauthors:\n- name: H Bilge Yagci\n  organisation: CORNERSTONE\n  email: hby1r25@soton.ac.uk\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_rf\n  center:\n  - 542\n  - -92.5\n  orientation: 270\n  cross_section: detector\n- name: e2\n  port_type: electrical_rf\n  center:\n  - 692\n  - -92.5\n  orientation: 270\n  cross_section: detector\n- name: vertical_te_w\n  port_type: vertical_te\n  center:\n  - 27.915\n  - 50\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te1_e\n  port_type: vertical_te\n  center:\n  - 2766.084\n  - 50\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\nancestors:\n- name: SOI220nm_1550nm_TE_IsolatedDetector\n  commit: ReferenceWithinCommit\n- name: SOI220nm_1550nm_TE_RIB_Grating_Coupler\n  commit: ReferenceWithinCommit\n\n"
-                },
-                {
-                  "id": "d_4sltmj3",
-                  "name": "SOI220nm_1550nm_TE_Defect_Detector.yaml",
-                  "filename": "SOI220nm_1550nm_TE_Defect_Detector.yaml",
-                  "mime": "application/yaml",
-                  "size": 1051,
-                  "bbType": "waveguide",
-                  "who": "https://github.com/AEmreKaplan/",
-                  "added": "2026-05-28",
-                  "description": "",
-                  "repoPath": "users/https-github.com-AEmreKaplan-/SOI220nm_1550nm_TE_Defect_Detector__iu7hij/documents/SOI220nm_1550nm_TE_Defect_Detector.yaml",
-                  "repoSha": "0ed2555b7655ac79a9cbdd9bad9680adca6c8747",
-                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX0RlZmVjdF9EZXRlY3Rvcgpjb21wb25lbnRfdHlwZTogUGhvdG9kaW9kZQphdXRob3JzOgotIG5hbWU6IEggQmlsZ2UgWWFnY2kKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCiAgZW1haWw6IGhieTFyMjVAc290b24uYWMudWsKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgotIG1vZGVfbnVtYmVyczoKICAtIDAKICAtIDAKICBwb2xhcmlzYXRpb246IFRFCiAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBlMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9yZgogIGNlbnRlcjoKICAtIDU0MgogIC0gLTkyLjUKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGV0ZWN0b3IKLSBuYW1lOiBlMgogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9yZgogIGNlbnRlcjoKICAtIDY5MgogIC0gLTkyLjUKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGV0ZWN0b3IKLSBuYW1lOiB2ZXJ0aWNhbF90ZV93CiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDI3LjkxNQogIC0gNTAKICBvcmllbnRhdGlvbjogMTgwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAuMAotIG5hbWU6IHZlcnRpY2FsX3RlMV9lCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDI3NjYuMDg0CiAgLSA1MAogIG9yaWVudGF0aW9uOiAwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAuMAphbmNlc3RvcnM6Ci0gbmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX0lzb2xhdGVkRGV0ZWN0b3IKICBjb21taXQ6IFJlZmVyZW5jZVdpdGhpbkNvbW1pdAotIG5hbWU6IFNPSTIyMG5tXzE1NTBubV9URV9SSUJfR3JhdGluZ19Db3VwbGVyCiAgY29tbWl0OiBSZWZlcmVuY2VXaXRoaW5Db21taXQKCg==",
-                  "rawText": "name: SOI220nm_1550nm_TE_Defect_Detector\ncomponent_type: Photodiode\nauthors:\n- name: H Bilge Yagci\n  organisation: CORNERSTONE\n  email: hby1r25@soton.ac.uk\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_rf\n  center:\n  - 542\n  - -92.5\n  orientation: 270\n  cross_section: detector\n- name: e2\n  port_type: electrical_rf\n  center:\n  - 692\n  - -92.5\n  orientation: 270\n  cross_section: detector\n- name: vertical_te_w\n  port_type: vertical_te\n  center:\n  - 27.915\n  - 50\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te1_e\n  port_type: vertical_te\n  center:\n  - 2766.084\n  - 50\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\nancestors:\n- name: SOI220nm_1550nm_TE_IsolatedDetector\n  commit: ReferenceWithinCommit\n- name: SOI220nm_1550nm_TE_RIB_Grating_Coupler\n  commit: ReferenceWithinCommit\n\n"
-                }
-              ],
-              "testGroups": [],
-              "smatrixGroups": [],
-              "fabTabs": [],
-              "_contribOnly": true,
-              "status": "available",
-              "githubUrl": "",
-              "owner": "",
-              "description": "",
-              "updated": "",
-              "plannedReleaseDate": "",
-              "datasets": [],
-              "kind": "",
-              "bbType": "photodetector",
-              "gdsSize": 0,
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "params": {},
-              "fetchHistory": [],
-              "edaTools": [],
-              "edaLinks": [],
-              "cdi": {},
-              "trl": null,
-              "dimensionsOn": false,
-              "platform": "SOI 220 nm Active"
-            },
-            {
-              "id": "e_n48tl3w",
-              "name": "SOI220nm_1550nm_TE_IsolatedDetector",
-              "files": [],
-              "scripts": [],
-              "documents": [
-                {
-                  "id": "d_8zmy6vc",
-                  "name": "SOI220nm_1550nm_TE_IsolatedDetector.yaml",
-                  "filename": "SOI220nm_1550nm_TE_IsolatedDetector.yaml",
-                  "mime": "application/yaml",
-                  "size": 672,
-                  "bbType": "photodetector",
-                  "who": "https://github.com/AEmreKaplan/",
-                  "added": "2026-05-28",
-                  "description": "",
-                  "repoPath": "users/https-github.com-AEmreKaplan-/SOI220nm_1550nm_TE_IsolatedDetector__48tl3w/layout/SOI220nm_1550nm_TE_IsolatedDetector.yaml",
-                  "repoSha": "7d45b37c8396b81baa9f4f5a713c14e5d203c3e6",
-                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX0lzb2xhdGVkRGV0ZWN0b3IKY29tcG9uZW50X3R5cGU6IFBob3RvZGlvZGUKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgotIG1vZGVfbnVtYmVyczoKICAtIDAKICAtIDAKICBwb2xhcmlzYXRpb246IFRFCiAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBlMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9yZgogIGNlbnRlcjoKICAtIDE0NQogIC0gLTE0Mi41MDAwMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBkZXRlY3RvcgotIG5hbWU6IGUyCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX3JmCiAgY2VudGVyOgogIC0gMjk1CiAgLSAtMTQyLjUwMDAwCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IGRldGVjdG9yCi0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUKLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDE5MDAKICAtIDAKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUK",
-                  "rawText": "name: SOI220nm_1550nm_TE_IsolatedDetector\ncomponent_type: Photodiode\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_rf\n  center:\n  - 145\n  - -142.50000\n  orientation: 270\n  cross_section: detector\n- name: e2\n  port_type: electrical_rf\n  center:\n  - 295\n  - -142.50000\n  orientation: 270\n  cross_section: detector\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 1900\n  - 0\n  orientation: 0\n  cross_section: rib_1550nm_TE\n"
-                }
-              ],
-              "testGroups": [],
-              "smatrixGroups": [],
-              "fabTabs": [],
-              "_contribOnly": true,
-              "status": "available",
-              "githubUrl": "",
-              "owner": "",
-              "description": "",
-              "updated": "",
-              "plannedReleaseDate": "",
-              "datasets": [],
-              "kind": "",
-              "bbType": "photodetector",
-              "gdsSize": 0,
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "params": {},
-              "fetchHistory": [],
-              "edaTools": [],
-              "edaLinks": [],
-              "cdi": {},
-              "trl": null,
-              "dimensionsOn": false,
-              "platform": "SOI 220 nm Active"
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "available",
@@ -6895,7 +6615,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_k77neha",
@@ -6989,7 +6712,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_wgt0y0l",
@@ -7070,7 +6796,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_6puxohu",
@@ -7109,7 +6838,10 @@
               "fetchHistory": [],
               "edaLinks": [],
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_gy8phiw",
@@ -7148,7 +6880,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_zsq6gkr",
@@ -7184,7 +6919,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_01p193h",
@@ -7285,7 +7023,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_km981tv",
@@ -7324,7 +7065,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ou06zu0",
@@ -7406,7 +7150,10 @@
               "trl": null,
               "_gdsStripped": true,
               "_svgStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_y5p7lz9",
@@ -7599,7 +7346,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_npj1vbk",
@@ -7720,7 +7470,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_3hox036",
@@ -7841,7 +7594,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_1rl452s",
@@ -7977,7 +7733,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_s354mgy",
@@ -8098,7 +7857,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_k1zbhlo",
@@ -8221,7 +7983,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_bt8ywzn",
@@ -8337,7 +8102,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_9vtwtsb",
@@ -8453,7 +8221,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_3l8a9nn",
@@ -8569,7 +8340,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_kvi5fn6",
@@ -8685,7 +8459,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_f7bkrmv",
@@ -8801,7 +8578,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_s4a6w8a",
@@ -8917,7 +8697,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_hpx4n0z",
@@ -9033,7 +8816,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_oaquujg",
@@ -9149,7 +8935,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_latd2vh",
@@ -9265,7 +9054,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_67bu7ym",
@@ -9388,7 +9180,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_265cxhl",
@@ -9504,7 +9299,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ocgcazc",
@@ -9620,7 +9418,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_arei0gi",
@@ -9736,7 +9537,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ah3xv65",
@@ -9867,7 +9671,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ddmka7z",
@@ -9983,7 +9790,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_lmonoah",
@@ -10099,7 +9909,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ql3oldh",
@@ -10215,7 +10028,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_pe6fkcd",
@@ -10331,7 +10147,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ezu7ksj",
@@ -10447,7 +10266,10 @@
               "edaLinks": [],
               "cdi": {},
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
@@ -10533,7 +10355,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ves3jjy",
@@ -10604,7 +10429,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_3ws2692",
@@ -10675,7 +10503,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_pk8q8q2",
@@ -10744,7 +10575,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_75mbhmn",
@@ -10815,7 +10649,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_vzmjg06",
@@ -10876,7 +10713,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_uh3q75c",
@@ -10946,7 +10786,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_vdwlenf",
@@ -11007,7 +10850,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_w4au6ab",
@@ -11075,7 +10921,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_gy1vex9",
@@ -11146,7 +10995,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_259cmnu",
@@ -11217,7 +11069,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ieha5mq",
@@ -11286,7 +11141,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_vqfqfyw",
@@ -11357,7 +11215,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ucgqldx",
@@ -11421,7 +11282,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_das1bqe",
@@ -11482,7 +11346,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "available",
@@ -11577,7 +11444,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_6qmu4fa",
@@ -11648,7 +11518,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ai8w29l",
@@ -11719,7 +11592,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_9w4gmu0",
@@ -11788,7 +11664,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7ys02f0",
@@ -11859,7 +11738,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_kefyqh0",
@@ -11920,7 +11802,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "",
@@ -12031,7 +11916,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_bnk2hbx",
@@ -12098,7 +11986,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_jiz827o",
@@ -12164,7 +12055,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_fous0ae",
@@ -12229,7 +12123,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Si_sus_bias",
@@ -12321,7 +12218,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7tyhtm9",
@@ -12393,7 +12293,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_g2w8icv",
@@ -12464,7 +12367,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_385henq",
@@ -12525,7 +12431,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_hl6dbqn",
@@ -12596,7 +12505,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_mlygcam",
@@ -12668,7 +12580,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_zbn2z3n",
@@ -12739,7 +12654,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_n3mn5jf",
@@ -12800,7 +12718,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_kxwu1rp",
@@ -12871,7 +12792,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_1tlt4j3",
@@ -12943,7 +12867,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_611ubrv",
@@ -13014,7 +12941,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_8ne3say",
@@ -13073,7 +13003,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_n0xukmv",
@@ -13134,7 +13067,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "",
@@ -13255,7 +13191,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_zvb7fbp",
@@ -13334,7 +13273,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_dnb94u1",
@@ -13411,7 +13353,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_uhonmf1",
@@ -13488,7 +13433,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_tahc9bw",
@@ -13567,7 +13515,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_reyeixv",
@@ -13631,7 +13582,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_t7gdkb8",
@@ -13710,7 +13664,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_4abzgca",
@@ -13789,7 +13746,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_nkvzbqz",
@@ -13866,7 +13826,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_6upztlt",
@@ -13932,7 +13895,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_tshleh9",
@@ -14009,7 +13975,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_9lwujy2",
@@ -14075,7 +14044,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_lrs1qso",
@@ -14154,7 +14126,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_wryfu80",
@@ -14233,7 +14208,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_a42dmrr",
@@ -14297,7 +14275,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "",
@@ -14398,7 +14379,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7etircv",
@@ -14459,7 +14443,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Ge_on_Si",
@@ -14478,7 +14465,16 @@
           "kind": "",
           "collapsed": false,
           "width": 438,
-          "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/TFLN_300nm"
+          "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/TFLN_300nm",
+          "githubSubdir": "components",
+          "importSections": {
+            "layout": true,
+            "smatrix": true,
+            "tests": true,
+            "fab": true,
+            "scripts": true,
+            "docs": true
+          }
         },
         {
           "id": "g_uytixks",
@@ -14519,7 +14515,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mppc9zrv_0",
+        "id": "s_mppcvktw_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -14527,7 +14523,7 @@
         "enabled": true
       },
       {
-        "id": "s_mppc9zrv_1",
+        "id": "s_mppcvktw_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -14535,7 +14531,7 @@
         "enabled": true
       },
       {
-        "id": "s_mppc9zrv_2",
+        "id": "s_mppcvktw_2",
         "label": "CORNERSTONE community PDK (publish target)",
         "repo": "cornerstone-uos/cornerstone-community",
         "branch": "main",
@@ -14550,8 +14546,8 @@
     "lastPublishedAt": "2026-05-28T03:12:29.849Z",
     "lastPublishedSha": "904565bf9e267cacf25c2756bd23e057fad88250",
     "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/904565bf9e267cacf25c2756bd23e057fad88250",
-    "lastFetchedAt": "2026-05-28T10:18:50.875Z",
-    "lastFetchedSha": "5a9ac2e9a3f97e8f92b2ff9eed753486295f6760",
+    "lastFetchedAt": "2026-05-28T10:34:55.684Z",
+    "lastFetchedSha": "83cdeb87def8eb87220f1a94b6688fb7fb4971e4",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -14579,17 +14575,15 @@
   "lastGithubFetch": "2026-05-28T10:19:56.986Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-28T10:22:59.548Z",
+    "publishedAt": "2026-05-28T10:39:17.628Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
     "appVersion": "v1.0",
     "contributorCount": 9,
-    "bbCount": 96,
+    "bbCount": 92,
     "guestCount": 5,
-    "termsVersion": "1.1.0",
-    "nuclearStripped": true,
-    "nuclearNote": "Second-pass strip: even after removing binaries, the payload was still over the safe limit. Test/smatrix/fab folder contents were emptied, scripts/documents reduced to filenames. Adopters: run a per-platform GitHub sync to repopulate."
+    "termsVersion": "1.1.0"
   },
   "_distributedSecurity": {
     "guestPasswords": [
@@ -14646,7 +14640,7 @@
         "email": "",
         "expiresOn": "",
         "createdAt": "2026-05-24",
-        "lastUsed": "2026-05-27"
+        "lastUsed": "2026-05-28"
       }
     ],
     "accessRequestEmail": "pdk.cornerstone@soton.ac.uk",
