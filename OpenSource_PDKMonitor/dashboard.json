@@ -380,29 +380,16 @@
       }
     ]
   },
-  "ownership": {
-    "t_f23qdpo": "https://github.com/AEmreKaplan/",
-    "t_5misxz3": "https://github.com/AEmreKaplan/"
-  },
-  "labels": {
-    "AEmrekaplan": "AEmrekaplan",
-    "CS_Aiman": "CS_Aiman",
-    "CS_Bilge": "CS_Bilge",
-    "CS_Emre": "CS_Emre",
-    "CS_Khaled": "CS_Khaled",
-    "CS_Shengqi": "CS_Shengqi",
-    "https-github.com-AEmreKaplan-": "https-github.com-AEmreKaplan-",
-    "newuser": "newuser",
-    "https://github.com/AEmreKaplan/": "CS_Emre"
-  },
+  "ownership": {},
+  "labels": {},
   "uploads": [],
   "tabs": [
     {
-      "id": "tab_ifdzg9k",
+      "id": "tab_g45un2e",
       "name": "Technology Platforms",
       "groups": [
         {
-          "id": "g_lff3z8h",
+          "id": "g_5ekz06e",
           "name": "SOI 220 nm",
           "platformMeta": {
             "material": "Si",
@@ -410,284 +397,84 @@
           },
           "entities": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
-          "githubSubdir": "components",
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          "githubSubdir": "components"
         },
         {
-          "id": "g_amuczar",
+          "id": "g_il61buo",
           "name": "SOI 340 nm",
           "platformMeta": {
             "material": "Si",
             "thickness": 340
           },
-          "entities": [],
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          "entities": []
         },
         {
-          "id": "g_sougkjy",
+          "id": "g_d7kwyxl",
           "name": "SOI 500 nm",
           "platformMeta": {
             "material": "Si",
             "thickness": 500
           },
-          "entities": [],
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          "entities": []
         },
         {
-          "id": "g_g0hr286",
+          "id": "g_hnxsowa",
           "name": "TFLN 300 nm",
           "platformMeta": {
             "material": "LN",
             "thickness": 300
           },
-          "entities": [],
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          "entities": []
         },
         {
-          "id": "g_x0lrd2g",
+          "id": "g_t6ylojk",
           "name": "SiN 300 nm",
           "platformMeta": {
             "material": "SiN",
             "thickness": 300
           },
-          "entities": [],
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          "entities": []
         },
         {
-          "id": "g_qwr91nk",
+          "id": "g_qynix4m",
           "name": "SiN 200 nm",
           "platformMeta": {
             "material": "SiN",
             "thickness": 200
           },
-          "entities": [],
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          "entities": []
         }
-      ],
-      "kind": "platforms"
+      ]
     },
     {
-      "id": "tab_rvzikj4",
+      "id": "tab_sedzs85",
       "name": "Design Manual",
       "groups": [],
       "kind": "docs"
     },
     {
-      "id": "tab_b5yy100",
+      "id": "tab_wbpkjtj",
       "name": "Post-Processing",
-      "groups": [],
-      "kind": "platforms"
+      "groups": []
     }
   ],
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-28T11:41:32.810Z",
+    "publishedAt": "2026-05-28T11:41:39.275Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
+    "payloadKind": "user-admin-slice",
     "appVersion": "v1.0.0",
-    "contributorCount": 7,
     "bbCount": 0,
-    "guestCount": 8,
-    "termsVersion": "1.1.0"
-  },
-  "distribution": {
-    "sources": [
-      {
-        "id": "s_mppf4dqe_0",
-        "label": "CORNERSTONE main (Open-source PDK)",
-        "repo": "cornerstone-uos/PDKMonitor",
-        "branch": "main",
-        "path": "OpenSource_PDKMonitor/dashboard.json",
-        "enabled": false
-      },
-      {
-        "id": "s_mppf4dqe_1",
-        "label": "User-admin contributions (auto-discover)",
-        "repo": "cornerstone-uos/PDKMonitor",
-        "branch": "main",
-        "path": "users",
-        "enabled": true
-      },
-      {
-        "id": "s_mppf4dqe_2",
-        "label": "CORNERSTONE community PDK (publish target)",
-        "repo": "cornerstone-uos/cornerstone-community",
-        "branch": "main",
-        "path": "dashboard.json",
-        "enabled": false
-      }
-    ],
-    "_defaultsSeeded": true,
-    "repo": "cornerstone-uos/PDKMonitor",
-    "branch": "main",
-    "path": "users",
-    "lastFetchedAt": "2026-05-28T11:37:27.162Z",
-    "lastFetchedSha": "82d08b23cf14edd3b5a08c407296b519c542fce3"
-  },
-  "contributors": [
-    {
-      "identity": "AEmrekaplan",
-      "name": "AEmrekaplan",
-      "role": "user-admin",
-      "addedAt": "2026-05-28T11:37:46.153Z",
-      "fromSlice": "users/AEmrekaplan",
-      "discovered": true
-    },
-    {
-      "identity": "CS_Aiman",
-      "name": "CS_Aiman",
-      "role": "user-admin",
-      "addedAt": "2026-05-28T11:37:46.153Z",
-      "fromSlice": "users/CS_Aiman",
-      "discovered": true
-    },
-    {
-      "identity": "CS_Bilge",
-      "name": "CS_Bilge",
-      "role": "user-admin",
-      "addedAt": "2026-05-28T11:37:46.153Z",
-      "fromSlice": "users/CS_Bilge",
-      "discovered": true
-    },
-    {
-      "identity": "CS_Khaled",
-      "name": "CS_Khaled",
-      "role": "user-admin",
-      "addedAt": "2026-05-28T11:37:46.153Z",
-      "fromSlice": "users/CS_Khaled",
-      "discovered": true
-    },
-    {
-      "identity": "CS_Shengqi",
-      "name": "CS_Shengqi",
-      "role": "user-admin",
-      "addedAt": "2026-05-28T11:37:46.153Z",
-      "fromSlice": "users/CS_Shengqi",
-      "discovered": true
-    },
-    {
-      "identity": "https-github.com-AEmreKaplan-",
-      "name": "https-github.com-AEmreKaplan-",
-      "role": "user-admin",
-      "addedAt": "2026-05-28T11:37:46.153Z",
-      "fromSlice": "users/https-github.com-AEmreKaplan-",
-      "discovered": true
-    },
-    {
-      "id": "c_mppf8ziv_lkg7",
-      "name": "CS_Emre",
-      "identity": "https://github.com/AEmreKaplan/",
-      "affiliation": "",
-      "note": ""
-    }
-  ],
-  "_distributedSecurity": {
-    "guestPasswords": [
-      {
-        "id": "p_0xtvb5e",
-        "label": "CS_Aiman",
-        "role": "user-admin",
-        "password": "AimanCS2026_test",
-        "githubUser": "CS_Aiman",
-        "email": "",
-        "expiresOn": "",
-        "createdAt": "2026-05-09",
-        "lastUsed": "2026-05-27"
-      },
-      {
-        "id": "p_z935cbi",
-        "label": "CS_Khaled",
-        "role": "user-admin",
-        "password": "KhaledCS2026_test",
-        "githubUser": "CS_Khaled",
-        "email": "",
-        "expiresOn": "",
-        "createdAt": "2026-05-09",
-        "lastUsed": "2026-05-24"
-      },
-      {
-        "id": "p_8t8a473",
-        "label": "CS_Bilge",
-        "role": "user-admin",
-        "password": "BilgeCS2026_design",
-        "githubUser": "CS_Bilge",
-        "email": "",
-        "expiresOn": "",
-        "createdAt": "2026-05-24",
-        "lastUsed": "2026-05-25"
-      },
-      {
-        "id": "p_0ew3qn8",
-        "label": "CS_Shengqi",
-        "role": "user-admin",
-        "password": "ShengqiCS2026_design",
-        "githubUser": "CS_Shengqi",
-        "email": "",
-        "expiresOn": "",
-        "createdAt": "2026-05-24",
-        "lastUsed": "2026-05-25"
-      },
-      {
-        "id": "p_d9a60gf",
-        "label": "CS_Emre",
-        "role": "user-admin",
-        "password": "CS2026_Emre_PDK",
-        "githubUser": "https://github.com/AEmreKaplan/",
-        "email": "",
-        "expiresOn": "",
-        "createdAt": "2026-05-24",
-        "lastUsed": "2026-05-28"
-      },
-      {
-        "label": "https-github.com-AEmreKaplan-",
-        "identity": "https-github.com-AEmreKaplan-",
-        "password": "",
-        "role": "user-admin",
-        "created": "2026-05-28T11:33:52.601Z",
-        "note": "Auto-discovered from repo · password not set yet — set one in Manage to enable sign-in."
-      },
-      {
-        "label": "newuser",
-        "identity": "newuser",
-        "password": "",
-        "role": "user-admin",
-        "created": "2026-05-28T11:33:52.601Z",
-        "note": "Auto-discovered from repo · password not set yet — set one in Manage to enable sign-in."
-      },
-      {
-        "label": "AEmrekaplan",
-        "identity": "AEmrekaplan",
-        "password": "",
-        "role": "user-admin",
-        "created": "2026-05-28T11:34:15.429Z",
-        "note": "Auto-discovered from repo · password not set yet — set one in Manage to enable sign-in."
-      }
-    ],
-    "accessRequestEmail": "pdk.cornerstone@soton.ac.uk",
-    "labels": {
-      "AEmrekaplan": "AEmrekaplan",
-      "CS_Aiman": "CS_Aiman",
-      "CS_Bilge": "CS_Bilge",
-      "CS_Emre": "CS_Emre",
-      "CS_Khaled": "CS_Khaled",
-      "CS_Shengqi": "CS_Shengqi",
-      "https-github.com-AEmreKaplan-": "https-github.com-AEmreKaplan-",
-      "newuser": "newuser",
-      "https://github.com/AEmreKaplan/": "CS_Emre"
-    },
-    "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
+    "groupCount": 0,
+    "tabCount": 0,
+    "fileCount": 0,
+    "sliceFor": "dashboard_admin",
+    "termsVersion": "1.1.0",
+    "placeholder": true,
+    "starter": true,
+    "bootstrap": true,
+    "note": "Bootstrap publish — user 'dashboard_admin' has no own contributions yet. The starter dashboard ships with the default platform skeleton so pool members see real content immediately. Future publishes from this user will overwrite with their actual contributions."
   }
 }
