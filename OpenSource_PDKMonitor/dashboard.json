@@ -6978,12 +6978,6 @@
                   "id": "tg_7rlv339",
                   "name": "Files",
                   "tests": [],
-                  "collapsed": false
-                },
-                {
-                  "id": "tg_afd6qc8",
-                  "name": "Emre-WPW_MPW45_SLOT5_1550nm",
-                  "tests": [],
                   "collapsed": true
                 }
               ],
@@ -13166,9 +13160,9 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-28T03:02:21.156Z",
-    "lastPublishedSha": "8a948e2d6f2fa2f0ad93c28359ee355f131d8be5",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/8a948e2d6f2fa2f0ad93c28359ee355f131d8be5",
+    "lastPublishedAt": "2026-05-28T03:12:29.849Z",
+    "lastPublishedSha": "904565bf9e267cacf25c2756bd23e057fad88250",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/904565bf9e267cacf25c2756bd23e057fad88250",
     "lastFetchedAt": "2026-05-28T02:21:38.817Z",
     "lastFetchedSha": "5a9ac2e9a3f97e8f92b2ff9eed753486295f6760",
     "lastMergeStats": {
@@ -13198,7 +13192,7 @@
   "lastGithubFetch": "2026-05-28T02:45:36.422Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-28T03:12:29.849Z",
+    "publishedAt": "2026-05-28T03:34:16.152Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
