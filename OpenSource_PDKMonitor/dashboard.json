@@ -15698,7 +15698,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mprjdmx4_0",
+        "id": "s_mprje88q_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -15706,15 +15706,15 @@
         "enabled": true
       },
       {
-        "id": "s_mprjdmx4_1",
+        "id": "s_mprje88q_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
-        "enabled": true
+        "enabled": false
       },
       {
-        "id": "s_mprjdmx4_2",
+        "id": "s_mprje88q_2",
         "label": "CORNERSTONE community PDK (publish target)",
         "repo": "cornerstone-uos/cornerstone-community",
         "branch": "main",
@@ -15725,11 +15725,69 @@
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
-    "path": "OpenSource_PDKMonitor/dashboard.json"
+    "path": "OpenSource_PDKMonitor/dashboard.json",
+    "lastFetchedAt": "2026-05-29T23:12:50.095Z",
+    "lastFetchedSha": "e51a10e879a04733be8b8188db33fb7d3bed0813"
   },
   "_distributedSecurity": {
-    "guestPasswords": [],
-    "accessRequestEmail": "",
+    "guestPasswords": [
+      {
+        "id": "p_7qzrvkm",
+        "label": "CS_Khaled",
+        "role": "user-admin",
+        "password": "KhaledCS2026_test",
+        "githubUser": "",
+        "email": "",
+        "expiresOn": "",
+        "createdAt": "2026-05-29",
+        "lastUsed": ""
+      },
+      {
+        "id": "p_eqfu1z3",
+        "label": "CS_Aiman",
+        "role": "user-admin",
+        "password": "AimanCS2026_test",
+        "githubUser": "",
+        "email": "",
+        "expiresOn": "",
+        "createdAt": "2026-05-29",
+        "lastUsed": ""
+      },
+      {
+        "id": "p_wxg5ja9",
+        "label": "CS_Bilge",
+        "role": "user-admin",
+        "password": "BilgeCS2026_design",
+        "githubUser": "",
+        "email": "",
+        "expiresOn": "",
+        "createdAt": "2026-05-29",
+        "lastUsed": ""
+      },
+      {
+        "id": "p_qszb6tj",
+        "label": "CS_Shengqi",
+        "role": "user-admin",
+        "password": "ShengqiCS2026_design",
+        "githubUser": "",
+        "email": "",
+        "expiresOn": "",
+        "createdAt": "2026-05-29",
+        "lastUsed": ""
+      },
+      {
+        "id": "p_edmgiao",
+        "label": "CS_Emre",
+        "role": "user-admin",
+        "password": "CS2026_Emre_PDK",
+        "githubUser": "",
+        "email": "",
+        "expiresOn": "",
+        "createdAt": "2026-05-29",
+        "lastUsed": ""
+      }
+    ],
+    "accessRequestEmail": "pdk.cornerstone@soton.ac.uk",
     "labels": {
       "https://github.com/AEmreKaplan/": "CS_Emre",
       "CS_Aiman": "CS_Aiman",
@@ -15745,14 +15803,14 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-29T23:11:56.934Z",
+    "publishedAt": "2026-05-29T23:19:15.478Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
     "appVersion": "v1.0",
     "contributorCount": 7,
     "bbCount": 94,
-    "guestCount": 0,
+    "guestCount": 5,
     "termsVersion": "1.1.0"
   }
 }
