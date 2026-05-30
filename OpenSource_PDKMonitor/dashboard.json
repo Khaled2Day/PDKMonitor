@@ -14629,17 +14629,6 @@
           "kind": "",
           "collapsed": false,
           "width": 438
-        },
-        {
-          "id": "g_9azdlgg",
-          "name": "SOI 220 nm",
-          "platformMeta": {
-            "material": "Si",
-            "thickness": 220
-          },
-          "entities": [],
-          "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
-          "githubSubdir": "components"
         }
       ],
       "kind": "platforms"
@@ -15072,11 +15061,11 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-05-30T14:46:47.608Z",
-    "lastFetchedSha": "c58a9748c8e8f837fa85047d00d9fed59fa8ea32",
-    "lastPublishedAt": "2026-05-30T14:42:09.746Z",
-    "lastPublishedSha": "fc9b7450515f715a6e015c95993f8b8843a93416",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/fc9b7450515f715a6e015c95993f8b8843a93416",
+    "lastFetchedAt": "2026-05-30T15:36:26.100Z",
+    "lastFetchedSha": "cee0b3d17d68be29514121d02b2ce92c18487a9b",
+    "lastPublishedAt": "2026-05-30T14:47:11.827Z",
+    "lastPublishedSha": "f08b209e7ab8edbabf9f3e94ebff1d0d9ae7ac9a",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/f08b209e7ab8edbabf9f3e94ebff1d0d9ae7ac9a",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 1,
@@ -15185,8 +15174,8 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-30T14:47:11.827Z",
-    "publisherIdentity": "AEmreKaplan",
+    "publishedAt": "2026-05-30T15:36:47.394Z",
+    "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
     "appVersion": "v1.1.1",
