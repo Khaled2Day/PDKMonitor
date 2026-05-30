@@ -14629,6 +14629,17 @@
           "kind": "",
           "collapsed": false,
           "width": 438
+        },
+        {
+          "id": "g_9azdlgg",
+          "name": "SOI 220 nm",
+          "platformMeta": {
+            "material": "Si",
+            "thickness": 220
+          },
+          "entities": [],
+          "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
+          "githubSubdir": "components"
         }
       ],
       "kind": "platforms"
@@ -15033,7 +15044,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mpsfx1g0_0",
+        "id": "s_mpsghtj1_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -15041,15 +15052,15 @@
         "enabled": true
       },
       {
-        "id": "s_mpsfx1g0_1",
+        "id": "s_mpsghtj1_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
-        "enabled": false
+        "enabled": true
       },
       {
-        "id": "s_mpsfx1g0_2",
+        "id": "s_mpsghtj1_2",
         "label": "CORNERSTONE community PDK (publish target)",
         "repo": "cornerstone-uos/cornerstone-community",
         "branch": "main",
@@ -15061,8 +15072,8 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-05-30T14:31:22.503Z",
-    "lastFetchedSha": "ceb4c813c9d646c5cbf74ff9bb85383cb71f6951",
+    "lastFetchedAt": "2026-05-30T14:41:42.054Z",
+    "lastFetchedSha": "481373389846121b64a96fbcbdf6dee840719d51",
     "lastPublishedAt": "2026-05-30T14:26:50.472Z",
     "lastPublishedSha": "49214fe9af80867b4aa6fa1f70e8b7038647d9fa",
     "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/49214fe9af80867b4aa6fa1f70e8b7038647d9fa",
@@ -15168,7 +15179,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-30T14:34:10.404Z",
+    "publishedAt": "2026-05-30T14:42:09.746Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
