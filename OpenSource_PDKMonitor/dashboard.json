@@ -14856,6 +14856,70 @@
             "MPW meas."
           ]
         ]
+      },
+      "bm_s6af9hb": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "SOI",
+            "2.50",
+            "-",
+            "1550nm",
+            "n_si= 3.47 , n_sio2=1.45, n_air=1 @1550nm",
+            ""
+          ],
+          [
+            "SiN",
+            "1.37",
+            "-",
+            "1550nm",
+            "n_si3n4= 2 , n_sio2=1.45, n_air=1 @1550nm",
+            ""
+          ],
+          [
+            "Suspended-Si",
+            "3.47",
+            "-",
+            "1550nm",
+            "n_si= 3.47  n_air=1 @1550nm",
+            ""
+          ],
+          [
+            "GeonSi",
+            "4.27",
+            "-",
+            "1550nm",
+            "n_ge= 4.27  n_air=1 @1550nm",
+            ""
+          ]
+        ]
+      },
+      "bm_bandwidth": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
       }
     },
     "metric": "bm_prop_loss"
@@ -14894,9 +14958,9 @@
     "path": "OpenSource_PDKMonitor/dashboard.json",
     "lastFetchedAt": "2026-05-31T04:58:20.347Z",
     "lastFetchedSha": "4e36117c61f47982a8e9160e8cb96a45b6fead9f",
-    "lastPublishedAt": "2026-05-31T04:41:45.215Z",
-    "lastPublishedSha": "418e89b6a9054cf36a33223df5a9c18c5142fad0",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/418e89b6a9054cf36a33223df5a9c18c5142fad0",
+    "lastPublishedAt": "2026-05-31T05:10:44.180Z",
+    "lastPublishedSha": "17bce10f116e25c5e52cf74754e6fd216694cb52",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/17bce10f116e25c5e52cf74754e6fd216694cb52",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -14993,7 +15057,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-31T05:10:44.180Z",
+    "publishedAt": "2026-05-31T14:22:21.898Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
