@@ -174,44 +174,6 @@
           "collapsed": false,
           "entities": [
             {
-              "id": "e_k77neha",
-              "name": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler",
-              "files": [],
-              "scripts": [],
-              "documents": [],
-              "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_u0hdic0",
-                      "name": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler",
-                      "filename": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163725,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:05.343Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler__77neha/smatrix/SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.csv",
-                      "repoSha": "f2e532026a132d0a4d0b6436e78c33b2f4062317"
-                    }
-                  ]
-                }
-              ],
-              "fabTabs": [],
-              "_contribOnly": true
-            },
-            {
               "id": "e_01p193h",
               "name": "SOI220_cband_TM_strip_apodized_GC_focusing_v1p0",
               "files": [],
@@ -222,28 +184,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_8q5zvc8",
-                      "name": "SOI220_cband_TM_strip_apodized_GC_focusing_v1p0",
-                      "filename": "SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.txt",
-                      "kind": "txt",
-                      "size": 150,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:08.790Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0__1p193h/smatrix/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.txt",
-                      "repoSha": "e63b2d29a1ee43a35e16882396a7225bcb0e89f8"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -259,549 +200,10 @@
                 {
                   "id": "tg_files",
                   "name": "Files",
-                  "tests": [
-                    {
-                      "id": "t_9bpdphm",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:10.991Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG1.txt",
-                      "repoSha": "522c12415f2409f8c4be3de377a810afd368f82f"
-                    },
-                    {
-                      "id": "t_zjd4im7",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:12.051Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG2.txt",
-                      "repoSha": "00396774fb8c4b6ce65530b3dc4762d234936b9b"
-                    },
-                    {
-                      "id": "t_f2tmao5",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:12.918Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG3.txt",
-                      "repoSha": "912dbc8ea86259ca4359f562586b8d9fa19cdcaa"
-                    },
-                    {
-                      "id": "t_jkcmysm",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:14.007Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG4.txt",
-                      "repoSha": "da08d171a732e7382a6ef47fc20c0c8bace46ebd"
-                    },
-                    {
-                      "id": "t_as8phkd",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:15.077Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG5.txt",
-                      "repoSha": "96991f6160c98d5d017320e58462f28af1f1359e"
-                    },
-                    {
-                      "id": "t_m9mqm38",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:16.153Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG6.txt",
-                      "repoSha": "bf271e3aca909b960db930f6de1c29873e2a971e"
-                    },
-                    {
-                      "id": "t_qck0t8j",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:17.269Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG1.txt",
-                      "repoSha": "2f3dbf680de647b56352d54fa8e6605bf5adef57"
-                    },
-                    {
-                      "id": "t_c11mu78",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:18.120Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG2.txt",
-                      "repoSha": "69da6017796cdbd7dd95374c73ef958c5f5ae370"
-                    },
-                    {
-                      "id": "t_ifbayta",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:19.378Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG3.txt",
-                      "repoSha": "1faf3aaf72ad1b0aff254b9a5a1e61993f012a5b"
-                    },
-                    {
-                      "id": "t_4u75nbi",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:20.580Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG4.txt",
-                      "repoSha": "fe2013ae422fdd34cc88d47f570eac983007a278"
-                    },
-                    {
-                      "id": "t_1wf5q2e",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:21.327Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG5.txt",
-                      "repoSha": "9427c5496f8aadb23f352dcc7dd38dc23acf02ab"
-                    },
-                    {
-                      "id": "t_0nhprjs",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:22.556Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG6.txt",
-                      "repoSha": "f9f8bfbf487d3f13efe0ce4b1b15217d2321df64"
-                    },
-                    {
-                      "id": "t_bc9ffzp",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:23.555Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG1.txt",
-                      "repoSha": "8e49b5dfd9c841a587089869875174d302c9334d"
-                    },
-                    {
-                      "id": "t_3uv6ddj",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:24.591Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG2.txt",
-                      "repoSha": "273e608f1ac52d2e2664c9f6d403500806282dc9"
-                    },
-                    {
-                      "id": "t_n3fs3yt",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:25.826Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG3.txt",
-                      "repoSha": "6ec5f45f1c691a908d9af58b3e945e3ed57c1301"
-                    },
-                    {
-                      "id": "t_6da0uku",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:26.748Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG4.txt",
-                      "repoSha": "7446320eb97c5459d281d916b5a19bbd636fa7f9"
-                    },
-                    {
-                      "id": "t_lqgsrmj",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:27.510Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG5.txt",
-                      "repoSha": "8cfc9764a631fb0af2552297902e914b5098adfc"
-                    },
-                    {
-                      "id": "t_05pamjw",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:28.364Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG6.txt",
-                      "repoSha": "c0c0ec5e4e6fb9cc4cd1d3834d7d0ff40d59cac6"
-                    },
-                    {
-                      "id": "t_oalfyqi",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:29.213Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG1.txt",
-                      "repoSha": "3d3d8ced3ed29e3d5ed189a1f72436638f9521d1"
-                    },
-                    {
-                      "id": "t_ga7bn08",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:30.278Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG2.txt",
-                      "repoSha": "02d17b48be690a5babb4888d93fb694dd8a47f7a"
-                    },
-                    {
-                      "id": "t_3djv7nf",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:31.258Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG3.txt",
-                      "repoSha": "94ebebf2f88eb8d3359f22f72a2a24576f4777fa"
-                    },
-                    {
-                      "id": "t_3x91rjl",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:32.177Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG4.txt",
-                      "repoSha": "2d1a745c2370f75e26a2e82c37b2421f51c1285f"
-                    },
-                    {
-                      "id": "t_q0fcqom",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:33.037Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG5.txt",
-                      "repoSha": "6d6af6651cb4a610e21b0a7a6721c4eafc2f0351"
-                    },
-                    {
-                      "id": "t_p13jxz4",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:34.165Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide__mgl5v6/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG6.txt",
-                      "repoSha": "704a7665cc6f47aad482f958bf72ff367b055839"
-                    }
-                  ]
+                  "tests": []
                 }
               ],
               "smatrixGroups": [],
-              "fabTabs": [],
-              "_contribOnly": true
-            },
-            {
-              "id": "e_2hkxsqf",
-              "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
-              "files": [],
-              "scripts": [],
-              "documents": [],
-              "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_da2tpds",
-                      "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
-                      "filename": "SOI220nm_1310nm_TE_RIB_2x1_MMI.csv",
-                      "kind": "csv",
-                      "size": 358334,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:36.164Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_RIB_2x1_MMI__hkxsqf/smatrix/SOI220nm_1310nm_TE_RIB_2x1_MMI.csv",
-                      "repoSha": "2bc136fef5d6aa568696ce9f2e1cc6b85df4aa66"
-                    },
-                    {
-                      "id": "t_setmdwm",
-                      "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
-                      "filename": "SOI220nm_1310nm_TE_RIB_2x1_MMI.csv",
-                      "kind": "csv",
-                      "size": 358334,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:37.494Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_RIB_2x1_MMI__hkxsqf/smatrix/SOI220nm_1310nm_TE_RIB_2x1_MMI.csv",
-                      "repoSha": "c876ce9f32340ab0cba51d61a43d44a67d0fc9f8"
-                    }
-                  ]
-                }
-              ],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -816,48 +218,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_k9fcnl9",
-                      "name": "SOI220nm_1310nm_TE_RIB_2x2_MMI",
-                      "filename": "SOI220nm_1310nm_TE_RIB_2x2_MMI.csv",
-                      "kind": "csv",
-                      "size": 633112,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:38.248Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_RIB_2x2_MMI__7p3ne3/smatrix/SOI220nm_1310nm_TE_RIB_2x2_MMI.csv",
-                      "repoSha": "39f5f845199bbe681e727e97b28224ce59438679"
-                    },
-                    {
-                      "id": "t_56pqva2",
-                      "name": "SOI220nm_1310nm_TE_RIB_2x2_MMI",
-                      "filename": "SOI220nm_1310nm_TE_RIB_2x2_MMI.csv",
-                      "kind": "csv",
-                      "size": 633112,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:39.653Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_RIB_2x2_MMI__7p3ne3/smatrix/SOI220nm_1310nm_TE_RIB_2x2_MMI.csv",
-                      "repoSha": "39f5f845199bbe681e727e97b28224ce59438679"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -874,48 +235,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_4vcozao",
-                      "name": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend",
-                      "filename": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend.csv",
-                      "kind": "csv",
-                      "size": 164622,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:40.234Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_RIB_90_Degree_Bend__049v6v/smatrix/SOI220nm_1310nm_TE_RIB_90_Degree_Bend.csv",
-                      "repoSha": "d03414d66373a391c3f197447f2e7eb05f725190"
-                    },
-                    {
-                      "id": "t_weaokzy",
-                      "name": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend",
-                      "filename": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend.csv",
-                      "kind": "csv",
-                      "size": 164622,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:41.642Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_RIB_90_Degree_Bend__049v6v/smatrix/SOI220nm_1310nm_TE_RIB_90_Degree_Bend.csv",
-                      "repoSha": "d03414d66373a391c3f197447f2e7eb05f725190"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -932,48 +252,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_o3r62rs",
-                      "name": "SOI220nm_1310nm_TE_RIB_Grating_Coupler",
-                      "filename": "SOI220nm_1310nm_TE_RIB_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163658,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:42.201Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_RIB_Grating_Coupler__w2l9mp/smatrix/SOI220nm_1310nm_TE_RIB_Grating_Coupler.csv",
-                      "repoSha": "fe43a4a33ce72d79005d5e7cb350347788f595ad"
-                    },
-                    {
-                      "id": "t_fu3yfsf",
-                      "name": "SOI220nm_1310nm_TE_RIB_Grating_Coupler",
-                      "filename": "SOI220nm_1310nm_TE_RIB_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163660,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:43.576Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_RIB_Grating_Coupler__w2l9mp/smatrix/SOI220nm_1310nm_TE_RIB_Grating_Coupler.csv",
-                      "repoSha": "b5461ff1676b86ebb13afc1660cb28a57b291e58"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -990,48 +269,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_joax9gh",
-                      "name": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing",
-                      "filename": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.csv",
-                      "kind": "csv",
-                      "size": 635372,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:45.282Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing__2rx46a/smatrix/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.csv",
-                      "repoSha": "6e7d6500abfc8a2cca3a372c952450931f2de23a"
-                    },
-                    {
-                      "id": "t_zsfr1dx",
-                      "name": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing",
-                      "filename": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.csv",
-                      "kind": "csv",
-                      "size": 635372,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:47.032Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing__2rx46a/smatrix/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.csv",
-                      "repoSha": "6e7d6500abfc8a2cca3a372c952450931f2de23a"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1048,48 +286,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_nw74v03",
-                      "name": "SOI220nm_1310nm_TE_STRIP_2x1_MMI",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_2x1_MMI.csv",
-                      "kind": "csv",
-                      "size": 357973,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:48.034Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_STRIP_2x1_MMI__1ay0p0/smatrix/SOI220nm_1310nm_TE_STRIP_2x1_MMI.csv",
-                      "repoSha": "a1a95103060152a20c7fe03f8ce67eab6e6ebda1"
-                    },
-                    {
-                      "id": "t_6omgac2",
-                      "name": "SOI220nm_1310nm_TE_STRIP_2x1_MMI",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_2x1_MMI.csv",
-                      "kind": "csv",
-                      "size": 357973,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:49.598Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_STRIP_2x1_MMI__1ay0p0/smatrix/SOI220nm_1310nm_TE_STRIP_2x1_MMI.csv",
-                      "repoSha": "a1a95103060152a20c7fe03f8ce67eab6e6ebda1"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1106,48 +303,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_xoztac8",
-                      "name": "SOI220nm_1310nm_TE_STRIP_2x2_MMI",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_2x2_MMI.csv",
-                      "kind": "csv",
-                      "size": 631444,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:50.359Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_STRIP_2x2_MMI__8awz92/smatrix/SOI220nm_1310nm_TE_STRIP_2x2_MMI.csv",
-                      "repoSha": "1e91f5aeea61db6cfd48b10e8922306830dda76c"
-                    },
-                    {
-                      "id": "t_v1zs35w",
-                      "name": "SOI220nm_1310nm_TE_STRIP_2x2_MMI",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_2x2_MMI.csv",
-                      "kind": "csv",
-                      "size": 631444,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:51.761Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_STRIP_2x2_MMI__8awz92/smatrix/SOI220nm_1310nm_TE_STRIP_2x2_MMI.csv",
-                      "repoSha": "1e91f5aeea61db6cfd48b10e8922306830dda76c"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1164,48 +320,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_pq7lapm",
-                      "name": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.csv",
-                      "kind": "csv",
-                      "size": 166460,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:52.637Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend__7ro68h/smatrix/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.csv",
-                      "repoSha": "1926a732b21312dc183607bd677ee40001118d25"
-                    },
-                    {
-                      "id": "t_epiwrsa",
-                      "name": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.csv",
-                      "kind": "csv",
-                      "size": 166460,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:54.104Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend__7ro68h/smatrix/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.csv",
-                      "repoSha": "1926a732b21312dc183607bd677ee40001118d25"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1222,48 +337,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_mqpv29r",
-                      "name": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163660,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:54.692Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_STRIP_Grating_Coupler__qh749n/smatrix/SOI220nm_1310nm_TE_STRIP_Grating_Coupler.csv",
-                      "repoSha": "b5461ff1676b86ebb13afc1660cb28a57b291e58"
-                    },
-                    {
-                      "id": "t_lbmy0iv",
-                      "name": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163654,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:55.938Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_STRIP_Grating_Coupler__qh749n/smatrix/SOI220nm_1310nm_TE_STRIP_Grating_Coupler.csv",
-                      "repoSha": "96f2a1d599f7fffbefc2082d3cc01e1a0d4babf6"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1280,48 +354,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_yt9ak4p",
-                      "name": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.csv",
-                      "kind": "csv",
-                      "size": 630936,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:57.371Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing__hpzk0u/smatrix/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.csv",
-                      "repoSha": "21fb10f0b439da227e912b3c5177897656a8a573"
-                    },
-                    {
-                      "id": "t_3fads0n",
-                      "name": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.csv",
-                      "kind": "csv",
-                      "size": 630936,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:58.762Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing__hpzk0u/smatrix/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.csv",
-                      "repoSha": "21fb10f0b439da227e912b3c5177897656a8a573"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1338,48 +371,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_ay3t7ku",
-                      "name": "SOI220nm_1550nm_TE_RIB_2x1_MMI",
-                      "filename": "SOI220nm_1550nm_TE_RIB_2x1_MMI.csv",
-                      "kind": "csv",
-                      "size": 358185,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:59.858Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_2x1_MMI__b8hml8/smatrix/SOI220nm_1550nm_TE_RIB_2x1_MMI.csv",
-                      "repoSha": "6eab46cbc122e5c9f5a4f791d366ba0760195a0f"
-                    },
-                    {
-                      "id": "t_r6s47a3",
-                      "name": "SOI220nm_1550nm_TE_RIB_2x1_MMI",
-                      "filename": "SOI220nm_1550nm_TE_RIB_2x1_MMI.csv",
-                      "kind": "csv",
-                      "size": 358185,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:01.481Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_2x1_MMI__b8hml8/smatrix/SOI220nm_1550nm_TE_RIB_2x1_MMI.csv",
-                      "repoSha": "6eab46cbc122e5c9f5a4f791d366ba0760195a0f"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1396,48 +388,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_f30nbo6",
-                      "name": "SOI220nm_1550nm_TE_RIB_2x2_MMI",
-                      "filename": "SOI220nm_1550nm_TE_RIB_2x2_MMI.csv",
-                      "kind": "csv",
-                      "size": 632521,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:02.594Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_2x2_MMI__om7wh0/smatrix/SOI220nm_1550nm_TE_RIB_2x2_MMI.csv",
-                      "repoSha": "dbe9a550943a5831ee4f6e42428870ec4ba58cb0"
-                    },
-                    {
-                      "id": "t_yq3euzk",
-                      "name": "SOI220nm_1550nm_TE_RIB_2x2_MMI",
-                      "filename": "SOI220nm_1550nm_TE_RIB_2x2_MMI.csv",
-                      "kind": "csv",
-                      "size": 632521,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:04.169Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_2x2_MMI__om7wh0/smatrix/SOI220nm_1550nm_TE_RIB_2x2_MMI.csv",
-                      "repoSha": "dbe9a550943a5831ee4f6e42428870ec4ba58cb0"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1454,48 +405,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_hkxofa5",
-                      "name": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend",
-                      "filename": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend.csv",
-                      "kind": "csv",
-                      "size": 164771,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:04.960Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_90_Degree_Bend__1oqpux/smatrix/SOI220nm_1550nm_TE_RIB_90_Degree_Bend.csv",
-                      "repoSha": "afcc013a742d0e572231714e7026ac276285a6e6"
-                    },
-                    {
-                      "id": "t_fw8q9dk",
-                      "name": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend",
-                      "filename": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend.csv",
-                      "kind": "csv",
-                      "size": 164771,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:06.116Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_90_Degree_Bend__1oqpux/smatrix/SOI220nm_1550nm_TE_RIB_90_Degree_Bend.csv",
-                      "repoSha": "afcc013a742d0e572231714e7026ac276285a6e6"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1512,48 +422,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_g5oo2i4",
-                      "name": "SOI220nm_1550nm_TE_RIB_Grating_Coupler",
-                      "filename": "SOI220nm_1550nm_TE_RIB_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163429,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:06.883Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Grating_Coupler__1okvtl/smatrix/SOI220nm_1550nm_TE_RIB_Grating_Coupler.csv",
-                      "repoSha": "1b9423a452bc5f50122fde63a00475fb355f9d6b"
-                    },
-                    {
-                      "id": "t_5g6brzt",
-                      "name": "SOI220nm_1550nm_TE_RIB_Grating_Coupler",
-                      "filename": "SOI220nm_1550nm_TE_RIB_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163429,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:08.106Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Grating_Coupler__1okvtl/smatrix/SOI220nm_1550nm_TE_RIB_Grating_Coupler.csv",
-                      "repoSha": "1b9423a452bc5f50122fde63a00475fb355f9d6b"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1570,48 +439,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_ovwj8b5",
-                      "name": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing",
-                      "filename": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.csv",
-                      "kind": "csv",
-                      "size": 633381,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:08.914Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing__ge6lza/smatrix/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.csv",
-                      "repoSha": "98887909640f7758e94b0a87bc6d45b45e58d58c"
-                    },
-                    {
-                      "id": "t_rk4payl",
-                      "name": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing",
-                      "filename": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.csv",
-                      "kind": "csv",
-                      "size": 633381,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:10.811Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing__ge6lza/smatrix/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.csv",
-                      "repoSha": "98887909640f7758e94b0a87bc6d45b45e58d58c"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1628,48 +456,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_j2k6b6m",
-                      "name": "SOI220nm_1550nm_TE_STRIP_2x1_MMI",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_2x1_MMI.csv",
-                      "kind": "csv",
-                      "size": 357474,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:11.922Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_STRIP_2x1_MMI__3t3huk/smatrix/SOI220nm_1550nm_TE_STRIP_2x1_MMI.csv",
-                      "repoSha": "345ee14a66f490c42fa8155bf313ff3d9a54ce49"
-                    },
-                    {
-                      "id": "t_28xzgkm",
-                      "name": "SOI220nm_1550nm_TE_STRIP_2x1_MMI",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_2x1_MMI.csv",
-                      "kind": "csv",
-                      "size": 357474,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:13.481Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_STRIP_2x1_MMI__3t3huk/smatrix/SOI220nm_1550nm_TE_STRIP_2x1_MMI.csv",
-                      "repoSha": "345ee14a66f490c42fa8155bf313ff3d9a54ce49"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1686,48 +473,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_zagpp8z",
-                      "name": "SOI220nm_1550nm_TE_STRIP_2x2_MMI",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_2x2_MMI.csv",
-                      "kind": "csv",
-                      "size": 630545,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:14.377Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_STRIP_2x2_MMI__6os5bb/smatrix/SOI220nm_1550nm_TE_STRIP_2x2_MMI.csv",
-                      "repoSha": "14a0d611b9363499346ddb4dda032ce615221048"
-                    },
-                    {
-                      "id": "t_ptx9vhp",
-                      "name": "SOI220nm_1550nm_TE_STRIP_2x2_MMI",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_2x2_MMI.csv",
-                      "kind": "csv",
-                      "size": 630545,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:15.895Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_STRIP_2x2_MMI__6os5bb/smatrix/SOI220nm_1550nm_TE_STRIP_2x2_MMI.csv",
-                      "repoSha": "14a0d611b9363499346ddb4dda032ce615221048"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1744,48 +490,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_p791gbd",
-                      "name": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.csv",
-                      "kind": "csv",
-                      "size": 165483,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:16.909Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend__qk9gjj/smatrix/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.csv",
-                      "repoSha": "d37185b0cf2f07c82a85d1c67a5805df4001790c"
-                    },
-                    {
-                      "id": "t_6ybfog4",
-                      "name": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.csv",
-                      "kind": "csv",
-                      "size": 165483,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:18.034Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend__qk9gjj/smatrix/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.csv",
-                      "repoSha": "d37185b0cf2f07c82a85d1c67a5805df4001790c"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1802,48 +507,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_z4ark36",
-                      "name": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163429,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:18.901Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_STRIP_Grating_Coupler__oafxmn/smatrix/SOI220nm_1550nm_TE_STRIP_Grating_Coupler.csv",
-                      "repoSha": "1b9423a452bc5f50122fde63a00475fb355f9d6b"
-                    },
-                    {
-                      "id": "t_dnjmm0k",
-                      "name": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163429,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:20.301Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_STRIP_Grating_Coupler__oafxmn/smatrix/SOI220nm_1550nm_TE_STRIP_Grating_Coupler.csv",
-                      "repoSha": "1b9423a452bc5f50122fde63a00475fb355f9d6b"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1860,48 +524,7 @@
                 {
                   "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_kipz38y",
-                      "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
-                      "kind": "csv",
-                      "size": 632133,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:21.844Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing__zi94z4/smatrix/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
-                      "repoSha": "cf4f171ba97fb5097fa5b75137d4075555f2074b"
-                    },
-                    {
-                      "id": "t_z10iaow",
-                      "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
-                      "kind": "csv",
-                      "size": 632133,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:21:23.114Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing__zi94z4/smatrix/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
-                      "repoSha": "cf4f171ba97fb5097fa5b75137d4075555f2074b"
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1913,14 +536,10 @@
     }
   ],
   "ownership": {
-    "e_k77neha": "admin",
-    "layout:e_k77neha": "AEmreKaplan",
     "e_01p193h": "admin",
     "layout:e_01p193h": "AEmreKaplan",
     "e_9mgl5v6": "admin",
     "layout:e_9mgl5v6": "AEmreKaplan",
-    "e_2hkxsqf": "admin",
-    "layout:e_2hkxsqf": "AEmreKaplan",
     "e_77p3ne3": "admin",
     "layout:e_77p3ne3": "AEmreKaplan",
     "e_q049v6v": "admin",
@@ -1972,26 +591,28 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-31T03:42:31.020Z",
+    "publishedAt": "2026-05-31T03:57:25.247Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "CS_Emre",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.0",
-    "bbCount": 23,
+    "bbCount": 21,
     "groupCount": 1,
     "tabCount": 1,
-    "fileCount": 66,
+    "fileCount": 63,
     "sliceFor": "AEmreKaplan",
     "termsVersion": "1.1.0",
     "externalized": {
       "uploaded": 0,
       "skipped": 0,
       "failed": 0,
-      "reused": 66,
+      "reused": 63,
       "usersDir": "users/AEmreKaplan/",
       "layoutVersion": "rev5-tab-named",
       "note": "Per-BB folder layout: users/AEmreKaplan/<bb>/<section>/<file> — section folders are tab-named one-to-one with the BB-panel tabs: layout (GDS / OASIS + canonical YAML), smatrix (S-matrix datasets), tests, fab, scripts, documents (non-canonical YAMLs + other docs), eda (eda_links.json), files (loose BB-level files), variants (recursive). Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent."
-    }
+    },
+    "nuclearStripped": true,
+    "nuclearNote": "Second-pass strip: even after removing binaries, the payload was still over the safe limit. Test/smatrix/fab folder contents were emptied, scripts/documents reduced to filenames. Adopters: run a per-platform GitHub sync to repopulate."
   }
 }
