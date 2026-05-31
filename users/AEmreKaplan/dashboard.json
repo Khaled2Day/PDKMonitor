@@ -1951,6 +1951,64 @@
               ],
               "fabTabs": [],
               "_contribOnly": true
+            },
+            {
+              "id": "e_5zi94z4",
+              "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_kipz38y",
+                      "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
+                      "kind": "csv",
+                      "size": 632133,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-31",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "AEmreKaplan",
+                      "added": "2026-05-31T03:21:21.844Z",
+                      "updated": "2026-05-31",
+                      "_externalized": true,
+                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing__zi94z4/smatrix/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
+                      "repoSha": "cf4f171ba97fb5097fa5b75137d4075555f2074b"
+                    },
+                    {
+                      "id": "t_z10iaow",
+                      "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
+                      "kind": "csv",
+                      "size": 632133,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-31",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "AEmreKaplan",
+                      "added": "2026-05-31T03:21:23.114Z",
+                      "updated": "2026-05-31",
+                      "_externalized": true,
+                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing__zi94z4/smatrix/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
+                      "repoSha": "cf4f171ba97fb5097fa5b75137d4075555f2074b"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
             }
           ]
         }
@@ -2005,7 +2063,9 @@
     "e_9qk9gjj": "admin",
     "layout:e_9qk9gjj": "AEmreKaplan",
     "e_qoafxmn": "admin",
-    "layout:e_qoafxmn": "AEmreKaplan"
+    "layout:e_qoafxmn": "AEmreKaplan",
+    "e_5zi94z4": "admin",
+    "layout:e_5zi94z4": "AEmreKaplan"
   },
   "labels": {
     "AEmreKaplan": "CS_Emre"
@@ -2019,23 +2079,23 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-31T03:21:21.214Z",
+    "publishedAt": "2026-05-31T03:29:36.181Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "CS_Emre",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.0",
-    "bbCount": 24,
+    "bbCount": 25,
     "groupCount": 1,
     "tabCount": 1,
-    "fileCount": 67,
+    "fileCount": 69,
     "sliceFor": "AEmreKaplan",
     "termsVersion": "1.1.0",
     "externalized": {
-      "uploaded": 67,
+      "uploaded": 2,
       "skipped": 0,
       "failed": 0,
-      "reused": 0,
+      "reused": 67,
       "usersDir": "users/AEmreKaplan/",
       "layoutVersion": "rev5-tab-named",
       "note": "Per-BB folder layout: users/AEmreKaplan/<bb>/<section>/<file> — section folders are tab-named one-to-one with the BB-panel tabs: layout (GDS / OASIS + canonical YAML), smatrix (S-matrix datasets), tests, fab, scripts, documents (non-canonical YAMLs + other docs), eda (eda_links.json), files (loose BB-level files), variants (recursive). Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent."
