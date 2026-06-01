@@ -448,11 +448,11 @@
   "uploads": [],
   "tabs": [
     {
-      "id": "tab_8gowzbd",
+      "id": "tab_18052tl",
       "name": "Technology Platforms",
       "groups": [
         {
-          "id": "g_n9bfvzn",
+          "id": "g_es6mclz",
           "name": "SOI 220 nm",
           "platformMeta": {
             "material": "Si",
@@ -461,7 +461,7 @@
           "entities": []
         },
         {
-          "id": "g_tgq4rvu",
+          "id": "g_8sg4qka",
           "name": "SOI 340 nm",
           "platformMeta": {
             "material": "Si",
@@ -470,7 +470,7 @@
           "entities": []
         },
         {
-          "id": "g_8gwd1ia",
+          "id": "g_gtnxldl",
           "name": "SOI 500 nm",
           "platformMeta": {
             "material": "Si",
@@ -479,7 +479,7 @@
           "entities": []
         },
         {
-          "id": "g_ptl4fya",
+          "id": "g_9pxe44m",
           "name": "TFLN 300 nm",
           "platformMeta": {
             "material": "LN",
@@ -488,7 +488,7 @@
           "entities": []
         },
         {
-          "id": "g_zdpwby2",
+          "id": "g_vdgf1pl",
           "name": "SiN 300 nm",
           "platformMeta": {
             "material": "SiN",
@@ -497,7 +497,7 @@
           "entities": []
         },
         {
-          "id": "g_ke86rtx",
+          "id": "g_4dhjapz",
           "name": "SiN 200 nm",
           "platformMeta": {
             "material": "SiN",
@@ -510,15 +510,15 @@
   ],
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-06-01T00:20:10.552Z",
+    "publishedAt": "2026-06-01T00:31:11.166Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "CS_Emre",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.0.2",
     "bbCount": 0,
-    "groupCount": 0,
-    "tabCount": 1,
+    "groupCount": 12,
+    "tabCount": 5,
     "fileCount": 0,
     "sliceFor": "AEmreKaplan",
     "termsVersion": "1.1.0",
