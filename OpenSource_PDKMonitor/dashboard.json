@@ -16991,7 +16991,7 @@
     },
     {
       "id": "tab_mjm503u",
-      "name": "Material&Fabricarion",
+      "name": "Material&Fabrication",
       "groups": [],
       "kind": "docs"
     },
@@ -18023,11 +18023,11 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-06-01T16:04:51.952Z",
+    "lastFetchedAt": "2026-06-01T16:55:11.552Z",
     "lastFetchedSha": "4e36117c61f47982a8e9160e8cb96a45b6fead9f",
-    "lastPublishedAt": "2026-06-01T00:36:13.507Z",
-    "lastPublishedSha": "393853fc18a49ed674b30c9ff756b6dd1c7f2d81",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/393853fc18a49ed674b30c9ff756b6dd1c7f2d81",
+    "lastPublishedAt": "2026-06-01T16:54:34.047Z",
+    "lastPublishedSha": "3d4b83267b355fc51c15963b4f32c1b6b7f62300",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/3d4b83267b355fc51c15963b4f32c1b6b7f62300",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -18124,7 +18124,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-01T16:54:34.047Z",
+    "publishedAt": "2026-06-01T16:55:32.744Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -18161,6 +18161,16 @@
       "label": "Fabrication",
       "meta": {
         "id": "tab_u9hxui7"
+      }
+    },
+    {
+      "at": "2026-06-01T16:55:27.240Z",
+      "by": "AEmreKaplan",
+      "role": "admin",
+      "action": "tab-rename",
+      "label": "Material&Fabricarion → Material&Fabrication",
+      "meta": {
+        "id": "tab_mjm503u"
       }
     }
   ]
