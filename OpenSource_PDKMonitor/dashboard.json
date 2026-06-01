@@ -9166,7 +9166,13 @@
     "eda_n81dsdj": "admin",
     "eda_8ggyo54": "admin",
     "eda_2cejabr": "admin",
-    "eda_xtdaho3": "admin"
+    "eda_xtdaho3": "admin",
+    "doc_i1t7x9p": "admin",
+    "doc_83cmjju": "admin",
+    "doc_muk7z49": "admin",
+    "doc_eyw3b6y": "admin",
+    "doc_uxgtij4": "admin",
+    "doc_dvdjcvb": "admin"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -18012,11 +18018,11 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-06-01T11:12:02.752Z",
+    "lastFetchedAt": "2026-06-01T11:16:18.637Z",
     "lastFetchedSha": "4e36117c61f47982a8e9160e8cb96a45b6fead9f",
-    "lastPublishedAt": "2026-06-01T11:11:26.636Z",
-    "lastPublishedSha": "073e666663b3b5a3f951975973eb4f4b3f9919a1",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/073e666663b3b5a3f951975973eb4f4b3f9919a1",
+    "lastPublishedAt": "2026-06-01T11:14:08.074Z",
+    "lastPublishedSha": "4fcf569bb33141ddd3baa5ec79f96e5e8fc58d27",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/4fcf569bb33141ddd3baa5ec79f96e5e8fc58d27",
     "lastMergeStats": {
       "tabs": 1,
       "groups": 0,
@@ -18112,7 +18118,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-01T11:14:08.074Z",
+    "publishedAt": "2026-06-01T11:18:01.935Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -18130,66 +18136,5 @@
     "deadUrls": []
   },
   "lastGithubFetch": "2026-06-01T04:48:07.513Z",
-  "activityLog": [
-    {
-      "at": "2026-05-31T04:36:13.134Z",
-      "by": "AEmreKaplan",
-      "role": "admin",
-      "action": "import-replace",
-      "label": "pdk-monitor-pre-adopt-2026-05-31 (10).json",
-      "meta": {
-        "tabs": 4
-      }
-    },
-    {
-      "at": "2026-05-31T23:07:28.237Z",
-      "by": "anonymous",
-      "role": "read-only",
-      "action": "import-replace",
-      "label": "pdk-monitor-backup-v1-0-2-2026-05-31.json",
-      "meta": {
-        "tabs": 4
-      }
-    },
-    {
-      "at": "2026-05-31T23:24:35.200Z",
-      "by": "admin",
-      "role": "admin",
-      "action": "tab-delete",
-      "label": "Design Manuals",
-      "meta": {
-        "id": "tab_is8tgil"
-      }
-    },
-    {
-      "at": "2026-06-01T00:51:13.196Z",
-      "by": "AEmreKaplan",
-      "role": "user-admin",
-      "action": "tab-delete",
-      "label": "Packaging",
-      "meta": {
-        "id": "tab_pti1px9"
-      }
-    },
-    {
-      "at": "2026-06-01T11:10:28.283Z",
-      "by": "admin",
-      "role": "admin",
-      "action": "tab-kind",
-      "label": "DOE → docs",
-      "meta": {
-        "id": "tab_1hbzx9p"
-      }
-    },
-    {
-      "at": "2026-06-01T11:10:38.032Z",
-      "by": "admin",
-      "role": "admin",
-      "action": "tab-kind",
-      "label": "DOE → platforms",
-      "meta": {
-        "id": "tab_1hbzx9p"
-      }
-    }
-  ]
+  "activityLog": []
 }
