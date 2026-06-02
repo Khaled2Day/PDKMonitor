@@ -448,11 +448,11 @@
   "uploads": [],
   "tabs": [
     {
-      "id": "tab_j7srjde",
+      "id": "tab_b3zgoq6",
       "name": "Technology Platforms",
       "groups": [
         {
-          "id": "g_thw3gte",
+          "id": "g_ztamduc",
           "name": "SOI 220 nm",
           "platformMeta": {
             "material": "Si",
@@ -461,7 +461,7 @@
           "entities": []
         },
         {
-          "id": "g_qz7lxt8",
+          "id": "g_1tbl7et",
           "name": "SOI 340 nm",
           "platformMeta": {
             "material": "Si",
@@ -470,7 +470,7 @@
           "entities": []
         },
         {
-          "id": "g_rfiflvz",
+          "id": "g_evrff6g",
           "name": "SOI 500 nm",
           "platformMeta": {
             "material": "Si",
@@ -479,7 +479,7 @@
           "entities": []
         },
         {
-          "id": "g_npyr8e6",
+          "id": "g_7lbexpx",
           "name": "TFLN 300 nm",
           "platformMeta": {
             "material": "LN",
@@ -488,7 +488,7 @@
           "entities": []
         },
         {
-          "id": "g_p7otz44",
+          "id": "g_s0vrb4u",
           "name": "SiN 300 nm",
           "platformMeta": {
             "material": "SiN",
@@ -497,7 +497,7 @@
           "entities": []
         },
         {
-          "id": "g_6lggyqp",
+          "id": "g_holi4wk",
           "name": "SiN 200 nm",
           "platformMeta": {
             "material": "SiN",
@@ -508,17 +508,56 @@
       ]
     }
   ],
+  "importFolderAliases": {
+    "smatrix": [
+      "s-matrix",
+      "sm-matrix",
+      "s_matrix",
+      "sparams",
+      "s-params",
+      "smatrix"
+    ],
+    "tests": [
+      "test",
+      "tests",
+      "characterisation",
+      "characterization",
+      "measurements",
+      "data"
+    ],
+    "fab": [
+      "fab",
+      "fabrication",
+      "yield",
+      "process"
+    ],
+    "scripts": [
+      "scripts",
+      "script",
+      "tools",
+      "examples",
+      "demos"
+    ],
+    "docs": [
+      "docs",
+      "doc",
+      "documents",
+      "documentation",
+      "manuals",
+      "datasheets"
+    ]
+  },
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-06-01T00:39:18.625Z",
+    "publishedAt": "2026-06-02T15:56:03.484Z",
     "publisherIdentity": "CS_Aiman",
     "publisherLabel": "CS_Aiman",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.0.2",
     "bbCount": 0,
-    "groupCount": 6,
-    "tabCount": 2,
+    "groupCount": 16,
+    "tabCount": 6,
     "fileCount": 0,
     "sliceFor": "CS_Aiman",
     "termsVersion": "1.1.0",
