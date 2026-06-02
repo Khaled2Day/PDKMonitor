@@ -23155,7 +23155,8 @@
           "githubUrl": "",
           "githubSubdir": "components",
           "platformDocs": [],
-          "width": 465
+          "width": 465,
+          "githubSources": []
         },
         {
           "id": "g_m9vlorf",
@@ -23171,7 +23172,8 @@
           "githubUrl": "",
           "githubSubdir": "components",
           "platformDocs": [],
-          "width": 397
+          "width": 397,
+          "githubSources": []
         },
         {
           "id": "g_cbmrlmg",
@@ -23187,7 +23189,8 @@
           "githubUrl": "",
           "githubSubdir": "components",
           "platformDocs": [],
-          "width": 400
+          "width": 400,
+          "githubSources": []
         }
       ],
       "kind": "platforms"
@@ -23828,18 +23831,18 @@
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
-        "enabled": false
+        "enabled": true
       }
     ],
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-06-02T10:32:19.753Z",
-    "lastFetchedSha": "0139cb1557b71fc099e12cb004ea67c078b4b014",
-    "lastPublishedAt": "2026-06-02T10:32:41.416Z",
-    "lastPublishedSha": "2d1651f9ca55ba3bdf7955d91e46c866cb442d2f",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/2d1651f9ca55ba3bdf7955d91e46c866cb442d2f",
+    "lastFetchedAt": "2026-06-02T10:33:36.722Z",
+    "lastFetchedSha": "4e36117c61f47982a8e9160e8cb96a45b6fead9f",
+    "lastPublishedAt": "2026-06-02T10:33:16.351Z",
+    "lastPublishedSha": "79f03759b29aeeacbbd69d52df35a91f007aba4d",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/79f03759b29aeeacbbd69d52df35a91f007aba4d",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -23850,11 +23853,18 @@
       "statuses": 0,
       "categories": 0,
       "bbTypes": 0,
-      "infoSkipped": 2
+      "infoSkipped": 10,
+      "files": 0,
+      "scripts": 0,
+      "documents": 0,
+      "tg": 0,
+      "sm": 0,
+      "fab": 0,
+      "skippedEmptyGroups": 5
     },
     "lastSecurityStats": {
       "guestsAdded": 0,
-      "guestsKept": 0,
+      "guestsKept": 5,
       "contactEmailUpdated": false,
       "labelsAdded": 0
     }
@@ -23935,7 +23945,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-02T10:33:16.351Z",
+    "publishedAt": "2026-06-02T10:33:54.736Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
