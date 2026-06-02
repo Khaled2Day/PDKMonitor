@@ -9924,7 +9924,8 @@
     "t_06u5t3p": "admin",
     "t_blslhui": "admin",
     "t_0ukjf5p": "admin",
-    "e_lzwkm0g": "admin"
+    "e_lzwkm0g": "admin",
+    "tab_d2ootms": "admin"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -23190,6 +23191,12 @@
         }
       ],
       "kind": "platforms"
+    },
+    {
+      "id": "tab_d2ootms",
+      "name": "DOCs",
+      "groups": [],
+      "kind": "docs"
     }
   ],
   "sketchLibrary": [],
@@ -23830,9 +23837,9 @@
     "path": "OpenSource_PDKMonitor/dashboard.json",
     "lastFetchedAt": "2026-06-02T10:32:19.753Z",
     "lastFetchedSha": "0139cb1557b71fc099e12cb004ea67c078b4b014",
-    "lastPublishedAt": "2026-05-30T03:12:47.417Z",
-    "lastPublishedSha": "9207cbc64e9c6cb450c8fdc4a5c8bfa8a2b86c5a",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/9207cbc64e9c6cb450c8fdc4a5c8bfa8a2b86c5a",
+    "lastPublishedAt": "2026-06-02T10:32:41.416Z",
+    "lastPublishedSha": "2d1651f9ca55ba3bdf7955d91e46c866cb442d2f",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/2d1651f9ca55ba3bdf7955d91e46c866cb442d2f",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -23928,7 +23935,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-02T10:32:41.416Z",
+    "publishedAt": "2026-06-02T10:33:16.351Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
