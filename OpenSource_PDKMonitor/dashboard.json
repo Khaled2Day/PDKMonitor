@@ -19505,14 +19505,6 @@
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
-        "enabled": true
-      },
-      {
-        "id": "s_mpy43rr2_kty",
-        "label": "My fork — PDKMonitor (@EmreKaplanSoton) · users/EmreKaplanSoton/",
-        "repo": "EmreKaplanSoton/PDKMonitor",
-        "branch": "main",
-        "path": "users/EmreKaplanSoton",
         "enabled": false
       }
     ],
@@ -19520,11 +19512,11 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-06-03T13:43:42.981Z",
-    "lastFetchedSha": "e9959553256af2d0b7964043a71d299dd5ce2437",
-    "lastPublishedAt": "2026-06-02T20:54:05.092Z",
-    "lastPublishedSha": "38bea481880e45e64d75264184ff4c59627ceb98",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/38bea481880e45e64d75264184ff4c59627ceb98",
+    "lastFetchedAt": "2026-06-03T13:50:53.450Z",
+    "lastFetchedSha": "bbfb498ecbf99ed54b7b79c4848b09dc826082de",
+    "lastPublishedAt": "2026-06-03T13:49:24.130Z",
+    "lastPublishedSha": "44f6895e4e3b3bc4c819696e9edd812992110d6e",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/44f6895e4e3b3bc4c819696e9edd812992110d6e",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -19638,7 +19630,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-03T13:49:24.130Z",
+    "publishedAt": "2026-06-03T13:51:01.279Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
