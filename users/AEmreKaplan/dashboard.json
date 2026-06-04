@@ -975,99 +975,6 @@
               "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
-            },
-            {
-              "id": "e_ox65ex1",
-              "name": "Heater",
-              "status": "available",
-              "owner": "AEmreKaplan",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/Heater.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_l7n3e27",
-                  "name": "Heater.yaml",
-                  "filename": "Heater.yaml",
-                  "mime": "application/yaml",
-                  "size": 338,
-                  "bbType": "waveguide",
-                  "who": "AEmreKaplan",
-                  "added": "2026-06-03",
-                  "description": "",
-                  "repoPath": "users/AEmreKaplan/Heater__x65ex1/layout/Heater.yaml",
-                  "repoSha": "f8a9b6c15a4f9e0deb5c60fffcb9cb2e441f2af7",
-                  "binaryContent": "bmFtZTogSGVhdGVyCmNvbXBvbmVudF90eXBlOiBUT1BNCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjAvMDcvMjAyNQpwb3J0czoKLSBuYW1lOiBlMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDc1LjAwMAogIC0gMjM1LjAwNAogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogZTIKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAxNzUKICAtIDIzNS4wMDQKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwo=",
-                  "rawText": "name: Heater\ncomponent_type: TOPM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - 75.000\n  - 235.004\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 175\n  - 235.004\n  orientation: 90\n  cross_section: dc\n"
-                },
-                {
-                  "id": "d_t4xlw4c",
-                  "name": "Heater.yaml",
-                  "filename": "Heater.yaml",
-                  "mime": "application/yaml",
-                  "size": 338,
-                  "bbType": "waveguide",
-                  "who": "",
-                  "added": "2026-06-02",
-                  "description": "",
-                  "repoPath": "users/AEmreKaplan/Heater__x65ex1/documents/Heater.yaml",
-                  "repoSha": "f819eedb684c446446b68b91cb1f44da83e32123",
-                  "binaryContent": "bmFtZTogSGVhdGVyCmNvbXBvbmVudF90eXBlOiBUT1BNCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjAvMDcvMjAyNQpwb3J0czoKLSBuYW1lOiBlMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDc1LjAwMDAwCiAgLSAyMzUuMDA0MDAKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IGUyCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gMTc1LjAwMDAwCiAgLSAyMzUuMDA0MDAKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwo=",
-                  "rawText": "name: Heater\ncomponent_type: TOPM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - 75.00000\n  - 235.00400\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 175.00000\n  - 235.00400\n  orientation: 90\n  cross_section: dc\n"
-                },
-                {
-                  "id": "d_p2uh39k",
-                  "name": "Heater.yaml",
-                  "filename": "Heater.yaml",
-                  "mime": "application/yaml",
-                  "size": 350,
-                  "bbType": "waveguide",
-                  "who": "",
-                  "added": "2026-06-02",
-                  "description": "",
-                  "repoPath": "users/AEmreKaplan/Heater__x65ex1/documents/Heater.yaml",
-                  "repoSha": "f819eedb684c446446b68b91cb1f44da83e32123",
-                  "binaryContent": "bmFtZTogSGVhdGVyCmNvbXBvbmVudF90eXBlOiBUT1BNCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjAvMDcvMjAyNQpwb3J0czoKLSBuYW1lOiBlMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDc1LjAwMDAwCiAgLSAyMzUuMDA0MDAKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IGUyCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gMTc1LjAwMDAwCiAgLSAyMzUuMDA0MDAKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwo=",
-                  "rawText": "name: Heater\ncomponent_type: TOPM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - 75.00000\n  - 235.00400\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 175.00000\n  - 235.00400\n  orientation: 90\n  cross_section: dc\n"
-                }
-              ],
-              "updated": "2026-06-03",
-              "kind": "passive",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "gdsSize": 684,
-              "edaTools": [
-                "ipkiss",
-                "gdsfactory",
-                "klayout",
-                "virtuoso",
-                "ledit",
-                "picstudio"
-              ],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [],
-              "plannedReleaseDate": "",
-              "smatrixGroups": [],
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null,
-              "_gdsStripped": true,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": ""
             }
           ]
         },
@@ -1459,9 +1366,7 @@
     "e_4oasinb": "admin",
     "layout:e_4oasinb": "admin",
     "e_hkbuzv7": "admin",
-    "layout:e_hkbuzv7": "admin",
-    "e_ox65ex1": "AEmreKaplan",
-    "layout:e_ox65ex1": "AEmreKaplan"
+    "layout:e_hkbuzv7": "admin"
   },
   "labels": {
     "AEmreKaplan": "AEmreKaplan"
@@ -1475,23 +1380,23 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-06-03T23:54:10.491Z",
+    "publishedAt": "2026-06-04T00:07:13.138Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "AEmreKaplan",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.0.3",
-    "bbCount": 30,
+    "bbCount": 29,
     "groupCount": 15,
     "tabCount": 5,
-    "fileCount": 32,
+    "fileCount": 29,
     "sliceFor": "AEmreKaplan",
     "termsVersion": "1.1.0",
     "externalized": {
       "uploaded": 0,
       "skipped": 0,
       "failed": 0,
-      "reused": 32,
+      "reused": 29,
       "usersDir": "users/AEmreKaplan/",
       "layoutVersion": "rev5-tab-named",
       "note": "Per-BB folder layout: users/AEmreKaplan/<bb>/<section>/<file> — section folders are tab-named one-to-one with the BB-panel tabs: layout (GDS / OASIS + canonical YAML), smatrix (S-matrix datasets), tests, fab, scripts, documents (non-canonical YAMLs + other docs), eda (eda_links.json), files (loose BB-level files), variants (recursive). Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent."
