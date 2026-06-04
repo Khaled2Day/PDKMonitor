@@ -17776,8 +17776,8 @@
               "id": "e_8ne3say",
               "name": "SiN200nm_780nm_TE_STRIP_Splitter5050",
               "status": "available",
-              "owner": "admin",
-              "description": "",
+              "owner": "Skandan Chandrasekar",
+              "description": "s39chand@uwaterloo.ca",
               "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_200nm/components/SiN200nm_780nm_TE_STRIP_Splitter5050.gds",
               "files": [],
               "scripts": [],
@@ -19652,7 +19652,7 @@
               "id": "e_j4zuiyz",
               "name": "Silicon Nitride",
               "status": "available",
-              "owner": "",
+              "owner": "admin",
               "description": "",
               "githubUrl": "",
               "files": [],
@@ -19673,7 +19673,8 @@
                   "id": "ft_5mx0b4z",
                   "name": "From import",
                   "tests": [],
-                  "notes": ""
+                  "notes": "",
+                  "subfolders": []
                 }
               ],
               "_docVersion": "",
@@ -19701,7 +19702,7 @@
               "id": "e_lzwkm0g",
               "name": "Germanium",
               "status": "available",
-              "owner": "",
+              "owner": "admin",
               "description": "",
               "githubUrl": "",
               "files": [],
@@ -19722,7 +19723,8 @@
                   "id": "ft_2bg3wg2",
                   "name": "From import",
                   "tests": [],
-                  "notes": ""
+                  "notes": "",
+                  "subfolders": []
                 }
               ],
               "_docVersion": "",
@@ -19806,8 +19808,8 @@
               "id": "e_0plsdau",
               "name": "CDSEM",
               "status": "available",
-              "owner": "",
-              "description": "",
+              "owner": "Admin",
+              "description": "CDSEM Measurements of waveguides and fiducials. Go to Fabrication tab for data files.",
               "githubUrl": "",
               "files": [],
               "scripts": [],
@@ -19827,7 +19829,8 @@
                   "id": "ft_74ww5bi",
                   "name": "SOI CDSEM",
                   "notes": "",
-                  "tests": []
+                  "tests": [],
+                  "subfolders": []
                 },
                 {
                   "id": "ft_ku0x84d",
@@ -20440,48 +20443,60 @@
   "contributors": [
     {
       "identity": "CS_Aiman",
-      "name": "CS_Aiman",
+      "name": "Aiman Hazim Shafizam",
       "role": "user-admin",
-      "addedAt": "2026-05-25T11:17:20.544Z"
+      "addedAt": "2026-05-25T11:17:20.544Z",
+      "affiliation": "University of Southampton/CORNERSTONE"
     },
     {
       "identity": "CS_Bilge",
-      "name": "CS_Bilge",
+      "name": "Bilge Yagci",
       "role": "user-admin",
       "addedAt": "2026-05-25T10:53:22.349Z",
-      "fromSlice": "users/CS_Bilge/dashboard.json"
+      "fromSlice": "users/CS_Bilge/dashboard.json",
+      "affiliation": "University of Southampton/CORNERSTONE"
     },
     {
       "id": "c_mpl440ks_67ug",
-      "name": "CS_Shengqi",
+      "name": "Shengqi Yin",
       "identity": "CS_Shengqi",
-      "affiliation": "",
+      "affiliation": "University of Southampton/CORNERSTONE",
       "note": ""
     },
     {
       "id": "c_mpl44ata_z1qs",
-      "name": "CS_Khaled",
+      "name": "Khaled Mohammed",
       "identity": "CS_Khaled",
-      "affiliation": "",
+      "affiliation": "University of Southampton/CORNERSTONE",
       "note": ""
     },
     {
       "identity": "AEmreKaplan",
-      "name": "CS_Emre",
+      "name": "Emre Kaplan",
       "role": "user-admin",
-      "addedAt": "2026-05-26T03:06:04.482Z"
+      "addedAt": "2026-05-26T03:06:04.482Z",
+      "affiliation": "University of Southampton/CORNERSTONE"
     },
     {
       "identity": "dashboard_admin",
       "name": "Dashboard Admin",
       "role": "admin",
-      "addedAt": "2026-05-29T11:45:17.851Z"
+      "addedAt": "2026-05-29T11:45:17.851Z",
+      "affiliation": "University of Southampton/CORNERSTONE"
     },
     {
       "identity": "https-github.com-AEmreKaplan-",
       "name": "Dashboard Admin",
       "role": "admin",
-      "addedAt": "2026-05-30T18:34:10.172Z"
+      "addedAt": "2026-05-30T18:34:10.172Z",
+      "affiliation": "University of Southampton/CORNERSTONE"
+    },
+    {
+      "id": "c_mpz9bwwy_con2",
+      "name": "Skandan Chandrasekar",
+      "identity": "s39chand@uwaterloo.ca",
+      "affiliation": "University of Waterloo",
+      "note": ""
     }
   ],
   "exportedAt": "2026-05-31T23:07:09.783Z",
@@ -20807,7 +20822,7 @@
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
-        "enabled": false
+        "enabled": true
       },
       {
         "id": "s_mpynw69x_2",
@@ -20822,19 +20837,27 @@
         "label": "My fork — PDKMonitor (@AEmreKaplan) · users/AEmreKaplan/",
         "repo": "AEmreKaplan/PDKMonitor",
         "branch": "main",
+        "path": "OpenSource_PDKMonitor/dashboard.json",
+        "enabled": false
+      },
+      {
+        "id": "s_mpz92ev3_on2",
+        "label": "My fork — PDKMonitor (@AEmreKaplan) · users/AEmreKaplan/",
+        "repo": "AEmreKaplan/PDKMonitor",
+        "branch": "main",
         "path": "users/AEmreKaplan/dashboard.json",
-        "enabled": true
+        "enabled": false
       }
     ],
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-06-03T22:55:52.407Z",
+    "lastFetchedAt": "2026-06-04T08:46:35.858Z",
     "lastFetchedSha": "4e36117c61f47982a8e9160e8cb96a45b6fead9f",
-    "lastPublishedAt": "2026-06-03T22:56:49.288Z",
-    "lastPublishedSha": "fd3ae126059a740a3b58f86bf6872874285ed3e4",
-    "lastPublishedUrl": "https://github.com/AEmreKaplan/PDKMonitor/commit/fd3ae126059a740a3b58f86bf6872874285ed3e4",
+    "lastPublishedAt": "2026-06-04T02:31:48.397Z",
+    "lastPublishedSha": "a3defecc36009f84208e945c9aa54a2f2cae0675",
+    "lastPublishedUrl": "https://github.com/AEmreKaplan/PDKMonitor/commit/a3defecc36009f84208e945c9aa54a2f2cae0675",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -20945,12 +20968,12 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-04T02:28:27.381Z",
+    "publishedAt": "2026-06-04T08:55:16.507Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
     "appVersion": "v1.0.3",
-    "contributorCount": 7,
+    "contributorCount": 8,
     "bbCount": 108,
     "guestCount": 6,
     "termsVersion": "1.1.0"
