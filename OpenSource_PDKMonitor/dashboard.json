@@ -20444,11 +20444,33 @@
   ],
   "contributors": [
     {
+      "identity": "AEmreKaplan",
+      "name": "Emre Kaplan",
+      "role": "user-admin",
+      "addedAt": "2026-05-26T03:06:04.482Z",
+      "affiliation": "University of Southampton/CORNERSTONE",
+      "note": "Dashboard Author/ Initial maintainer"
+    },
+    {
       "identity": "CS_Aiman",
       "name": "Aiman Hazim Shafizam",
       "role": "user-admin",
       "addedAt": "2026-05-25T11:17:20.544Z",
       "affiliation": "University of Southampton/CORNERSTONE"
+    },
+    {
+      "id": "c_mpl44ata_z1qs",
+      "name": "Khaled Mohammed",
+      "identity": "CS_Khaled",
+      "affiliation": "University of Southampton/CORNERSTONE",
+      "note": ""
+    },
+    {
+      "id": "c_mpl440ks_67ug",
+      "name": "Shengqi Yin",
+      "identity": "CS_Shengqi",
+      "affiliation": "University of Southampton/CORNERSTONE",
+      "note": ""
     },
     {
       "identity": "CS_Bilge",
@@ -20459,26 +20481,25 @@
       "affiliation": "University of Southampton/CORNERSTONE"
     },
     {
-      "id": "c_mpl440ks_67ug",
-      "name": "Shengqi Yin",
-      "identity": "CS_Shengqi",
-      "affiliation": "University of Southampton/CORNERSTONE",
+      "id": "c_mpz9lhdc_7d57",
+      "name": "Francesco Floris",
+      "identity": "",
+      "affiliation": "University of Pavia",
       "note": ""
     },
     {
-      "id": "c_mpl44ata_z1qs",
-      "name": "Khaled Mohammed",
-      "identity": "CS_Khaled",
-      "affiliation": "University of Southampton/CORNERSTONE",
+      "id": "c_mpz9m3j0_gqnf",
+      "name": "James O'Callaghan",
+      "identity": "",
+      "affiliation": "Tyndall National Institute",
       "note": ""
     },
     {
-      "identity": "AEmreKaplan",
-      "name": "Emre Kaplan",
-      "role": "user-admin",
-      "addedAt": "2026-05-26T03:06:04.482Z",
-      "affiliation": "University of Southampton/CORNERSTONE",
-      "note": "Dashboard Author/ Initial maintainer"
+      "id": "c_mpz9bwwy_con2",
+      "name": "Skandan Chandrasekar",
+      "identity": "s39chand@uwaterloo.ca",
+      "affiliation": "University of Waterloo",
+      "note": ""
     },
     {
       "identity": "dashboard_admin",
@@ -20494,27 +20515,6 @@
       "role": "admin",
       "addedAt": "2026-05-30T18:34:10.172Z",
       "affiliation": "University of Southampton/CORNERSTONE"
-    },
-    {
-      "id": "c_mpz9bwwy_con2",
-      "name": "Skandan Chandrasekar",
-      "identity": "s39chand@uwaterloo.ca",
-      "affiliation": "University of Waterloo",
-      "note": ""
-    },
-    {
-      "id": "c_mpz9lhdc_7d57",
-      "name": "Francesco Floris",
-      "identity": "",
-      "affiliation": "University of Pavia",
-      "note": ""
-    },
-    {
-      "id": "c_mpz9m3j0_gqnf",
-      "name": "James O'Callaghan",
-      "identity": "",
-      "affiliation": "Tyndall National Institute",
-      "note": ""
     }
   ],
   "exportedAt": "2026-05-31T23:07:09.783Z",
@@ -20863,9 +20863,9 @@
     "path": "OpenSource_PDKMonitor/dashboard.json",
     "lastFetchedAt": "2026-06-04T08:59:45.254Z",
     "lastFetchedSha": "4e36117c61f47982a8e9160e8cb96a45b6fead9f",
-    "lastPublishedAt": "2026-06-04T02:31:48.397Z",
-    "lastPublishedSha": "a3defecc36009f84208e945c9aa54a2f2cae0675",
-    "lastPublishedUrl": "https://github.com/AEmreKaplan/PDKMonitor/commit/a3defecc36009f84208e945c9aa54a2f2cae0675",
+    "lastPublishedAt": "2026-06-04T09:23:23.319Z",
+    "lastPublishedSha": "2ef34319858409bcf315c0f364c715ab43e73464",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/2ef34319858409bcf315c0f364c715ab43e73464",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -20976,7 +20976,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-04T09:23:23.319Z",
+    "publishedAt": "2026-06-04T09:31:45.702Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
