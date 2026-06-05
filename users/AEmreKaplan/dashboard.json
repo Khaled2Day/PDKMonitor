@@ -448,11 +448,11 @@
   "uploads": [],
   "tabs": [
     {
-      "id": "tab_i3fe6iw",
+      "id": "tab_nmqbasx",
       "name": "Technology Platforms",
       "groups": [
         {
-          "id": "g_rdw1imf",
+          "id": "g_g3hf4lc",
           "name": "SOI 220 nm",
           "platformMeta": {
             "material": "Si",
@@ -461,7 +461,7 @@
           "entities": []
         },
         {
-          "id": "g_in1tqvo",
+          "id": "g_6x0lj0u",
           "name": "SOI 340 nm",
           "platformMeta": {
             "material": "Si",
@@ -470,7 +470,7 @@
           "entities": []
         },
         {
-          "id": "g_x64bnhy",
+          "id": "g_xa0r0lr",
           "name": "SOI 500 nm",
           "platformMeta": {
             "material": "Si",
@@ -479,7 +479,7 @@
           "entities": []
         },
         {
-          "id": "g_llrgtho",
+          "id": "g_fv2k6lh",
           "name": "TFLN 300 nm",
           "platformMeta": {
             "material": "LN",
@@ -488,7 +488,7 @@
           "entities": []
         },
         {
-          "id": "g_8nkcb68",
+          "id": "g_2xwo2k2",
           "name": "SiN 300 nm",
           "platformMeta": {
             "material": "SiN",
@@ -497,7 +497,7 @@
           "entities": []
         },
         {
-          "id": "g_y9v3es1",
+          "id": "g_mrpq71n",
           "name": "SiN 200 nm",
           "platformMeta": {
             "material": "SiN",
@@ -542,22 +542,61 @@
       "docs",
       "doc",
       "documents",
-      "documentation",
+      "documentation"
+    ],
+    "manuals": [
       "manuals",
-      "datasheets"
+      "manual",
+      "datasheets",
+      "datasheet",
+      "handbook",
+      "specs",
+      "spec"
+    ],
+    "sketch": [
+      "sketch",
+      "sketches",
+      "images",
+      "image",
+      "preview",
+      "previews",
+      "thumbnails",
+      "thumbs"
     ]
   },
+  "yamlDescKeys": [
+    "description",
+    "summary",
+    "abstract",
+    "authors",
+    "author",
+    "contributors",
+    "name",
+    "organisation",
+    "organization",
+    "org",
+    "affiliation",
+    "copyright",
+    "copy",
+    "licence",
+    "license",
+    "links",
+    "doclinks",
+    "doglinks",
+    "references",
+    "urls"
+  ],
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-06-04T10:53:32.346Z",
+    "publishedAt": "2026-06-05T12:26:05.716Z",
     "publisherIdentity": "AEmreKaplan",
-    "publisherLabel": "CS_Emre",
+    "publisherLabel": "AEmreKaplan",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.0.3",
     "bbCount": 0,
-    "groupCount": 15,
-    "tabCount": 5,
+    "groupCount": 12,
+    "tabCount": 4,
     "fileCount": 0,
     "sliceFor": "AEmreKaplan",
     "termsVersion": "1.1.0",
