@@ -8580,7 +8580,7 @@
     "layout:e_yczzif7": "admin",
     "layout:e_1uuno83": "admin",
     "layout:e_d1k646t": "admin",
-    "layout:e_fas2ih4": "AEmreKaplan",
+    "layout:e_fas2ih4": "admin",
     "layout:e_3mmx63u": "admin",
     "layout:e_zlimbjb": "admin",
     "layout:e_5ix7pu8": "admin",
@@ -12123,7 +12123,121 @@
     "doc_n2l5adc": "admin",
     "doc_zy2nzvm": "admin",
     "doc_2knt3mw": "admin",
-    "doc_424sm51": "admin"
+    "doc_424sm51": "admin",
+    "t_1dskv7n": "admin",
+    "t_sr5h6ho": "admin",
+    "t_o9mu6pp": "admin",
+    "t_rdatyfw": "admin",
+    "t_lp174tu": "admin",
+    "t_ntd07qp": "admin",
+    "t_a5tks8b": "admin",
+    "t_5fi12pd": "admin",
+    "t_a2v7w8r": "admin",
+    "t_jzvmk1h": "admin",
+    "t_keg0xd8": "admin",
+    "t_cjyetfn": "admin",
+    "t_jqvr2jc": "admin",
+    "t_v23a6ml": "admin",
+    "t_8rtppmo": "admin",
+    "t_1i8mnbb": "admin",
+    "t_2ua0f6g": "admin",
+    "t_le7ciol": "admin",
+    "t_9z75sd7": "admin",
+    "t_jsjideo": "admin",
+    "t_w0sjy3h": "admin",
+    "t_j0p9gl2": "admin",
+    "t_qakl81w": "admin",
+    "t_15geynj": "admin",
+    "t_ad0th04": "admin",
+    "t_jlo3qyj": "admin",
+    "t_gngasvp": "admin",
+    "t_z2in9pd": "admin",
+    "t_4d5h74q": "admin",
+    "t_g1sigsy": "admin",
+    "t_ayatriz": "admin",
+    "t_s4ijle1": "admin",
+    "t_ihit6yo": "admin",
+    "t_ntc87hl": "admin",
+    "t_f5cptdk": "admin",
+    "t_2wx02rt": "admin",
+    "t_4pww9fa": "admin",
+    "t_smo1emu": "admin",
+    "t_n5ls3ni": "admin",
+    "t_m9mqpjz": "admin",
+    "t_vdvfqk4": "admin",
+    "t_tz8brxo": "admin",
+    "t_g2hxpe5": "admin",
+    "t_lt3lp9w": "admin",
+    "t_i5lxw5g": "admin",
+    "t_ovtfhgk": "admin",
+    "t_qqntv4i": "admin",
+    "t_t5x18uy": "admin",
+    "t_5rla0tl": "admin",
+    "t_alcbt1j": "admin",
+    "t_pocqvbf": "admin",
+    "t_42ihi25": "admin",
+    "t_9lxhocp": "admin",
+    "t_pmxt6kq": "admin",
+    "t_oqoyeem": "admin",
+    "t_jlbzrm0": "admin",
+    "t_5bgq424": "admin",
+    "t_mhahzu8": "admin",
+    "t_abw6so2": "admin",
+    "t_6yt4pyr": "admin",
+    "t_pr8y74l": "admin",
+    "t_2a9g77z": "admin",
+    "t_vypd3yn": "admin",
+    "t_ryj6vpo": "admin",
+    "t_imx5a2g": "admin",
+    "t_ghgecbl": "admin",
+    "t_s6xif6o": "admin",
+    "t_97uionv": "admin",
+    "t_pax4ki5": "admin",
+    "t_b905cmz": "admin",
+    "t_g8wxyve": "admin",
+    "t_bupg9ml": "admin",
+    "t_28vhcr7": "admin",
+    "t_ysdbvmr": "admin",
+    "t_vo4mdi8": "admin",
+    "t_3oun1t1": "admin",
+    "t_w5i5of7": "admin",
+    "t_y4e8t98": "admin",
+    "t_njspru3": "admin",
+    "t_3bmqn3e": "admin",
+    "t_l22aawg": "admin",
+    "t_t67roiu": "admin",
+    "t_pq9j0vs": "admin",
+    "t_cjzlyz4": "admin",
+    "t_p9tvqtu": "admin",
+    "t_54l6z1d": "admin",
+    "t_gjhafhy": "admin",
+    "t_z1fxm8k": "admin",
+    "t_9aa0s2x": "admin",
+    "t_1e78xlb": "admin",
+    "t_y6kxszi": "admin",
+    "t_0mgt7yc": "admin",
+    "t_xge1xbn": "admin",
+    "t_00oaeji": "admin",
+    "t_m7e7zmi": "admin",
+    "t_l12l1c1": "admin",
+    "t_sttq3w2": "admin",
+    "t_p28bq0n": "admin",
+    "t_wdewx49": "admin",
+    "layout:e_fwdccyy": "admin",
+    "t_cng0jxt": "admin",
+    "layout:e_d8lo05e": "admin",
+    "t_29rlvwp": "admin",
+    "layout:e_3kf2xnn": "admin",
+    "d_kwis17d": "admin",
+    "d_7u3lfij": "admin",
+    "d_kyfjk6a": "admin",
+    "d_3z3th3x": "admin",
+    "d_tuvoci2": "admin",
+    "d_4pz9omg": "admin",
+    "t_3zv9zv4": "admin",
+    "t_6jzh07u": "admin",
+    "doc_amr4qi4": "admin",
+    "doc_lpdi266": "admin"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -12173,7 +12287,7 @@
               "bbType": "custom",
               "dimensionsOn": true,
               "params": {},
-              "gdsSize": 0,
+              "gdsSize": 149906,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -12183,7 +12297,15 @@
                 "picstudio"
               ],
               "cdi": {},
-              "fabTabs": [],
+              "fabTabs": [
+                {
+                  "id": "ft_files",
+                  "name": "Files",
+                  "tests": [],
+                  "collapsed": false,
+                  "notes": ""
+                }
+              ],
               "fetchHistory": [
                 {
                   "section": "fab",
@@ -12199,11 +12321,6 @@
                   "section": "fab",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/materials/SiO2.csv",
                   "ts": 1780350143237
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/Cell0_SOI220_Full_1550nm_Packaging_Template.gds",
-                  "ts": 1780569559745
                 }
               ],
               "plannedReleaseDate": "",
@@ -12222,11 +12339,10 @@
                 "urlsEmpty": 0,
                 "deadUrls": []
               },
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_k77neha",
@@ -12251,7 +12367,7 @@
                 "width_nm": 500,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 27282,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -12267,14 +12383,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.csv",
                   "ts": 1779692936058
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.gds",
-                  "ts": 1780569565389
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -12283,11 +12401,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_ou06zu0",
@@ -12311,7 +12428,7 @@
                 "width_nm": 500,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 114304,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -12322,13 +12439,7 @@
               ],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_MZI.gds",
-                  "ts": 1780569566039
-                }
-              ],
+              "fetchHistory": [],
               "plannedReleaseDate": "",
               "smatrixGroups": [],
               "customSketchUrl": "",
@@ -12338,11 +12449,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_wgt0y0l",
@@ -12366,7 +12476,7 @@
                 "width_nm": 500,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 65490,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -12377,13 +12487,7 @@
               ],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_MZI.gds",
-                  "ts": 1780569568227
-                }
-              ],
+              "fetchHistory": [],
               "plannedReleaseDate": "",
               "smatrixGroups": [],
               "customSketchUrl": "",
@@ -12393,11 +12497,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_6puxohu",
@@ -12431,9 +12534,6 @@
               "edaLinks": [],
               "trl": null,
               "dimensionsOn": false,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -12475,9 +12575,6 @@
               "expanded": false,
               "fetchHistory": [],
               "edaLinks": [],
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -12516,9 +12613,6 @@
               "expanded": false,
               "fetchHistory": [],
               "edaLinks": [],
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -12532,7 +12626,14 @@
               "files": [],
               "scripts": [],
               "datasets": [],
-              "testGroups": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "tests": [],
+                  "collapsed": false
+                }
+              ],
               "documents": [],
               "updated": "2026-06-05",
               "kind": "passive",
@@ -12545,7 +12646,7 @@
                 "width_nm": 500,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 52248,
               "edaTools": [
                 "klayout"
               ],
@@ -12561,14 +12662,16 @@
                   "section": "tests",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/test/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0/_init_",
                   "ts": 1779919799540
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.gds",
-                  "ts": 1780569560414
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -12585,11 +12688,10 @@
                 "urlsEmpty": 0,
                 "deadUrls": []
               },
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_km981tv",
@@ -12629,9 +12731,6 @@
               "expanded": false,
               "fetchHistory": [],
               "edaLinks": [],
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -12645,18 +12744,22 @@
               "files": [],
               "scripts": [],
               "datasets": [],
-              "testGroups": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "tests": [],
+                  "collapsed": false,
+                  "subfolders": []
+                }
+              ],
               "documents": [],
               "updated": "2026-06-05",
               "kind": "passive",
               "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "gdsSize": 0,
+              "dimensionsOn": false,
+              "params": {},
+              "gdsSize": 262,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -12787,11 +12890,6 @@
                   "section": "tests",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/test/SOI220nm_1550nm_TE_RIB_Waveguide/MPW45/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG6.txt",
                   "ts": 1780276060462
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_Waveguide.gds",
-                  "ts": 1780569566363
                 }
               ],
               "smatrixGroups": [],
@@ -12803,12 +12901,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "pinned": true
+              "pinned": true,
+              "_gdsStripped": true
             },
             {
               "id": "e_838wngl",
@@ -12831,7 +12927,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 500,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -12847,14 +12943,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1310nm_TE_RIB_2x1_MMI.csv",
                   "ts": 1780276243932
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_2x1_MMI.gds",
-                  "ts": 1780569560725
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -12863,11 +12961,9 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true
             },
             {
               "id": "e_yczzif7",
@@ -12890,7 +12986,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 868,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -12906,14 +13002,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1310nm_TE_RIB_2x2_MMI.csv",
                   "ts": 1780276244585
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_2x2_MMI.gds",
-                  "ts": 1780569561020
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -12922,11 +13020,9 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true
             },
             {
               "id": "e_1uuno83",
@@ -12949,7 +13045,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 2236,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -12965,14 +13061,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1310nm_TE_RIB_90_Degree_Bend.csv",
                   "ts": 1780276245036
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_90_Degree_Bend.gds",
-                  "ts": 1780569561324
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -12981,11 +13079,9 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true
             },
             {
               "id": "e_d1k646t",
@@ -13008,7 +13104,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 5468,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13024,14 +13120,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1310nm_TE_RIB_Grating_Coupler.csv",
                   "ts": 1780276245474
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_Grating_Coupler.gds",
-                  "ts": 1780569561628
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13040,11 +13138,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_fas2ih4",
@@ -13061,13 +13158,9 @@
               "updated": "2026-06-05",
               "kind": "passive",
               "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "gdsSize": 0,
+              "dimensionsOn": false,
+              "params": {},
+              "gdsSize": 262,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13078,13 +13171,7 @@
               ],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_Waveguide.gds",
-                  "ts": 1780569561997
-                }
-              ],
+              "fetchHistory": [],
               "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
@@ -13101,12 +13188,10 @@
                 "urlsEmpty": 0,
                 "deadUrls": []
               },
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "pinned": true
+              "pinned": true,
+              "_gdsStripped": true
             },
             {
               "id": "e_3mmx63u",
@@ -13129,7 +13214,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 1104,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13145,14 +13230,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.csv",
                   "ts": 1780276245923
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.gds",
-                  "ts": 1780569562285
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13161,11 +13248,9 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true
             },
             {
               "id": "e_zlimbjb",
@@ -13188,7 +13273,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 582,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13204,14 +13289,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1310nm_TE_STRIP_2x1_MMI.csv",
                   "ts": 1780276246217
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_2x1_MMI.gds",
-                  "ts": 1780569562571
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13220,11 +13307,9 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true
             },
             {
               "id": "e_5ix7pu8",
@@ -13247,7 +13332,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 710,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13263,14 +13348,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1310nm_TE_STRIP_2x2_MMI.csv",
                   "ts": 1780276247038
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_2x2_MMI.gds",
-                  "ts": 1780569562873
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13279,11 +13366,9 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true
             },
             {
               "id": "e_4ebe0de",
@@ -13306,7 +13391,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 646,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13322,14 +13407,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.csv",
                   "ts": 1780276247523
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.gds",
-                  "ts": 1780569563332
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13338,11 +13425,9 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true
             },
             {
               "id": "e_m7dn718",
@@ -13365,7 +13450,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 5390,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13381,14 +13466,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1310nm_TE_STRIP_Grating_Coupler.csv",
                   "ts": 1780276247828
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_Grating_Coupler.gds",
-                  "ts": 1780569563639
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13397,11 +13484,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_txq39yh",
@@ -13424,7 +13510,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 200,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13435,13 +13521,7 @@
               ],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_Waveguide.gds",
-                  "ts": 1780569563902
-                }
-              ],
+              "fetchHistory": [],
               "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
@@ -13451,12 +13531,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "pinned": true
+              "pinned": true,
+              "_gdsStripped": true
             },
             {
               "id": "e_8fnhtbv",
@@ -13479,7 +13557,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 722,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13495,14 +13573,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.csv",
                   "ts": 1780276248486
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.gds",
-                  "ts": 1780569564202
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13511,11 +13591,9 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true
             },
             {
               "id": "e_0595r59",
@@ -13538,7 +13616,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 740,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13554,14 +13632,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1550nm_TE_RIB_2x1_MMI.csv",
                   "ts": 1780276248891
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_2x1_MMI.gds",
-                  "ts": 1780569564503
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13570,11 +13650,9 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true
             },
             {
               "id": "e_ufug1m1",
@@ -13597,7 +13675,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 868,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13613,14 +13691,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1550nm_TE_RIB_2x2_MMI.csv",
                   "ts": 1780276249526
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_2x2_MMI.gds",
-                  "ts": 1780569564790
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13629,11 +13709,9 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true
             },
             {
               "id": "e_ifq0qop",
@@ -13656,7 +13734,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 2268,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13672,14 +13750,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1550nm_TE_RIB_90_Degree_Bend.csv",
                   "ts": 1780276249976
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_90_Degree_Bend.gds",
-                  "ts": 1780569565076
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13688,11 +13768,9 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true
             },
             {
               "id": "e_15h45i5",
@@ -13715,7 +13793,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 4188,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13731,14 +13809,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1550nm_TE_RIB_Grating_Coupler.csv",
                   "ts": 1780276250969
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_Grating_Coupler.gds",
-                  "ts": 1780569565710
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13747,11 +13827,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_kv8ahe8",
@@ -13774,7 +13853,7 @@
                 "arm_length_um": 8,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 1104,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13790,14 +13869,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.csv",
                   "ts": 1780276251776
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.gds",
-                  "ts": 1780569566742
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13806,11 +13887,9 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true
             },
             {
               "id": "e_eqnpp7u",
@@ -13833,7 +13912,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 582,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13849,14 +13928,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1550nm_TE_STRIP_2x1_MMI.csv",
                   "ts": 1780276252251
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_2x1_MMI.gds",
-                  "ts": 1780569567039
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13865,11 +13946,9 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true
             },
             {
               "id": "e_tsj6jue",
@@ -13892,7 +13971,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 710,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13908,14 +13987,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1550nm_TE_STRIP_2x2_MMI.csv",
                   "ts": 1780276252671
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_2x2_MMI.gds",
-                  "ts": 1780569567338
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13924,11 +14005,9 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true
             },
             {
               "id": "e_gkqdfu8",
@@ -13951,7 +14030,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 646,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13967,14 +14046,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.csv",
                   "ts": 1780276253129
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.gds",
-                  "ts": 1780569567649
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13983,11 +14064,9 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true
             },
             {
               "id": "e_4yy0o1l",
@@ -14010,7 +14089,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 4110,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -14026,14 +14105,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1550nm_TE_STRIP_Grating_Coupler.csv",
                   "ts": 1780276253429
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_Grating_Coupler.gds",
-                  "ts": 1780569567920
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -14042,11 +14123,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_4oasinb",
@@ -14069,7 +14149,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 200,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -14079,17 +14159,20 @@
                 "picstudio"
               ],
               "cdi": {},
-              "fabTabs": [],
+              "fabTabs": [
+                {
+                  "id": "ft_files",
+                  "name": "Files",
+                  "tests": [],
+                  "collapsed": false,
+                  "notes": ""
+                }
+              ],
               "fetchHistory": [
                 {
                   "section": "fab",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/fab/CDSEM/SOI220nm_1550nm_TE_STRIP_Waveguide/init",
                   "ts": 1780350140736
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_Waveguide.gds",
-                  "ts": 1780569568618
                 }
               ],
               "smatrixGroups": [],
@@ -14101,12 +14184,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "pinned": true
+              "pinned": true,
+              "_gdsStripped": true
             },
             {
               "id": "e_hkbuzv7",
@@ -14129,7 +14210,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 850,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -14145,14 +14226,16 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/sparams/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
                   "ts": 1780276253859
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.gds",
-                  "ts": 1780569568939
                 }
               ],
-              "smatrixGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [],
+                  "collapsed": false
+                }
+              ],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -14161,11 +14244,9 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true
             },
             {
               "id": "e_7zz9erx",
@@ -14188,10 +14269,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsSize": 0,
-              "gdsContent": "",
+              "gdsSize": 684,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -14202,13 +14280,7 @@
               ],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/Heater.gds",
-                  "ts": 1780569560130
-                }
-              ],
+              "fetchHistory": [],
               "plannedReleaseDate": "",
               "smatrixGroups": [],
               "customSketchUrl": "",
@@ -14219,7 +14291,8 @@
               "edaLinks": [],
               "trl": null,
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true
             },
             {
               "id": "e_fwdccyy",
@@ -14238,20 +14311,11 @@
               "bbType": "x_o0i7hq8",
               "dimensionsOn": true,
               "params": {},
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsSize": 0,
-              "gdsContent": "",
+              "gdsSize": 8122736,
               "edaTools": [],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/PIC_Bootcamp_Demo.gds",
-                  "ts": 1780619671462
-                }
-              ],
+              "fetchHistory": [],
               "smatrixGroups": [],
               "edaLinks": [],
               "customSketchUrl": "",
@@ -14262,7 +14326,9 @@
               "layoutScaleUmPerPx": 0,
               "subBlocks": [],
               "expanded": false,
-              "trl": null
+              "trl": null,
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_d8lo05e",
@@ -14281,20 +14347,11 @@
               "bbType": "x_o0i7hq8",
               "dimensionsOn": true,
               "params": {},
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsSize": 0,
-              "gdsContent": "",
+              "gdsSize": 8906154,
               "edaTools": [],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220_CS_OtS_March_2025_v1p1.gds",
-                  "ts": 1780619673442
-                }
-              ],
+              "fetchHistory": [],
               "smatrixGroups": [],
               "edaLinks": [],
               "customSketchUrl": "",
@@ -14305,7 +14362,9 @@
               "layoutScaleUmPerPx": 0,
               "subBlocks": [],
               "expanded": false,
-              "trl": null
+              "trl": null,
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_3kf2xnn",
@@ -14324,20 +14383,11 @@
               "bbType": "x_o0i7hq8",
               "dimensionsOn": true,
               "params": {},
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsSize": 0,
-              "gdsContent": "",
+              "gdsSize": 1536790,
               "edaTools": [],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_Education_Kit.gds",
-                  "ts": 1780619679439
-                }
-              ],
+              "fetchHistory": [],
               "smatrixGroups": [],
               "edaLinks": [],
               "customSketchUrl": "",
@@ -14348,7 +14398,9 @@
               "layoutScaleUmPerPx": 0,
               "subBlocks": [],
               "expanded": false,
-              "trl": null
+              "trl": null,
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_p9b9bdn",
@@ -14381,9 +14433,6 @@
               "expanded": false,
               "fetchHistory": [],
               "edaLinks": [],
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
               "platform": "SOI 220 nm PASSIVE"
@@ -14419,9 +14468,6 @@
               "expanded": false,
               "fetchHistory": [],
               "edaLinks": [],
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
               "platform": "SOI 220 nm PASSIVE"
@@ -14457,9 +14503,6 @@
               "expanded": false,
               "fetchHistory": [],
               "edaLinks": [],
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
               "platform": "SOI 220 nm PASSIVE"
@@ -14495,9 +14538,6 @@
               "expanded": false,
               "fetchHistory": [],
               "edaLinks": [],
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
               "platform": "SOI 220 nm PASSIVE"
@@ -14533,9 +14573,6 @@
               "expanded": false,
               "fetchHistory": [],
               "edaLinks": [],
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
               "platform": "SOI 220 nm PASSIVE"
@@ -14571,9 +14608,6 @@
               "expanded": false,
               "fetchHistory": [],
               "edaLinks": [],
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
               "platform": "SOI 220 nm PASSIVE"
@@ -14609,9 +14643,6 @@
               "expanded": false,
               "fetchHistory": [],
               "edaLinks": [],
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
               "platform": "SOI 220 nm PASSIVE",
@@ -14631,8 +14662,8 @@
           "width": 642,
           "platformDescription": "# SOI220_cband_TM_strip_apodized_GC_focusing_v1p0\n\nSOI220_cband_TM_strip_apodized_GC_focusing_v1p0 — waveguide on SOI 220 nm Passive.\n\n---\n\nPrepared via CORNERSTONE PDK Monitor v1.0.0 on 2026-05-26T19:59:43.504Z.\n\n**Author identity:** https://github.com/AEmreKaplan/\n**BB type:** waveguide\n**Category:** passive\n**Platform:** SOI 220 nm Passive\n**Status:** available\n**Marked as:** New BB (folder created on first commit)\n\n\n## Layout\n\n```\nSi_220nm_passive/\n  PDKMonitor_layout/         ← raw GDS / OASIS / SVG layout uploads\n  PDKMonitor_components/     ← auto-generated YAML descriptor\n  PDKMonitor_sparams/        ← S-matrix tab\n  PDKMonitor_tests/          ← Tests tab\n  PDKMonitor_fab/            ← Fabrication tab\n  PDKMonitor_scripts/        ← Scripts tab\n  PDKMonitor_eda/            ← EDA tab (links as eda_links.json)\n  PDKMonitor_documents/      ← non-YAML docs (PDFs, datasheets)\n  PDKMonitor_variants/       ← recursive variant sub-folders\n```\n\n## Notes\n\n- Folder layout matches [cornerstone-community](https://github.com/cornerstone-uos/cornerstone-community).\n- Re-running *Prepare for community PDK* is idempotent — only new / changed files are uploaded.\n- An admin can cherry-pick this folder straight into the main PDK repo.\n",
           "lastSyncStats": {
-            "ranAt": 1780567109094,
-            "urlsTotal": 51,
+            "ranAt": 1780662075474,
+            "urlsTotal": 84,
             "filesFound": 51,
             "urlsEmpty": 0,
             "deadUrls": []
@@ -14679,7 +14710,7 @@
                 "width_nm": 500,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 55222,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -14689,7 +14720,15 @@
                 "picstudio"
               ],
               "cdi": {},
-              "fabTabs": [],
+              "fabTabs": [
+                {
+                  "id": "ft_files",
+                  "name": "Files",
+                  "tests": [],
+                  "collapsed": false,
+                  "notes": ""
+                }
+              ],
               "fetchHistory": [
                 {
                   "section": "fab",
@@ -14717,11 +14756,10 @@
               "edaLinks": [],
               "trl": null,
               "pinned": false,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_j50vobe",
@@ -14744,7 +14782,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 85704,
               "edaTools": [],
               "cdi": {},
               "fabTabs": [],
@@ -14764,11 +14802,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_miu7hij",
@@ -14791,7 +14828,7 @@
                 "width_um": 4,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 8680,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -14818,11 +14855,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_z1e654s",
@@ -14846,7 +14882,7 @@
                 "width_nm": 500,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 69134,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -14874,11 +14910,10 @@
               "edaLinks": [],
               "trl": null,
               "pinned": false,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_n48tl3w",
@@ -14901,7 +14936,7 @@
                 "width_um": 4,
                 "thickness_nm": 220
               },
-              "gdsSize": 0,
+              "gdsSize": 842,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -14928,11 +14963,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true,
+              "_svgStripped": true
             }
           ],
           "status": "available",
@@ -14950,11 +14984,42 @@
             "docs": true
           },
           "lastSyncStats": {
-            "ranAt": 1780627693439,
+            "ranAt": 1780661902110,
             "urlsTotal": 7,
             "filesFound": 2,
-            "urlsEmpty": 0,
-            "deadUrls": []
+            "urlsEmpty": 5,
+            "deadUrls": [
+              {
+                "bbId": "e_ltl8sye",
+                "bbName": "SOI220nm_1310nm_TE_MZI_Modulator",
+                "section": "layout",
+                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1310nm_TE_MZI_Modulator.gds"
+              },
+              {
+                "bbId": "e_j50vobe",
+                "bbName": "SOI220nm_1550nm_SingleQubitGate_IIF_UoSheffield",
+                "section": "layout",
+                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_SingleQubitGate_IIF_UoSheffield.gds"
+              },
+              {
+                "bbId": "e_miu7hij",
+                "bbName": "SOI220nm_1550nm_TE_Defect_Detector",
+                "section": "layout",
+                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_Defect_Detector.gds"
+              },
+              {
+                "bbId": "e_z1e654s",
+                "bbName": "SOI220nm_1550nm_TE_MZI_Modulator",
+                "section": "layout",
+                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_MZI_Modulator.gds"
+              },
+              {
+                "bbId": "e_n48tl3w",
+                "bbName": "SOI220nm_1550nm_TE_IsolatedDetector",
+                "section": "layout",
+                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_IsolatedDetector.gds"
+              }
+            ]
           },
           "platformDocs": [],
           "githubSources": [
@@ -15030,9 +15095,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -15092,9 +15154,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -15154,9 +15213,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -15214,9 +15270,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -15275,9 +15328,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -15329,9 +15379,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [
                 {
@@ -15397,9 +15444,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -15451,9 +15495,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
               "pinned": true
@@ -15506,9 +15547,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
               "lastSyncStats": {
@@ -15576,9 +15614,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -15638,9 +15673,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -15698,9 +15730,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -15759,9 +15788,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -15814,9 +15840,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -15862,9 +15885,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
               "pinned": true,
@@ -15972,9 +15992,6 @@
                 "urlsEmpty": 0,
                 "deadUrls": []
               },
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -16034,9 +16051,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -16096,9 +16110,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -16156,9 +16167,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -16217,9 +16225,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -16271,9 +16276,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
               "pinned": true
@@ -16321,24 +16323,56 @@
               "name": "Suspendedsilicon500nm_3800nm_TE_90_DegreeBend",
               "status": "available",
               "owner": "admin",
-              "description": "<!--YAML-META:START-->\n── Authors ──\nCORNERSTONE (CORNERSTONE), o1, o2\n<!--YAML-META:END-->",
+              "description": "<!--YAML-META:START-->\n── Name ──\nSuspendedsilicon500nm_3800nm_TE_90_DegreeBend\n\n── Authors ──\n- name: CORNERSTONE\n  organisation: CORNERSTONE\n<!--YAML-META:END-->",
               "githubUrl": "https://github.com/drinwater/cornerstone-community/blob/main/Si_sus_bias/components/Suspendedsilicon500nm_3800nm_TE_90_DegreeBend.gds",
               "files": [],
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [],
+              "documents": [
+                {
+                  "id": "d_kwis17d",
+                  "name": "Suspendedsilicon500nm_3800nm_TE_90_DegreeBend.yaml",
+                  "filename": "Suspendedsilicon500nm_3800nm_TE_90_DegreeBend.yaml",
+                  "mime": "application/yaml",
+                  "size": 457,
+                  "binaryContent": "bmFtZTogU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV85MF9EZWdyZWVCZW5kCmNvbXBvbmVudF90eXBlOiBCZW5kCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMDEvMDcvMjAyNQptb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAzODAwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gNC4yNQogIC0gMC4wCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IHN1c19zaV9iaWFzCi0gbmFtZTogbzIKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA0NQogIC0gNDAuNzUKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHN1c19zaV9iaWFzCg==",
+                  "bbType": "bend",
+                  "who": "admin",
+                  "added": "2026-06-05",
+                  "rawText": "name: Suspendedsilicon500nm_3800nm_TE_90_DegreeBend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 01/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 3800\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 4.25\n  - 0.0\n  orientation: 270\n  cross_section: sus_si_bias\n- name: o2\n  port_type: optical\n  center:\n  - 45\n  - 40.75\n  orientation: 0\n  cross_section: sus_si_bias\n"
+                },
+                {
+                  "id": "d_tuvoci2",
+                  "name": "components.md",
+                  "filename": "components.md",
+                  "mime": "text/markdown",
+                  "size": 266,
+                  "binaryContent": "IyBCYXNpYyBjb21wb25lbnRzIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV85MF9EZWdyZWVCZW5kLm1kClN1c3BlbmRlZHNpbGljb241MDBubV8zODAwbm1fVEVfR3JhdGluZ0NvdXBsZXIubWQKU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV9TQmVuZC5tZApTdXNwZW5kZWRzaWxpY29uNTAwbm1fMzgwMG5tX1RFX1dhdmVndWlkZS5tZApgYGA=",
+                  "bbType": "bend",
+                  "who": "admin",
+                  "added": "2026-06-05",
+                  "rawText": "# Basic components \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nSuspendedsilicon500nm_3800nm_TE_90_DegreeBend.md\nSuspendedsilicon500nm_3800nm_TE_GratingCoupler.md\nSuspendedsilicon500nm_3800nm_TE_SBend.md\nSuspendedsilicon500nm_3800nm_TE_Waveguide.md\n```"
+                },
+                {
+                  "id": "d_4pz9omg",
+                  "name": "ready-made.md",
+                  "filename": "ready-made.md",
+                  "mime": "text/markdown",
+                  "size": 75,
+                  "binaryContent": "IyBSZWFkeS1tYWRlIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKYGBg",
+                  "bbType": "bend",
+                  "who": "admin",
+                  "added": "2026-06-05",
+                  "rawText": "# Ready-made \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\n```"
+                }
+              ],
               "updated": "2026-06-05",
               "kind": "passive",
               "bbType": "bend",
-              "dimensionsOn": true,
-              "params": {
-                "radius_um": 10,
-                "angle_deg": 90,
-                "width_nm": 500,
-                "thickness_nm": 500
-              },
-              "gdsSize": 0,
+              "dimensionsOn": false,
+              "params": {},
+              "gdsSize": 14868,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -16348,7 +16382,15 @@
                 "picstudio"
               ],
               "cdi": {},
-              "fabTabs": [],
+              "fabTabs": [
+                {
+                  "id": "ft_files",
+                  "name": "Files",
+                  "notes": "",
+                  "tests": [],
+                  "collapsed": false
+                }
+              ],
               "fetchHistory": [
                 {
                   "section": "layout",
@@ -16375,24 +16417,36 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_bnk2hbx",
               "name": "Suspendedsilicon500nm_3800nm_TE_GratingCoupler",
               "status": "available",
               "owner": "admin",
-              "description": "<!--YAML-META:START-->\n── Authors ──\nCORNERSTONE (CORNERSTONE), o1, vertical_te\n<!--YAML-META:END-->",
+              "description": "<!--YAML-META:START-->\n── Name ──\nSuspendedsilicon500nm_3800nm_TE_GratingCoupler\n\n── Authors ──\n- name: CORNERSTONE\n  organisation: CORNERSTONE\n<!--YAML-META:END-->",
               "githubUrl": "https://github.com/drinwater/cornerstone-community/blob/main/Si_sus_bias/components/Suspendedsilicon500nm_3800nm_TE_GratingCoupler.gds",
               "files": [],
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [],
+              "documents": [
+                {
+                  "id": "d_7u3lfij",
+                  "name": "Suspendedsilicon500nm_3800nm_TE_GratingCoupler.yaml",
+                  "filename": "Suspendedsilicon500nm_3800nm_TE_GratingCoupler.yaml",
+                  "mime": "application/yaml",
+                  "size": 561,
+                  "binaryContent": "bmFtZTogU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV9HcmF0aW5nQ291cGxlcgpjb21wb25lbnRfdHlwZTogR3JhdGluZ0NvdXBsZXIxRAphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDEwLzA3LzIwMjUKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwLjAKICAtIDAuMAogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiBzdXNfc2lfYmlhcwogIG1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDM4MDAKLSBuYW1lOiB2ZXJ0aWNhbF90ZQogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSAzMzEuMTY5CiAgLSAwLjAKICBvcmllbnRhdGlvbjogMC4wCiAgd2lkdGg6IDIwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDE5CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBJUlpTMjMKICAgIHdhdmVsZW5ndGg6IDM4MDAK",
+                  "bbType": "grating-coupler",
+                  "who": "admin",
+                  "added": "2026-06-05",
+                  "rawText": "name: Suspendedsilicon500nm_3800nm_TE_GratingCoupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 10/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0.0\n  - 0.0\n  orientation: 180\n  cross_section: sus_si_bias\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 3800\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 331.169\n  - 0.0\n  orientation: 0.0\n  width: 20\n  coupling_angle_cladding: 19\n  fibre_modes:\n  - fibre_type: IRZS23\n    wavelength: 3800\n"
+                }
+              ],
               "updated": "2026-06-05",
               "kind": "passive",
               "bbType": "grating-coupler",
@@ -16404,7 +16458,7 @@
                 "width_nm": 500,
                 "thickness_nm": 500
               },
-              "gdsSize": 0,
+              "gdsSize": 99476,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -16431,24 +16485,36 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_jiz827o",
               "name": "Suspendedsilicon500nm_3800nm_TE_SBend",
               "status": "available",
               "owner": "admin",
-              "description": "<!--YAML-META:START-->\n── Authors ──\nCORNERSTONE (CORNERSTONE), o1, o2\n<!--YAML-META:END-->",
+              "description": "<!--YAML-META:START-->\n── Name ──\nSuspendedsilicon500nm_3800nm_TE_SBend\n\n── Authors ──\n- name: CORNERSTONE\n  organisation: CORNERSTONE\n<!--YAML-META:END-->",
               "githubUrl": "https://github.com/drinwater/cornerstone-community/blob/main/Si_sus_bias/components/Suspendedsilicon500nm_3800nm_TE_SBend.gds",
               "files": [],
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [],
+              "documents": [
+                {
+                  "id": "d_kyfjk6a",
+                  "name": "Suspendedsilicon500nm_3800nm_TE_SBend.yaml",
+                  "filename": "Suspendedsilicon500nm_3800nm_TE_SBend.yaml",
+                  "mime": "application/yaml",
+                  "size": 450,
+                  "binaryContent": "bmFtZTogU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV9TQmVuZApjb21wb25lbnRfdHlwZTogQmVuZAphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDAxLzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMzgwMApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIDQuMjUKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogc3VzX3NpX2JpYXMKLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDM5LjM1CiAgLSAxMi4yNQogIG9yaWVudGF0aW9uOiAwCiAgY3Jvc3Nfc2VjdGlvbjogc3VzX3NpX2JpYXMK",
+                  "bbType": "bend",
+                  "who": "admin",
+                  "added": "2026-06-05",
+                  "rawText": "name: Suspendedsilicon500nm_3800nm_TE_SBend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 01/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 3800\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 4.25\n  orientation: 180\n  cross_section: sus_si_bias\n- name: o2\n  port_type: optical\n  center:\n  - 39.35\n  - 12.25\n  orientation: 0\n  cross_section: sus_si_bias\n"
+                }
+              ],
               "updated": "2026-06-05",
               "kind": "passive",
               "bbType": "bend",
@@ -16459,7 +16525,7 @@
                 "width_nm": 500,
                 "thickness_nm": 500
               },
-              "gdsSize": 0,
+              "gdsSize": 9356,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -16498,24 +16564,36 @@
                   }
                 ]
               },
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "_gdsStripped": true,
+              "_svgStripped": true
             },
             {
               "id": "e_fous0ae",
               "name": "Suspendedsilicon500nm_3800nm_TE_Waveguide",
               "status": "available",
               "owner": "admin",
-              "description": "<!--YAML-META:START-->\n── Authors ──\nCORNERSTONE (CORNERSTONE), o1, o2\n<!--YAML-META:END-->",
+              "description": "<!--YAML-META:START-->\n── Name ──\nSuspendedsilicon500nm_3800nm_TE_Waveguide\n\n── Authors ──\n- name: CORNERSTONE\n  organisation: CORNERSTONE\n<!--YAML-META:END-->",
               "githubUrl": "https://github.com/drinwater/cornerstone-community/blob/main/Si_sus_bias/components/Suspendedsilicon500nm_3800nm_TE_Waveguide.gds",
               "files": [],
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [],
+              "documents": [
+                {
+                  "id": "d_3z3th3x",
+                  "name": "Suspendedsilicon500nm_3800nm_TE_Waveguide.yaml",
+                  "filename": "Suspendedsilicon500nm_3800nm_TE_Waveguide.yaml",
+                  "mime": "application/yaml",
+                  "size": 460,
+                  "binaryContent": "bmFtZTogU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV9XYXZlZ3VpZGUKY29tcG9uZW50X3R5cGU6IFdhdmVndWlkZQphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDAxLzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMzgwMApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAuMAogIC0gMC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN1c19zaV9iaWFzCi0gbmFtZTogbzIKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA0OTkuNwogIC0gMC4wCiAgb3JpZW50YXRpb246IDAuMAogIGNyb3NzX3NlY3Rpb246IHN1c19zaV9iaWFzCg==",
+                  "bbType": "waveguide",
+                  "who": "admin",
+                  "added": "2026-06-05",
+                  "rawText": "name: Suspendedsilicon500nm_3800nm_TE_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 01/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 3800\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0.0\n  - 0.0\n  orientation: 180\n  cross_section: sus_si_bias\n- name: o2\n  port_type: optical\n  center:\n  - 499.7\n  - 0.0\n  orientation: 0.0\n  cross_section: sus_si_bias\n"
+                }
+              ],
               "updated": "2026-06-05",
               "kind": "passive",
               "bbType": "waveguide",
@@ -16525,7 +16603,7 @@
                 "length_um": 100,
                 "thickness_nm": 500
               },
-              "gdsSize": 0,
+              "gdsSize": 116496,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -16552,12 +16630,11 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "pinned": true
+              "pinned": true,
+              "_gdsStripped": true,
+              "_svgStripped": true
             }
           ],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Si_sus_bias",
@@ -16571,7 +16648,36 @@
             "scripts": true,
             "docs": true
           },
-          "platformDocs": [],
+          "platformDocs": [
+            {
+              "id": "doc_amr4qi4",
+              "name": "components",
+              "filename": "components.md",
+              "mime": "text/markdown",
+              "size": 266,
+              "who": "",
+              "added": "2026-06-05T12:22:13.249Z",
+              "description": "",
+              "binaryContent": "IyBCYXNpYyBjb21wb25lbnRzIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV85MF9EZWdyZWVCZW5kLm1kClN1c3BlbmRlZHNpbGljb241MDBubV8zODAwbm1fVEVfR3JhdGluZ0NvdXBsZXIubWQKU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV9TQmVuZC5tZApTdXNwZW5kZWRzaWxpY29uNTAwbm1fMzgwMG5tX1RFX1dhdmVndWlkZS5tZApgYGA=",
+              "sourceUrl": "https://github.com/drinwater/cornerstone-community/blob/main/Si_sus_bias/docs/comp-ref/components.md",
+              "platformPath": "Si_sus_bias/docs/comp-ref/components.md",
+              "rawText": "# Basic components \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nSuspendedsilicon500nm_3800nm_TE_90_DegreeBend.md\nSuspendedsilicon500nm_3800nm_TE_GratingCoupler.md\nSuspendedsilicon500nm_3800nm_TE_SBend.md\nSuspendedsilicon500nm_3800nm_TE_Waveguide.md\n```"
+            },
+            {
+              "id": "doc_lpdi266",
+              "name": "ready-made",
+              "filename": "ready-made.md",
+              "mime": "text/markdown",
+              "size": 75,
+              "who": "",
+              "added": "2026-06-05T12:22:13.559Z",
+              "description": "",
+              "binaryContent": "IyBSZWFkeS1tYWRlIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKYGBg",
+              "sourceUrl": "https://github.com/drinwater/cornerstone-community/blob/main/Si_sus_bias/docs/comp-ref/ready-made.md",
+              "platformPath": "Si_sus_bias/docs/comp-ref/ready-made.md",
+              "rawText": "# Ready-made \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\n```"
+            }
+          ],
           "lastSyncStats": {
             "ranAt": 1780567014634,
             "urlsTotal": 4,
@@ -16586,7 +16692,7 @@
               "url": "https://github.com/drinwater/cornerstone-community/tree/main/Si_sus_bias",
               "subdir": "components",
               "enabled": true,
-              "lastImportedAt": "2026-06-05T01:23:09.044Z"
+              "lastImportedAt": "2026-06-05T12:22:12.016Z"
             }
           ]
         },
@@ -16660,9 +16766,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -16714,9 +16817,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
               "pinned": true
@@ -16824,11 +16924,8 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
               "scriptsNotes": "",
-              "descriptionContributions": [],
-              "gdsContent": ""
+              "descriptionContributions": []
             },
             {
               "id": "e_7tyhtm9",
@@ -16886,11 +16983,8 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
               "scriptsNotes": "",
-              "descriptionContributions": [],
-              "gdsContent": ""
+              "descriptionContributions": []
             },
             {
               "id": "e_g2w8icv",
@@ -16947,11 +17041,8 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "gdsName": "",
               "scriptsNotes": "",
-              "descriptionContributions": [],
-              "gdsContent": "",
-              "layoutSvg": ""
+              "descriptionContributions": []
             },
             {
               "id": "e_385henq",
@@ -17001,11 +17092,8 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "gdsContent": "",
               "pinned": true
             },
             {
@@ -17064,11 +17152,8 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
               "scriptsNotes": "",
-              "descriptionContributions": [],
-              "gdsContent": ""
+              "descriptionContributions": []
             },
             {
               "id": "e_mlygcam",
@@ -17126,11 +17211,8 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
               "scriptsNotes": "",
-              "descriptionContributions": [],
-              "gdsContent": ""
+              "descriptionContributions": []
             },
             {
               "id": "e_zbn2z3n",
@@ -17187,11 +17269,8 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "gdsName": "",
               "scriptsNotes": "",
-              "descriptionContributions": [],
-              "gdsContent": "",
-              "layoutSvg": ""
+              "descriptionContributions": []
             },
             {
               "id": "e_n3mn5jf",
@@ -17241,11 +17320,8 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "gdsContent": "",
               "pinned": true
             },
             {
@@ -17304,11 +17380,8 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
               "scriptsNotes": "",
-              "descriptionContributions": [],
-              "gdsContent": ""
+              "descriptionContributions": []
             },
             {
               "id": "e_1tlt4j3",
@@ -17366,11 +17439,8 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
               "scriptsNotes": "",
-              "descriptionContributions": [],
-              "gdsContent": ""
+              "descriptionContributions": []
             },
             {
               "id": "e_611ubrv",
@@ -17427,11 +17497,8 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "gdsName": "",
               "scriptsNotes": "",
-              "descriptionContributions": [],
-              "gdsContent": "",
-              "layoutSvg": ""
+              "descriptionContributions": []
             },
             {
               "id": "e_8ne3say",
@@ -17477,11 +17544,8 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "gdsName": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "gdsContent": "",
-              "layoutSvg": "",
               "lastSyncStats": {
                 "ranAt": 1780627288609,
                 "urlsTotal": 1,
@@ -17543,11 +17607,8 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "gdsContent": "",
               "pinned": true
             }
           ],
@@ -17656,9 +17717,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -17723,9 +17781,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -17788,9 +17843,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -17852,9 +17904,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
               "canonicalYamlId": "doc_amxz2v0"
@@ -17919,9 +17968,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -17978,9 +18024,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
               "pinned": true,
@@ -18054,9 +18097,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -18121,9 +18161,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -18186,9 +18223,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -18246,9 +18280,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -18310,9 +18341,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -18371,9 +18399,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -18437,9 +18462,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -18503,9 +18525,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -18562,9 +18581,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
               "pinned": true
@@ -18586,10 +18602,7 @@
               "bbType": "x_o0i7hq8",
               "dimensionsOn": true,
               "params": {},
-              "layoutSvg": "",
-              "gdsName": "",
               "gdsSize": 0,
-              "gdsContent": "",
               "edaTools": [],
               "cdi": {},
               "fabTabs": [],
@@ -18639,10 +18652,7 @@
               "bbType": "x_o0i7hq8",
               "dimensionsOn": true,
               "params": {},
-              "layoutSvg": "",
-              "gdsName": "",
               "gdsSize": 0,
-              "gdsContent": "",
               "edaTools": [],
               "cdi": {},
               "fabTabs": [],
@@ -18687,10 +18697,7 @@
               "bbType": "x_o0i7hq8",
               "dimensionsOn": true,
               "params": {},
-              "layoutSvg": "",
-              "gdsName": "",
               "gdsSize": 0,
-              "gdsContent": "",
               "edaTools": [],
               "cdi": {},
               "fabTabs": [],
@@ -18814,9 +18821,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -18861,9 +18865,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -18908,9 +18909,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -18955,9 +18953,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -19002,9 +18997,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -19049,9 +19041,6 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
               "pinned": true
@@ -19158,9 +19147,6 @@
               ],
               "edaLinks": [],
               "trl": null,
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -19202,9 +19188,6 @@
                 "sourceUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_300nm/materials",
                 "lastImportedAt": "2026-06-05T00:50:38.527Z"
               },
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -19246,9 +19229,6 @@
                 "sourceUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Ge_on_Si/materials",
                 "lastImportedAt": "2026-06-05T00:50:37.705Z"
               },
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -19269,10 +19249,7 @@
               "bbType": "",
               "dimensionsOn": false,
               "params": {},
-              "layoutSvg": "",
-              "gdsName": "",
               "gdsSize": 0,
-              "gdsContent": "",
               "edaTools": [],
               "cdi": {},
               "fabTabs": [],
@@ -19378,9 +19355,6 @@
               "expanded": false,
               "fetchHistory": [],
               "edaLinks": [],
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
             },
@@ -19401,10 +19375,7 @@
               "bbType": "",
               "dimensionsOn": false,
               "params": {},
-              "layoutSvg": "",
-              "gdsName": "",
               "gdsSize": 0,
-              "gdsContent": "",
               "edaTools": [],
               "cdi": {},
               "fabTabs": [],
@@ -19859,7 +19830,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mq0cul0r_0",
+        "id": "s_mq0w22sv_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -19867,7 +19838,7 @@
         "enabled": true
       },
       {
-        "id": "s_mq0cul0s_1",
+        "id": "s_mq0w22sv_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -19875,7 +19846,7 @@
         "enabled": true
       },
       {
-        "id": "s_mq0cul0s_2",
+        "id": "s_mq0w22sv_2",
         "label": "CORNERSTONE community PDK (publish target)",
         "repo": "cornerstone-uos/cornerstone-community",
         "branch": "main",
@@ -19887,7 +19858,7 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-06-05T03:19:19.796Z",
+    "lastFetchedAt": "2026-06-05T12:16:56.870Z",
     "lastFetchedSha": "4e36117c61f47982a8e9160e8cb96a45b6fead9f",
     "lastPublishedAt": "2026-06-05T02:52:55.641Z",
     "lastPublishedSha": "0c1e49cce3a66fe7ee91f71af146413ef16dfa54",
@@ -20003,7 +19974,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-05T03:57:18.908Z",
+    "publishedAt": "2026-06-05T12:24:22.939Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -20011,7 +19982,9 @@
     "contributorCount": 13,
     "bbCount": 113,
     "guestCount": 6,
-    "termsVersion": "1.1.0"
+    "termsVersion": "1.1.0",
+    "nuclearStripped": true,
+    "nuclearNote": "Second-pass strip: even after removing binaries, the payload was still over the safe limit. Test/smatrix/fab folder contents were emptied, scripts/documents reduced to filenames. Adopters: run a per-platform GitHub sync to repopulate."
   },
   "lastGlobalSyncStats": {
     "ranAt": 1780569591293,
@@ -20020,7 +19993,7 @@
     "urlsEmpty": 0,
     "deadUrls": []
   },
-  "lastGithubFetch": "2026-06-05T02:48:13.439Z",
+  "lastGithubFetch": "2026-06-05T12:21:15.474Z",
   "activityLog": [
     {
       "at": "2026-06-01T16:53:08.015Z",
