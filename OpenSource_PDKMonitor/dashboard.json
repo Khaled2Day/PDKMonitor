@@ -1468,7 +1468,7 @@
     "t_d5kz5lo": "admin",
     "layout:e_vdwlenf": "AEmreKaplan",
     "t_hdsxq33": "admin",
-    "layout:e_w4au6ab": "AEmreKaplan",
+    "layout:e_w4au6ab": "admin",
     "t_0puhl4f": "admin",
     "layout:e_gy1vex9": "AEmreKaplan",
     "t_rg1ilar": "admin",
@@ -1480,7 +1480,7 @@
     "t_1nbrbvr": "admin",
     "layout:e_ucgqldx": "CS_Aiman",
     "t_fzikyya": "admin",
-    "layout:e_das1bqe": "CS_Aiman",
+    "layout:e_das1bqe": "admin",
     "t_05c8qgd": "admin",
     "layout:e_pz8s7vr": "admin",
     "t_j9m3vta": "admin",
@@ -11554,7 +11554,370 @@
     "t_h16mvez": "admin",
     "t_qpdlvzd": "admin",
     "t_y5zs6v0": "admin",
-    "t_vjc23cd": "admin"
+    "t_vjc23cd": "admin",
+    "d_1workvy": "admin",
+    "d_5wzaty8": "admin",
+    "d_7mrv1bq": "admin",
+    "d_rgif2u6": "admin",
+    "d_e0d4zls": "admin",
+    "d_1gvcynt": "admin",
+    "d_chjwe74": "admin",
+    "d_wwtpf56": "admin",
+    "d_ke553o4": "admin",
+    "d_w8ohr0z": "admin",
+    "d_gsxwq5o": "admin",
+    "d_hzrmvys": "admin",
+    "d_bxk1fod": "admin",
+    "d_7zfvuo3": "admin",
+    "d_0kqrao2": "admin",
+    "d_hgo1s18": "admin",
+    "d_3enjd0p": "admin",
+    "d_prpofzf": "admin",
+    "d_axykp9p": "admin",
+    "d_sa9gemt": "admin",
+    "d_9wyfxjx": "admin",
+    "d_gyist2d": "admin",
+    "d_d82c13o": "admin",
+    "d_xgxsodo": "admin",
+    "d_3g2gnvo": "admin",
+    "d_v3nbc26": "admin",
+    "d_x8cskd2": "admin",
+    "d_lgw1h0t": "admin",
+    "d_z0h7f13": "admin",
+    "d_36wj04d": "admin",
+    "d_k6hu94f": "admin",
+    "d_krnv3ze": "admin",
+    "d_oiw2a64": "admin",
+    "d_sz7otud": "admin",
+    "d_rkpneb4": "admin",
+    "d_dp62sdx": "admin",
+    "d_6lkosx8": "admin",
+    "d_fdw80oq": "admin",
+    "d_vce1h3o": "admin",
+    "d_tgvah6p": "admin",
+    "d_01pmk9l": "admin",
+    "d_6e7zbj4": "admin",
+    "d_1qc2n9e": "admin",
+    "t_k9g1hrv": "admin",
+    "t_xduxhfr": "admin",
+    "t_f1y458t": "admin",
+    "t_9q1xc8c": "admin",
+    "t_7gsnudg": "admin",
+    "t_o96lbcu": "admin",
+    "t_k8jmyb9": "admin",
+    "t_vvkkfse": "admin",
+    "t_7pkfwnf": "admin",
+    "t_hdrla4o": "admin",
+    "t_0kdbfcg": "admin",
+    "t_gkoblbc": "admin",
+    "t_h0dxr0k": "admin",
+    "t_3r3tv9r": "admin",
+    "t_pvnc8xu": "admin",
+    "t_wqkjlae": "admin",
+    "t_qkyebp0": "admin",
+    "t_mhakbbf": "admin",
+    "t_v1hgnwu": "admin",
+    "t_7o3tt4l": "admin",
+    "t_sj6azlz": "admin",
+    "t_si1h7og": "admin",
+    "t_u0iry53": "admin",
+    "t_mm4vaft": "admin",
+    "t_5pm717v": "admin",
+    "t_7d4pv4s": "admin",
+    "t_6a69tux": "admin",
+    "t_dlvnc7u": "admin",
+    "t_dmgw8yy": "admin",
+    "t_no27wgh": "admin",
+    "t_1nbl254": "admin",
+    "t_noobj62": "admin",
+    "t_91yr3ds": "admin",
+    "t_lgds7pf": "admin",
+    "t_pv3p3dw": "admin",
+    "t_lqi7pa6": "admin",
+    "t_yfvxhw0": "admin",
+    "t_loxp2dv": "admin",
+    "t_nn2a843": "admin",
+    "t_viqjg80": "admin",
+    "t_rjq8btn": "admin",
+    "t_ggjrmrg": "admin",
+    "t_0asv93i": "admin",
+    "t_4x02tc5": "admin",
+    "t_oveiq28": "admin",
+    "t_m15m6z0": "admin",
+    "t_fhgy64t": "admin",
+    "t_t9hh3wk": "admin",
+    "t_2q29vkv": "admin",
+    "doc_5qcean3": "admin",
+    "doc_k48sr05": "admin",
+    "doc_qebqfd4": "admin",
+    "doc_eq73d35": "admin",
+    "doc_12bd33x": "admin",
+    "doc_pyunalc": "admin",
+    "doc_nseuzit": "admin",
+    "t_bc9amyg": "admin",
+    "up_4ect5kh": "admin",
+    "t_lexi8e1": "admin",
+    "t_w6gtuc1": "admin",
+    "t_gmiuu8f": "admin",
+    "tg_clczcgo": "admin",
+    "t_vh77fuy": "admin",
+    "t_eo1e9ti": "admin",
+    "t_3snuhig": "admin",
+    "tg_qvfvze0": "admin",
+    "t_no0ib68": "admin",
+    "t_tqkq4tb": "admin",
+    "t_idq91ch": "admin",
+    "tg_bltws5u": "admin",
+    "t_h8tmzel": "admin",
+    "t_q2222jy": "admin",
+    "t_6vffo36": "admin",
+    "tg_2gokc0x": "admin",
+    "t_soo1p18": "admin",
+    "t_0wzxgv5": "admin",
+    "t_lpbdt8f": "admin",
+    "tg_h48dsln": "admin",
+    "t_2xnnoqb": "admin",
+    "t_r4rqya9": "admin",
+    "tg_bb32mbf": "admin",
+    "t_yi58g6f": "admin",
+    "t_39zpd08": "admin",
+    "t_90mo8x2": "admin",
+    "tg_bovtsab": "admin",
+    "t_fyz251q": "admin",
+    "t_2ii2w1u": "admin",
+    "t_8fvcwd8": "admin",
+    "tg_g33vji0": "admin",
+    "t_htksoj2": "admin",
+    "t_3h01awi": "admin",
+    "t_0inoxe7": "admin",
+    "tg_qiu34da": "admin",
+    "t_vzxm2mz": "admin",
+    "t_mnps1qb": "admin",
+    "tg_kt70asm": "admin",
+    "t_6b9s9ai": "admin",
+    "t_y9j7mhy": "admin",
+    "t_indl0th": "admin",
+    "tg_k2oqrv0": "admin",
+    "t_1czmlyh": "admin",
+    "t_b0mj686": "admin",
+    "tg_1g3tphe": "admin",
+    "t_l5nslo5": "admin",
+    "t_u083jvs": "admin",
+    "t_apjg5zz": "admin",
+    "tg_gn41c77": "admin",
+    "t_ycjwqjq": "admin",
+    "t_y4cgtp3": "admin",
+    "t_g3zvwol": "admin",
+    "tg_92ln93n": "admin",
+    "t_1sczj2h": "admin",
+    "t_1f6j5pk": "admin",
+    "tg_ein0oqg": "admin",
+    "t_5xz5mwd": "admin",
+    "t_7poikdr": "admin",
+    "layout:e_sf0b0gd": "admin",
+    "tg_zcjo3sy": "admin",
+    "t_wwx5epa": "admin",
+    "t_543gov1": "admin",
+    "layout:e_a9n9rbs": "admin",
+    "tg_sqsb41h": "admin",
+    "t_1d0zdy6": "admin",
+    "t_9ozixhd": "admin",
+    "t_zrur8u6": "admin",
+    "layout:e_k7nha7n": "admin",
+    "tg_a2jru1b": "admin",
+    "t_ukzutih": "admin",
+    "t_edssush": "admin",
+    "layout:e_hpkhv5t": "admin",
+    "tg_lvirrd7": "admin",
+    "t_mvhbffo": "admin",
+    "d_jv5qpm6": "admin",
+    "d_u3t9f90": "admin",
+    "d_l5z8vwn": "admin",
+    "d_z2ms2jo": "admin",
+    "d_3vx7kwj": "admin",
+    "d_zeg8haq": "admin",
+    "d_vlkfevy": "admin",
+    "d_5jfo2dp": "admin",
+    "d_r0n1mn3": "admin",
+    "d_aei46lu": "admin",
+    "d_pscdtmr": "admin",
+    "d_5wbhakf": "admin",
+    "d_wtv3uww": "admin",
+    "d_jg4vv6o": "admin",
+    "d_3ivlyd2": "admin",
+    "d_i057kko": "admin",
+    "d_ph19zuh": "admin",
+    "d_iyb712w": "admin",
+    "d_3cp0622": "admin",
+    "d_m1invxn": "admin",
+    "d_hpdxhhm": "admin",
+    "t_dfpiw7g": "admin",
+    "t_y5ex3tq": "admin",
+    "t_kt1y44k": "admin",
+    "t_wbeyob5": "admin",
+    "t_9aeznw4": "admin",
+    "t_2n4z0ym": "admin",
+    "t_khvd7wv": "admin",
+    "t_xrusdzo": "admin",
+    "t_hi4qphl": "admin",
+    "d_6o16jfu": "admin",
+    "t_5sycqog": "admin",
+    "d_kojhvye": "admin",
+    "d_q856cl3": "admin",
+    "t_d72rh8q": "admin",
+    "d_jo10prq": "admin",
+    "d_3r85gce": "admin",
+    "t_96cbfb6": "admin",
+    "d_i2in1tn": "admin",
+    "d_jbwbcsk": "admin",
+    "d_cdzx9in": "admin",
+    "d_pwxfrnx": "admin",
+    "d_q9vu5if": "admin",
+    "d_mm12v57": "admin",
+    "d_mlj4phd": "admin",
+    "d_qib5osc": "admin",
+    "doc_n11lqcc": "admin",
+    "d_w9htses": "admin",
+    "d_6bohdh1": "admin",
+    "d_l6uh7hm": "admin",
+    "d_c0cdshi": "admin",
+    "doc_8nj4epo": "admin",
+    "d_s56nry1": "admin",
+    "d_d8ehpev": "admin",
+    "doc_xkdjg55": "admin",
+    "t_30gbtjw": "admin",
+    "doc_telfgdy": "admin",
+    "d_43jp6s5": "admin",
+    "t_aqf217l": "admin",
+    "d_9cfjzbj": "admin",
+    "d_694mj5a": "admin",
+    "d_b6umrgi": "admin",
+    "d_feuww6a": "admin",
+    "doc_midg1pl": "admin",
+    "doc_jkeuxv7": "admin",
+    "d_wkigajl": "admin",
+    "d_jy9ky3d": "admin",
+    "d_mtwtm4i": "admin",
+    "d_v0k2naz": "admin",
+    "d_ms60548": "admin",
+    "d_f49kc39": "admin",
+    "t_savhx21": "admin",
+    "t_5tatarh": "admin",
+    "doc_xjcfvcy": "admin",
+    "doc_eakkms7": "admin",
+    "d_7myyoi0": "admin",
+    "d_k9nfsvf": "admin",
+    "d_n5kimb6": "admin",
+    "d_c9ti9t5": "admin",
+    "d_hfwlggt": "admin",
+    "d_9642pgs": "admin",
+    "d_nktu6ek": "admin",
+    "t_4ja10e2": "admin",
+    "t_98977kk": "admin",
+    "t_dfej952": "admin",
+    "t_5dpbw4l": "admin",
+    "t_ohoont7": "admin",
+    "t_qngmr7z": "admin",
+    "t_l56lxpv": "admin",
+    "t_rpcbtte": "admin",
+    "t_h7snlvw": "admin",
+    "t_361p113": "admin",
+    "t_2wma8nr": "admin",
+    "t_814d5v8": "admin",
+    "t_pe18byq": "admin",
+    "doc_wsq5qfy": "admin",
+    "doc_khnawyu": "admin",
+    "doc_n2ezudo": "admin",
+    "doc_2vdap2g": "admin",
+    "t_f783aha": "admin",
+    "t_wnmhr96": "admin",
+    "t_sqxoa5o": "admin",
+    "up_fe4z3sc": "admin",
+    "t_x9wmkm6": "admin",
+    "tg_yqctst3": "admin",
+    "t_tz95mrj": "admin",
+    "t_n7f7ikt": "admin",
+    "t_yexnm1a": "admin",
+    "tg_6q8r2f9": "admin",
+    "t_aqqjx06": "admin",
+    "t_68gcpb4": "admin",
+    "t_0zh93bv": "admin",
+    "tg_qu3as9s": "admin",
+    "t_rpiqw52": "admin",
+    "t_mzvieq6": "admin",
+    "t_awtr4a1": "admin",
+    "tg_mea6qwj": "admin",
+    "t_bfytzgy": "admin",
+    "t_loykcfo": "admin",
+    "t_hfzc5kk": "admin",
+    "tg_4j4m77l": "admin",
+    "t_lkw4te0": "admin",
+    "t_e2oawew": "admin",
+    "tg_azaki3p": "admin",
+    "t_r5kyo4b": "admin",
+    "t_jcq90en": "admin",
+    "t_vu98g0k": "admin",
+    "tg_9dcvb2s": "admin",
+    "t_xnvmr33": "admin",
+    "t_1w99h0m": "admin",
+    "t_rv9vrb2": "admin",
+    "tg_x3852xh": "admin",
+    "t_8j5z5uk": "admin",
+    "t_vjqk12n": "admin",
+    "t_ll98y1p": "admin",
+    "tg_tbs1hqv": "admin",
+    "t_f1mkrzh": "admin",
+    "t_8lmqoqy": "admin",
+    "tg_6npptk2": "admin",
+    "t_8v09yv9": "admin",
+    "t_jygupjv": "admin",
+    "t_xmrwqzq": "admin",
+    "tg_2yje6km": "admin",
+    "t_sp6anbj": "admin",
+    "t_bb93rui": "admin",
+    "tg_yt7nd51": "admin",
+    "t_0v1jauy": "admin",
+    "t_wc9a74d": "admin",
+    "t_hqs4ebi": "admin",
+    "tg_d1zy1x7": "admin",
+    "t_wmwnp5j": "admin",
+    "t_xsgas5l": "admin",
+    "t_cgxla2d": "admin",
+    "tg_g02jgn0": "admin",
+    "t_em4h7lf": "admin",
+    "t_efer5c1": "admin",
+    "tg_nzglet2": "admin",
+    "t_w79yx9c": "admin",
+    "t_wlymupq": "admin",
+    "tg_ujxe7ri": "admin",
+    "t_uim3oh1": "admin",
+    "t_rkafua2": "admin",
+    "t_avm949w": "admin",
+    "tg_vrp7nsp": "admin",
+    "t_zg0tpun": "admin",
+    "t_rn5j4oa": "admin",
+    "tg_eyzq51o": "admin",
+    "t_598fpip": "admin",
+    "t_sd8dy7o": "admin",
+    "tg_pybzwms": "admin",
+    "t_86v7uu5": "admin",
+    "nc_erf9blw": "admin",
+    "e_tzp2hwf": "admin",
+    "e_v7i4zmo": "admin",
+    "up_g8tkxko": "admin",
+    "t_n5uul0u": "admin",
+    "t_8lr0csa": "admin",
+    "t_j458wei": "admin",
+    "d_i8sxev6": "admin",
+    "d_7zj91qv": "admin",
+    "d_635fmw1": "admin",
+    "d_1ihllna": "admin",
+    "d_61isezc": "admin",
+    "d_f1uquod": "admin",
+    "t_ujp3wwt": "admin",
+    "t_r1z7ymq": "admin",
+    "doc_2tywwyi": "admin",
+    "doc_5q4yb1w": "admin"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -12238,7 +12601,8 @@
               "gdsName": "",
               "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "pinned": true
             },
             {
               "id": "e_838wngl",
@@ -12535,7 +12899,8 @@
               "gdsName": "",
               "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "pinned": true
             },
             {
               "id": "e_3mmx63u",
@@ -12884,7 +13249,8 @@
               "gdsName": "",
               "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "pinned": true
             },
             {
               "id": "e_8fnhtbv",
@@ -13195,11 +13561,11 @@
               "documents": [],
               "updated": "2026-06-05",
               "kind": "passive",
-              "bbType": "waveguide",
+              "bbType": "crossing",
               "dimensionsOn": true,
               "params": {
-                "width_nm": 500,
-                "length_um": 100,
+                "arm_width_nm": 500,
+                "arm_length_um": 8,
                 "thickness_nm": 220
               },
               "gdsSize": 0,
@@ -13533,7 +13899,8 @@
               "gdsName": "",
               "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "pinned": true
             },
             {
               "id": "e_hkbuzv7",
@@ -13662,13 +14029,9 @@
               "documents": [],
               "updated": "2026-06-05",
               "kind": "passive",
-              "bbType": "waveguide",
+              "bbType": "x_o0i7hq8",
               "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "params": {},
               "layoutSvg": "",
               "gdsName": "",
               "gdsSize": 0,
@@ -13709,13 +14072,9 @@
               "documents": [],
               "updated": "2026-06-05",
               "kind": "passive",
-              "bbType": "waveguide",
+              "bbType": "x_o0i7hq8",
               "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "params": {},
               "layoutSvg": "",
               "gdsName": "",
               "gdsSize": 0,
@@ -13756,13 +14115,9 @@
               "documents": [],
               "updated": "2026-06-05",
               "kind": "passive",
-              "bbType": "waveguide",
+              "bbType": "x_o0i7hq8",
               "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "params": {},
               "layoutSvg": "",
               "gdsName": "",
               "gdsSize": 0,
@@ -13841,7 +14196,7 @@
               "documents": [],
               "updated": "2026-06-01",
               "kind": "passive",
-              "bbType": "",
+              "bbType": "x_s1iinyk",
               "dimensionsOn": false,
               "params": {},
               "gdsSize": 0,
@@ -13879,7 +14234,7 @@
               "documents": [],
               "updated": "2026-06-01",
               "kind": "passive",
-              "bbType": "",
+              "bbType": "x_s1iinyk",
               "dimensionsOn": false,
               "params": {},
               "gdsSize": 0,
@@ -13917,7 +14272,7 @@
               "documents": [],
               "updated": "2026-06-01",
               "kind": "passive",
-              "bbType": "",
+              "bbType": "x_s1iinyk",
               "dimensionsOn": false,
               "params": {},
               "gdsSize": 0,
@@ -13955,7 +14310,7 @@
               "documents": [],
               "updated": "2026-06-01",
               "kind": "passive",
-              "bbType": "mzi",
+              "bbType": "x_s1iinyk",
               "dimensionsOn": false,
               "params": {},
               "gdsSize": 0,
@@ -14031,7 +14386,7 @@
               "documents": [],
               "updated": "2026-06-01",
               "kind": "passive",
-              "bbType": "",
+              "bbType": "x_s1iinyk",
               "dimensionsOn": false,
               "params": {},
               "gdsSize": 0,
@@ -14054,7 +14409,7 @@
               "scriptsNotes": "",
               "descriptionContributions": [],
               "platform": "SOI 220 nm PASSIVE",
-              "pinned": true
+              "pinned": false
             }
           ],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
@@ -14084,7 +14439,7 @@
               "url": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
               "subdir": "components",
               "enabled": true,
-              "lastImportedAt": "2026-06-05T00:35:25.508Z"
+              "lastImportedAt": "2026-06-05T01:01:47.296Z"
             }
           ]
         },
@@ -14772,7 +15127,15 @@
               "gdsName": "",
               "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [
+                {
+                  "id": "nc_erf9blw",
+                  "text": "1310nm SOI340nm_1310_TE_RIB_Waveguide is to be added",
+                  "who": "admin",
+                  "ts": 1780622244256
+                }
+              ],
+              "pinned": true
             },
             {
               "id": "e_uh3q75c",
@@ -14886,7 +15249,8 @@
               "gdsName": "",
               "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "pinned": true
             },
             {
               "id": "e_w4au6ab",
@@ -14925,11 +15289,6 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_340nm/sparams/SOI340nm_1550nm_TE_RIB_to_STRIP.csv",
                   "ts": 1780276866926
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_340nm/components/SOI340nm_1550nm_TE_RIB_to_STRIP.gds",
-                  "ts": 1780569640867
                 }
               ],
               "smatrixGroups": [],
@@ -14945,7 +15304,15 @@
               "gdsName": "",
               "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "lastSyncStats": {
+                "ranAt": 1780622503255,
+                "urlsTotal": 2,
+                "filesFound": 1,
+                "urlsEmpty": 0,
+                "deadUrls": []
+              },
+              "pinned": true
             },
             {
               "id": "e_gy1vex9",
@@ -15279,13 +15646,7 @@
               ],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_340nm/components/SOI340nm_1550nm_TE_STRIP_Waveguide.gds",
-                  "ts": 1780569642736
-                }
-              ],
+              "fetchHistory": [],
               "plannedReleaseDate": "",
               "smatrixGroups": [],
               "customSketchUrl": "",
@@ -15299,7 +15660,15 @@
               "gdsName": "",
               "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "pinned": true,
+              "lastSyncStats": {
+                "ranAt": 1780622472421,
+                "urlsTotal": 1,
+                "filesFound": 0,
+                "urlsEmpty": 0,
+                "deadUrls": []
+              }
             }
           ],
           "status": "available",
@@ -15700,7 +16069,8 @@
               "gdsName": "",
               "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "pinned": true
             }
           ],
           "status": "",
@@ -15745,14 +16115,14 @@
               "name": "Suspendedsilicon500nm_3800nm_TE_90_DegreeBend",
               "status": "available",
               "owner": "admin",
-              "description": "",
+              "description": "<!--YAML-META:START-->\n── Authors ──\nCORNERSTONE (CORNERSTONE), o1, o2\n<!--YAML-META:END-->",
               "githubUrl": "https://github.com/drinwater/cornerstone-community/blob/main/Si_sus_bias/components/Suspendedsilicon500nm_3800nm_TE_90_DegreeBend.gds",
               "files": [],
               "scripts": [],
               "datasets": [],
               "testGroups": [],
               "documents": [],
-              "updated": "2026-06-04",
+              "updated": "2026-06-05",
               "kind": "passive",
               "bbType": "bend",
               "dimensionsOn": true,
@@ -15810,14 +16180,14 @@
               "name": "Suspendedsilicon500nm_3800nm_TE_GratingCoupler",
               "status": "available",
               "owner": "admin",
-              "description": "",
+              "description": "<!--YAML-META:START-->\n── Authors ──\nCORNERSTONE (CORNERSTONE), o1, vertical_te\n<!--YAML-META:END-->",
               "githubUrl": "https://github.com/drinwater/cornerstone-community/blob/main/Si_sus_bias/components/Suspendedsilicon500nm_3800nm_TE_GratingCoupler.gds",
               "files": [],
               "scripts": [],
               "datasets": [],
               "testGroups": [],
               "documents": [],
-              "updated": "2026-06-04",
+              "updated": "2026-06-05",
               "kind": "passive",
               "bbType": "grating-coupler",
               "dimensionsOn": true,
@@ -15866,14 +16236,14 @@
               "name": "Suspendedsilicon500nm_3800nm_TE_SBend",
               "status": "available",
               "owner": "admin",
-              "description": "",
+              "description": "<!--YAML-META:START-->\n── Authors ──\nCORNERSTONE (CORNERSTONE), o1, o2\n<!--YAML-META:END-->",
               "githubUrl": "https://github.com/drinwater/cornerstone-community/blob/main/Si_sus_bias/components/Suspendedsilicon500nm_3800nm_TE_SBend.gds",
               "files": [],
               "scripts": [],
               "datasets": [],
               "testGroups": [],
               "documents": [],
-              "updated": "2026-06-04",
+              "updated": "2026-06-05",
               "kind": "passive",
               "bbType": "bend",
               "dimensionsOn": true,
@@ -15933,14 +16303,14 @@
               "name": "Suspendedsilicon500nm_3800nm_TE_Waveguide",
               "status": "available",
               "owner": "admin",
-              "description": "",
+              "description": "<!--YAML-META:START-->\n── Authors ──\nCORNERSTONE (CORNERSTONE), o1, o2\n<!--YAML-META:END-->",
               "githubUrl": "https://github.com/drinwater/cornerstone-community/blob/main/Si_sus_bias/components/Suspendedsilicon500nm_3800nm_TE_Waveguide.gds",
               "files": [],
               "scripts": [],
               "datasets": [],
               "testGroups": [],
               "documents": [],
-              "updated": "2026-06-04",
+              "updated": "2026-06-05",
               "kind": "passive",
               "bbType": "waveguide",
               "dimensionsOn": true,
@@ -15980,7 +16350,8 @@
               "gdsName": "",
               "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "pinned": true
             }
           ],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Si_sus_bias",
@@ -16009,7 +16380,7 @@
               "url": "https://github.com/drinwater/cornerstone-community/tree/main/Si_sus_bias",
               "subdir": "components",
               "enabled": true,
-              "lastImportedAt": "2026-06-04T10:43:37.356Z"
+              "lastImportedAt": "2026-06-05T01:23:09.044Z"
             }
           ]
         },
@@ -16029,14 +16400,14 @@
               "name": "Ge_on_Si_3800nm_TE_RIB_90_Degree_Bend",
               "status": "available",
               "owner": "admin",
-              "description": "",
+              "description": "<!--YAML-META:START-->\n── Authors ──\nCORNERSTONE (CORNERSTONE), o1, o2\n<!--YAML-META:END-->",
               "githubUrl": "https://github.com/drinwater/cornerstone-community/blob/main/Ge_on_Si/components/Ge_on_Si_3800nm_TE_RIB_90_Degree_Bend.gds",
               "files": [],
               "scripts": [],
               "datasets": [],
               "testGroups": [],
               "documents": [],
-              "updated": "2026-06-04",
+              "updated": "2026-06-05",
               "kind": "passive",
               "bbType": "bend",
               "dimensionsOn": true,
@@ -16094,14 +16465,14 @@
               "name": "Ge_on_Si_3800nm_TE_RIB_Waveguide",
               "status": "available",
               "owner": "admin",
-              "description": "",
+              "description": "<!--YAML-META:START-->\n── Authors ──\nCORNERSTONE (CORNERSTONE), o1, o2\n<!--YAML-META:END-->",
               "githubUrl": "https://github.com/drinwater/cornerstone-community/blob/main/Ge_on_Si/components/Ge_on_Si_3800nm_TE_RIB_Waveguide.gds",
               "files": [],
               "scripts": [],
               "datasets": [],
               "testGroups": [],
               "documents": [],
-              "updated": "2026-06-04",
+              "updated": "2026-06-05",
               "kind": "passive",
               "bbType": "waveguide",
               "dimensionsOn": true,
@@ -16141,7 +16512,8 @@
               "gdsName": "",
               "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "pinned": true
             }
           ],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Ge_on_Si",
@@ -16155,7 +16527,7 @@
               "url": "https://github.com/drinwater/cornerstone-community/tree/main/Ge_on_Si",
               "subdir": "components",
               "enabled": true,
-              "lastImportedAt": "2026-06-04T10:43:54.798Z"
+              "lastImportedAt": "2026-06-05T01:09:44.170Z"
             }
           ],
           "importSections": {
@@ -16427,7 +16799,8 @@
               "gdsName": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "gdsContent": ""
+              "gdsContent": "",
+              "pinned": true
             },
             {
               "id": "e_hl6dbqn",
@@ -16666,7 +17039,8 @@
               "gdsName": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "gdsContent": ""
+              "gdsContent": "",
+              "pinned": true
             },
             {
               "id": "e_kxwu1rp",
@@ -16955,7 +17329,8 @@
               "gdsName": "",
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "gdsContent": ""
+              "gdsContent": "",
+              "pinned": true
             },
             {
               "id": "e_huqreru",
@@ -17027,7 +17402,7 @@
               "url": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_200nm",
               "subdir": "components",
               "enabled": true,
-              "lastImportedAt": "2026-06-05T00:37:26.153Z"
+              "lastImportedAt": "2026-06-05T01:09:40.893Z"
             }
           ]
         },
@@ -17081,11 +17456,6 @@
                   "ts": 1779766119812
                 },
                 {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300nm_1310nm_TE_STRIP_2x1_MMI.gds",
-                  "ts": 1780569896918
-                },
-                {
                   "section": "fab",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/materials/SiN.csv",
                   "ts": 1780569912706
@@ -17094,11 +17464,6 @@
                   "section": "fab",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/materials/SiO2.csv",
                   "ts": 1780569913228
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300nm_1310nm_TE_STRIP_2x1_MMI.jpg",
-                  "ts": 1780619749399
                 }
               ],
               "smatrixGroups": [],
@@ -17156,16 +17521,6 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sparams/SiN300nm_1310nm_TE_STRIP_2x2_MMI.csv",
                   "ts": 1779766120216
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300nm_1310nm_TE_STRIP_2x2_MMI.gds",
-                  "ts": 1780569897457
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300nm_1310nm_TE_STRIP_2x2_MMI.jpg",
-                  "ts": 1780619749868
                 }
               ],
               "smatrixGroups": [],
@@ -17221,16 +17576,6 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sparams/SiN300nm_1310nm_TE_STRIP_90_Degree_Bend.csv",
                   "ts": 1779766120508
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300nm_1310nm_TE_STRIP_90_Degree_Bend.gds",
-                  "ts": 1780569897872
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300nm_1310nm_TE_STRIP_90_Degree_Bend.jpg",
-                  "ts": 1780619750425
                 }
               ],
               "smatrixGroups": [],
@@ -17285,16 +17630,6 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sparams/SiN300nm_1310nm_TE_STRIP_Crossing.csv",
                   "ts": 1779766121115
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300nm_1310nm_TE_STRIP_Crossing.gds",
-                  "ts": 1780569898154
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300nm_1310nm_TE_STRIP_Crossing.jpg",
-                  "ts": 1780619751113
                 }
               ],
               "smatrixGroups": [],
@@ -17351,16 +17686,6 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sparams/SiN300nm_1310nm_TE_STRIP_Grating_Coupler.csv",
                   "ts": 1779766121415
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300nm_1310nm_TE_STRIP_Grating_Coupler.gds",
-                  "ts": 1780569898445
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300nm_1310nm_TE_STRIP_Grating_Coupler.jpg",
-                  "ts": 1780619751425
                 }
               ],
               "smatrixGroups": [],
@@ -17410,18 +17735,7 @@
               ],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300nm_1310nm_TE_STRIP_Waveguide.gds",
-                  "ts": 1780569898898
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300nm_1310nm_TE_STRIP_Waveguide.jpg",
-                  "ts": 1780619751716
-                }
-              ],
+              "fetchHistory": [],
               "plannedReleaseDate": "",
               "smatrixGroups": [],
               "customSketchUrl": "",
@@ -17435,7 +17749,8 @@
               "gdsName": "",
               "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "pinned": true
             },
             {
               "id": "e_t7gdkb8",
@@ -17477,16 +17792,6 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sparams/SiN300nm_1550nm_TE_STRIP_2x1_MMI.csv",
                   "ts": 1779766121864
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300nm_1550nm_TE_STRIP_2x1_MMI.gds",
-                  "ts": 1780569899211
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300nm_1550nm_TE_STRIP_2x1_MMI.jpg",
-                  "ts": 1780619752823
                 }
               ],
               "smatrixGroups": [],
@@ -17544,16 +17849,6 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sparams/SiN300nm_1550nm_TE_STRIP_2x2_MMI.csv",
                   "ts": 1779766122350
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300nm_1550nm_TE_STRIP_2x2_MMI.gds",
-                  "ts": 1780569899513
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300nm_1550nm_TE_STRIP_2x2_MMI.jpg",
-                  "ts": 1780619753113
                 }
               ],
               "smatrixGroups": [],
@@ -17609,16 +17904,6 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sparams/SiN300nm_1550nm_TE_STRIP_90_Degree_Bend.csv",
                   "ts": 1779766122655
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300nm_1550nm_TE_STRIP_90_Degree_Bend.gds",
-                  "ts": 1780569899805
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300nm_1550nm_TE_STRIP_90_Degree_Bend.jpg",
-                  "ts": 1780619753425
                 }
               ],
               "smatrixGroups": [],
@@ -17669,18 +17954,7 @@
               ],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300nm_1550nm_TE_STRIP_90_Degree_Euler_CSAC.gds",
-                  "ts": 1780569900093
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300nm_1550nm_TE_STRIP_90_Degree_Euler_CSAC.jpg",
-                  "ts": 1780619753965
-                }
-              ],
+              "fetchHistory": [],
               "plannedReleaseDate": "",
               "smatrixGroups": [],
               "customSketchUrl": "",
@@ -17733,16 +18007,6 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sparams/SiN300nm_1550nm_TE_STRIP_Crossing.csv",
                   "ts": 1779766123098
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300nm_1550nm_TE_STRIP_Crossing.gds",
-                  "ts": 1780569900466
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300nm_1550nm_TE_STRIP_Crossing.jpg",
-                  "ts": 1780619754270
                 }
               ],
               "smatrixGroups": [],
@@ -17794,18 +18058,7 @@
               ],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300nm_1550nm_TE_STRIP_Focused_Grating_Coupler_CSAC.gds",
-                  "ts": 1780569900767
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300nm_1550nm_TE_STRIP_Focused_Grating_Coupler_CSAC.jpg",
-                  "ts": 1780619754728
-                }
-              ],
+              "fetchHistory": [],
               "plannedReleaseDate": "",
               "smatrixGroups": [],
               "customSketchUrl": "",
@@ -17860,16 +18113,6 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sparams/SiN300nm_1550nm_TE_STRIP_Grating_Coupler.csv",
                   "ts": 1779766123405
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300nm_1550nm_TE_STRIP_Grating_Coupler.gds",
-                  "ts": 1780569901062
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300nm_1550nm_TE_STRIP_Grating_Coupler.jpg",
-                  "ts": 1780619755247
                 }
               ],
               "smatrixGroups": [],
@@ -17926,16 +18169,6 @@
                   "section": "smatrix",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sparams/SiN300nm_1550nm_TE_STRIP_Grating_Coupler_v1p2.csv",
                   "ts": 1779766123707
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300nm_1550nm_TE_STRIP_Grating_Coupler_v1p2.gds",
-                  "ts": 1780569901557
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300nm_1550nm_TE_STRIP_Grating_Coupler_v1p2.jpg",
-                  "ts": 1780619755622
                 }
               ],
               "smatrixGroups": [],
@@ -17985,18 +18218,7 @@
               ],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300nm_1550nm_TE_STRIP_Waveguide.gds",
-                  "ts": 1780569901853
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300nm_1550nm_TE_STRIP_Waveguide.jpg",
-                  "ts": 1780619756074
-                }
-              ],
+              "fetchHistory": [],
               "plannedReleaseDate": "",
               "smatrixGroups": [],
               "customSketchUrl": "",
@@ -18010,7 +18232,8 @@
               "gdsName": "",
               "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "pinned": true
             },
             {
               "id": "e_sf0b0gd",
@@ -18040,18 +18263,7 @@
               "edaTools": [],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/Heater.gds",
-                  "ts": 1780619730078
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/Heater.jpg",
-                  "ts": 1780619748030
-                }
-              ],
+              "fetchHistory": [],
               "customSketchUrl": "",
               "customSketchName": "",
               "smatrixGroups": [],
@@ -18093,16 +18305,6 @@
               "cdi": {},
               "fabTabs": [],
               "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300_CS_OtS_March_2025_v1p0.gds",
-                  "ts": 1780619730360
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300_CS_OtS_March_2025_v1p0.jpg",
-                  "ts": 1780619748644
-                },
                 {
                   "section": "fab",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/materials/SiN.csv",
@@ -18149,18 +18351,7 @@
               "edaTools": [],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300nmEduKit%2BTyndallPackaging.gds",
-                  "ts": 1780619735608
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300nmEduKit%2BTyndallPackaging.jpg",
-                  "ts": 1780619749097
-                }
-              ],
+              "fetchHistory": [],
               "customSketchUrl": "",
               "customSketchName": "",
               "smatrixGroups": [],
@@ -18187,13 +18378,9 @@
               "documents": [],
               "updated": "2026-06-05",
               "kind": "passive",
-              "bbType": "waveguide",
+              "bbType": "x_o0i7hq8",
               "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 300
-              },
+              "params": {},
               "layoutSvg": "",
               "gdsName": "",
               "gdsSize": 0,
@@ -18201,18 +18388,7 @@
               "edaTools": [],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/components/SiN300nm_1550nm_TE_Education_Kit.gds",
-                  "ts": 1780619738378
-                },
-                {
-                  "section": "sketch",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/SiN_300nm/sketch/SiN300nm_1550nm_TE_Education_Kit.jpg",
-                  "ts": 1780619752459
-                }
-              ],
+              "fetchHistory": [],
               "customSketchUrl": "",
               "customSketchName": "",
               "smatrixGroups": [],
@@ -18233,9 +18409,9 @@
           "githubSubdir": "components",
           "width": 624,
           "lastSyncStats": {
-            "ranAt": 1780567047630,
-            "urlsTotal": 26,
-            "filesFound": 11,
+            "ranAt": 1780621914644,
+            "urlsTotal": 52,
+            "filesFound": 14,
             "urlsEmpty": 0,
             "deadUrls": []
           },
@@ -18255,7 +18431,7 @@
               "url": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_300nm",
               "subdir": "components",
               "enabled": true,
-              "lastImportedAt": "2026-06-05T00:44:07.985Z"
+              "lastImportedAt": "2026-06-05T01:10:24.940Z"
             }
           ]
         },
@@ -18560,7 +18736,8 @@
               "gdsName": "",
               "gdsContent": "",
               "scriptsNotes": "",
-              "descriptionContributions": []
+              "descriptionContributions": [],
+              "pinned": true
             }
           ],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Student_SOI",
@@ -18757,6 +18934,39 @@
               "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
+            },
+            {
+              "id": "e_tzp2hwf",
+              "name": "Metals",
+              "status": "available",
+              "owner": "",
+              "description": "",
+              "githubUrl": "",
+              "files": [],
+              "scripts": [],
+              "datasets": [],
+              "testGroups": [],
+              "documents": [],
+              "updated": "2026-06-05",
+              "kind": "document",
+              "bbType": "",
+              "dimensionsOn": false,
+              "params": {},
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "edaTools": [],
+              "cdi": {},
+              "fabTabs": [],
+              "_docVersion": "",
+              "plannedReleaseDate": "",
+              "trl": null,
+              "smatrixGroups": [],
+              "edaLinks": [],
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "scriptsNotes": ""
             }
           ],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Ge_on_Si/materials",
@@ -18851,6 +19061,39 @@
               "gdsContent": "",
               "scriptsNotes": "",
               "descriptionContributions": []
+            },
+            {
+              "id": "e_v7i4zmo",
+              "name": "Focused Ion Beam (FIB)",
+              "status": "available",
+              "owner": "",
+              "description": "",
+              "githubUrl": "",
+              "files": [],
+              "scripts": [],
+              "datasets": [],
+              "testGroups": [],
+              "documents": [],
+              "updated": "2026-06-05",
+              "kind": "document",
+              "bbType": "",
+              "dimensionsOn": false,
+              "params": {},
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "edaTools": [],
+              "cdi": {},
+              "fabTabs": [],
+              "_docVersion": "",
+              "plannedReleaseDate": "",
+              "trl": null,
+              "smatrixGroups": [],
+              "edaLinks": [],
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "scriptsNotes": ""
             }
           ],
           "githubUrl": "",
@@ -19268,7 +19511,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mq06u9t8_0",
+        "id": "s_mq07tn24_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -19276,7 +19519,7 @@
         "enabled": true
       },
       {
-        "id": "s_mq06u9t8_1",
+        "id": "s_mq07tn24_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -19284,7 +19527,7 @@
         "enabled": true
       },
       {
-        "id": "s_mq06u9t8_2",
+        "id": "s_mq07tn24_2",
         "label": "CORNERSTONE community PDK (publish target)",
         "repo": "cornerstone-uos/cornerstone-community",
         "branch": "main",
@@ -19296,7 +19539,7 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-06-05T00:31:00.395Z",
+    "lastFetchedAt": "2026-06-05T00:58:19.782Z",
     "lastFetchedSha": "4e36117c61f47982a8e9160e8cb96a45b6fead9f",
     "lastPublishedAt": "2026-06-05T00:41:39.078Z",
     "lastPublishedSha": "104ebb6fb7bfa194a7d0d9e15b843d3a5b4dbcf0",
@@ -19412,7 +19655,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-05T00:51:52.694Z",
+    "publishedAt": "2026-06-05T01:25:31.731Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -19429,7 +19672,7 @@
     "urlsEmpty": 0,
     "deadUrls": []
   },
-  "lastGithubFetch": "2026-06-04T10:39:51.293Z",
+  "lastGithubFetch": "2026-06-05T01:21:43.255Z",
   "activityLog": [
     {
       "at": "2026-06-01T16:53:08.015Z",
