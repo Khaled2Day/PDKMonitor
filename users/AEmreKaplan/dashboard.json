@@ -201,10 +201,84 @@
               "url": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
               "subdir": "components",
               "enabled": true,
-              "lastImportedAt": "2026-06-06T18:34:08.375Z"
+              "lastImportedAt": "2026-06-06T18:39:22.300Z"
             }
           ],
-          "entities": []
+          "entities": [
+            {
+              "id": "e_01p193h",
+              "name": "SOI220_cband_TM_strip_apodized_GC_focusing_v1p0",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_9vs0v4x",
+                      "name": "_init_",
+                      "filename": "_init_",
+                      "kind": "_init_",
+                      "size": 1,
+                      "parsed": null,
+                      "imageUrl": null,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-06-06",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "AEmreKaplan",
+                      "added": "2026-06-06T18:39:09.892Z",
+                      "updated": "2026-06-06",
+                      "_stripped": true
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_o03sxv8",
+              "name": "SOI220nm_1550nm_TE_RIB_Waveguide",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [
+                    {
+                      "id": "nc_xlh47wg",
+                      "text": "fibre angle 10 deg",
+                      "who": "AEmreKaplan",
+                      "ts": 1780771172018
+                    }
+                  ],
+                  "tests": []
+                }
+              ],
+              "smatrixGroups": [],
+              "fabTabs": [],
+              "descriptionContributions": [
+                {
+                  "id": "nc_uiqjki1",
+                  "text": "fibre angle 10 deg",
+                  "who": "AEmreKaplan",
+                  "ts": 1780771112686
+                }
+              ],
+              "_contribOnly": true
+            }
+          ]
         },
         {
           "id": "g_3u8hhdf",
@@ -505,6 +579,10 @@
     }
   ],
   "ownership": {
+    "e_01p193h": "admin",
+    "layout:e_01p193h": "admin",
+    "e_o03sxv8": "admin",
+    "layout:e_o03sxv8": "admin",
     "e_vzmjg06": "admin",
     "layout:e_vzmjg06": "AEmreKaplan"
   },
@@ -522,21 +600,30 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-06-06T18:34:58.448Z",
+    "publishedAt": "2026-06-06T18:39:45.672Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "AEmreKaplan",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.1.0",
-    "bbCount": 1,
+    "bbCount": 3,
     "groupCount": 12,
     "tabCount": 4,
-    "fileCount": 1,
+    "fileCount": 4,
     "sliceFor": "AEmreKaplan",
     "termsVersion": "1.1.0",
+    "stripped": {
+      "gdsContent": 0,
+      "layoutSvg": 0,
+      "documents": 0,
+      "datasets": 2,
+      "parsed": 0,
+      "approxBytes": 5,
+      "note": "All embedded binaries (GDS, document data URLs, large SVGs, raw CSV / S-matrix bytes) were stripped from this published payload — only metadata remains. Adopters: run a per-BB or per-platform GitHub sync to repopulate the bytes from the original GitHub source."
+    },
     "externalized": {
       "uploaded": 0,
-      "skipped": 0,
+      "skipped": 1,
       "failed": 0,
       "reused": 0,
       "usersDir": "users/AEmreKaplan/",
