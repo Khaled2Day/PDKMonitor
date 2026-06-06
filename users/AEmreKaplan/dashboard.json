@@ -201,7 +201,7 @@
               "url": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
               "subdir": "components",
               "enabled": true,
-              "lastImportedAt": "2026-06-05T02:56:13.149Z"
+              "lastImportedAt": "2026-06-06T18:05:40.376Z"
             }
           ],
           "entities": [
@@ -218,11 +218,13 @@
                   "notesThread": [],
                   "tests": [
                     {
-                      "id": "t_oblzk41",
+                      "id": "t_d6nzcmg",
                       "name": "_init_",
                       "filename": "_init_",
                       "kind": "_init_",
                       "size": 1,
+                      "parsed": null,
+                      "imageUrl": null,
                       "metadata": {
                         "device_id": "",
                         "date": "2026-06-06",
@@ -231,10 +233,8 @@
                         "notes": ""
                       },
                       "who": "AEmreKaplan",
-                      "added": "2026-06-06T17:51:45.535Z",
+                      "added": "2026-06-06T18:05:29.669Z",
                       "updated": "2026-06-06",
-                      "repoPath": "users/AEmreKaplan/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0__1p193h/tests/init",
-                      "repoSha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
                       "_stripped": true
                     }
                   ]
@@ -542,7 +542,7 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-06-06T18:02:28.468Z",
+    "publishedAt": "2026-06-06T18:06:55.273Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "AEmreKaplan",
     "publisherRole": "user-admin",
@@ -558,16 +558,16 @@
       "gdsContent": 0,
       "layoutSvg": 0,
       "documents": 0,
-      "datasets": 1,
+      "datasets": 2,
       "parsed": 0,
-      "approxBytes": 4,
+      "approxBytes": 5,
       "note": "All embedded binaries (GDS, document data URLs, large SVGs, raw CSV / S-matrix bytes) were stripped from this published payload — only metadata remains. Adopters: run a per-BB or per-platform GitHub sync to repopulate the bytes from the original GitHub source."
     },
     "externalized": {
       "uploaded": 0,
-      "skipped": 0,
+      "skipped": 1,
       "failed": 0,
-      "reused": 1,
+      "reused": 0,
       "usersDir": "users/AEmreKaplan/",
       "layoutVersion": "rev5-tab-named",
       "note": "Per-BB folder layout: users/AEmreKaplan/<bb>/<section>/<file> — section folders are tab-named one-to-one with the BB-panel tabs: layout (GDS / OASIS + canonical YAML), smatrix (S-matrix datasets), tests, fab, scripts, documents (non-canonical YAMLs + other docs), eda (eda_links.json), files (loose BB-level files), variants (recursive). Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent."
