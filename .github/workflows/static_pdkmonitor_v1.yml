@@ -26,7 +26,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url:  https://github.com/cornerstone-uos/PDKMonitor/blob/monitor_run/index.html
+      url:  https://github.com/cornerstone-uos/PDKMonitor/blob/main/.github/workflows/index.html
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
