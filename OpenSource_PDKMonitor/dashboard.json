@@ -12262,7 +12262,15 @@
     "t_ona7plv": "AEmreKaplan",
     "t_95vegvz": "AEmreKaplan",
     "t_tohivr8": "AEmreKaplan",
-    "t_3ts0vwp": "AEmreKaplan"
+    "t_3ts0vwp": "AEmreKaplan",
+    "t_0iyaysh": "admin",
+    "t_zk2n76p": "admin",
+    "up_4hf9ixi": "admin",
+    "t_oteespc": "admin",
+    "t_klilwz2": "admin",
+    "t_9dlp1zy": "admin",
+    "t_9n3n2w7": "admin",
+    "t_gi3hhy0": "admin"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -12312,7 +12320,7 @@
               "bbType": "custom",
               "dimensionsOn": true,
               "params": {},
-              "gdsSize": 149906,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -12322,15 +12330,7 @@
                 "picstudio"
               ],
               "cdi": {},
-              "fabTabs": [
-                {
-                  "id": "ft_files",
-                  "name": "Files",
-                  "tests": [],
-                  "collapsed": false,
-                  "notes": ""
-                }
-              ],
+              "fabTabs": [],
               "fetchHistory": [
                 {
                   "section": "fab",
@@ -12366,8 +12366,6 @@
               },
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -12395,7 +12393,7 @@
                 "width_nm": 500,
                 "thickness_nm": 220
               },
-              "gdsSize": 27282,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -12413,14 +12411,7 @@
                   "ts": 1779692936058
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -12431,8 +12422,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -12459,7 +12448,7 @@
                 "width_nm": 500,
                 "thickness_nm": 220
               },
-              "gdsSize": 114304,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -12482,8 +12471,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -12510,7 +12497,7 @@
                 "width_nm": 500,
                 "thickness_nm": 220
               },
-              "gdsSize": 65490,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -12533,8 +12520,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -12672,15 +12657,7 @@
               "files": [],
               "scripts": [],
               "datasets": [],
-              "testGroups": [
-                {
-                  "id": "tg_files",
-                  "name": "Files",
-                  "tests": [],
-                  "collapsed": false,
-                  "subfolders": []
-                }
-              ],
+              "testGroups": [],
               "documents": [],
               "updated": "2026-06-05",
               "kind": "passive",
@@ -12693,7 +12670,7 @@
                 "width_nm": 500,
                 "thickness_nm": 220
               },
-              "gdsSize": 52248,
+              "gdsSize": 0,
               "edaTools": [
                 "klayout"
               ],
@@ -12711,14 +12688,7 @@
                   "ts": 1779919799540
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -12737,8 +12707,6 @@
               },
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -12804,7 +12772,7 @@
               "bbType": "waveguide",
               "dimensionsOn": false,
               "params": {},
-              "gdsSize": 262,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -12949,7 +12917,6 @@
               "scriptsNotes": "",
               "descriptionContributions": [],
               "pinned": true,
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": "",
@@ -12976,7 +12943,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 500,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -12994,14 +12961,7 @@
                   "ts": 1780276243932
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13012,7 +12972,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -13038,7 +12997,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 868,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13056,14 +13015,7 @@
                   "ts": 1780276244585
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13074,7 +13026,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -13100,7 +13051,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 2236,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13118,14 +13069,7 @@
                   "ts": 1780276245036
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13136,7 +13080,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -13162,7 +13105,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 5468,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13180,14 +13123,7 @@
                   "ts": 1780276245474
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13198,8 +13134,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -13221,7 +13155,7 @@
               "bbType": "waveguide",
               "dimensionsOn": false,
               "params": {},
-              "gdsSize": 262,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13252,7 +13186,6 @@
               "scriptsNotes": "",
               "descriptionContributions": [],
               "pinned": true,
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -13278,7 +13211,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 1104,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13296,14 +13229,7 @@
                   "ts": 1780276245923
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13314,7 +13240,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -13340,7 +13265,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 582,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13358,14 +13283,7 @@
                   "ts": 1780276246217
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13376,7 +13294,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -13402,7 +13319,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 710,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13420,14 +13337,7 @@
                   "ts": 1780276247038
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13438,7 +13348,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -13464,7 +13373,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 646,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13482,14 +13391,7 @@
                   "ts": 1780276247523
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13500,7 +13402,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -13526,7 +13427,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 5390,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13544,14 +13445,7 @@
                   "ts": 1780276247828
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13562,8 +13456,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -13589,7 +13481,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 200,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13613,7 +13505,6 @@
               "scriptsNotes": "",
               "descriptionContributions": [],
               "pinned": true,
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -13639,7 +13530,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 722,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13657,14 +13548,7 @@
                   "ts": 1780276248486
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13675,7 +13559,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -13701,7 +13584,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 740,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13719,14 +13602,7 @@
                   "ts": 1780276248891
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13737,7 +13613,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -13763,7 +13638,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 868,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13781,14 +13656,7 @@
                   "ts": 1780276249526
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13799,7 +13667,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -13825,7 +13692,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 2268,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13843,14 +13710,7 @@
                   "ts": 1780276249976
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13861,7 +13721,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -13887,7 +13746,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 4188,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13905,14 +13764,7 @@
                   "ts": 1780276250969
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13923,8 +13775,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -13950,7 +13800,7 @@
                 "arm_length_um": 8,
                 "thickness_nm": 220
               },
-              "gdsSize": 1104,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -13968,15 +13818,7 @@
                   "ts": 1780276251776
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false,
-                  "subfolders": []
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -13987,7 +13829,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -14013,7 +13854,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 582,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -14031,14 +13872,7 @@
                   "ts": 1780276252251
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -14049,7 +13883,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -14075,7 +13908,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 710,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -14093,14 +13926,7 @@
                   "ts": 1780276252671
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -14111,7 +13937,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -14137,7 +13962,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 646,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -14155,14 +13980,7 @@
                   "ts": 1780276253129
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -14173,7 +13991,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -14199,7 +14016,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 4110,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -14217,14 +14034,7 @@
                   "ts": 1780276253429
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -14235,8 +14045,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -14262,7 +14070,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 200,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -14272,15 +14080,7 @@
                 "picstudio"
               ],
               "cdi": {},
-              "fabTabs": [
-                {
-                  "id": "ft_files",
-                  "name": "Files",
-                  "tests": [],
-                  "collapsed": false,
-                  "notes": ""
-                }
-              ],
+              "fabTabs": [],
               "fetchHistory": [
                 {
                   "section": "fab",
@@ -14300,7 +14100,6 @@
               "scriptsNotes": "",
               "descriptionContributions": [],
               "pinned": true,
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -14326,7 +14125,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 850,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -14344,14 +14143,7 @@
                   "ts": 1780276253859
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -14362,7 +14154,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -14388,7 +14179,7 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 684,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -14411,7 +14202,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -14433,7 +14223,7 @@
               "bbType": "x_o0i7hq8",
               "dimensionsOn": true,
               "params": {},
-              "gdsSize": 8122736,
+              "gdsSize": 0,
               "edaTools": [],
               "cdi": {},
               "fabTabs": [],
@@ -14449,8 +14239,6 @@
               "subBlocks": [],
               "expanded": false,
               "trl": null,
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -14472,7 +14260,7 @@
               "bbType": "x_o0i7hq8",
               "dimensionsOn": true,
               "params": {},
-              "gdsSize": 8906154,
+              "gdsSize": 0,
               "edaTools": [],
               "cdi": {},
               "fabTabs": [],
@@ -14488,8 +14276,6 @@
               "subBlocks": [],
               "expanded": false,
               "trl": null,
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -14511,7 +14297,7 @@
               "bbType": "x_o0i7hq8",
               "dimensionsOn": true,
               "params": {},
-              "gdsSize": 1536790,
+              "gdsSize": 0,
               "edaTools": [],
               "cdi": {},
               "fabTabs": [],
@@ -14527,8 +14313,6 @@
               "subBlocks": [],
               "expanded": false,
               "trl": null,
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -14862,7 +14646,7 @@
                 "width_nm": 500,
                 "thickness_nm": 220
               },
-              "gdsSize": 55222,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -14872,15 +14656,7 @@
                 "picstudio"
               ],
               "cdi": {},
-              "fabTabs": [
-                {
-                  "id": "ft_files",
-                  "name": "Files",
-                  "tests": [],
-                  "collapsed": false,
-                  "notes": ""
-                }
-              ],
+              "fabTabs": [],
               "fetchHistory": [
                 {
                   "section": "fab",
@@ -14891,11 +14667,6 @@
                   "section": "fab",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/materials/SiO2.csv",
                   "ts": 1780570025670
-                },
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1310nm_TE_MZI_Modulator.gds",
-                  "ts": 1780627722327
                 }
               ],
               "smatrixGroups": [],
@@ -14910,8 +14681,6 @@
               "pinned": false,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -14937,17 +14706,11 @@
                 "length_um": 100,
                 "thickness_nm": 220
               },
-              "gdsSize": 85704,
+              "gdsSize": 0,
               "edaTools": [],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_SingleQubitGate_IIF_UoSheffield.gds",
-                  "ts": 1780627726252
-                }
-              ],
+              "fetchHistory": [],
               "plannedReleaseDate": "",
               "smatrixGroups": [],
               "customSketchUrl": "",
@@ -14959,8 +14722,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -14986,7 +14747,7 @@
                 "width_um": 4,
                 "thickness_nm": 220
               },
-              "gdsSize": 8680,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -14997,13 +14758,7 @@
               ],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_Defect_Detector.gds",
-                  "ts": 1780627726833
-                }
-              ],
+              "fetchHistory": [],
               "plannedReleaseDate": "",
               "smatrixGroups": [],
               "customSketchUrl": "",
@@ -15015,8 +14770,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -15043,7 +14796,7 @@
                 "width_nm": 500,
                 "thickness_nm": 220
               },
-              "gdsSize": 69134,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -15054,13 +14807,7 @@
               ],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_MZI_Modulator.gds",
-                  "ts": 1780627727531
-                }
-              ],
+              "fetchHistory": [],
               "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
@@ -15073,8 +14820,6 @@
               "pinned": false,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -15100,7 +14845,7 @@
                 "width_um": 4,
                 "thickness_nm": 220
               },
-              "gdsSize": 842,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -15111,13 +14856,7 @@
               ],
               "cdi": {},
               "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_IsolatedDetector.gds",
-                  "ts": 1780627727262
-                }
-              ],
+              "fetchHistory": [],
               "plannedReleaseDate": "",
               "smatrixGroups": [],
               "customSketchUrl": "",
@@ -15129,8 +14868,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -15151,42 +14888,11 @@
             "docs": true
           },
           "lastSyncStats": {
-            "ranAt": 1780661902110,
+            "ranAt": 1780828082119,
             "urlsTotal": 7,
             "filesFound": 2,
-            "urlsEmpty": 5,
-            "deadUrls": [
-              {
-                "bbId": "e_ltl8sye",
-                "bbName": "SOI220nm_1310nm_TE_MZI_Modulator",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1310nm_TE_MZI_Modulator.gds"
-              },
-              {
-                "bbId": "e_j50vobe",
-                "bbName": "SOI220nm_1550nm_SingleQubitGate_IIF_UoSheffield",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_SingleQubitGate_IIF_UoSheffield.gds"
-              },
-              {
-                "bbId": "e_miu7hij",
-                "bbName": "SOI220nm_1550nm_TE_Defect_Detector",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_Defect_Detector.gds"
-              },
-              {
-                "bbId": "e_z1e654s",
-                "bbName": "SOI220nm_1550nm_TE_MZI_Modulator",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_MZI_Modulator.gds"
-              },
-              {
-                "bbId": "e_n48tl3w",
-                "bbName": "SOI220nm_1550nm_TE_IsolatedDetector",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_IsolatedDetector.gds"
-              }
-            ]
+            "urlsEmpty": 0,
+            "deadUrls": []
           },
           "platformDocs": [],
           "githubSources": [
@@ -16559,53 +16265,13 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_kwis17d",
-                  "name": "Suspendedsilicon500nm_3800nm_TE_90_DegreeBend.yaml",
-                  "filename": "Suspendedsilicon500nm_3800nm_TE_90_DegreeBend.yaml",
-                  "mime": "application/yaml",
-                  "size": 457,
-                  "binaryContent": "bmFtZTogU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV85MF9EZWdyZWVCZW5kCmNvbXBvbmVudF90eXBlOiBCZW5kCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMDEvMDcvMjAyNQptb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAzODAwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gNC4yNQogIC0gMC4wCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IHN1c19zaV9iaWFzCi0gbmFtZTogbzIKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA0NQogIC0gNDAuNzUKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHN1c19zaV9iaWFzCg==",
-                  "bbType": "bend",
-                  "who": "admin",
-                  "added": "2026-06-05",
-                  "rawText": "name: Suspendedsilicon500nm_3800nm_TE_90_DegreeBend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 01/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 3800\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 4.25\n  - 0.0\n  orientation: 270\n  cross_section: sus_si_bias\n- name: o2\n  port_type: optical\n  center:\n  - 45\n  - 40.75\n  orientation: 0\n  cross_section: sus_si_bias\n",
-                  "description": ""
-                },
-                {
-                  "id": "d_tuvoci2",
-                  "name": "components.md",
-                  "filename": "components.md",
-                  "mime": "text/markdown",
-                  "size": 266,
-                  "binaryContent": "IyBCYXNpYyBjb21wb25lbnRzIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV85MF9EZWdyZWVCZW5kLm1kClN1c3BlbmRlZHNpbGljb241MDBubV8zODAwbm1fVEVfR3JhdGluZ0NvdXBsZXIubWQKU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV9TQmVuZC5tZApTdXNwZW5kZWRzaWxpY29uNTAwbm1fMzgwMG5tX1RFX1dhdmVndWlkZS5tZApgYGA=",
-                  "bbType": "bend",
-                  "who": "admin",
-                  "added": "2026-06-05",
-                  "rawText": "# Basic components \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nSuspendedsilicon500nm_3800nm_TE_90_DegreeBend.md\nSuspendedsilicon500nm_3800nm_TE_GratingCoupler.md\nSuspendedsilicon500nm_3800nm_TE_SBend.md\nSuspendedsilicon500nm_3800nm_TE_Waveguide.md\n```",
-                  "description": ""
-                },
-                {
-                  "id": "d_4pz9omg",
-                  "name": "ready-made.md",
-                  "filename": "ready-made.md",
-                  "mime": "text/markdown",
-                  "size": 75,
-                  "binaryContent": "IyBSZWFkeS1tYWRlIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKYGBg",
-                  "bbType": "bend",
-                  "who": "admin",
-                  "added": "2026-06-05",
-                  "rawText": "# Ready-made \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\n```",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-06-05",
               "kind": "passive",
               "bbType": "bend",
               "dimensionsOn": false,
               "params": {},
-              "gdsSize": 14868,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -16615,15 +16281,7 @@
                 "picstudio"
               ],
               "cdi": {},
-              "fabTabs": [
-                {
-                  "id": "ft_files",
-                  "name": "Files",
-                  "notes": "",
-                  "tests": [],
-                  "collapsed": false
-                }
-              ],
+              "fabTabs": [],
               "fetchHistory": [
                 {
                   "section": "layout",
@@ -16652,8 +16310,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -16669,21 +16325,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_7u3lfij",
-                  "name": "Suspendedsilicon500nm_3800nm_TE_GratingCoupler.yaml",
-                  "filename": "Suspendedsilicon500nm_3800nm_TE_GratingCoupler.yaml",
-                  "mime": "application/yaml",
-                  "size": 561,
-                  "binaryContent": "bmFtZTogU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV9HcmF0aW5nQ291cGxlcgpjb21wb25lbnRfdHlwZTogR3JhdGluZ0NvdXBsZXIxRAphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDEwLzA3LzIwMjUKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwLjAKICAtIDAuMAogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiBzdXNfc2lfYmlhcwogIG1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDM4MDAKLSBuYW1lOiB2ZXJ0aWNhbF90ZQogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSAzMzEuMTY5CiAgLSAwLjAKICBvcmllbnRhdGlvbjogMC4wCiAgd2lkdGg6IDIwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDE5CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBJUlpTMjMKICAgIHdhdmVsZW5ndGg6IDM4MDAK",
-                  "bbType": "grating-coupler",
-                  "who": "admin",
-                  "added": "2026-06-05",
-                  "rawText": "name: Suspendedsilicon500nm_3800nm_TE_GratingCoupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 10/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0.0\n  - 0.0\n  orientation: 180\n  cross_section: sus_si_bias\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 3800\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 331.169\n  - 0.0\n  orientation: 0.0\n  width: 20\n  coupling_angle_cladding: 19\n  fibre_modes:\n  - fibre_type: IRZS23\n    wavelength: 3800\n",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-06-05",
               "kind": "passive",
               "bbType": "grating-coupler",
@@ -16695,7 +16337,7 @@
                 "width_nm": 500,
                 "thickness_nm": 500
               },
-              "gdsSize": 99476,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -16724,8 +16366,6 @@
               "trl": null,
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -16741,21 +16381,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_kyfjk6a",
-                  "name": "Suspendedsilicon500nm_3800nm_TE_SBend.yaml",
-                  "filename": "Suspendedsilicon500nm_3800nm_TE_SBend.yaml",
-                  "mime": "application/yaml",
-                  "size": 450,
-                  "binaryContent": "bmFtZTogU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV9TQmVuZApjb21wb25lbnRfdHlwZTogQmVuZAphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDAxLzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMzgwMApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIDQuMjUKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogc3VzX3NpX2JpYXMKLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDM5LjM1CiAgLSAxMi4yNQogIG9yaWVudGF0aW9uOiAwCiAgY3Jvc3Nfc2VjdGlvbjogc3VzX3NpX2JpYXMK",
-                  "bbType": "bend",
-                  "who": "admin",
-                  "added": "2026-06-05",
-                  "rawText": "name: Suspendedsilicon500nm_3800nm_TE_SBend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 01/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 3800\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 4.25\n  orientation: 180\n  cross_section: sus_si_bias\n- name: o2\n  port_type: optical\n  center:\n  - 39.35\n  - 12.25\n  orientation: 0\n  cross_section: sus_si_bias\n",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-06-05",
               "kind": "passive",
               "bbType": "bend",
@@ -16766,7 +16392,7 @@
                 "width_nm": 500,
                 "thickness_nm": 500
               },
-              "gdsSize": 9356,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -16807,8 +16433,6 @@
               },
               "scriptsNotes": "",
               "descriptionContributions": [],
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -16824,21 +16448,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_3z3th3x",
-                  "name": "Suspendedsilicon500nm_3800nm_TE_Waveguide.yaml",
-                  "filename": "Suspendedsilicon500nm_3800nm_TE_Waveguide.yaml",
-                  "mime": "application/yaml",
-                  "size": 460,
-                  "binaryContent": "bmFtZTogU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV9XYXZlZ3VpZGUKY29tcG9uZW50X3R5cGU6IFdhdmVndWlkZQphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDAxLzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMzgwMApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAuMAogIC0gMC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN1c19zaV9iaWFzCi0gbmFtZTogbzIKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA0OTkuNwogIC0gMC4wCiAgb3JpZW50YXRpb246IDAuMAogIGNyb3NzX3NlY3Rpb246IHN1c19zaV9iaWFzCg==",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-06-05",
-                  "rawText": "name: Suspendedsilicon500nm_3800nm_TE_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 01/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 3800\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0.0\n  - 0.0\n  orientation: 180\n  cross_section: sus_si_bias\n- name: o2\n  port_type: optical\n  center:\n  - 499.7\n  - 0.0\n  orientation: 0.0\n  cross_section: sus_si_bias\n",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-06-05",
               "kind": "passive",
               "bbType": "waveguide",
@@ -16848,7 +16458,7 @@
                 "length_um": 100,
                 "thickness_nm": 500
               },
-              "gdsSize": 116496,
+              "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
                 "gdsfactory",
@@ -16878,8 +16488,6 @@
               "scriptsNotes": "",
               "descriptionContributions": [],
               "pinned": true,
-              "_gdsStripped": true,
-              "_svgStripped": true,
               "layoutSvg": "",
               "gdsName": "",
               "gdsContent": ""
@@ -16896,36 +16504,7 @@
             "scripts": true,
             "docs": true
           },
-          "platformDocs": [
-            {
-              "id": "doc_amr4qi4",
-              "name": "components",
-              "filename": "components.md",
-              "mime": "text/markdown",
-              "size": 266,
-              "who": "",
-              "added": "2026-06-05T12:22:13.249Z",
-              "description": "",
-              "binaryContent": "IyBCYXNpYyBjb21wb25lbnRzIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV85MF9EZWdyZWVCZW5kLm1kClN1c3BlbmRlZHNpbGljb241MDBubV8zODAwbm1fVEVfR3JhdGluZ0NvdXBsZXIubWQKU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV9TQmVuZC5tZApTdXNwZW5kZWRzaWxpY29uNTAwbm1fMzgwMG5tX1RFX1dhdmVndWlkZS5tZApgYGA=",
-              "sourceUrl": "https://github.com/drinwater/cornerstone-community/blob/main/Si_sus_bias/docs/comp-ref/components.md",
-              "platformPath": "Si_sus_bias/docs/comp-ref/components.md",
-              "rawText": "# Basic components \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nSuspendedsilicon500nm_3800nm_TE_90_DegreeBend.md\nSuspendedsilicon500nm_3800nm_TE_GratingCoupler.md\nSuspendedsilicon500nm_3800nm_TE_SBend.md\nSuspendedsilicon500nm_3800nm_TE_Waveguide.md\n```"
-            },
-            {
-              "id": "doc_lpdi266",
-              "name": "ready-made",
-              "filename": "ready-made.md",
-              "mime": "text/markdown",
-              "size": 75,
-              "who": "",
-              "added": "2026-06-05T12:22:13.559Z",
-              "description": "",
-              "binaryContent": "IyBSZWFkeS1tYWRlIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKYGBg",
-              "sourceUrl": "https://github.com/drinwater/cornerstone-community/blob/main/Si_sus_bias/docs/comp-ref/ready-made.md",
-              "platformPath": "Si_sus_bias/docs/comp-ref/ready-made.md",
-              "rawText": "# Ready-made \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\n```"
-            }
-          ],
+          "platformDocs": [],
           "lastSyncStats": {
             "ranAt": 1780567014634,
             "urlsTotal": 4,
@@ -20213,7 +19792,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mq2kxjwc_0",
+        "id": "s_mq3ls168_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -20221,19 +19800,11 @@
         "enabled": true
       },
       {
-        "id": "s_mq2kxjwc_1",
+        "id": "s_mq3ls168_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
-        "enabled": true
-      },
-      {
-        "id": "s_mq2lgtri_2c5",
-        "label": "My fork — PDKMonitor (@AEmreKaplan) · users/AEmreKaplan/",
-        "repo": "AEmreKaplan/PDKMonitor",
-        "branch": "main",
-        "path": "users/AEmreKaplan/dashboard.json",
         "enabled": false
       }
     ],
@@ -20241,7 +19812,7 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-06-06T17:03:56.365Z",
+    "lastFetchedAt": "2026-06-07T10:27:43.093Z",
     "lastFetchedSha": "4e36117c61f47982a8e9160e8cb96a45b6fead9f",
     "lastPublishedAt": "2026-06-06T17:08:41.518Z",
     "lastPublishedSha": "99d48745de87959d1deab400d9e360f43363a850",
@@ -20356,7 +19927,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-06T17:09:11.942Z",
+    "publishedAt": "2026-06-07T10:29:38.933Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -20373,7 +19944,7 @@
     "urlsEmpty": 0,
     "deadUrls": []
   },
-  "lastGithubFetch": "2026-06-05T12:21:15.474Z",
+  "lastGithubFetch": "2026-06-07T10:28:02.119Z",
   "activityLog": [
     {
       "at": "2026-06-01T16:53:08.015Z",
