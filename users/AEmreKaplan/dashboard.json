@@ -493,9 +493,25 @@
     },
     {
       "id": "tab_dqtmkfy",
-      "name": "Post-Processing",
+      "name": "Design",
       "kind": "docs",
-      "groups": []
+      "groups": [
+        {
+          "id": "g_6l6ccoz",
+          "name": "SOI 220 nm EDA",
+          "platformMeta": {
+            "material": "Si",
+            "thickness": 220
+          },
+          "collapsed": false,
+          "platformDocs": [],
+          "githubUrl": "",
+          "githubSubdir": "components",
+          "docsGithubUrl": "",
+          "githubSources": [],
+          "entities": []
+        }
+      ]
     },
     {
       "id": "tab_d2ootms",
@@ -522,14 +538,14 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-06-06T18:41:26.323Z",
+    "publishedAt": "2026-06-07T12:50:32.101Z",
     "publisherIdentity": "AEmreKaplan",
-    "publisherLabel": "AEmreKaplan",
+    "publisherLabel": "CS_Emre",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.1.0",
     "bbCount": 1,
-    "groupCount": 12,
+    "groupCount": 13,
     "tabCount": 4,
     "fileCount": 1,
     "sliceFor": "AEmreKaplan",
