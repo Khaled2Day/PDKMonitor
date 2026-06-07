@@ -12270,7 +12270,9 @@
     "t_klilwz2": "admin",
     "t_9dlp1zy": "admin",
     "t_9n3n2w7": "admin",
-    "t_gi3hhy0": "admin"
+    "t_gi3hhy0": "admin",
+    "g_6l6ccoz": "admin",
+    "e_ou5s713": "admin"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -13188,7 +13190,8 @@
               "pinned": true,
               "layoutSvg": "",
               "gdsName": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_3mmx63u",
@@ -19367,8 +19370,26 @@
     },
     {
       "id": "tab_dqtmkfy",
-      "name": "Post-Processing",
-      "groups": [],
+      "name": "Design",
+      "groups": [
+        {
+          "id": "g_6l6ccoz",
+          "name": "SOI 220 nm EDA",
+          "platformMeta": {
+            "material": "Si",
+            "thickness": 220
+          },
+          "status": "planned",
+          "kind": "",
+          "collapsed": false,
+          "entities": [],
+          "githubUrl": "",
+          "githubSubdir": "components",
+          "githubSources": [],
+          "platformDocs": [],
+          "width": 470
+        }
+      ],
       "kind": "docs"
     },
     {
@@ -19814,9 +19835,9 @@
     "path": "OpenSource_PDKMonitor/dashboard.json",
     "lastFetchedAt": "2026-06-07T11:33:55.639Z",
     "lastFetchedSha": "f14ce548ff1555515ac0d56885c64a16d31844f0",
-    "lastPublishedAt": "2026-06-06T17:08:41.518Z",
-    "lastPublishedSha": "99d48745de87959d1deab400d9e360f43363a850",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/99d48745de87959d1deab400d9e360f43363a850",
+    "lastPublishedAt": "2026-06-07T11:34:19.330Z",
+    "lastPublishedSha": "375ede2742b34056dfca6f87de7f803cee4e2e7e",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/375ede2742b34056dfca6f87de7f803cee4e2e7e",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -19927,7 +19948,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-07T11:34:19.330Z",
+    "publishedAt": "2026-06-07T12:47:02.146Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -20054,6 +20075,16 @@
       "label": "DOE",
       "meta": {
         "id": "tab_1hbzx9p"
+      }
+    },
+    {
+      "at": "2026-06-07T12:37:26.225Z",
+      "by": "admin",
+      "role": "admin",
+      "action": "tab-rename",
+      "label": "Post-Processing → Design",
+      "meta": {
+        "id": "tab_dqtmkfy"
       }
     }
   ],
