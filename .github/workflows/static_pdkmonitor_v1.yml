@@ -26,7 +26,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url:  https://github.com/cornerstone-uos/PDKMonitor/blob/main/cornerstone-pdk-monitor-v1.1.0.html
+      url:  https://github.com/cornerstone-uos/PDKMonitor/blob/monitor_run/index.html
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
