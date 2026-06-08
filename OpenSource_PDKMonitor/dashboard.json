@@ -13246,7 +13246,8 @@
               "descriptionContributions": [],
               "gdsName": "",
               "layoutSvg": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_km981tv",
@@ -15492,12 +15493,8 @@
               "updated": "2026-06-08",
               "kind": "passive",
               "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [],
               "cdi": {},
@@ -15522,7 +15519,8 @@
               "descriptionContributions": [],
               "gdsName": "",
               "layoutSvg": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_miu7hij",
@@ -15914,7 +15912,7 @@
                 "width_um": 6,
                 "length_um": 30,
                 "thickness_nm": 340,
-                "in_ports": 1,
+                "in_ports": 2,
                 "out_ports": 2,
                 "stub_width_nm": 500
               },
@@ -15959,7 +15957,8 @@
               "descriptionContributions": [],
               "layoutSvg": "",
               "gdsName": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_pk8q8q2",
@@ -20866,8 +20865,89 @@
     }
   ],
   "benchmarkData": {
-    "tables": {},
-    "metric": "bm_vj1j95g"
+    "tables": {
+      "default": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "bm_hnu2swh": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "SOI220nm active",
+            "1012",
+            "£",
+            "",
+            "",
+            "2026 CORNERSTONE MPW access cost"
+          ],
+          [
+            "SOI220nm passive with heaters",
+            "545",
+            "£",
+            "",
+            "",
+            "2026 CORNERSTONE MPW access cost"
+          ],
+          [
+            "SOI220nm passive without heaters",
+            "325",
+            "£",
+            "",
+            "",
+            "2026 CORNERSTONE MPW access cost"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      }
+    },
+    "metric": "bm_hnu2swh"
   },
   "uploads": [],
   "distribution": {
@@ -20919,9 +20999,9 @@
     "path": "OpenSource_PDKMonitor/dashboard.json",
     "lastFetchedAt": "2026-06-08T08:19:12.171Z",
     "lastFetchedSha": "ef3eeb882fb966c1266c0dffc97d8fadda51513f",
-    "lastPublishedAt": "2026-06-07T21:34:44.962Z",
-    "lastPublishedSha": "8a1d665af463bb5cfebd231ef7f2f934048d5e24",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/8a1d665af463bb5cfebd231ef7f2f934048d5e24",
+    "lastPublishedAt": "2026-06-08T09:52:05.720Z",
+    "lastPublishedSha": "5f010e642f2b09f12803e15a164489d5aa00dde5",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/5f010e642f2b09f12803e15a164489d5aa00dde5",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -21033,7 +21113,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-08T09:52:05.720Z",
+    "publishedAt": "2026-06-08T10:25:19.174Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
