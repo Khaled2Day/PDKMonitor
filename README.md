@@ -1,6 +1,6 @@
 # CORNERSTONE PDK Monitor — v1.1.0
 
-A free, open-source, **single-file** dashboard for managing and sharing integrated-photonics Process Design Kits (PDKs). It is the gateway between designers and fabs: a single place to discover, use, and contribute open PDK building blocks (BBs) — layouts, S-parameters, test data, fabrication notes, scripts, and documents.
+A free, open-source, **single-file** dashboard for managing and sharing integrated-photonics Process Design Kits (PDKs). It is the gateway between designers and fabs: a single place to discover, use, and contribute open-source PDK building blocks (BBs) — layouts, S-parameters, test data, fabrication notes, scripts, and documents.
 
 The entire app is one self-contained `.html` file. There is no server and no build step — open it in a browser, or host it on GitHub Pages / SharePoint / an internal server.
 
