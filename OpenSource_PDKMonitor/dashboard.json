@@ -15520,35 +15520,7 @@
                   "ts": 1780841125110
                 }
               ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_60asbku",
-                      "name": "init",
-                      "filename": "init",
-                      "kind": "init",
-                      "size": 1,
-                      "parsed": null,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-06-09",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-06-09T17:33:17.824Z",
-                      "updated": "2026-06-09",
-                      "_stripped": true
-                    }
-                  ],
-                  "collapsed": false
-                }
-              ],
+              "smatrixGroups": [],
               "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
@@ -15561,6 +15533,7 @@
               "scriptsNotes": "",
               "descriptionContributions": [],
               "gdsName": "SOI220nm_1310nm_TE_MZI_Modulator.gds",
+              "cloudBases": {},
               "_gdsStripped": true,
               "_svgStripped": true
             },
@@ -21044,9 +21017,9 @@
     "path": "OpenSource_PDKMonitor/dashboard.json",
     "lastFetchedAt": "2026-06-09T17:31:55.125Z",
     "lastFetchedSha": "7421f213f3b4389c345e5d3f06a5a146067b9326",
-    "lastPublishedAt": "2026-06-08T10:29:44.938Z",
-    "lastPublishedSha": "24b7dfc195eca9da34a285e5aab3938c7bd68aec",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/24b7dfc195eca9da34a285e5aab3938c7bd68aec",
+    "lastPublishedAt": "2026-06-09T17:34:27.141Z",
+    "lastPublishedSha": "e70c1c6ee85ce31795332da10dbad774fea351f6",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/e70c1c6ee85ce31795332da10dbad774fea351f6",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 1,
@@ -21171,7 +21144,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-09T17:34:27.141Z",
+    "publishedAt": "2026-06-09T17:35:35.591Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
