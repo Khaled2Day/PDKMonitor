@@ -11,7 +11,6 @@ The entire app is one self-contained `.html` file. There is no server and no bui
 | `cornerstone-pdk-monitor-v1.1.0.html` | The dashboard. Open this in a browser. |
 | `USER_MANUAL.md` | Full user guide — modes, fetching, cloud storage, publishing. |
 | `RELEASE_NOTES_v1.1.0.md` | What changed in this release. |
-| `CORNERSTONE_PDK_Monitor_Intro_v1.1.0.pptx` | Introduction slide deck. |
 | `README.md` | This file. |
 
 ## Quick start
