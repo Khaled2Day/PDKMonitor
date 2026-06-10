@@ -20840,7 +20840,94 @@
     }
   ],
   "benchmarkData": {
-    "tables": {},
+    "tables": {
+      "default": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "bm_vj1j95g": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "bm_hnu2swh": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "GeonSi",
+            "87",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN without heaters",
+            "53",
+            "",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN with heaters",
+            "113",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive without heaters",
+            "228",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive with heaters",
+            "545",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI active",
+            "1022",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ]
+        ]
+      }
+    },
     "metric": "bm_hnu2swh"
   },
   "uploads": [],
@@ -20869,9 +20956,9 @@
     "path": "OpenSource_PDKMonitor/dashboard.json",
     "lastFetchedAt": "2026-06-10T23:06:52.199Z",
     "lastFetchedSha": "08043e27f80de319f2743274f7cd65de0257e90c",
-    "lastPublishedAt": "2026-06-10T23:34:50.446Z",
-    "lastPublishedSha": "a85bacc1e1d07a8f5f99a64edf0a5eb762481fd0",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/a85bacc1e1d07a8f5f99a64edf0a5eb762481fd0",
+    "lastPublishedAt": "2026-06-10T23:36:36.319Z",
+    "lastPublishedSha": "34deba370ef87fc582f9b7619b9a36cedfe681a3",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/34deba370ef87fc582f9b7619b9a36cedfe681a3",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -20926,7 +21013,7 @@
     "note": "User-admin sign-in is via a personal GitHub PAT (no shared password). The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-10T23:36:36.319Z",
+    "publishedAt": "2026-06-10T23:56:40.207Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
