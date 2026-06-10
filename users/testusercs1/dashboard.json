@@ -444,11 +444,11 @@
   "uploads": [],
   "tabs": [
     {
-      "id": "tab_f5jq5fy",
+      "id": "tab_u3wiobj",
       "name": "Technology Platforms",
       "groups": [
         {
-          "id": "g_1dagze9",
+          "id": "g_z1paa2f",
           "name": "SOI 220 nm",
           "platformMeta": {
             "material": "Si",
@@ -457,7 +457,7 @@
           "entities": []
         },
         {
-          "id": "g_kysy42g",
+          "id": "g_b0tttrl",
           "name": "SOI 340 nm",
           "platformMeta": {
             "material": "Si",
@@ -466,7 +466,7 @@
           "entities": []
         },
         {
-          "id": "g_e0g78zn",
+          "id": "g_73b99ur",
           "name": "SOI 500 nm",
           "platformMeta": {
             "material": "Si",
@@ -475,7 +475,7 @@
           "entities": []
         },
         {
-          "id": "g_3n2sw9p",
+          "id": "g_abq0nhk",
           "name": "TFLN 300 nm",
           "platformMeta": {
             "material": "LN",
@@ -484,7 +484,7 @@
           "entities": []
         },
         {
-          "id": "g_hzlrvow",
+          "id": "g_g2319wh",
           "name": "SiN 300 nm",
           "platformMeta": {
             "material": "SiN",
@@ -493,7 +493,7 @@
           "entities": []
         },
         {
-          "id": "g_nrhw1v7",
+          "id": "g_4fjn7wq",
           "name": "SiN 200 nm",
           "platformMeta": {
             "material": "SiN",
@@ -585,7 +585,7 @@
   "sketchLibrary": [],
   "deletions": [],
   "_distribution": {
-    "publishedAt": "2026-06-10T20:29:23.800Z",
+    "publishedAt": "2026-06-10T20:30:45.327Z",
     "publisherIdentity": "testusercs1",
     "publisherLabel": "testusercs1",
     "publisherRole": "user-admin",
