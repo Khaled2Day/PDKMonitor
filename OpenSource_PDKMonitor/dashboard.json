@@ -12978,7 +12978,8 @@
     "doc_98611h1": "admin",
     "doc_f2ajf5v": "admin",
     "doc_j3dfohv": "admin",
-    "doc_0lwftih": "admin"
+    "doc_0lwftih": "admin",
+    "e_qhp4n9e": "admin"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -15671,12 +15672,8 @@
               "updated": "2026-06-08",
               "kind": "active",
               "bbType": "photodetector",
-              "dimensionsOn": true,
-              "params": {
-                "length_um": 50,
-                "width_um": 4,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -15766,12 +15763,8 @@
               "updated": "2026-06-08",
               "kind": "detector",
               "bbType": "photodetector",
-              "dimensionsOn": true,
-              "params": {
-                "length_um": 50,
-                "width_um": 4,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -15797,7 +15790,8 @@
               "descriptionContributions": [],
               "gdsName": "",
               "layoutSvg": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             }
           ],
           "status": "available",
@@ -16860,7 +16854,8 @@
               "descriptionContributions": [],
               "gdsName": "",
               "layoutSvg": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_6qmu4fa",
@@ -16877,15 +16872,8 @@
               "updated": "2026-06-08",
               "kind": "passive",
               "bbType": "mmi",
-              "dimensionsOn": true,
-              "params": {
-                "width_um": 6,
-                "length_um": 30,
-                "thickness_nm": 500,
-                "in_ports": 1,
-                "out_ports": 2,
-                "stub_width_nm": 500
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -16927,7 +16915,8 @@
               "descriptionContributions": [],
               "layoutSvg": "",
               "gdsName": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_ai8w29l",
@@ -16944,15 +16933,8 @@
               "updated": "2026-06-08",
               "kind": "passive",
               "bbType": "mmi",
-              "dimensionsOn": true,
-              "params": {
-                "width_um": 6,
-                "length_um": 30,
-                "thickness_nm": 500,
-                "in_ports": 1,
-                "out_ports": 2,
-                "stub_width_nm": 500
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -16994,7 +16976,8 @@
               "descriptionContributions": [],
               "layoutSvg": "",
               "gdsName": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_9w4gmu0",
@@ -17011,13 +16994,8 @@
               "updated": "2026-06-08",
               "kind": "passive",
               "bbType": "bend",
-              "dimensionsOn": true,
-              "params": {
-                "radius_um": 10,
-                "angle_deg": 90,
-                "width_nm": 500,
-                "thickness_nm": 500
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -17059,7 +17037,8 @@
               "descriptionContributions": [],
               "layoutSvg": "",
               "gdsName": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_7ys02f0",
@@ -17076,14 +17055,8 @@
               "updated": "2026-06-08",
               "kind": "passive",
               "bbType": "grating-coupler",
-              "dimensionsOn": true,
-              "params": {
-                "period_nm": 630,
-                "n_periods": 28,
-                "fill_factor": 0.5,
-                "width_nm": 500,
-                "thickness_nm": 500
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -17125,7 +17098,8 @@
               "descriptionContributions": [],
               "gdsName": "",
               "layoutSvg": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_kefyqh0",
@@ -17142,12 +17116,8 @@
               "updated": "2026-06-08",
               "kind": "passive",
               "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 500
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -20899,9 +20869,9 @@
     "path": "OpenSource_PDKMonitor/dashboard.json",
     "lastFetchedAt": "2026-06-10T23:06:52.199Z",
     "lastFetchedSha": "08043e27f80de319f2743274f7cd65de0257e90c",
-    "lastPublishedAt": "2026-06-10T23:31:51.754Z",
-    "lastPublishedSha": "0b2034f339e389d37094e3b5a51cf306c31b0ba2",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/0b2034f339e389d37094e3b5a51cf306c31b0ba2",
+    "lastPublishedAt": "2026-06-10T23:34:50.446Z",
+    "lastPublishedSha": "a85bacc1e1d07a8f5f99a64edf0a5eb762481fd0",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/a85bacc1e1d07a8f5f99a64edf0a5eb762481fd0",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -20956,7 +20926,7 @@
     "note": "User-admin sign-in is via a personal GitHub PAT (no shared password). The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-10T23:34:50.446Z",
+    "publishedAt": "2026-06-10T23:36:36.319Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
