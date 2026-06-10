@@ -13690,12 +13690,8 @@
               "updated": "2026-06-10",
               "kind": "passive",
               "bbType": "bend",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -13742,7 +13738,8 @@
               "descriptionContributions": [],
               "layoutSvg": "",
               "gdsName": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_d1k646t",
@@ -13759,12 +13756,8 @@
               "updated": "2026-06-10",
               "kind": "passive",
               "bbType": "grating-coupler",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -13893,12 +13886,8 @@
               "updated": "2026-06-10",
               "kind": "passive",
               "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -13945,7 +13934,8 @@
               "descriptionContributions": [],
               "layoutSvg": "",
               "gdsName": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_zlimbjb",
@@ -14094,12 +14084,8 @@
               "updated": "2026-06-10",
               "kind": "passive",
               "bbType": "bend",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -14146,7 +14132,8 @@
               "descriptionContributions": [],
               "layoutSvg": "",
               "gdsName": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_m7dn718",
@@ -14163,12 +14150,8 @@
               "updated": "2026-06-10",
               "kind": "passive",
               "bbType": "grating-coupler",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -14215,7 +14198,8 @@
               "descriptionContributions": [],
               "gdsName": "",
               "layoutSvg": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_txq39yh",
@@ -14289,12 +14273,8 @@
               "updated": "2026-06-10",
               "kind": "passive",
               "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -14359,12 +14339,8 @@
               "updated": "2026-06-10",
               "kind": "passive",
               "bbType": "mmi",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -14411,7 +14387,8 @@
               "descriptionContributions": [],
               "layoutSvg": "",
               "gdsName": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_ufug1m1",
@@ -14428,12 +14405,8 @@
               "updated": "2026-06-10",
               "kind": "passive",
               "bbType": "mmi",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -14480,7 +14453,8 @@
               "descriptionContributions": [],
               "layoutSvg": "",
               "gdsName": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_ifq0qop",
@@ -14497,12 +14471,8 @@
               "updated": "2026-06-10",
               "kind": "passive",
               "bbType": "bend",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -14549,7 +14519,8 @@
               "descriptionContributions": [],
               "layoutSvg": "",
               "gdsName": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_15h45i5",
@@ -14566,12 +14537,8 @@
               "updated": "2026-06-10",
               "kind": "passive",
               "bbType": "grating-coupler",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -14618,7 +14585,8 @@
               "descriptionContributions": [],
               "gdsName": "",
               "layoutSvg": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_kv8ahe8",
@@ -14635,12 +14603,8 @@
               "updated": "2026-06-10",
               "kind": "passive",
               "bbType": "crossing",
-              "dimensionsOn": true,
-              "params": {
-                "arm_width_nm": 500,
-                "arm_length_um": 8,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -14687,7 +14651,8 @@
               "descriptionContributions": [],
               "layoutSvg": "",
               "gdsName": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_eqnpp7u",
@@ -14704,12 +14669,8 @@
               "updated": "2026-06-10",
               "kind": "passive",
               "bbType": "mmi",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -14756,7 +14717,8 @@
               "descriptionContributions": [],
               "layoutSvg": "",
               "gdsName": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_tsj6jue",
@@ -14773,12 +14735,8 @@
               "updated": "2026-06-10",
               "kind": "passive",
               "bbType": "mmi",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -14825,7 +14783,8 @@
               "descriptionContributions": [],
               "layoutSvg": "",
               "gdsName": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_gkqdfu8",
@@ -14842,12 +14801,8 @@
               "updated": "2026-06-10",
               "kind": "passive",
               "bbType": "bend",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -15040,12 +14995,8 @@
               "updated": "2026-06-10",
               "kind": "passive",
               "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "dimensionsOn": false,
+              "params": {},
               "gdsSize": 0,
               "edaTools": [
                 "ipkiss",
@@ -15092,7 +15043,8 @@
               "descriptionContributions": [],
               "layoutSvg": "",
               "gdsName": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_fwdccyy",
@@ -15276,7 +15228,8 @@
               "platform": "SOI 220 nm PASSIVE",
               "layoutSvg": "",
               "gdsName": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_p8un55w",
@@ -21104,9 +21057,9 @@
     "path": "OpenSource_PDKMonitor/dashboard.json",
     "lastFetchedAt": "2026-06-10T23:06:52.199Z",
     "lastFetchedSha": "08043e27f80de319f2743274f7cd65de0257e90c",
-    "lastPublishedAt": "2026-06-10T23:10:01.725Z",
-    "lastPublishedSha": "8a0f27f6d6258d8e0cb8f73a15ab35bf4c84025c",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/8a0f27f6d6258d8e0cb8f73a15ab35bf4c84025c",
+    "lastPublishedAt": "2026-06-10T23:23:51.619Z",
+    "lastPublishedSha": "7fe47feea5b8b0c10e33e8657301e029638172b8",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/7fe47feea5b8b0c10e33e8657301e029638172b8",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -21161,7 +21114,7 @@
     "note": "User-admin sign-in is via a personal GitHub PAT (no shared password). The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-10T23:23:51.619Z",
+    "publishedAt": "2026-06-10T23:27:24.309Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
