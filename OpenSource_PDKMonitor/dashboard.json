@@ -21104,9 +21104,9 @@
     "path": "OpenSource_PDKMonitor/dashboard.json",
     "lastFetchedAt": "2026-06-10T23:06:52.199Z",
     "lastFetchedSha": "08043e27f80de319f2743274f7cd65de0257e90c",
-    "lastPublishedAt": "2026-06-10T23:06:30.490Z",
-    "lastPublishedSha": "15a4f08e311060c5af76d695a98e5c39633ea6ed",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/15a4f08e311060c5af76d695a98e5c39633ea6ed",
+    "lastPublishedAt": "2026-06-10T23:10:01.725Z",
+    "lastPublishedSha": "8a0f27f6d6258d8e0cb8f73a15ab35bf4c84025c",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/8a0f27f6d6258d8e0cb8f73a15ab35bf4c84025c",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -21161,7 +21161,7 @@
     "note": "User-admin sign-in is via a personal GitHub PAT (no shared password). The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-10T23:10:01.725Z",
+    "publishedAt": "2026-06-10T23:23:51.619Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
