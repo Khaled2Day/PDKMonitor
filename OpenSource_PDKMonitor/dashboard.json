@@ -12901,7 +12901,13 @@
     "AEmreKplan": "Dashboard Admin",
     "EmreKaplanSoton": "EmreKaplanSoton",
     "hby1r25": "CS_Bilge",
-    "AEmreKa": "AEmreKa"
+    "AEmreKa": "AEmreKa",
+    "Francesco Floris": "Francesco Floris",
+    "Imad Faruque": "Imad Faruque",
+    "James O'Callaghan": "James O'Callaghan",
+    "Thalia Dominguez Bucio": "Thalia Dominguez Bucio",
+    "Thomas Parker": "Thomas Parker",
+    "s39chand@uwaterloo.ca": "Skandan Chandrasekar"
   },
   "tabs": [
     {
@@ -21193,7 +21199,7 @@
       "id": "c_mq3xbc875ctf"
     },
     {
-      "identity": "CS_Aiman",
+      "identity": "",
       "name": "Aiman Hazim Shafizam",
       "role": "user-admin",
       "addedAt": "2026-05-25T11:17:20.544Z",
@@ -21204,12 +21210,12 @@
     {
       "id": "c_mpl44ata_z1qs",
       "name": "Khaled Mohammed",
-      "identity": "CS_Khaled",
+      "identity": "",
       "affiliation": "University of Southampton/CORNERSTONE",
       "note": "Admin/Contributor"
     },
     {
-      "identity": "CS_Bilge",
+      "identity": "",
       "name": "Bilge Yagci",
       "role": "user-admin",
       "addedAt": "2026-05-25T10:53:22.349Z",
@@ -21221,7 +21227,7 @@
     {
       "id": "c_mpl440ks_67ug",
       "name": "Shengqi Yin",
-      "identity": "CS_Shengqi",
+      "identity": "",
       "affiliation": "University of Southampton/CORNERSTONE",
       "note": "Admin/Contributor"
     },
@@ -21382,9 +21388,9 @@
     "path": "OpenSource_PDKMonitor/dashboard.json",
     "lastFetchedAt": "2026-06-09T13:47:27.233Z",
     "lastFetchedSha": "7421f213f3b4389c345e5d3f06a5a146067b9326",
-    "lastPublishedAt": "2026-06-10T19:46:57.505Z",
-    "lastPublishedSha": "39454491a3f1ff9be980acc8c04d9741cae5d245",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/39454491a3f1ff9be980acc8c04d9741cae5d245",
+    "lastPublishedAt": "2026-06-10T20:06:55.305Z",
+    "lastPublishedSha": "114dc70a2f4466ec6e4a7a5d0c86673708697619",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/114dc70a2f4466ec6e4a7a5d0c86673708697619",
     "lastMergeStats": {
       "tabs": 2,
       "groups": 4,
@@ -21429,12 +21435,18 @@
       "AEmreKplan": "Dashboard Admin",
       "EmreKaplanSoton": "EmreKaplanSoton",
       "hby1r25": "CS_Bilge",
-      "AEmreKa": "AEmreKa"
+      "AEmreKa": "AEmreKa",
+      "Francesco Floris": "Francesco Floris",
+      "Imad Faruque": "Imad Faruque",
+      "James O'Callaghan": "James O'Callaghan",
+      "Thalia Dominguez Bucio": "Thalia Dominguez Bucio",
+      "Thomas Parker": "Thomas Parker",
+      "s39chand@uwaterloo.ca": "Skandan Chandrasekar"
     },
     "note": "User-admin sign-in is via a personal GitHub PAT (no shared password). The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-10T19:50:37.166Z",
+    "publishedAt": "2026-06-10T20:09:13.336Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
