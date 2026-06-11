@@ -251,8 +251,19 @@
           "Condition",
           "Notes"
         ],
-        "rows": [],
-        "by": []
+        "rows": [
+          [
+            "test ",
+            "test",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "by": [
+          ""
+        ]
       }
     },
     "metric": "bm_hnu2swh"
@@ -629,7 +640,7 @@
   ],
   "deletions": [],
   "_distribution": {
-    "publishedAt": "2026-06-11T08:52:10.905Z",
+    "publishedAt": "2026-06-11T08:53:29.757Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "AEmreKaplan",
     "publisherRole": "user-admin",
