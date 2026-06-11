@@ -251,19 +251,8 @@
           "Condition",
           "Notes"
         ],
-        "rows": [
-          [
-            "test",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ]
-        ],
-        "by": [
-          ""
-        ]
+        "rows": [],
+        "by": []
       },
       "default": {
         "cols": [
@@ -709,7 +698,7 @@
   ],
   "deletions": [],
   "_distribution": {
-    "publishedAt": "2026-06-11T09:06:24.123Z",
+    "publishedAt": "2026-06-11T09:12:46.402Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "AEmreKaplan",
     "publisherRole": "user-admin",
