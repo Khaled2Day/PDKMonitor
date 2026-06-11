@@ -244,18 +244,6 @@
           "Condition",
           "Notes"
         ],
-        "rows": [],
-        "by": []
-      },
-      "default": {
-        "cols": [
-          "Platform",
-          "Value",
-          "Unit",
-          "Band / λ",
-          "Condition",
-          "Notes"
-        ],
         "rows": [
           [
             "test ",
@@ -264,25 +252,10 @@
             "",
             "",
             ""
-          ]
-        ],
-        "by": [
-          ""
-        ]
-      },
-      "bm_921qwi7": {
-        "cols": [
-          "Platform",
-          "Value",
-          "Unit",
-          "Band / λ",
-          "Condition",
-          "Notes"
-        ],
-        "rows": [
+          ],
           [
-            "",
-            "",
+            "test2",
+            "test2",
             "",
             "",
             "",
@@ -290,7 +263,8 @@
           ]
         ],
         "by": [
-          ""
+          "",
+          "AEmreKaplan"
         ]
       }
     },
@@ -668,7 +642,7 @@
   ],
   "deletions": [],
   "_distribution": {
-    "publishedAt": "2026-06-11T08:30:57.588Z",
+    "publishedAt": "2026-06-11T08:37:07.587Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "AEmreKaplan",
     "publisherRole": "user-admin",
