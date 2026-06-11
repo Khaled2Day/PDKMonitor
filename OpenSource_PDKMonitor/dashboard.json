@@ -277,7 +277,7 @@
     }
   ],
   "about": {
-    "title": "CORNERSTONE Open Platform",
+    "title": "CORNERSTONE",
     "subtitle": "OPEN-SOURCE PDK Monitor",
     "version": "v1.1.0",
     "contact": "pdk.cornerstone.soton.ac.uk",
@@ -13202,7 +13202,7 @@
           },
           "status": "available",
           "kind": "passive",
-          "collapsed": false,
+          "collapsed": true,
           "entities": [
             {
               "id": "e_86635m3",
@@ -16034,7 +16034,7 @@
           ],
           "status": "available",
           "kind": "active",
-          "collapsed": false,
+          "collapsed": true,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_active",
           "githubSubdir": "components",
           "width": 616,
@@ -16990,7 +16990,7 @@
           ],
           "status": "available",
           "kind": "passive",
-          "collapsed": false,
+          "collapsed": true,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_340nm",
           "githubSubdir": "components",
           "width": 644,
@@ -17394,7 +17394,7 @@
           ],
           "status": "",
           "kind": "",
-          "collapsed": false,
+          "collapsed": true,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_500nm",
           "githubSubdir": "components",
           "width": 618,
@@ -17427,7 +17427,7 @@
           },
           "status": "available",
           "kind": "passive",
-          "collapsed": false,
+          "collapsed": true,
           "entities": [
             {
               "id": "e_bg56pvh",
@@ -17696,7 +17696,7 @@
           },
           "status": "available",
           "kind": "passive",
-          "collapsed": false,
+          "collapsed": true,
           "entities": [
             {
               "id": "e_0ogz289",
@@ -18704,7 +18704,7 @@
           ],
           "status": "",
           "kind": "",
-          "collapsed": false,
+          "collapsed": true,
           "width": 649,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_200nm",
           "githubSubdir": "components",
@@ -19932,7 +19932,7 @@
           ],
           "status": "",
           "kind": "",
-          "collapsed": false,
+          "collapsed": true,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_300nm",
           "githubSubdir": "components",
           "width": 624,
@@ -19972,7 +19972,7 @@
           },
           "status": "available",
           "kind": "passive",
-          "collapsed": false,
+          "collapsed": true,
           "entities": [
             {
               "id": "e_rt791rx",
@@ -20283,7 +20283,7 @@
           "entities": [],
           "status": "",
           "kind": "",
-          "collapsed": false,
+          "collapsed": true,
           "width": 627,
           "platformDocs": [],
           "githubSources": []
@@ -21124,6 +21124,18 @@
       "name": "Index contrast",
       "unit": "-",
       "description": "core/cladding refractive index ratio"
+    },
+    {
+      "id": "bm_er",
+      "name": "Extinction ratio",
+      "unit": "dB",
+      "description": "Signal extinction / isolation"
+    },
+    {
+      "id": "bm_resp",
+      "name": "Responsivity",
+      "unit": "A/W",
+      "description": "Photodetector responsivity"
     }
   ],
   "benchmarkData": {
@@ -21380,6 +21392,14 @@
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
+        "enabled": true
+      },
+      {
+        "id": "s_mq9dbsej_7jv",
+        "label": "My fork — PDKMonitor (@AEmreKaplan) · users/AEmreKaplan/",
+        "repo": "AEmreKaplan/PDKMonitor",
+        "branch": "main",
+        "path": "users/AEmreKaplan/dashboard.json",
         "enabled": false
       }
     ],
@@ -21387,11 +21407,11 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-06-11T10:15:34.933Z",
-    "lastFetchedSha": "bb542f443960bbc85d7fbad233947b1bb66514cc",
-    "lastPublishedAt": "2026-06-11T10:25:09.444Z",
-    "lastPublishedSha": "89877ecfb5708181650d1d0fe2acddb000b2d2cf",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/89877ecfb5708181650d1d0fe2acddb000b2d2cf",
+    "lastFetchedAt": "2026-06-11T19:17:45.163Z",
+    "lastFetchedSha": "69da41b84b9f51d77413aabca7994d422a9d81cc",
+    "lastPublishedAt": "2026-06-11T11:44:42.463Z",
+    "lastPublishedSha": "f71de7aa057284b13a72c1dff3e674b26df0ddf1",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/f71de7aa057284b13a72c1dff3e674b26df0ddf1",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -21402,7 +21422,7 @@
       "statuses": 0,
       "categories": 0,
       "bbTypes": 0,
-      "infoSkipped": 2,
+      "infoSkipped": 4,
       "files": 0,
       "scripts": 0,
       "documents": 0,
@@ -21446,7 +21466,7 @@
     "note": "User-admin sign-in is via a personal GitHub PAT (no shared password). The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-11T10:41:27.958Z",
+    "publishedAt": "2026-06-11T19:19:36.865Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
