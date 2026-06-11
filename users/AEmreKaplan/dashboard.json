@@ -177,6 +177,135 @@
       "name": "DOE"
     }
   ],
+  "benchmarkMetrics": [
+    {
+      "id": "bm_hnu2swh",
+      "name": "Cost",
+      "unit": "£/mm2",
+      "description": "Fabrication cost per mm2 design area"
+    },
+    {
+      "id": "bm_921qwi7",
+      "name": "Delivery timeline",
+      "unit": "weeks",
+      "description": "turnaround from submission to shipping"
+    },
+    {
+      "id": "bm_prop_loss",
+      "name": "Propagation loss",
+      "unit": "dB/cm",
+      "description": "Waveguide propagation loss measured over C-band"
+    },
+    {
+      "id": "bm_footprint",
+      "name": "Footprint",
+      "unit": "µm²",
+      "description": "Component footprint (length × width)"
+    },
+    {
+      "id": "bm_bandwidth",
+      "name": "Wavelength bandwidth",
+      "unit": "nm",
+      "description": "1 dB or 3 dB operational bandwidth"
+    },
+    {
+      "id": "bm_il",
+      "name": "Insertion loss",
+      "unit": "dB",
+      "description": "On-chip insertion loss at centre wavelength"
+    },
+    {
+      "id": "bm_pdc",
+      "name": "Thermal sensitivity",
+      "unit": "pm/K",
+      "description": "Wavelength shift per degree Kelvin"
+    },
+    {
+      "id": "bm_vpi",
+      "name": "Vπ·L (EO)",
+      "unit": "V·cm",
+      "description": "Electro-optic modulation efficiency"
+    },
+    {
+      "id": "bm_vj1j95g",
+      "name": "Index contrast",
+      "unit": "-",
+      "description": "core/cladding refractive index ratio"
+    }
+  ],
+  "benchmarkData": {
+    "tables": {
+      "bm_hnu2swh": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "test ",
+            "test",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "test2",
+            "test2",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "default": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "test ",
+            "test",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "bm_921qwi7": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      }
+    },
+    "metric": "bm_hnu2swh"
+  },
   "tabs": [
     {
       "id": "tab_p5xwkho",
@@ -549,7 +678,7 @@
   ],
   "deletions": [],
   "_distribution": {
-    "publishedAt": "2026-06-11T01:39:06.846Z",
+    "publishedAt": "2026-06-11T08:14:54.810Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "AEmreKaplan",
     "publisherRole": "user-admin",
