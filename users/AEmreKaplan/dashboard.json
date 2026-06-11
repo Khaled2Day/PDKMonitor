@@ -83,11 +83,6 @@
       "id": "heater",
       "name": "Electrical",
       "color": "#d7da4e"
-    },
-    {
-      "id": "x_evtr9w3",
-      "name": "Monolithic",
-      "color": "#2f303c"
     }
   ],
   "bbTypes": [
@@ -240,22 +235,53 @@
           "Platform",
           "Value",
           "Unit",
-          "Band / λ",
-          "Condition",
           "Notes"
         ],
         "rows": [
           [
-            "test",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "GeonSi",
+            "87",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN without heaters",
+            "53",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN with heaters",
+            "113",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive without heaters",
+            "228",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive with heaters",
+            "545",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI active",
+            "1022",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
           ]
         ],
         "by": [
-          "AEmreKaplan"
+          "admin",
+          "admin",
+          "admin",
+          "admin",
+          "admin",
+          "admin"
         ]
       },
       "default": {
@@ -263,22 +289,53 @@
           "Platform",
           "Value",
           "Unit",
-          "Band / λ",
-          "Condition",
           "Notes"
         ],
         "rows": [
           [
-            "test ",
-            "test",
-            "",
-            "",
-            "",
-            ""
+            "GeonSi",
+            "87",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN without heaters",
+            "53",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN with heaters",
+            "113",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive without heaters",
+            "228",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive with heaters",
+            "545",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI active",
+            "1022",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
           ]
         ],
         "by": [
-          ""
+          "admin",
+          "admin",
+          "admin",
+          "admin",
+          "admin",
+          "admin"
         ]
       },
       "bm_921qwi7": {
@@ -286,22 +343,39 @@
           "Platform",
           "Value",
           "Unit",
-          "Band / λ",
-          "Condition",
           "Notes"
         ],
         "rows": [
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "SOI active",
+            "36",
+            "week",
+            "Delivery time from mask layout submission to shipment "
+          ],
+          [
+            "SOI passive",
+            "14",
+            "week",
+            "Delivery time from mask layout submission to shipment "
+          ],
+          [
+            "SiN",
+            "12",
+            "week",
+            "Delivery time from mask layout submission to shipment "
+          ],
+          [
+            "GeonSi",
+            "10",
+            "week",
+            "Delivery time from mask layout submission to shipment "
           ]
         ],
         "by": [
-          ""
+          "admin",
+          "admin",
+          "admin",
+          "admin"
         ]
       },
       "bm_prop_loss": {
@@ -309,22 +383,60 @@
           "Platform",
           "Value",
           "Unit",
-          "Band / λ",
-          "Condition",
           "Notes"
         ],
         "rows": [
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "SiN (C-band)",
+            "0.5",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "Suspended-Si (@3.8um)",
+            "1",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "GeonSi (@3.8um)",
+            "1",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "GeonSi (@6.1um)",
+            "1.5",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "GeonSi (@7.6um)",
+            "3",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "SOI (C-band)",
+            "3",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "Suspended-Si (@7.7um)",
+            "3",
+            "dB/cm",
+            "MPW meas"
           ]
         ],
         "by": [
-          ""
+          "admin",
+          "admin",
+          "admin",
+          "admin",
+          "admin",
+          "admin",
+          "admin"
         ]
       },
       "bm_footprint": {
@@ -351,7 +463,7 @@
         ]
       }
     },
-    "metric": "bm_hnu2swh"
+    "metric": "bm_prop_loss"
   },
   "tabs": [
     {
@@ -725,7 +837,7 @@
   ],
   "deletions": [],
   "_distribution": {
-    "publishedAt": "2026-06-11T10:10:42.070Z",
+    "publishedAt": "2026-06-11T10:44:58.790Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "AEmreKaplan",
     "publisherRole": "user-admin",
