@@ -13163,7 +13163,123 @@
     "ft_5f41cyc": "admin",
     "t_g9dslej": "admin",
     "ft_2c3tzch": "admin",
-    "t_zolxo9n": "admin"
+    "t_zolxo9n": "admin",
+    "t_30fkshk": "admin",
+    "t_a4whrmq": "admin",
+    "t_mxjffd1": "admin",
+    "ft_kpjwyam": "admin",
+    "t_6zvzcck": "admin",
+    "t_1gvjs4w": "admin",
+    "ft_7dm2wts": "admin",
+    "t_5fh84ta": "admin",
+    "t_zecfhb5": "admin",
+    "ft_ssaslb3": "admin",
+    "t_iibbi9h": "admin",
+    "t_asm7xkg": "admin",
+    "ft_d78mfqr": "admin",
+    "t_mvrdlpc": "admin",
+    "d_kcpega4": "admin",
+    "d_expyi6o": "admin",
+    "d_w9jma1f": "admin",
+    "d_bp39w2k": "admin",
+    "d_34mlqlh": "admin",
+    "d_mvtj2rh": "admin",
+    "d_49v4182": "admin",
+    "d_r689ncv": "admin",
+    "d_yfdffv9": "admin",
+    "d_wyjhfxm": "admin",
+    "d_t4m67lv": "admin",
+    "d_bibjib9": "admin",
+    "d_uep0esi": "admin",
+    "d_x5jtj1x": "admin",
+    "d_1z8gq2t": "admin",
+    "d_ueb47uv": "admin",
+    "d_xybcbo5": "admin",
+    "d_42dvzuy": "admin",
+    "d_0flxlj0": "admin",
+    "d_534ittk": "admin",
+    "d_2k8n7t0": "admin",
+    "d_iu5pd53": "admin",
+    "d_3bwdxcg": "admin",
+    "d_g2k9vjf": "admin",
+    "d_9s9jivo": "admin",
+    "d_fwbyx1l": "admin",
+    "d_7sanvjm": "admin",
+    "d_zd5i8yp": "admin",
+    "d_3z8vpwo": "admin",
+    "d_7k60k7x": "admin",
+    "d_jps0slk": "admin",
+    "d_9zcgnk5": "admin",
+    "d_ui75e59": "admin",
+    "d_mrqwl2s": "admin",
+    "d_lep14vd": "admin",
+    "d_teje9gk": "admin",
+    "d_as0q36n": "admin",
+    "d_cyl472z": "admin",
+    "d_i8zvgm6": "admin",
+    "d_9qvpgrh": "admin",
+    "d_pxv22en": "admin",
+    "d_p27kfqd": "admin",
+    "d_4kukdrf": "admin",
+    "t_chdiiw2": "admin",
+    "t_96tvfcz": "admin",
+    "t_ufxbyib": "admin",
+    "t_2uljvj8": "admin",
+    "t_2kqmbsf": "admin",
+    "t_n3dh753": "admin",
+    "t_8y3u0vc": "admin",
+    "t_j93tchw": "admin",
+    "t_aihlg2t": "admin",
+    "t_3i7p4su": "admin",
+    "t_yob6vfg": "admin",
+    "t_fs3dww7": "admin",
+    "t_ksbugif": "admin",
+    "t_wxrd3i8": "admin",
+    "t_u8h2cog": "admin",
+    "t_ri9xkyx": "admin",
+    "t_qedj82c": "admin",
+    "t_az9y437": "admin",
+    "t_jt1mh5c": "admin",
+    "t_7araa9b": "admin",
+    "t_zr4h65d": "admin",
+    "t_eou33e1": "admin",
+    "t_zsw5xn7": "admin",
+    "t_ykf4bw3": "admin",
+    "t_kfguy7u": "admin",
+    "t_uyduvlt": "admin",
+    "t_aqayve2": "admin",
+    "t_1vlybnb": "admin",
+    "t_wytk6wp": "admin",
+    "t_a4061ye": "admin",
+    "t_s8vfx5t": "admin",
+    "t_n0oh6kj": "admin",
+    "t_0zclozx": "admin",
+    "t_savxuqa": "admin",
+    "t_pmgw0bc": "admin",
+    "t_qo61gt1": "admin",
+    "t_582ml1w": "admin",
+    "t_ytotnzo": "admin",
+    "t_hz5itso": "admin",
+    "t_kk8mf6d": "admin",
+    "t_wi2lwmc": "admin",
+    "t_a0y7slu": "admin",
+    "t_rrajd84": "admin",
+    "t_mriiruu": "admin",
+    "t_u6yonap": "admin",
+    "t_kjvp8uy": "admin",
+    "t_71c0t9o": "admin",
+    "t_juyw9zm": "admin",
+    "t_t0cionl": "admin",
+    "t_bj9mtcy": "admin",
+    "doc_zl8fwuw": "admin",
+    "doc_v0tmnem": "admin",
+    "doc_natyoqt": "admin",
+    "doc_v25q2e2": "admin",
+    "doc_nqr5ook": "admin",
+    "doc_7pr6p1d": "admin",
+    "doc_g2f87fx": "admin",
+    "tg_bs852k2": "admin",
+    "nc_m49pvko": "admin"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -13202,7 +13318,7 @@
           },
           "status": "available",
           "kind": "passive",
-          "collapsed": true,
+          "collapsed": false,
           "entities": [
             {
               "id": "e_86635m3",
@@ -13565,7 +13681,9 @@
                 "ledit",
                 "picstudio"
               ],
-              "cdi": {},
+              "cdi": {
+                "chip": 3
+              },
               "fabTabs": [],
               "fetchHistory": [
                 {
@@ -13707,7 +13825,7 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null,
+              "trl": 6,
               "scriptsNotes": "",
               "descriptionContributions": [],
               "pinned": true,
@@ -15729,7 +15847,7 @@
               "url": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
               "subdir": "components",
               "enabled": true,
-              "lastImportedAt": "2026-06-11T00:46:41.603Z"
+              "lastImportedAt": "2026-06-11T19:35:45.080Z"
             }
           ]
         },
@@ -16034,7 +16152,7 @@
           ],
           "status": "available",
           "kind": "active",
-          "collapsed": true,
+          "collapsed": false,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_active",
           "githubSubdir": "components",
           "width": 616,
@@ -16990,7 +17108,7 @@
           ],
           "status": "available",
           "kind": "passive",
-          "collapsed": true,
+          "collapsed": false,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_340nm",
           "githubSubdir": "components",
           "width": 644,
@@ -17394,7 +17512,7 @@
           ],
           "status": "",
           "kind": "",
-          "collapsed": true,
+          "collapsed": false,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_500nm",
           "githubSubdir": "components",
           "width": 618,
@@ -17427,7 +17545,7 @@
           },
           "status": "available",
           "kind": "passive",
-          "collapsed": true,
+          "collapsed": false,
           "entities": [
             {
               "id": "e_bg56pvh",
@@ -17696,7 +17814,7 @@
           },
           "status": "available",
           "kind": "passive",
-          "collapsed": true,
+          "collapsed": false,
           "entities": [
             {
               "id": "e_0ogz289",
@@ -18704,7 +18822,7 @@
           ],
           "status": "",
           "kind": "",
-          "collapsed": true,
+          "collapsed": false,
           "width": 649,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_200nm",
           "githubSubdir": "components",
@@ -19932,7 +20050,7 @@
           ],
           "status": "",
           "kind": "",
-          "collapsed": true,
+          "collapsed": false,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_300nm",
           "githubSubdir": "components",
           "width": 624,
@@ -19972,7 +20090,7 @@
           },
           "status": "available",
           "kind": "passive",
-          "collapsed": true,
+          "collapsed": false,
           "entities": [
             {
               "id": "e_rt791rx",
@@ -20283,7 +20401,7 @@
           "entities": [],
           "status": "",
           "kind": "",
-          "collapsed": true,
+          "collapsed": false,
           "width": 627,
           "platformDocs": [],
           "githubSources": []
@@ -20332,7 +20450,7 @@
                 "sourceId": "src_vnik15w",
                 "sourceLabel": "Silicon-on-Insulator refractive index",
                 "sourceUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_active/materials",
-                "lastImportedAt": "2026-06-11T01:11:01.584Z"
+                "lastImportedAt": "2026-06-11T19:32:44.413Z"
               },
               "pinned": false,
               "plannedReleaseDate": "",
@@ -20355,7 +20473,8 @@
               "descriptionContributions": [],
               "layoutSvg": "",
               "gdsName": "",
-              "gdsContent": ""
+              "gdsContent": "",
+              "cloudBases": {}
             },
             {
               "id": "e_j4zuiyz",
@@ -20393,7 +20512,7 @@
                 "sourceId": "src_oafcuk2",
                 "sourceLabel": "Silicon Nitride refractive index",
                 "sourceUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_300nm/materials",
-                "lastImportedAt": "2026-06-11T01:11:00.709Z"
+                "lastImportedAt": "2026-06-11T19:32:43.392Z"
               },
               "scriptsNotes": "",
               "descriptionContributions": [],
@@ -20437,7 +20556,7 @@
                 "sourceId": "src_fw1lvlj",
                 "sourceLabel": "Germanium-on-Silicon refractive index",
                 "sourceUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Ge_on_Si/materials",
-                "lastImportedAt": "2026-06-11T01:10:59.719Z"
+                "lastImportedAt": "2026-06-11T19:32:42.315Z"
               },
               "scriptsNotes": "",
               "descriptionContributions": [],
@@ -20511,7 +20630,7 @@
                 "sourceId": "src_vnik15w",
                 "sourceLabel": "Silicon",
                 "sourceUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive/materials",
-                "lastImportedAt": "2026-06-11T01:11:02.562Z"
+                "lastImportedAt": "2026-06-11T19:32:45.439Z"
               },
               "descriptionContributions": [],
               "plannedReleaseDate": "",
@@ -20547,7 +20666,7 @@
               "url": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Ge_on_Si/materials",
               "subdir": "materials",
               "enabled": true,
-              "lastImportedAt": "2026-06-11T01:11:00.708Z"
+              "lastImportedAt": "2026-06-11T19:32:43.391Z"
             },
             {
               "id": "src_oafcuk2",
@@ -20555,7 +20674,7 @@
               "url": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_300nm/materials",
               "subdir": "materials",
               "enabled": true,
-              "lastImportedAt": "2026-06-11T01:11:01.582Z"
+              "lastImportedAt": "2026-06-11T19:32:44.413Z"
             },
             {
               "id": "src_vnik15w",
@@ -20563,7 +20682,7 @@
               "url": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_active/materials",
               "subdir": "materials",
               "enabled": true,
-              "lastImportedAt": "2026-06-11T01:11:02.560Z"
+              "lastImportedAt": "2026-06-11T19:32:45.437Z"
             },
             {
               "id": "src_vnik15w",
@@ -20571,11 +20690,11 @@
               "url": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive/materials",
               "subdir": "materials",
               "enabled": true,
-              "lastImportedAt": "2026-06-11T01:11:03.458Z"
+              "lastImportedAt": "2026-06-11T19:32:46.319Z"
             }
           ],
           "lastSyncStats": {
-            "ranAt": 1780500699505,
+            "ranAt": 1781206317623,
             "urlsTotal": 1,
             "filesFound": 2,
             "urlsEmpty": 0,
@@ -21139,247 +21258,14 @@
     }
   ],
   "benchmarkData": {
-    "tables": {
-      "bm_hnu2swh": {
-        "cols": [
-          "Platform",
-          "Value",
-          "Unit",
-          "Notes"
-        ],
-        "rows": [
-          [
-            "GeonSi",
-            "87",
-            "£/mm2",
-            "CORNERSTONE 2026 MPW access cost"
-          ],
-          [
-            "SiN without heaters",
-            "53",
-            "£/mm2",
-            "CORNERSTONE 2026 MPW access cost"
-          ],
-          [
-            "SiN with heaters",
-            "113",
-            "£/mm2",
-            "CORNERSTONE 2026 MPW access cost"
-          ],
-          [
-            "SOI Passive without heaters",
-            "228",
-            "£/mm2",
-            "CORNERSTONE 2026 MPW access cost"
-          ],
-          [
-            "SOI Passive with heaters",
-            "545",
-            "£/mm2",
-            "CORNERSTONE 2026 MPW access cost"
-          ],
-          [
-            "SOI active",
-            "1022",
-            "£/mm2",
-            "CORNERSTONE 2026 MPW access cost"
-          ]
-        ],
-        "by": [
-          "admin",
-          "admin",
-          "admin",
-          "admin",
-          "admin",
-          "admin"
-        ]
-      },
-      "default": {
-        "cols": [
-          "Platform",
-          "Value",
-          "Unit",
-          "Notes"
-        ],
-        "rows": [
-          [
-            "GeonSi",
-            "87",
-            "£/mm2",
-            "CORNERSTONE 2026 MPW access cost"
-          ],
-          [
-            "SiN without heaters",
-            "53",
-            "£/mm2",
-            "CORNERSTONE 2026 MPW access cost"
-          ],
-          [
-            "SiN with heaters",
-            "113",
-            "£/mm2",
-            "CORNERSTONE 2026 MPW access cost"
-          ],
-          [
-            "SOI Passive without heaters",
-            "228",
-            "£/mm2",
-            "CORNERSTONE 2026 MPW access cost"
-          ],
-          [
-            "SOI Passive with heaters",
-            "545",
-            "£/mm2",
-            "CORNERSTONE 2026 MPW access cost"
-          ],
-          [
-            "SOI active",
-            "1022",
-            "£/mm2",
-            "CORNERSTONE 2026 MPW access cost"
-          ]
-        ],
-        "by": [
-          "admin",
-          "admin",
-          "admin",
-          "admin",
-          "admin",
-          "admin"
-        ]
-      },
-      "bm_921qwi7": {
-        "cols": [
-          "Platform",
-          "Value",
-          "Unit",
-          "Notes"
-        ],
-        "rows": [
-          [
-            "SOI active",
-            "36",
-            "week",
-            "Delivery time from mask layout submission to shipment "
-          ],
-          [
-            "SOI passive",
-            "14",
-            "week",
-            "Delivery time from mask layout submission to shipment "
-          ],
-          [
-            "SiN",
-            "12",
-            "week",
-            "Delivery time from mask layout submission to shipment "
-          ],
-          [
-            "GeonSi",
-            "10",
-            "week",
-            "Delivery time from mask layout submission to shipment "
-          ]
-        ],
-        "by": [
-          "admin",
-          "admin",
-          "admin",
-          "admin"
-        ]
-      },
-      "bm_prop_loss": {
-        "cols": [
-          "Platform",
-          "Value",
-          "Unit",
-          "Notes"
-        ],
-        "rows": [
-          [
-            "SiN (C-band)",
-            "0.5",
-            "dB/cm",
-            "MPW meas"
-          ],
-          [
-            "Suspended-Si (@3.8um)",
-            "1",
-            "dB/cm",
-            "MPW meas"
-          ],
-          [
-            "GeonSi (@3.8um)",
-            "1",
-            "dB/cm",
-            "MPW meas"
-          ],
-          [
-            "GeonSi (@6.1um)",
-            "1.5",
-            "dB/cm",
-            "MPW meas"
-          ],
-          [
-            "GeonSi (@7.6um)",
-            "3",
-            "dB/cm",
-            "MPW meas"
-          ],
-          [
-            "SOI (C-band)",
-            "3",
-            "dB/cm",
-            "MPW meas"
-          ],
-          [
-            "Suspended-Si (@7.7um)",
-            "3",
-            "dB/cm",
-            "MPW meas"
-          ]
-        ],
-        "by": [
-          "admin",
-          "admin",
-          "admin",
-          "admin",
-          "admin",
-          "admin",
-          "admin"
-        ]
-      },
-      "bm_footprint": {
-        "cols": [
-          "Platform",
-          "Value",
-          "Unit",
-          "Band / λ",
-          "Condition",
-          "Notes"
-        ],
-        "rows": [
-          [
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ]
-        ],
-        "by": [
-          ""
-        ]
-      }
-    },
-    "metric": "bm_prop_loss"
+    "tables": {},
+    "metric": "bm_921qwi7"
   },
   "uploads": [],
   "distribution": {
     "sources": [
       {
-        "id": "s_mq8rusy9_0",
+        "id": "s_mq9w6lhl_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -21387,27 +21273,19 @@
         "enabled": true
       },
       {
-        "id": "s_mq8rusy9_1",
+        "id": "s_mq9w6lhl_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
         "enabled": true
-      },
-      {
-        "id": "s_mq9dbsej_7jv",
-        "label": "My fork — PDKMonitor (@AEmreKaplan) · users/AEmreKaplan/",
-        "repo": "AEmreKaplan/PDKMonitor",
-        "branch": "main",
-        "path": "users/AEmreKaplan/dashboard.json",
-        "enabled": false
       }
     ],
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-06-11T19:17:45.163Z",
+    "lastFetchedAt": "2026-06-11T19:30:17.505Z",
     "lastFetchedSha": "69da41b84b9f51d77413aabca7994d422a9d81cc",
     "lastPublishedAt": "2026-06-11T11:44:42.463Z",
     "lastPublishedSha": "f71de7aa057284b13a72c1dff3e674b26df0ddf1",
@@ -21466,7 +21344,7 @@
     "note": "User-admin sign-in is via a personal GitHub PAT (no shared password). The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-11T19:19:36.865Z",
+    "publishedAt": "2026-06-11T20:21:26.128Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -21482,69 +21360,8 @@
     "urlsEmpty": 0,
     "deadUrls": []
   },
-  "lastGithubFetch": "2026-06-11T00:54:13.434Z",
-  "activityLog": [
-    {
-      "at": "2026-06-08T13:21:01.966Z",
-      "by": "admin",
-      "role": "admin",
-      "action": "tab-delete",
-      "label": "DOE",
-      "meta": {
-        "id": "tab_1hbzx9p"
-      }
-    },
-    {
-      "at": "2026-06-08T13:21:06.782Z",
-      "by": "admin",
-      "role": "admin",
-      "action": "tab-delete",
-      "label": "EPIXFAB MPW RUN",
-      "meta": {
-        "id": "tab_7a1gc2u"
-      }
-    },
-    {
-      "at": "2026-06-10T22:32:38.961Z",
-      "by": "AEmreKaplan",
-      "role": "read-only",
-      "action": "import-replace",
-      "label": "pdk-monitor-backup-v1-0-2-2026-06-10.json",
-      "meta": {
-        "tabs": 4
-      }
-    },
-    {
-      "at": "2026-06-11T00:59:33.786Z",
-      "by": "AEmreKaplan",
-      "role": "admin",
-      "action": "delete",
-      "label": "Monolithic",
-      "meta": {
-        "id": "x_evtr9w3"
-      }
-    },
-    {
-      "at": "2026-06-11T09:13:55.784Z",
-      "by": "admin",
-      "role": "admin",
-      "action": "import-replace",
-      "label": "pdk-monitor-pre-adopt-2026-06-11 (1).json",
-      "meta": {
-        "tabs": 4
-      }
-    },
-    {
-      "at": "2026-06-11T10:41:22.199Z",
-      "by": "admin",
-      "role": "admin",
-      "action": "delete",
-      "label": "Monolithic",
-      "meta": {
-        "id": "x_evtr9w3"
-      }
-    }
-  ],
+  "lastGithubFetch": "2026-06-11T19:31:57.623Z",
+  "activityLog": [],
   "importFolderAliases": {
     "smatrix": [
       "s-matrix",
