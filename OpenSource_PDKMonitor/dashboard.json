@@ -56,6 +56,11 @@
       "id": "heater",
       "name": "Electrical",
       "color": "#d7da4e"
+    },
+    {
+      "id": "x_evtr9w3",
+      "name": "Monolithic",
+      "color": "#2f303c"
     }
   ],
   "bbTypes": [
@@ -21124,18 +21129,6 @@
       "name": "Index contrast",
       "unit": "-",
       "description": "core/cladding refractive index ratio"
-    },
-    {
-      "id": "bm_er",
-      "name": "Extinction ratio",
-      "unit": "dB",
-      "description": "Signal extinction / isolation"
-    },
-    {
-      "id": "bm_resp",
-      "name": "Responsivity",
-      "unit": "A/W",
-      "description": "Photodetector responsivity"
     }
   ],
   "benchmarkData": {
@@ -21163,8 +21156,8 @@
         ],
         "rows": [
           [
-            "",
-            "",
+            "test ",
+            "test",
             "",
             "",
             "",
@@ -21220,6 +21213,29 @@
         "by": [
           ""
         ]
+      },
+      "bm_footprint": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "by": [
+          ""
+        ]
       }
     },
     "metric": "bm_hnu2swh"
@@ -21228,7 +21244,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mq9a3j4z_0",
+        "id": "s_mq8rusy9_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -21236,34 +21252,48 @@
         "enabled": true
       },
       {
-        "id": "s_mq9a3j4z_1",
+        "id": "s_mq8rusy9_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
         "enabled": true
+      },
+      {
+        "id": "s_mq97zke7_2pb",
+        "label": "My fork — PDKMonitor (@AEmreKaplan) · users/AEmreKaplan/",
+        "repo": "AEmreKaplan/PDKMonitor",
+        "branch": "main",
+        "path": "users/AEmreKaplan/dashboard.json",
+        "enabled": false
       }
     ],
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-06-11T09:13:11.546Z",
-    "lastFetchedSha": "5d15125da7a1e328dba0624417a1fb5b80b8dff1",
-    "lastPublishedAt": "2026-06-11T09:12:46.402Z",
-    "lastPublishedSha": "ee26785425c0632cc20305e8d84eaa0beb211a35",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/ee26785425c0632cc20305e8d84eaa0beb211a35",
+    "lastFetchedAt": "2026-06-11T08:16:07.146Z",
+    "lastFetchedSha": "6b5d07429ab225d2a63719523049d438dd6cdb84",
+    "lastPublishedAt": "2026-06-11T01:25:03.896Z",
+    "lastPublishedSha": "2640db7523afc4fdeccdd3ea509bdf4b047ba18f",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/2640db7523afc4fdeccdd3ea509bdf4b047ba18f",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
-      "entities": 116,
-      "contributors": 11,
-      "ownership": 12858,
-      "labels": 19,
+      "entities": 0,
+      "contributors": 0,
+      "ownership": 0,
+      "labels": 0,
       "statuses": 0,
       "categories": 0,
       "bbTypes": 0,
-      "infoSkipped": 0,
+      "infoSkipped": 4,
+      "files": 0,
+      "scripts": 0,
+      "documents": 0,
+      "tg": 0,
+      "sm": 0,
+      "fab": 0,
       "pruned": 0
     },
     "lastSecurityStats": {
@@ -21301,7 +21331,7 @@
     "note": "User-admin sign-in is via a personal GitHub PAT (no shared password). The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-11T09:13:26.759Z",
+    "publishedAt": "2026-06-11T09:17:23.820Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -21360,13 +21390,13 @@
       }
     },
     {
-      "at": "2026-06-11T08:38:55.015Z",
+      "at": "2026-06-11T09:13:55.784Z",
       "by": "admin",
       "role": "admin",
-      "action": "delete",
-      "label": "Monolithic",
+      "action": "import-replace",
+      "label": "pdk-monitor-pre-adopt-2026-06-11 (1).json",
       "meta": {
-        "id": "x_evtr9w3"
+        "tabs": 4
       }
     }
   ],
