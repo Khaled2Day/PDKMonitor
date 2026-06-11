@@ -251,8 +251,88 @@
           "Condition",
           "Notes"
         ],
-        "rows": [],
-        "by": []
+        "rows": [
+          [
+            "test",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "by": [
+          ""
+        ]
+      },
+      "default": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "by": [
+          ""
+        ]
+      },
+      "bm_921qwi7": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "by": [
+          ""
+        ]
+      },
+      "bm_prop_loss": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "by": [
+          ""
+        ]
       }
     },
     "metric": "bm_hnu2swh"
@@ -270,7 +350,7 @@
             "material": "Si",
             "thickness": 220
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
           "githubSubdir": "components",
@@ -294,7 +374,7 @@
             "material": "Si",
             "thickness": 220
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_active",
           "githubSubdir": "components",
@@ -318,7 +398,7 @@
             "material": "Si",
             "thickness": 340
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_340nm",
           "githubSubdir": "components",
@@ -362,7 +442,7 @@
             "material": "Si",
             "thickness": 500
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_500nm",
           "githubSubdir": "components",
@@ -386,7 +466,7 @@
             "material": "Si",
             "thickness": 500
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Si_sus_bias",
           "githubSubdir": "components",
@@ -410,7 +490,7 @@
             "material": "Germanium",
             "thickness": 3000
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Ge_on_Si",
           "githubSubdir": "components",
@@ -434,7 +514,7 @@
             "material": "SiN",
             "thickness": 200
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_200nm",
           "githubSubdir": "components",
@@ -458,7 +538,7 @@
             "material": "SiN",
             "thickness": 300
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_300nm",
           "githubSubdir": "components",
@@ -482,7 +562,7 @@
             "material": "Si",
             "thickness": 220
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Student_SOI",
           "githubSubdir": "components",
@@ -506,7 +586,7 @@
             "material": "LN",
             "thickness": 300
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "",
           "githubSubdir": "",
@@ -629,7 +709,7 @@
   ],
   "deletions": [],
   "_distribution": {
-    "publishedAt": "2026-06-11T08:56:05.503Z",
+    "publishedAt": "2026-06-11T09:06:24.123Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "AEmreKaplan",
     "publisherRole": "user-admin",
