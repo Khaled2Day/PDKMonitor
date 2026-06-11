@@ -56,11 +56,6 @@
       "id": "heater",
       "name": "Electrical",
       "color": "#d7da4e"
-    },
-    {
-      "id": "x_evtr9w3",
-      "name": "Monolithic",
-      "color": "#2f303c"
     }
   ],
   "bbTypes": [
@@ -21394,9 +21389,9 @@
     "path": "OpenSource_PDKMonitor/dashboard.json",
     "lastFetchedAt": "2026-06-11T10:15:34.933Z",
     "lastFetchedSha": "bb542f443960bbc85d7fbad233947b1bb66514cc",
-    "lastPublishedAt": "2026-06-11T10:24:14.028Z",
-    "lastPublishedSha": "598ab960a76898a8e18666ad9156cf535f3fd777",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/598ab960a76898a8e18666ad9156cf535f3fd777",
+    "lastPublishedAt": "2026-06-11T10:25:09.444Z",
+    "lastPublishedSha": "89877ecfb5708181650d1d0fe2acddb000b2d2cf",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/89877ecfb5708181650d1d0fe2acddb000b2d2cf",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -21451,7 +21446,7 @@
     "note": "User-admin sign-in is via a personal GitHub PAT (no shared password). The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-11T10:25:09.444Z",
+    "publishedAt": "2026-06-11T10:41:27.958Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -21517,6 +21512,16 @@
       "label": "pdk-monitor-pre-adopt-2026-06-11 (1).json",
       "meta": {
         "tabs": 4
+      }
+    },
+    {
+      "at": "2026-06-11T10:41:22.199Z",
+      "by": "admin",
+      "role": "admin",
+      "action": "delete",
+      "label": "Monolithic",
+      "meta": {
+        "id": "x_evtr9w3"
       }
     }
   ],
