@@ -16437,7 +16437,14 @@
               "edaLinks": [],
               "trl": null,
               "scriptsNotes": "",
-              "descriptionContributions": [],
+              "descriptionContributions": [
+                {
+                  "id": "nc_erf9blw",
+                  "text": "1310nm SOI340nm_1310_TE_RIB_Waveguide is to be added",
+                  "who": "admin",
+                  "ts": 1780622244256
+                }
+              ],
               "pinned": true,
               "layoutSvg": "",
               "gdsName": "",
@@ -21117,6 +21124,18 @@
       "name": "Index contrast",
       "unit": "-",
       "description": "core/cladding refractive index ratio"
+    },
+    {
+      "id": "bm_er",
+      "name": "Extinction ratio",
+      "unit": "dB",
+      "description": "Signal extinction / isolation"
+    },
+    {
+      "id": "bm_resp",
+      "name": "Responsivity",
+      "unit": "A/W",
+      "description": "Photodetector responsivity"
     }
   ],
   "benchmarkData": {
@@ -21132,6 +21151,75 @@
         ],
         "rows": [],
         "by": []
+      },
+      "default": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "by": [
+          ""
+        ]
+      },
+      "bm_921qwi7": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "by": [
+          ""
+        ]
+      },
+      "bm_prop_loss": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "by": [
+          ""
+        ]
       }
     },
     "metric": "bm_hnu2swh"
@@ -21140,7 +21228,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mq99n84s_0",
+        "id": "s_mq9a3j4z_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -21148,23 +21236,23 @@
         "enabled": true
       },
       {
-        "id": "s_mq99n84s_1",
+        "id": "s_mq9a3j4z_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
-        "enabled": false
+        "enabled": true
       }
     ],
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-06-11T09:04:24.569Z",
-    "lastFetchedSha": "a6e0fa29a02ff7f7e0aec8b63ecfda79d89671f6",
-    "lastPublishedAt": "2026-06-11T08:54:07.926Z",
-    "lastPublishedSha": "3e44580c7773688dcdcb06ac22877bc94efcf484",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/3e44580c7773688dcdcb06ac22877bc94efcf484",
+    "lastFetchedAt": "2026-06-11T09:13:11.546Z",
+    "lastFetchedSha": "5d15125da7a1e328dba0624417a1fb5b80b8dff1",
+    "lastPublishedAt": "2026-06-11T09:12:46.402Z",
+    "lastPublishedSha": "ee26785425c0632cc20305e8d84eaa0beb211a35",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/ee26785425c0632cc20305e8d84eaa0beb211a35",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -21213,8 +21301,8 @@
     "note": "User-admin sign-in is via a personal GitHub PAT (no shared password). The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-11T09:04:58.416Z",
-    "publisherIdentity": "AEmreKaplan",
+    "publishedAt": "2026-06-11T09:13:26.759Z",
+    "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
     "appVersion": "v1.1.0",
