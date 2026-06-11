@@ -12979,7 +12979,8 @@
     "doc_f2ajf5v": "admin",
     "doc_j3dfohv": "admin",
     "doc_0lwftih": "admin",
-    "e_qhp4n9e": "admin"
+    "e_qhp4n9e": "admin",
+    "bm_921qwi7": "admin"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -20837,6 +20838,12 @@
       "name": "Index contrast",
       "unit": "",
       "description": "core/cladding refractive index ratio"
+    },
+    {
+      "id": "bm_921qwi7",
+      "name": "Delivery timeline",
+      "unit": "weeks",
+      "description": "turnaround from submission to shipping"
     }
   ],
   "benchmarkData": {
@@ -20926,9 +20933,43 @@
             "CORNERSTONE 2026 MPW access cost"
           ]
         ]
+      },
+      "bm_921qwi7": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "SOI active",
+            "36",
+            "weeks",
+            "Delivery time from mask layout submission to shipment "
+          ],
+          [
+            "SOI passive",
+            "14",
+            "weeks",
+            "Delivery time from mask layout submission to shipment "
+          ],
+          [
+            "SiN",
+            "12",
+            "weeks",
+            "Delivery time from mask layout submission to shipment "
+          ],
+          [
+            "GeonSi",
+            "10",
+            "weeks",
+            "Delivery time from mask layout submission to shipment "
+          ]
+        ]
       }
     },
-    "metric": "bm_hnu2swh"
+    "metric": "bm_921qwi7"
   },
   "uploads": [],
   "distribution": {
@@ -20956,9 +20997,9 @@
     "path": "OpenSource_PDKMonitor/dashboard.json",
     "lastFetchedAt": "2026-06-10T23:06:52.199Z",
     "lastFetchedSha": "08043e27f80de319f2743274f7cd65de0257e90c",
-    "lastPublishedAt": "2026-06-10T23:36:36.319Z",
-    "lastPublishedSha": "34deba370ef87fc582f9b7619b9a36cedfe681a3",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/34deba370ef87fc582f9b7619b9a36cedfe681a3",
+    "lastPublishedAt": "2026-06-10T23:56:40.207Z",
+    "lastPublishedSha": "9b405bedac4c716e9ae221ea3b912644788c655c",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/9b405bedac4c716e9ae221ea3b912644788c655c",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -21013,7 +21054,7 @@
     "note": "User-admin sign-in is via a personal GitHub PAT (no shared password). The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-10T23:56:40.207Z",
+    "publishedAt": "2026-06-11T00:01:14.902Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
