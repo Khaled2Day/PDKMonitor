@@ -277,7 +277,7 @@
     }
   ],
   "about": {
-    "title": "CORNERSTONE",
+    "title": "CORNERSTONE OPEN PLATFORM",
     "subtitle": "OPEN-SOURCE PDK Monitor",
     "version": "v1.1.0",
     "contact": "pdk.cornerstone.soton.ac.uk",
@@ -21265,7 +21265,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mq9w6lhl_0",
+        "id": "s_mqa7husq_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -21273,20 +21273,20 @@
         "enabled": true
       },
       {
-        "id": "s_mq9w6lhl_1",
+        "id": "s_mqa7husq_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
-        "enabled": true
+        "enabled": false
       }
     ],
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-06-11T19:30:17.505Z",
-    "lastFetchedSha": "69da41b84b9f51d77413aabca7994d422a9d81cc",
+    "lastFetchedAt": "2026-06-12T00:47:03.152Z",
+    "lastFetchedSha": "acec1ca6951279da9b6cda251c53d9de2a200aab",
     "lastPublishedAt": "2026-06-11T11:44:42.463Z",
     "lastPublishedSha": "f71de7aa057284b13a72c1dff3e674b26df0ddf1",
     "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/f71de7aa057284b13a72c1dff3e674b26df0ddf1",
@@ -21344,7 +21344,7 @@
     "note": "User-admin sign-in is via a personal GitHub PAT (no shared password). The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-11T20:21:26.128Z",
+    "publishedAt": "2026-06-12T00:50:31.394Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
