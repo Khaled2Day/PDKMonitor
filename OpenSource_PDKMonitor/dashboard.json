@@ -21209,16 +21209,16 @@
       "description": "Waveguide propagation loss measured over C-band"
     },
     {
+      "id": "bm_bandwidth",
+      "name": "Wavelength transparency window",
+      "unit": "nm",
+      "description": "supported wavelength range by platform"
+    },
+    {
       "id": "bm_footprint",
       "name": "Footprint",
       "unit": "µm²",
       "description": "Component footprint (length × width)"
-    },
-    {
-      "id": "bm_bandwidth",
-      "name": "Wavelength bandwidth",
-      "unit": "nm",
-      "description": "1 dB or 3 dB operational bandwidth"
     },
     {
       "id": "bm_il",
@@ -21490,15 +21490,83 @@
         "by": [
           ""
         ]
+      },
+      "bm_il": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "by": [
+          ""
+        ]
+      },
+      "bm_bandwidth": {
+        "cols": [
+          "Platform",
+          "wl window",
+          "Unit",
+          "Note"
+        ],
+        "rows": [
+          [
+            "SOI",
+            "2.9",
+            "um",
+            "wl(1100-4000)nm"
+          ],
+          [
+            "SiO2",
+            "3.6",
+            "um",
+            "wl(400  - 4000)nm"
+          ],
+          [
+            "SiN",
+            "6.6",
+            "um",
+            "wl(400 - 7000)nm"
+          ],
+          [
+            "Suspended-Si",
+            "6.9",
+            "um",
+            "wl(1100 - 8000)nm"
+          ],
+          [
+            "GeonSi",
+            "12.2",
+            "um",
+            "wl(1800 - 14000)nm"
+          ]
+        ],
+        "by": [
+          "",
+          "admin",
+          "admin",
+          "admin",
+          "admin"
+        ]
       }
     },
-    "metric": "bm_prop_loss"
+    "metric": "bm_bandwidth"
   },
   "uploads": [],
   "distribution": {
     "sources": [
       {
-        "id": "s_mqmw7b8j_0",
+        "id": "s_mqn1j7m1_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -21506,52 +21574,20 @@
         "enabled": true
       },
       {
-        "id": "s_mqmw7b8j_1",
+        "id": "s_mqn1j7m2_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
-        "enabled": false
-      },
-      {
-        "id": "s_mqmw7fno_yoc",
-        "label": "Fork — PDKMonitor (@AEmreKaplan) · users/AEmreKaplan/",
-        "repo": "AEmreKaplan/PDKMonitor",
-        "branch": "main",
-        "path": "users/AEmreKaplan/dashboard.json",
-        "enabled": false
-      },
-      {
-        "id": "s_mqmw7fno_phn",
-        "label": "Fork — PDKMonitor (@yagcihbilge)",
-        "repo": "yagcihbilge/PDKMonitor",
-        "branch": "main",
-        "path": "OpenSource_PDKMonitor/dashboard.json",
-        "enabled": false
-      },
-      {
-        "id": "s_mqmw7fno_uev",
-        "label": "Fork — PDKMonitor (@hby1r25) · users/hby1r25/",
-        "repo": "hby1r25/PDKMonitor",
-        "branch": "main",
-        "path": "users/hby1r25/dashboard.json",
-        "enabled": false
-      },
-      {
-        "id": "s_mqmw7fno_t22",
-        "label": "Fork — PDKMonitor (@zimmxx)",
-        "repo": "zimmxx/PDKMonitor",
-        "branch": "main",
-        "path": "OpenSource_PDKMonitor/dashboard.json",
-        "enabled": false
+        "enabled": true
       }
     ],
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-06-20T21:54:56.097Z",
-    "lastFetchedSha": "a204ed0ec323c1e41b917037dfbe183bf05a6a16",
+    "lastFetchedAt": "2026-06-21T00:20:59.306Z",
+    "lastFetchedSha": "69da41b84b9f51d77413aabca7994d422a9d81cc",
     "lastPublishedAt": "2026-06-02T20:54:05.092Z",
     "lastPublishedSha": "38bea481880e45e64d75264184ff4c59627ceb98",
     "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/38bea481880e45e64d75264184ff4c59627ceb98",
@@ -21605,7 +21641,7 @@
     "note": "User-admin sign-in is via a personal GitHub PAT (no shared password). The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-20T21:55:25.224Z",
+    "publishedAt": "2026-06-21T00:47:33.021Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
