@@ -280,7 +280,7 @@
               "url": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
               "subdir": "components",
               "enabled": true,
-              "lastImportedAt": "2026-06-22T01:57:27.390Z"
+              "lastImportedAt": "2026-06-22T09:23:21.704Z"
             }
           ],
           "entities": []
@@ -629,80 +629,6 @@
       "name": "DOCs",
       "kind": "docs",
       "groups": []
-    },
-    {
-      "id": "tab_1hbzx9p",
-      "name": "DOE",
-      "kind": "platforms",
-      "groups": [
-        {
-          "id": "g_i4bdtfp",
-          "name": "SOI 220 nm Circuit Blocks",
-          "platformMeta": {
-            "material": "Si",
-            "thickness": 220
-          },
-          "collapsed": false,
-          "platformDocs": [],
-          "githubUrl": "",
-          "githubSubdir": "components",
-          "docsGithubUrl": "",
-          "githubSources": [],
-          "entities": []
-        },
-        {
-          "id": "g_m9vlorf",
-          "name": "SOI 340 nm Circuit Blocks",
-          "platformMeta": {
-            "material": "Si",
-            "thickness": 340
-          },
-          "collapsed": false,
-          "platformDocs": [],
-          "githubUrl": "",
-          "githubSubdir": "components",
-          "docsGithubUrl": "",
-          "githubSources": [],
-          "entities": []
-        },
-        {
-          "id": "g_cbmrlmg",
-          "name": "SOI 500 nm Circuit Blocks",
-          "platformMeta": {
-            "material": "Si",
-            "thickness": 500
-          },
-          "collapsed": false,
-          "platformDocs": [],
-          "githubUrl": "",
-          "githubSubdir": "components",
-          "docsGithubUrl": "",
-          "githubSources": [],
-          "entities": []
-        }
-      ]
-    },
-    {
-      "id": "tab_7a1gc2u",
-      "name": "EPIXFAB MPW RUN",
-      "kind": "platforms",
-      "groups": [
-        {
-          "id": "g_zugty48",
-          "name": "2026 MPW",
-          "platformMeta": {
-            "material": "Si",
-            "thickness": 220
-          },
-          "collapsed": false,
-          "platformDocs": [],
-          "githubUrl": "",
-          "githubSubdir": "components",
-          "docsGithubUrl": "",
-          "githubSources": [],
-          "entities": []
-        }
-      ]
     }
   ],
   "ownership": {
@@ -754,30 +680,9 @@
     },
     {
       "kind": "file",
-      "id": "t_a3g9yl5",
-      "name": "",
-      "ts": 1782114625315,
-      "by": "AEmreKaplan"
-    },
-    {
-      "kind": "file",
-      "id": "t_jtthjrd",
-      "name": "",
-      "ts": 1782114632360,
-      "by": "AEmreKaplan"
-    },
-    {
-      "kind": "file",
       "id": "t_nigztd3",
       "name": "",
       "ts": 1782114665680,
-      "by": "AEmreKaplan"
-    },
-    {
-      "kind": "file",
-      "id": "t_45nkc56",
-      "name": "",
-      "ts": 1782114673077,
       "by": "AEmreKaplan"
     },
     {
@@ -789,15 +694,15 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-06-22T09:18:30.607Z",
+    "publishedAt": "2026-06-22T09:31:35.907Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "AEmreKaplan",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.1.0",
     "bbCount": 1,
-    "groupCount": 18,
-    "tabCount": 6,
+    "groupCount": 14,
+    "tabCount": 4,
     "fileCount": 1,
     "sliceFor": "AEmreKaplan",
     "termsVersion": "1.1.0",
