@@ -20949,88 +20949,6 @@
       "name": "DOCs",
       "groups": [],
       "kind": "docs"
-    },
-    {
-      "id": "tab_1hbzx9p",
-      "name": "DOE",
-      "kind": "platforms",
-      "groups": [
-        {
-          "id": "g_i4bdtfp",
-          "name": "SOI 220 nm Circuit Blocks",
-          "platformMeta": {
-            "material": "Si",
-            "thickness": 220
-          },
-          "collapsed": false,
-          "platformDocs": [],
-          "githubUrl": "",
-          "githubSubdir": "components",
-          "docsGithubUrl": "",
-          "githubSources": [],
-          "entities": [],
-          "status": "",
-          "kind": ""
-        },
-        {
-          "id": "g_m9vlorf",
-          "name": "SOI 340 nm Circuit Blocks",
-          "platformMeta": {
-            "material": "Si",
-            "thickness": 340
-          },
-          "collapsed": false,
-          "platformDocs": [],
-          "githubUrl": "",
-          "githubSubdir": "components",
-          "docsGithubUrl": "",
-          "githubSources": [],
-          "entities": [],
-          "status": "",
-          "kind": ""
-        },
-        {
-          "id": "g_cbmrlmg",
-          "name": "SOI 500 nm Circuit Blocks",
-          "platformMeta": {
-            "material": "Si",
-            "thickness": 500
-          },
-          "collapsed": false,
-          "platformDocs": [],
-          "githubUrl": "",
-          "githubSubdir": "components",
-          "docsGithubUrl": "",
-          "githubSources": [],
-          "entities": [],
-          "status": "",
-          "kind": ""
-        }
-      ]
-    },
-    {
-      "id": "tab_7a1gc2u",
-      "name": "EPIXFAB MPW RUN",
-      "kind": "platforms",
-      "groups": [
-        {
-          "id": "g_zugty48",
-          "name": "2026 MPW",
-          "platformMeta": {
-            "material": "Si",
-            "thickness": 220
-          },
-          "collapsed": false,
-          "platformDocs": [],
-          "githubUrl": "",
-          "githubSubdir": "components",
-          "docsGithubUrl": "",
-          "githubSources": [],
-          "entities": [],
-          "status": "",
-          "kind": ""
-        }
-      ]
     }
   ],
   "sketchLibrary": [],
@@ -21478,7 +21396,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mqp07qqa_0",
+        "id": "s_mqp0pex6_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -21486,7 +21404,7 @@
         "enabled": true
       },
       {
-        "id": "s_mqp07qqa_1",
+        "id": "s_mqp0pex6_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -21498,8 +21416,8 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-06-22T09:19:44.585Z",
-    "lastFetchedSha": "42b5398b223bc4c0deeb54c48e726900f5423693",
+    "lastFetchedAt": "2026-06-22T09:33:19.565Z",
+    "lastFetchedSha": "fd68039c9522299b99448ae78345f9120bd7948f",
     "lastPublishedAt": "2026-06-02T20:54:05.092Z",
     "lastPublishedSha": "38bea481880e45e64d75264184ff4c59627ceb98",
     "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/38bea481880e45e64d75264184ff4c59627ceb98",
@@ -21553,7 +21471,7 @@
     "note": "User-admin sign-in is via a personal GitHub PAT (no shared password). The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-22T09:20:54.628Z",
+    "publishedAt": "2026-06-22T09:34:05.854Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -21570,7 +21488,28 @@
     "deadUrls": []
   },
   "lastGithubFetch": "2026-06-11T19:31:57.623Z",
-  "activityLog": [],
+  "activityLog": [
+    {
+      "at": "2026-06-22T09:33:42.233Z",
+      "by": "admin",
+      "role": "admin",
+      "action": "tab-delete",
+      "label": "EPIXFAB MPW RUN",
+      "meta": {
+        "id": "tab_7a1gc2u"
+      }
+    },
+    {
+      "at": "2026-06-22T09:33:45.282Z",
+      "by": "admin",
+      "role": "admin",
+      "action": "tab-delete",
+      "label": "DOE",
+      "meta": {
+        "id": "tab_1hbzx9p"
+      }
+    }
+  ],
   "importFolderAliases": {
     "smatrix": [
       "s-matrix",
