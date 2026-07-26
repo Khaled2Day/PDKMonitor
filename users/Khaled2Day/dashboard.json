@@ -243,10 +243,453 @@
       "name": "Responsivity",
       "unit": "A/W",
       "description": "Photodetector responsivity"
+    },
+    {
+      "id": "bm_s6af9hb",
+      "name": "Index contrast",
+      "unit": "-",
+      "description": "core/cladding refractive index ratio"
+    },
+    {
+      "id": "bm_fquqyig",
+      "name": "Wavelength bandwidth",
+      "unit": "nm",
+      "description": ""
+    },
+    {
+      "id": "bm_8hbuap3",
+      "name": "Index contrast (-)_2",
+      "unit": "-",
+      "description": ""
+    },
+    {
+      "id": "bm_cmg5ocm",
+      "name": "orphan-default",
+      "unit": "£/mm2",
+      "description": ""
     }
   ],
   "benchmarkData": {
-    "tables": {},
+    "tables": {
+      "bm_hnu2swh": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "GeonSi",
+            "87",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN without heaters",
+            "53",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN with heaters",
+            "113",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive without heaters",
+            "228",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive with heaters",
+            "545",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI active",
+            "1022",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ]
+        ],
+        "by": [
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin"
+        ]
+      },
+      "bm_921qwi7": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "SOI active",
+            "36",
+            "week",
+            "Delivery time from mask layout submission to shipment "
+          ],
+          [
+            "SOI passive",
+            "14",
+            "week",
+            "Delivery time from mask layout submission to shipment "
+          ],
+          [
+            "SiN",
+            "12",
+            "week",
+            "Delivery time from mask layout submission to shipment "
+          ],
+          [
+            "GeonSi",
+            "10",
+            "week",
+            "Delivery time from mask layout submission to shipment "
+          ]
+        ],
+        "by": [
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin"
+        ]
+      },
+      "bm_prop_loss": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "SiN (C-band)",
+            "0.5",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "Suspended-Si (@3.8um)",
+            "1",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "GeonSi (@3.8um)",
+            "1",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "GeonSi (@6.1um)",
+            "1.5",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "GeonSi (@7.6um)",
+            "3",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "SOI (C-band)",
+            "3",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "Suspended-Si (@7.7um)",
+            "3",
+            "dB/cm",
+            "MPW meas"
+          ]
+        ],
+        "by": [
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin"
+        ]
+      },
+      "bm_footprint": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [],
+        "by": []
+      },
+      "bm_fquqyig": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / wl",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [],
+        "by": []
+      },
+      "bm_il": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / wl",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [],
+        "by": []
+      },
+      "bm_pdc": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / wl",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [],
+        "by": []
+      },
+      "bm_vpi": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / wl",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [],
+        "by": []
+      },
+      "bm_vj1j95g": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [],
+        "by": []
+      },
+      "bm_er": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [],
+        "by": []
+      },
+      "bm_resp": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [],
+        "by": []
+      },
+      "bm_8hbuap3": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / wl",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "SiN",
+            "1.37",
+            "-",
+            "1550nm",
+            "n_si3n4= 2 , n_sio2=1.45, n_air=1 @1550nm",
+            ""
+          ],
+          [
+            "TFLN",
+            "1.52",
+            "-",
+            "1550nm",
+            "n_ln= 2.21, n_sio2=1.45, n_air=1 @1550nm",
+            ""
+          ],
+          [
+            "SOI",
+            "2.50",
+            "-",
+            "1550nm",
+            "n_si= 3.47 , n_sio2=1.45, n_air=1 @1550nm",
+            ""
+          ],
+          [
+            "Suspended-Si",
+            "3.47",
+            "-",
+            "1550nm",
+            "n_si= 3.47  n_air=1 @1550nm",
+            ""
+          ],
+          [
+            "GeonSi",
+            "4.27",
+            "-",
+            "1550nm",
+            "n_ge= 4.27  n_air=1 @1550nm",
+            ""
+          ]
+        ],
+        "by": [
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin"
+        ]
+      },
+      "bm_cmg5ocm": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "GeonSi",
+            "87",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN without heaters",
+            "53",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN with heaters",
+            "113",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive without heaters",
+            "228",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive with heaters",
+            "545",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI active",
+            "1022",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ]
+        ],
+        "by": [
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin"
+        ]
+      },
+      "default": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "GeonSi",
+            "87",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN without heaters",
+            "53",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN with heaters",
+            "113",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive without heaters",
+            "228",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive with heaters",
+            "545",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI active",
+            "1022",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ]
+        ],
+        "by": [
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin"
+        ]
+      }
+    },
     "metric": "bm_921qwi7"
   },
   "tabs": [
@@ -274,10 +717,2113 @@
               "url": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
               "subdir": "components",
               "enabled": true,
-              "lastImportedAt": "2026-06-23T10:34:37.200Z"
+              "lastImportedAt": "2026-07-23T15:07:47.682Z"
             }
           ],
-          "entities": []
+          "entities": [
+            {
+              "id": "e_86635m3",
+              "name": "Cell0_SOI220_Full_1550nm_Packaging_Template",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_xpmqi52",
+                      "name": "Cell0_SOI220_Full_1550nm_Packaging_Template",
+                      "filename": "Cell0_SOI220_Full_1550nm_Packaging_Template.jpg",
+                      "kind": "jpg",
+                      "size": 630892,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:12.256Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/Cell0_SOI220_Full_1550nm_Packaging_Template__6635m3/tests/Cell0_SOI220_Full_1550nm_Packaging_Template.jpg",
+                      "repoSha": "da164d2c2d68d62a44dc321e3f60bfa3c0c32f48",
+                      "repoContentHash": "i12g_1khw3wn"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_qpup37h",
+                      "name": "init",
+                      "filename": "init",
+                      "kind": "init",
+                      "size": 1,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:10.850Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/Cell0_SOI220_Full_1550nm_Packaging_Template__6635m3/smatrix/init",
+                      "repoSha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+                      "repoContentHash": "4_yjn2ap"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [
+                {
+                  "id": "ft_files",
+                  "name": "Files",
+                  "notes": "",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_h4jv0go",
+                      "name": "_init_",
+                      "filename": "_init_",
+                      "kind": "_init_",
+                      "size": 1,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:07.240Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/Cell0_SOI220_Full_1550nm_Packaging_Template__6635m3/fab/init",
+                      "repoSha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+                      "repoContentHash": "4_yjn2ap"
+                    },
+                    {
+                      "id": "t_dx4dkbp",
+                      "name": "Si",
+                      "filename": "Si.csv",
+                      "kind": "csv",
+                      "size": 7921,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:07.926Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/Cell0_SOI220_Full_1550nm_Packaging_Template__6635m3/fab/Si.csv",
+                      "repoSha": "346895c784fc6cf4bd790249595ee3bb1666b0f7",
+                      "repoContentHash": "85g_n6om76"
+                    },
+                    {
+                      "id": "t_r695krq",
+                      "name": "SiO2",
+                      "filename": "SiO2.csv",
+                      "kind": "csv",
+                      "size": 14277,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:09.075Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/Cell0_SOI220_Full_1550nm_Packaging_Template__6635m3/fab/SiO2.csv",
+                      "repoSha": "24c8fb8ff27abc538b1b99c30ac9b8805fc02f78",
+                      "repoContentHash": "eos_bzp64f"
+                    }
+                  ]
+                }
+              ],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_k77neha",
+              "name": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_dhgtvzh",
+                      "name": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler",
+                      "filename": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.jpg",
+                      "kind": "jpg",
+                      "size": 478458,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:15.958Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler__77neha/tests/SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.jpg",
+                      "repoSha": "46d5797e8cb357e5579ceb73d2e7332cccbb3d75",
+                      "repoContentHash": "do8o_1kmzgn3"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_5cijdxo",
+                      "name": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler",
+                      "filename": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.csv",
+                      "kind": "csv",
+                      "size": 163725,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:14.578Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler__77neha/smatrix/SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.csv",
+                      "repoSha": "f2e532026a132d0a4d0b6436e78c33b2f4062317",
+                      "repoContentHash": "4ofw_8xkgwx"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_ou06zu0",
+              "name": "SOI220nm_1550nm_TE_RIB_MZI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_02244cy",
+                      "name": "SOI220nm_1550nm_TE_RIB_MZI",
+                      "filename": "SOI220nm_1550nm_TE_RIB_MZI.jpg",
+                      "kind": "jpg",
+                      "size": 442568,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:18.002Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_RIB_MZI__u06zu0/tests/SOI220nm_1550nm_TE_RIB_MZI.jpg",
+                      "repoSha": "f325392994c0425317dcc7536a0f8c8c564c7249",
+                      "repoContentHash": "cnbg_tm02q8"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_wgt0y0l",
+              "name": "SOI220nm_1550nm_TE_STRIP_MZI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_azuq1pz",
+                      "name": "SOI220nm_1550nm_TE_STRIP_MZI",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_MZI.jpg",
+                      "kind": "jpg",
+                      "size": 405724,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:20.001Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_STRIP_MZI__gt0y0l/tests/SOI220nm_1550nm_TE_STRIP_MZI.jpg",
+                      "repoSha": "65acd607e4594e757d3559a1f91845bb5967c6c9",
+                      "repoContentHash": "blew_cywiqu"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_01p193h",
+              "name": "SOI220_cband_TM_strip_apodized_GC_focusing_v1p0",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_rsnrmp2",
+                      "name": "_init_",
+                      "filename": "_init_",
+                      "kind": "_init_",
+                      "size": 1,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:21.372Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0__1p193h/tests/init",
+                      "repoSha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+                      "repoContentHash": "4_yjn2ap"
+                    },
+                    {
+                      "id": "t_84ev4ot",
+                      "name": "SOI220_cband_TM_strip_apodized_GC_focusing_v1p0",
+                      "filename": "SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.jpg",
+                      "kind": "jpg",
+                      "size": 458739,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:24.053Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0__1p193h/tests/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.jpg",
+                      "repoSha": "5f4f1c6d9a6a621ebeed0bbd4df61c14b73ca299",
+                      "repoContentHash": "d3yc_121dcxk"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_82zhqtq",
+                      "name": "SOI220_cband_TM_strip_apodized_GC_focusing_v1p0",
+                      "filename": "SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.txt",
+                      "kind": "txt",
+                      "size": 150,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:22.979Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0__1p193h/smatrix/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.txt",
+                      "repoSha": "e63b2d29a1ee43a35e16882396a7225bcb0e89f8",
+                      "repoContentHash": "5k_14g83du"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_838wngl",
+              "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_jv1hps9",
+                      "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
+                      "filename": "SOI220nm_1310nm_TE_RIB_2x1_MMI.jpg",
+                      "kind": "jpg",
+                      "size": 327374,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:27.385Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_RIB_2x1_MMI__38wngl/tests/SOI220nm_1310nm_TE_RIB_2x1_MMI.jpg",
+                      "repoSha": "2a48d6310d761ff2b963d7cc6b9e20627e0c56e3",
+                      "repoContentHash": "9ct0_wwvc6r"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_9xjjvtc",
+                      "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
+                      "filename": "SOI220nm_1310nm_TE_RIB_2x1_MMI.csv",
+                      "kind": "csv",
+                      "size": 358334,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:26.395Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_RIB_2x1_MMI__38wngl/smatrix/SOI220nm_1310nm_TE_RIB_2x1_MMI.csv",
+                      "repoSha": "c876ce9f32340ab0cba51d61a43d44a67d0fc9f8",
+                      "repoContentHash": "a8no_1xq8xfo"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_yczzif7",
+              "name": "SOI220nm_1310nm_TE_RIB_2x2_MMI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_a2nh5ax",
+                      "name": "SOI220nm_1310nm_TE_RIB_2x2_MMI",
+                      "filename": "SOI220nm_1310nm_TE_RIB_2x2_MMI.jpg",
+                      "kind": "jpg",
+                      "size": 330991,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:31.257Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_RIB_2x2_MMI__czzif7/tests/SOI220nm_1310nm_TE_RIB_2x2_MMI.jpg",
+                      "repoSha": "006d59c94f75f1a452b55d178d0b50bf316cc7a3",
+                      "repoContentHash": "9gj0_sqac52"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_4ntcbta",
+                      "name": "SOI220nm_1310nm_TE_RIB_2x2_MMI",
+                      "filename": "SOI220nm_1310nm_TE_RIB_2x2_MMI.csv",
+                      "kind": "csv",
+                      "size": 633112,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:29.976Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_RIB_2x2_MMI__czzif7/smatrix/SOI220nm_1310nm_TE_RIB_2x2_MMI.csv",
+                      "repoSha": "39f5f845199bbe681e727e97b28224ce59438679",
+                      "repoContentHash": "i3co_wvohbg"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_1uuno83",
+              "name": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_p4eru8o",
+                      "name": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend",
+                      "filename": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend.jpg",
+                      "kind": "jpg",
+                      "size": 363761,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:34.868Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_RIB_90_Degree_Bend__uuno83/tests/SOI220nm_1310nm_TE_RIB_90_Degree_Bend.jpg",
+                      "repoSha": "785dcb81718fc6c9ba673b14c59c6535fa39972a",
+                      "repoContentHash": "ae8o_1v66ouy"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_vkm7fsl",
+                      "name": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend",
+                      "filename": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend.csv",
+                      "kind": "csv",
+                      "size": 164622,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:33.754Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_RIB_90_Degree_Bend__uuno83/smatrix/SOI220nm_1310nm_TE_RIB_90_Degree_Bend.csv",
+                      "repoSha": "d03414d66373a391c3f197447f2e7eb05f725190",
+                      "repoContentHash": "4pd4_1pea5m"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_d1k646t",
+              "name": "SOI220nm_1310nm_TE_RIB_Grating_Coupler",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_nwe5kxt",
+                      "name": "SOI220nm_1310nm_TE_RIB_Grating_Coupler",
+                      "filename": "SOI220nm_1310nm_TE_RIB_Grating_Coupler.jpg",
+                      "kind": "jpg",
+                      "size": 335126,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:38.261Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_RIB_Grating_Coupler__1k646t/tests/SOI220nm_1310nm_TE_RIB_Grating_Coupler.jpg",
+                      "repoSha": "f1ddaacf8cfc2380a0fddd31bf638f0e05aaaed8",
+                      "repoContentHash": "9ks4_jxxw5f"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_busm6n1",
+                      "name": "SOI220nm_1310nm_TE_RIB_Grating_Coupler",
+                      "filename": "SOI220nm_1310nm_TE_RIB_Grating_Coupler.csv",
+                      "kind": "csv",
+                      "size": 163660,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:36.880Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_RIB_Grating_Coupler__1k646t/smatrix/SOI220nm_1310nm_TE_RIB_Grating_Coupler.csv",
+                      "repoSha": "b5461ff1676b86ebb13afc1660cb28a57b291e58",
+                      "repoContentHash": "4odk_1fpua15"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_fas2ih4",
+              "name": "SOI220nm_1310nm_TE_RIB_Waveguide",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_pe6aafz",
+                      "name": "SOI220nm_1310nm_TE_RIB_Waveguide",
+                      "filename": "SOI220nm_1310nm_TE_RIB_Waveguide.jpg",
+                      "kind": "jpg",
+                      "size": 316039,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:40.982Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_RIB_Waveguide__as2ih4/tests/SOI220nm_1310nm_TE_RIB_Waveguide.jpg",
+                      "repoSha": "afd088a1f8af2595c02730e5759fa808806e17ad",
+                      "repoContentHash": "9158_1neimup"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_3mmx63u",
+              "name": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_xalibc5",
+                      "name": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing",
+                      "filename": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.jpg",
+                      "kind": "jpg",
+                      "size": 336221,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:43.960Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing__mmx63u/tests/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.jpg",
+                      "repoSha": "771cd7d6b449f14365c62a30f15644981e2716b9",
+                      "repoContentHash": "9lwo_cf26vu"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_kvoyo3w",
+                      "name": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing",
+                      "filename": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.csv",
+                      "kind": "csv",
+                      "size": 635372,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:42.983Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing__mmx63u/smatrix/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.csv",
+                      "repoSha": "6e7d6500abfc8a2cca3a372c952450931f2de23a",
+                      "repoContentHash": "i5oc_p4py3k"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_zlimbjb",
+              "name": "SOI220nm_1310nm_TE_STRIP_2x1_MMI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_dsvlpx9",
+                      "name": "SOI220nm_1310nm_TE_STRIP_2x1_MMI",
+                      "filename": "SOI220nm_1310nm_TE_STRIP_2x1_MMI.jpg",
+                      "kind": "jpg",
+                      "size": 307907,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:47.157Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_STRIP_2x1_MMI__limbjb/tests/SOI220nm_1310nm_TE_STRIP_2x1_MMI.jpg",
+                      "repoSha": "8bd54d3c1bfa51d8227256bbfa36b743af432f84",
+                      "repoContentHash": "8ss0_tk96d8"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_2grx92b",
+                      "name": "SOI220nm_1310nm_TE_STRIP_2x1_MMI",
+                      "filename": "SOI220nm_1310nm_TE_STRIP_2x1_MMI.csv",
+                      "kind": "csv",
+                      "size": 357973,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:46.141Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_STRIP_2x1_MMI__limbjb/smatrix/SOI220nm_1310nm_TE_STRIP_2x1_MMI.csv",
+                      "repoSha": "a1a95103060152a20c7fe03f8ce67eab6e6ebda1",
+                      "repoContentHash": "a8ac_1e3bzup"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_5ix7pu8",
+              "name": "SOI220nm_1310nm_TE_STRIP_2x2_MMI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_lhzdmbg",
+                      "name": "SOI220nm_1310nm_TE_STRIP_2x2_MMI",
+                      "filename": "SOI220nm_1310nm_TE_STRIP_2x2_MMI.jpg",
+                      "kind": "jpg",
+                      "size": 317068,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:50.570Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_STRIP_2x2_MMI__ix7pu8/tests/SOI220nm_1310nm_TE_STRIP_2x2_MMI.jpg",
+                      "repoSha": "2511257e70de00f6b46604866e56b0c74e7cd7dd",
+                      "repoContentHash": "927c_11wvn60"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_2lm0fgg",
+                      "name": "SOI220nm_1310nm_TE_STRIP_2x2_MMI",
+                      "filename": "SOI220nm_1310nm_TE_STRIP_2x2_MMI.csv",
+                      "kind": "csv",
+                      "size": 631444,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:49.481Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_STRIP_2x2_MMI__ix7pu8/smatrix/SOI220nm_1310nm_TE_STRIP_2x2_MMI.csv",
+                      "repoSha": "1e91f5aeea61db6cfd48b10e8922306830dda76c",
+                      "repoContentHash": "i1mw_ds53gf"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_4ebe0de",
+              "name": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_momeyu1",
+                      "name": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend",
+                      "filename": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.jpg",
+                      "kind": "jpg",
+                      "size": 336221,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:53.731Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend__ebe0de/tests/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.jpg",
+                      "repoSha": "ab735279df2f2c144403911ca5af09f5f7656cc2",
+                      "repoContentHash": "9lwo_s8bwob"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_0ivnuhc",
+                      "name": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend",
+                      "filename": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.csv",
+                      "kind": "csv",
+                      "size": 166460,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:52.747Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend__ebe0de/smatrix/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.csv",
+                      "repoSha": "1926a732b21312dc183607bd677ee40001118d25",
+                      "repoContentHash": "4r98_1dq2sqj"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_m7dn718",
+              "name": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_c0fk26h",
+                      "name": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler",
+                      "filename": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler.jpg",
+                      "kind": "jpg",
+                      "size": 311878,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:56.840Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_STRIP_Grating_Coupler__7dn718/tests/SOI220nm_1310nm_TE_STRIP_Grating_Coupler.jpg",
+                      "repoSha": "34e69a5d3dad168c6222140603a0cf54bbe8b240",
+                      "repoContentHash": "8wv4_ewaddz"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_nhpo0j3",
+                      "name": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler",
+                      "filename": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler.csv",
+                      "kind": "csv",
+                      "size": 163654,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:55.896Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_STRIP_Grating_Coupler__7dn718/smatrix/SOI220nm_1310nm_TE_STRIP_Grating_Coupler.csv",
+                      "repoSha": "96f2a1d599f7fffbefc2082d3cc01e1a0d4babf6",
+                      "repoContentHash": "4odc_xdkq02"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_txq39yh",
+              "name": "SOI220nm_1310nm_TE_STRIP_Waveguide",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_z7k2hp0",
+                      "name": "SOI220nm_1310nm_TE_STRIP_Waveguide",
+                      "filename": "SOI220nm_1310nm_TE_STRIP_Waveguide.jpg",
+                      "kind": "jpg",
+                      "size": 265782,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:13:58.836Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_STRIP_Waveguide__xq39yh/tests/SOI220nm_1310nm_TE_STRIP_Waveguide.jpg",
+                      "repoSha": "40072c8763525b9c81e55bfd51093abb097bfa73",
+                      "repoContentHash": "7lfs_132bwuf"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_8fnhtbv",
+              "name": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_094pyrz",
+                      "name": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing",
+                      "filename": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.jpg",
+                      "kind": "jpg",
+                      "size": 310508,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:02.294Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing__fnhtbv/tests/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.jpg",
+                      "repoSha": "a60b4f6ed9380d5ff4197f17e7fdcced3a338548",
+                      "repoContentHash": "8vgc_fgqyo1"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_0biidjd",
+                      "name": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing",
+                      "filename": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.csv",
+                      "kind": "csv",
+                      "size": 630936,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:01.140Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing__fnhtbv/smatrix/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.csv",
+                      "repoSha": "21fb10f0b439da227e912b3c5177897656a8a573",
+                      "repoContentHash": "i140_yru5ri"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_0595r59",
+              "name": "SOI220nm_1550nm_TE_RIB_2x1_MMI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_y0jq1hx",
+                      "name": "SOI220nm_1550nm_TE_RIB_2x1_MMI",
+                      "filename": "SOI220nm_1550nm_TE_RIB_2x1_MMI.jpg",
+                      "kind": "jpg",
+                      "size": 352001,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:05.933Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_RIB_2x1_MMI__595r59/tests/SOI220nm_1550nm_TE_RIB_2x1_MMI.jpg",
+                      "repoSha": "3ac3c789013ccc6dca7420e88fba95654d4d3d78",
+                      "repoContentHash": "a254_r4ie2s"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_2qj12ps",
+                      "name": "SOI220nm_1550nm_TE_RIB_2x1_MMI",
+                      "filename": "SOI220nm_1550nm_TE_RIB_2x1_MMI.csv",
+                      "kind": "csv",
+                      "size": 358185,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:04.962Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_RIB_2x1_MMI__595r59/smatrix/SOI220nm_1550nm_TE_RIB_2x1_MMI.csv",
+                      "repoSha": "6eab46cbc122e5c9f5a4f791d366ba0760195a0f",
+                      "repoContentHash": "a8i4_xhl1n6"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_ufug1m1",
+              "name": "SOI220nm_1550nm_TE_RIB_2x2_MMI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_7oveun1",
+                      "name": "SOI220nm_1550nm_TE_RIB_2x2_MMI",
+                      "filename": "SOI220nm_1550nm_TE_RIB_2x2_MMI.jpg",
+                      "kind": "jpg",
+                      "size": 358046,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:09.266Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_RIB_2x2_MMI__fug1m1/tests/SOI220nm_1550nm_TE_RIB_2x2_MMI.jpg",
+                      "repoSha": "37ebe0bcc3b6dc810f25b1538fecdb0e54f13c76",
+                      "repoContentHash": "a8d0_rlvz6i"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_him6qa3",
+                      "name": "SOI220nm_1550nm_TE_RIB_2x2_MMI",
+                      "filename": "SOI220nm_1550nm_TE_RIB_2x2_MMI.csv",
+                      "kind": "csv",
+                      "size": 632521,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:08.315Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_RIB_2x2_MMI__fug1m1/smatrix/SOI220nm_1550nm_TE_RIB_2x2_MMI.csv",
+                      "repoSha": "dbe9a550943a5831ee4f6e42428870ec4ba58cb0",
+                      "repoContentHash": "i2qs_15ydsdg"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_ifq0qop",
+              "name": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_2dbgjao",
+                      "name": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend",
+                      "filename": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend.jpg",
+                      "kind": "jpg",
+                      "size": 358007,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:12.205Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_RIB_90_Degree_Bend__fq0qop/tests/SOI220nm_1550nm_TE_RIB_90_Degree_Bend.jpg",
+                      "repoSha": "5ee60eaa7af0fe2348b3c7c7a5f157a39ba26acd",
+                      "repoContentHash": "a8bk_d6pm3b"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_uxjtrx1",
+                      "name": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend",
+                      "filename": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend.csv",
+                      "kind": "csv",
+                      "size": 164771,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:11.275Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_RIB_90_Degree_Bend__fq0qop/smatrix/SOI220nm_1550nm_TE_RIB_90_Degree_Bend.csv",
+                      "repoSha": "afcc013a742d0e572231714e7026ac276285a6e6",
+                      "repoContentHash": "4pio_1kyoz15"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_15h45i5",
+              "name": "SOI220nm_1550nm_TE_RIB_Grating_Coupler",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_3nf3j98",
+                      "name": "SOI220nm_1550nm_TE_RIB_Grating_Coupler",
+                      "filename": "SOI220nm_1550nm_TE_RIB_Grating_Coupler.jpg",
+                      "kind": "jpg",
+                      "size": 334921,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:15.825Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_RIB_Grating_Coupler__5h45i5/tests/SOI220nm_1550nm_TE_RIB_Grating_Coupler.jpg",
+                      "repoSha": "49e943fd08429bce58e1c99e0a0a060658e3defa",
+                      "repoContentHash": "9kkk_ba54gi"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_fc8a7g5",
+                      "name": "SOI220nm_1550nm_TE_RIB_Grating_Coupler",
+                      "filename": "SOI220nm_1550nm_TE_RIB_Grating_Coupler.csv",
+                      "kind": "csv",
+                      "size": 163429,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:14.481Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_RIB_Grating_Coupler__5h45i5/smatrix/SOI220nm_1550nm_TE_RIB_Grating_Coupler.csv",
+                      "repoSha": "1b9423a452bc5f50122fde63a00475fb355f9d6b",
+                      "repoContentHash": "4o50_1hlzb2a"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_kv8ahe8",
+              "name": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_7oh85v2",
+                      "name": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing",
+                      "filename": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.jpg",
+                      "kind": "jpg",
+                      "size": 336770,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:19.732Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing__v8ahe8/tests/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.jpg",
+                      "repoSha": "cc28850c668decc1ab27f447f6fabffc59d2729f",
+                      "repoContentHash": "9mh0_1hbdhmi"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_90oh1gi",
+                      "name": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing",
+                      "filename": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.csv",
+                      "kind": "csv",
+                      "size": 633381,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:18.639Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing__v8ahe8/smatrix/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.csv",
+                      "repoSha": "98887909640f7758e94b0a87bc6d45b45e58d58c",
+                      "repoContentHash": "i3mk_1mxlp1k"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_eqnpp7u",
+              "name": "SOI220nm_1550nm_TE_STRIP_2x1_MMI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_n6si3ui",
+                      "name": "SOI220nm_1550nm_TE_STRIP_2x1_MMI",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_2x1_MMI.jpg",
+                      "kind": "jpg",
+                      "size": 302052,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:22.815Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_STRIP_2x1_MMI__qnpp7u/tests/SOI220nm_1550nm_TE_STRIP_2x1_MMI.jpg",
+                      "repoSha": "f56725c86ebb86cd5f0bdad53402d1bddeea05a0",
+                      "repoContentHash": "8mr4_c99o29"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_ylm5zgo",
+                      "name": "SOI220nm_1550nm_TE_STRIP_2x1_MMI",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_2x1_MMI.csv",
+                      "kind": "csv",
+                      "size": 357474,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:21.931Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_STRIP_2x1_MMI__qnpp7u/smatrix/SOI220nm_1550nm_TE_STRIP_2x1_MMI.csv",
+                      "repoSha": "345ee14a66f490c42fa8155bf313ff3d9a54ce49",
+                      "repoContentHash": "a7rs_j4sdmk"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_tsj6jue",
+              "name": "SOI220nm_1550nm_TE_STRIP_2x2_MMI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_n1mpxge",
+                      "name": "SOI220nm_1550nm_TE_STRIP_2x2_MMI",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_2x2_MMI.jpg",
+                      "kind": "jpg",
+                      "size": 309075,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:37.653Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_STRIP_2x2_MMI__sj6jue/tests/SOI220nm_1550nm_TE_STRIP_2x2_MMI.jpg",
+                      "repoSha": "20ed8686663b19c48676008aae1b76da4976a02f",
+                      "repoContentHash": "8tz8_hr012a"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_qb3q3u9",
+                      "name": "SOI220nm_1550nm_TE_STRIP_2x2_MMI",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_2x2_MMI.csv",
+                      "kind": "csv",
+                      "size": 630545,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:36.495Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_STRIP_2x2_MMI__sj6jue/smatrix/SOI220nm_1550nm_TE_STRIP_2x2_MMI.csv",
+                      "repoSha": "14a0d611b9363499346ddb4dda032ce615221048",
+                      "repoContentHash": "i0pk_1ndrw0e"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_gkqdfu8",
+              "name": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_g0p1hw8",
+                      "name": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.jpg",
+                      "kind": "jpg",
+                      "size": 333693,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:41.579Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend__kqdfu8/tests/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.jpg",
+                      "repoSha": "52373391894be30745d1eff0fe320addd294fa4a",
+                      "repoContentHash": "9jb0_boup6d"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_c91tnkp",
+                      "name": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.csv",
+                      "kind": "csv",
+                      "size": 165483,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:40.381Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend__kqdfu8/smatrix/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.csv",
+                      "repoSha": "d37185b0cf2f07c82a85d1c67a5805df4001790c",
+                      "repoContentHash": "4q90_bibirw"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_4yy0o1l",
+              "name": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_gp1mf73",
+                      "name": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler.jpg",
+                      "kind": "jpg",
+                      "size": 312918,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:45.092Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_STRIP_Grating_Coupler__yy0o1l/tests/SOI220nm_1550nm_TE_STRIP_Grating_Coupler.jpg",
+                      "repoSha": "df9c43b36f48a99844f6a187121ac24793bd4aab",
+                      "repoContentHash": "8xxk_1giyt4y"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_zemnz5j",
+                      "name": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler.csv",
+                      "kind": "csv",
+                      "size": 163429,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:44.037Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_STRIP_Grating_Coupler__yy0o1l/smatrix/SOI220nm_1550nm_TE_STRIP_Grating_Coupler.csv",
+                      "repoSha": "1b9423a452bc5f50122fde63a00475fb355f9d6b",
+                      "repoContentHash": "4o50_1hlzb2a"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_4oasinb",
+              "name": "SOI220nm_1550nm_TE_STRIP_Waveguide",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_w7whqed",
+                      "name": "SOI220nm_1550nm_TE_STRIP_Waveguide",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide.jpg",
+                      "kind": "jpg",
+                      "size": 287709,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:48.129Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_STRIP_Waveguide__oasinb/tests/SOI220nm_1550nm_TE_STRIP_Waveguide.jpg",
+                      "repoSha": "b09564b52cee3a3aaddf5c72752a7c672cca6ff2",
+                      "repoContentHash": "87zw_16c5bzk"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [],
+              "fabTabs": [
+                {
+                  "id": "ft_files",
+                  "name": "Files",
+                  "notes": "",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_bkt4s80",
+                      "name": "init",
+                      "filename": "init",
+                      "kind": "init",
+                      "size": 1,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:46.260Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_STRIP_Waveguide__oasinb/fab/init",
+                      "repoSha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+                      "repoContentHash": "4_yjn2ap"
+                    }
+                  ]
+                }
+              ],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_hkbuzv7",
+              "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_nv56kq7",
+                      "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.jpg",
+                      "kind": "jpg",
+                      "size": 335582,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:52.374Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing__kbuzv7/tests/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.jpg",
+                      "repoSha": "641b160682392177f76c17e5c7ae24460cb42d81",
+                      "repoContentHash": "9l90_15ak70p"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "datasets": [
+                    {
+                      "id": "t_w2g2t3h",
+                      "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
+                      "kind": "csv",
+                      "size": 632133,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:51.064Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing__kbuzv7/smatrix/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
+                      "repoSha": "cf4f171ba97fb5097fa5b75137d4075555f2074b",
+                      "repoContentHash": "i2cc_sxedq3"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_fwdccyy",
+              "name": "PIC_Bootcamp_Demo",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_8yobkhz",
+                      "name": "PIC_Bootcamp_Demo",
+                      "filename": "PIC_Bootcamp_Demo.jpg",
+                      "kind": "jpg",
+                      "size": 378321,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:14:58.186Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/PIC_Bootcamp_Demo__wdccyy/tests/PIC_Bootcamp_Demo.jpg",
+                      "repoSha": "079e6edbe9df1a2fd7abfb05daef7169c11df00d",
+                      "repoContentHash": "at7w_18cm50p"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_d8lo05e",
+              "name": "SOI220_CS_OtS_March_2025_v1p1",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_t203jhk",
+                      "name": "SOI220_CS_OtS_March_2025_v1p1",
+                      "filename": "SOI220_CS_OtS_March_2025_v1p1.jpg",
+                      "kind": "jpg",
+                      "size": 556921,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:15:05.797Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220_CS_OtS_March_2025_v1p1__8lo05e/tests/SOI220_CS_OtS_March_2025_v1p1.jpg",
+                      "repoSha": "73f7a085ea732e931e9f2cff85f5eea19c5a391a",
+                      "repoContentHash": "fwys_hnvhoq"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_3kf2xnn",
+              "name": "SOI220nm_1550nm_TE_Education_Kit",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_mghijoh",
+                      "name": "SOI220nm_1550nm_TE_Education_Kit",
+                      "filename": "SOI220nm_1550nm_TE_Education_Kit.jpg",
+                      "kind": "jpg",
+                      "size": 450211,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:15:09.612Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_Education_Kit__kf2xnn/tests/SOI220nm_1550nm_TE_Education_Kit.jpg",
+                      "repoSha": "dccfee1957c646b845e1d48b71fc3334604adef3",
+                      "repoContentHash": "cv6k_14rt15o"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_t2jsm7s",
+              "name": "Heater",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_74py9hl",
+                      "name": "Heater",
+                      "filename": "Heater.jpg",
+                      "kind": "jpg",
+                      "size": 350386,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "Khaled2Day",
+                      "added": "2026-07-23T15:15:11.751Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/Khaled2Day/Heater__2jsm7s/tests/Heater.jpg",
+                      "repoSha": "a3b6acf06ff4a94ec6ec617d97e359cd1353eaa6",
+                      "repoContentHash": "a0hc_y6chf3"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [],
+              "fabTabs": [],
+              "descriptionContributions": [],
+              "_contribOnly": true
+            }
+          ]
         },
         {
           "id": "g_3u8hhdf",
@@ -366,7 +2912,7 @@
               "url": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_active",
               "subdir": "components",
               "enabled": true,
-              "lastImportedAt": "2026-07-23T13:59:11.235Z"
+              "lastImportedAt": "2026-06-23T10:34:15.693Z"
             }
           ],
           "entities": [
@@ -391,7 +2937,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 },
                 {
                   "id": "d_byz44l4",
@@ -402,7 +2949,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 },
                 {
                   "id": "d_ihl0oep",
@@ -413,7 +2961,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 },
                 {
                   "id": "d_f9uur7y",
@@ -424,7 +2973,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 },
                 {
                   "id": "d_aj2zbnt",
@@ -435,7 +2985,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 },
                 {
                   "id": "d_un8szup",
@@ -446,7 +2997,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 },
                 {
                   "id": "d_n3axb5h",
@@ -457,7 +3009,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 },
                 {
                   "id": "d_03ihcqy",
@@ -468,7 +3021,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 },
                 {
                   "id": "d_i7dczad",
@@ -479,7 +3033,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -539,7 +3094,8 @@
                       "repoPath": "users/Khaled2Day/Heater__swb6pl/smatrix/init",
                       "repoSha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
                       "repoContentHash": "4_yjn2ap",
-                      "_stripped": true
+                      "_stripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -547,7 +3103,8 @@
               "gdsRepoPath": "users/Khaled2Day/Heater__swb6pl/layout/Heater.gds",
               "gdsRepoSha": "fd0defce4e394a57ea8490e4516b610db4dda734",
               "gdsContentHash": "pc_1n1uslj",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_37co0kr",
@@ -570,7 +3127,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -602,7 +3160,8 @@
               "gdsContentHash": "1ktc_1mqljce",
               "smatrixGroups": [],
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_z72ldbz",
@@ -625,7 +3184,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -685,7 +3245,8 @@
                       "repoSha": "2bc136fef5d6aa568696ce9f2e1cc6b85df4aa66",
                       "repoContentHash": "a8no_1xq8xfo",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -693,7 +3254,8 @@
               "gdsRepoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_RIB_2x1_MMI__72ldbz/layout/SOI220nm_1310nm_TE_RIB_2x1_MMI.gds",
               "gdsRepoSha": "96c2fa30a734e0e30675f7f3e1ec921b1c76e06b",
               "gdsContentHash": "ik_1vrp8o8",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_vteqktq",
@@ -716,7 +3278,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -776,7 +3339,8 @@
                       "repoSha": "39f5f845199bbe681e727e97b28224ce59438679",
                       "repoContentHash": "i3co_wvohbg",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -784,7 +3348,8 @@
               "gdsRepoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_RIB_2x2_MMI__teqktq/layout/SOI220nm_1310nm_TE_RIB_2x2_MMI.gds",
               "gdsRepoSha": "027bf974351e6e72ca679c799bcb74987869f08c",
               "gdsContentHash": "w8_3jvczb",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_68c7ats",
@@ -807,7 +3372,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -867,7 +3433,8 @@
                       "repoSha": "d03414d66373a391c3f197447f2e7eb05f725190",
                       "repoContentHash": "4pd4_1pea5m",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -875,7 +3442,8 @@
               "gdsRepoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_RIB_90_Degree_Bend__8c7ats/layout/SOI220nm_1310nm_TE_RIB_90_Degree_Bend.gds",
               "gdsRepoSha": "d65c9be69eeb01e9e323f7d8ec8eeb61cef1ceda",
               "gdsContentHash": "2aw_1wl1tb2",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_rznsbov",
@@ -898,7 +3466,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -957,7 +3526,8 @@
                       "repoSha": "fe43a4a33ce72d79005d5e7cb350347788f595ad",
                       "repoContentHash": "4odg_5r3s8f",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -966,7 +3536,8 @@
               "gdsRepoSha": "c0f04fe1e5b009e8f86368049a5406073ea184d1",
               "gdsContentHash": "5mk_1egv8h1",
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_pg157je",
@@ -989,7 +3560,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -1021,7 +3593,8 @@
               "gdsRepoSha": "7028cec9a91839ae2444a305678781a187a3310d",
               "gdsContentHash": "9s_5g5soy",
               "smatrixGroups": [],
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_x9zdyx9",
@@ -1044,7 +3617,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -1104,7 +3678,8 @@
                       "repoSha": "6e7d6500abfc8a2cca3a372c952450931f2de23a",
                       "repoContentHash": "i5oc_p4py3k",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -1112,7 +3687,8 @@
               "gdsRepoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing__9zdyx9/layout/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.gds",
               "gdsRepoSha": "5fe35b97b66b135758d1fe9cf22e02c2d4fa40df",
               "gdsContentHash": "14w_bmu8nj",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_3e94jml",
@@ -1135,7 +3711,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -1195,7 +3772,8 @@
                       "repoSha": "a1a95103060152a20c7fe03f8ce67eab6e6ebda1",
                       "repoContentHash": "a8ac_1e3bzup",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -1203,7 +3781,8 @@
               "gdsRepoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_STRIP_2x1_MMI__e94jml/layout/SOI220nm_1310nm_TE_STRIP_2x1_MMI.gds",
               "gdsRepoSha": "61f7320640fba859d9c5c1834e13da97c6c28f7d",
               "gdsContentHash": "lk_a58y6j",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_efpcazt",
@@ -1226,7 +3805,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -1286,7 +3866,8 @@
                       "repoSha": "1e91f5aeea61db6cfd48b10e8922306830dda76c",
                       "repoContentHash": "i1mw_ds53gf",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -1294,7 +3875,8 @@
               "gdsRepoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_STRIP_2x2_MMI__fpcazt/layout/SOI220nm_1310nm_TE_STRIP_2x2_MMI.gds",
               "gdsRepoSha": "95ca206e6f966179e29b07cc5ae8aed65c1e278b",
               "gdsContentHash": "qc_os3g3q",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_0qot9zo",
@@ -1317,7 +3899,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -1377,7 +3960,8 @@
                       "repoSha": "1926a732b21312dc183607bd677ee40001118d25",
                       "repoContentHash": "4r98_1dq2sqj",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -1385,7 +3969,8 @@
               "gdsRepoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend__qot9zo/layout/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.gds",
               "gdsRepoSha": "bc416baefe77d452de9fd4fe1fed54ea30651a55",
               "gdsContentHash": "o0_1cj98vp",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_jt0c3gs",
@@ -1408,7 +3993,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -1467,7 +4053,8 @@
                       "repoSha": "b5461ff1676b86ebb13afc1660cb28a57b291e58",
                       "repoContentHash": "4odk_1fpua15",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -1476,7 +4063,8 @@
               "gdsRepoSha": "84a1d90a942a1982db6db9fc6839c8575e34f90a",
               "gdsContentHash": "5jo_12lkp5h",
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_al8rgb6",
@@ -1499,7 +4087,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -1531,7 +4120,8 @@
               "gdsRepoSha": "8b5f453481fa9ef649b95f99a3011abf027ed649",
               "gdsContentHash": "7g_1oceqyv",
               "smatrixGroups": [],
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_cuvolbv",
@@ -1554,7 +4144,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -1614,7 +4205,8 @@
                       "repoSha": "21fb10f0b439da227e912b3c5177897656a8a573",
                       "repoContentHash": "i140_yru5ri",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -1622,7 +4214,8 @@
               "gdsRepoPath": "users/Khaled2Day/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing__uvolbv/layout/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.gds",
               "gdsRepoSha": "12ca674ba05dad7f00461b1b0203901b60be49ca",
               "gdsContentHash": "qs_fpjfqp",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_55cmts1",
@@ -1645,7 +4238,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -1677,7 +4271,8 @@
               "gdsContentHash": "2g68_r1gh3x",
               "smatrixGroups": [],
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_uf2p6zs",
@@ -1700,7 +4295,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -1732,7 +4328,8 @@
               "gdsContentHash": "8xk_1tilfam",
               "smatrixGroups": [],
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_5rdpbgf",
@@ -1755,7 +4352,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -1787,7 +4385,8 @@
               "gdsContentHash": "v8_cm2qz4",
               "smatrixGroups": [],
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_wpyydic",
@@ -1810,7 +4409,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -1842,7 +4442,8 @@
               "gdsContentHash": "1z4k_1231lbz",
               "smatrixGroups": [],
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_ttyhuq2",
@@ -1865,7 +4466,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -1925,7 +4527,8 @@
                       "repoSha": "6eab46cbc122e5c9f5a4f791d366ba0760195a0f",
                       "repoContentHash": "a8i4_xhl1n6",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -1933,7 +4536,8 @@
               "gdsRepoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_RIB_2x1_MMI__tyhuq2/layout/SOI220nm_1550nm_TE_RIB_2x1_MMI.gds",
               "gdsRepoSha": "95efccc5c8fd15d934b73cccd19b14f42f84be63",
               "gdsContentHash": "rg_ebws2i",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_8ykm08a",
@@ -1956,7 +4560,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -2016,7 +4621,8 @@
                       "repoSha": "dbe9a550943a5831ee4f6e42428870ec4ba58cb0",
                       "repoContentHash": "i2qs_15ydsdg",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -2024,7 +4630,8 @@
               "gdsRepoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_RIB_2x2_MMI__ykm08a/layout/SOI220nm_1550nm_TE_RIB_2x2_MMI.gds",
               "gdsRepoSha": "222e8c9566402d3c0ec82b6db20467f5bcf928a2",
               "gdsContentHash": "w8_9rh6lu",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_bvglbmf",
@@ -2047,7 +4654,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -2107,7 +4715,8 @@
                       "repoSha": "afcc013a742d0e572231714e7026ac276285a6e6",
                       "repoContentHash": "4pio_1kyoz15",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -2115,7 +4724,8 @@
               "gdsRepoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_RIB_90_Degree_Bend__vglbmf/layout/SOI220nm_1550nm_TE_RIB_90_Degree_Bend.gds",
               "gdsRepoSha": "5cf053b771bf05f8c8b3ae18b91954ff7850cbe3",
               "gdsContentHash": "2c0_34e5iu",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_1cp6uka",
@@ -2138,7 +4748,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -2197,7 +4808,8 @@
                       "repoSha": "1b9423a452bc5f50122fde63a00475fb355f9d6b",
                       "repoContentHash": "4o50_1hlzb2a",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -2206,7 +4818,8 @@
               "gdsRepoSha": "37fed33443605397dca2cd9879368024ee5ff5f9",
               "gdsContentHash": "4b4_6nwgl0",
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_8y8ok3u",
@@ -2229,7 +4842,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -2261,7 +4875,8 @@
               "gdsRepoSha": "b223a089cec84865023d259e284ffe5ee2fd52b9",
               "gdsContentHash": "9s_1yyit9x",
               "smatrixGroups": [],
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_er4x4nc",
@@ -2284,7 +4899,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -2344,7 +4960,8 @@
                       "repoSha": "98887909640f7758e94b0a87bc6d45b45e58d58c",
                       "repoContentHash": "i3mk_1mxlp1k",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -2352,7 +4969,8 @@
               "gdsRepoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing__r4x4nc/layout/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.gds",
               "gdsRepoSha": "0abbd9e5cf3869ac8ff7a458b1a1017346915d60",
               "gdsContentHash": "14w_tcb918",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_kwqrc8i",
@@ -2375,7 +4993,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -2435,7 +5054,8 @@
                       "repoSha": "345ee14a66f490c42fa8155bf313ff3d9a54ce49",
                       "repoContentHash": "a7rs_j4sdmk",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -2443,7 +5063,8 @@
               "gdsRepoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_STRIP_2x1_MMI__wqrc8i/layout/SOI220nm_1550nm_TE_STRIP_2x1_MMI.gds",
               "gdsRepoSha": "f9582eb475c17943d820e3fd737ef43c095db086",
               "gdsContentHash": "lk_1jk29lr",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_d9khb99",
@@ -2466,7 +5087,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -2526,7 +5148,8 @@
                       "repoSha": "14a0d611b9363499346ddb4dda032ce615221048",
                       "repoContentHash": "i0pk_1ndrw0e",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -2534,7 +5157,8 @@
               "gdsRepoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_STRIP_2x2_MMI__9khb99/layout/SOI220nm_1550nm_TE_STRIP_2x2_MMI.gds",
               "gdsRepoSha": "7ec3e4cfc8e2ecc68ef11fac99ec68c2be30f1be",
               "gdsContentHash": "qc_1ji31b7",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_v6ljh48",
@@ -2557,7 +5181,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -2617,7 +5242,8 @@
                       "repoSha": "d37185b0cf2f07c82a85d1c67a5805df4001790c",
                       "repoContentHash": "4q90_bibirw",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -2625,7 +5251,8 @@
               "gdsRepoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend__6ljh48/layout/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.gds",
               "gdsRepoSha": "43a309045386da9bd0dbc8e1ec9acf4baa7efd8f",
               "gdsContentHash": "o0_hffvj7",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_k2j1nb4",
@@ -2648,7 +5275,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -2707,7 +5335,8 @@
                       "repoSha": "1b9423a452bc5f50122fde63a00475fb355f9d6b",
                       "repoContentHash": "4o50_1hlzb2a",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -2716,7 +5345,8 @@
               "gdsRepoSha": "8dc0b8c5c72a1fee7558e1d1b5361c6031a485c4",
               "gdsContentHash": "488_1s1qzzy",
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_cbn2pbu",
@@ -2739,7 +5369,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -2771,7 +5402,8 @@
               "gdsRepoSha": "7a71cf9671820338652554c92cf8c46cde093504",
               "gdsContentHash": "7g_rhl8en",
               "smatrixGroups": [],
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_b9p43be",
@@ -2794,7 +5426,8 @@
                   "bbType": "waveguide",
                   "who": "Khaled2Day",
                   "added": "2026-07-23",
-                  "_stripped": true
+                  "_stripped": true,
+                  "_fetched": true
                 }
               ],
               "updated": "2026-07-23",
@@ -2854,7 +5487,8 @@
                       "repoSha": "cf4f171ba97fb5097fa5b75137d4075555f2074b",
                       "repoContentHash": "i2cc_sxedq3",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_fetched": true
                     }
                   ]
                 }
@@ -2862,7 +5496,8 @@
               "gdsRepoPath": "users/Khaled2Day/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing__9p43be/layout/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.gds",
               "gdsRepoSha": "eba01ac55ea54e8dd3f6bdc2c7a243651dc99b46",
               "gdsContentHash": "vk_xx8mnt",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "_fetched": true
             },
             {
               "id": "e_2ke8xtb",
@@ -2877,14 +5512,15 @@
                   "id": "s_znbcy4s",
                   "name": "plot_s2p_Khaled.py",
                   "language": "python",
-                  "source": "# S-parameter (S11/S21/S12/S22) plot for the dashboard.\n#\n# The dashboard's own generic parser only understands simple sweep+trace\n# CSV-style files and fails on Touchstone (.s2p) format — that's the\n# \"Could not extract a plottable sweep + trace from this file\" message.\n# This script bypasses that and parses the raw Touchstone text itself.\n#\n# Globals expected from the dashboard:\n#   tests : list of every test on this BB (dict with metadata + raw content)\n#   data  : dict, may or may not be populated — not relied on here\n#\n# ── Edit these to change what's plotted ─────────────────────────────────────\nPARAMS            = ['s11', 's21', 's12', 's22']   # which S-parameters to show\nLAYOUT            = 'grid'      # 'grid' (one subplot per param) or 'overlay' (all on one axes)\nFREQ_UNIT_DIVISOR = 1e9          # divides the raw frequency array for the x-axis (Hz -> GHz)\nTARGET_NAME       = None         # e.g. 'CH1_P2_circut_P1_intrinsic_btm_0dBm' to pick a\n                                 # specific test; None = first parseable .s2p found\n\nimport io, base64\nimport numpy as np\nimport matplotlib\nmatplotlib.use(\"Agg\")\nimport matplotlib.pyplot as plt\n\n\ndef emit(fig):\n    buf = io.BytesIO()\n    fig.savefig(buf, format=\"png\", dpi=110, bbox_inches=\"tight\")\n    print(\"DASH_PLOT_PNG:\" + base64.b64encode(buf.getvalue()).decode())\n    plt.close(fig)\n\n\n# ── Raw Touchstone (.s2p) parser ─────────────────────────────────────────────\n# Format (2-port, dB-angle, as exported by the Keysight PNA):\n#   ! ...comment lines, ignored...\n#   # Hz S dB R 50          <- header: freq unit, format, impedance\n#   freq S11dB S11ang S21dB S21ang S12dB S12ang S22dB S22ang   <- one row per point\n#\n# Handles: comment lines, the header line, blank lines, and any trailing\n# non-numeric junk (e.g. text accidentally appended after the data) by\n# simply skipping any line that doesn't parse as exactly 9 numbers.\n\n_FREQ_UNIT_SCALE = {'hz': 1.0, 'khz': 1e3, 'mhz': 1e6, 'ghz': 1e9}\n\n\ndef parse_touchstone(raw_text: str):\n    \"\"\"\n    Parse raw Touchstone (.s2p) text into frequency (Hz) + S-param dB arrays.\n    Returns a dict: {'freq': np.array, 's11': np.array(dB), 's21': ..., 's12': ..., 's22': ...}\n    or None if no data rows were found at all.\n    \"\"\"\n    freq_scale = 1.0  # default Hz, overridden if header says otherwise\n    rows = []\n    n_skipped = 0\n\n    for line in raw_text.splitlines():\n        line = line.strip()\n        if not line:\n            continue\n        if line.startswith('!'):\n            continue   # comment line\n        if line.startswith('#'):\n            # header line, e.g. \"# Hz S dB R 50\" — extract the frequency unit\n            parts = line[1:].strip().lower().split()\n            if parts:\n                freq_scale = _FREQ_UNIT_SCALE.get(parts[0], 1.0)\n            continue\n        # attempt to parse as 9 whitespace-separated floats: freq + 4×(dB, angle)\n        tokens = line.split()\n        if len(tokens) != 9:\n            n_skipped += 1\n            continue\n        try:\n            vals = [float(t) for t in tokens]\n        except ValueError:\n            n_skipped += 1\n            continue   # non-numeric junk (e.g. trailing text) — skip, don't crash\n        rows.append(vals)\n\n    if not rows:\n        return None\n\n    arr = np.array(rows)   # shape (n_points, 9)\n    freq_hz = arr[:, 0] * freq_scale\n    return {\n        'freq': freq_hz,\n        's11': arr[:, 1],   # dB magnitude columns (angle columns 2,4,6,8 are ignored for mag plots)\n        's21': arr[:, 3],\n        's12': arr[:, 5],\n        's22': arr[:, 7],\n        '_n_skipped_lines': n_skipped,\n    }\n\n\n# ── Locate raw Touchstone text on the test object ───────────────────────────\n# The exact field name holding raw file content isn't confirmed, so this\n# tries several common ones. If none match, it reports what keys ARE\n# present so the real field name can be added here.\n_RAW_TEXT_KEYS = ('raw', 'raw_text', 'content', 'text', 'body', 'file_content', 'contents', 'data')\n\n\ndef find_raw_text(test_obj):\n    if isinstance(test_obj, str):\n        return test_obj\n    if isinstance(test_obj, dict):\n        for key in _RAW_TEXT_KEYS:\n            val = test_obj.get(key)\n            if isinstance(val, str) and len(val) > 20:\n                return val\n    return None\n\n\n# ── Main ──────────────────────────────────────────────────────────────────\n_tests = globals().get('tests', [])\n\nif not _tests:\n    print(\"No 'tests' available on this BB yet.\")\n    print(\"Drop an .s2p file into the Test results tab and re-run.\")\nelse:\n    _candidate = None\n    _candidate_name = None\n    _candidate_raw = None\n\n    for t in _tests:\n        name = None\n        if isinstance(t, dict):\n            name = t.get('name') or t.get('filename')\n        if TARGET_NAME and name != TARGET_NAME:\n            continue\n        raw = find_raw_text(t)\n        if raw is None:\n            continue\n        parsed = parse_touchstone(raw)\n        if parsed is not None:\n            _candidate = t\n            _candidate_name = name or '(unnamed)'\n            _candidate_raw = parsed\n            break\n\n    if _candidate_raw is None:\n        print(\"No parseable Touchstone (.s2p) content found among tests.\")\n        if _tests:\n            _sample = _tests[0]\n            if isinstance(_sample, dict):\n                print(f\"First test's available keys: {list(_sample.keys())}\")\n            else:\n                print(f\"First test's type: {type(_sample)}\")\n    else:\n        freqs_scaled = _candidate_raw['freq'] / FREQ_UNIT_DIVISOR\n        x_label = 'Frequency (GHz)' if FREQ_UNIT_DIVISOR == 1e9 else 'Frequency'\n        n_pts = len(_candidate_raw['freq'])\n        n_skip = _candidate_raw['_n_skipped_lines']\n\n        print(f\"Parsed '{_candidate_name}': {n_pts} data point(s)\"\n              + (f\", {n_skip} non-data line(s) skipped\" if n_skip else \"\"))\n\n        available = {p: _candidate_raw[p] for p in PARAMS if p in _candidate_raw}\n\n        if LAYOUT == 'grid':\n            ncols = 2\n            nrows = int(np.ceil(len(available) / ncols))\n            fig, axes = plt.subplots(nrows, ncols, figsize=(5 * ncols, 3.5 * nrows), squeeze=False)\n            axes_flat = axes.flatten()\n            for ax, (p, mag_db) in zip(axes_flat, available.items()):\n                ax.plot(freqs_scaled, mag_db, lw=1.2)\n                ax.set_title(p.upper())\n                ax.set_xlabel(x_label)\n                ax.set_ylabel(f'{p.upper()} (dB)')\n                ax.grid(True, alpha=0.3)\n            for ax in axes_flat[len(available):]:\n                ax.set_visible(False)\n            fig.suptitle(_candidate_name, y=1.02)\n        else:  # overlay\n            fig, ax = plt.subplots(figsize=(9, 5))\n            for p, mag_db in available.items():\n                ax.plot(freqs_scaled, mag_db, lw=1.2, label=p.upper())\n            ax.set_xlabel(x_label)\n            ax.set_ylabel('Magnitude (dB)')\n            ax.set_title(_candidate_name)\n            ax.grid(True, alpha=0.3)\n            ax.legend(fontsize=9, loc='best')\n\n        fig.tight_layout()\n        emit(fig)\n        print(f\"Plotted {list(available)} from '{_candidate_name}'.\")",
+                  "source": "# S-parameter (S11/S21/S12/S22) plot for the dashboard.\n#\n# The dashboard's own generic parser only understands simple sweep+trace\n# CSV-style files and fails on Touchstone (.s2p) format — that's the\n# \"Could not extract a plottable sweep + trace from this file\" message.\n# This script bypasses that and parses the raw Touchstone text itself.\n#\n# Globals expected from the dashboard:\n#   tests : list of every test on this BB (dict with metadata + raw content)\n#   data  : dict, may or may not be populated — not relied on here\n#\n# ── Edit these to change what's plotted ─────────────────────────────────────\nPARAMS            = ['s11', 's21', 's12', 's22']   # which S-parameters to show\nLAYOUT            = 'grid'      # 'grid' (one subplot per param) or 'overlay' (all on one axes)\nFREQ_UNIT_DIVISOR = 1e9          # divides the raw frequency array for the x-axis (Hz -> GHz)\nTARGET_NAME       = None         # e.g. 'CH1_P2_circut_P1_intrinsic_btm_0dBm' to pick a\n                                 # specific test; None = first parseable .s2p found\n\nimport io, base64\nimport numpy as np\nimport matplotlib\nmatplotlib.use(\"Agg\")\nimport matplotlib.pyplot as plt\n\n\ndef emit(fig):\n    buf = io.BytesIO()\n    fig.savefig(buf, format=\"png\", dpi=110, bbox_inches=\"tight\")\n    print(\"DASH_PLOT_PNG:\" + base64.b64encode(buf.getvalue()).decode())\n    plt.close(fig)\n\n\n# ── Raw Touchstone (.s2p) parser ─────────────────────────────────────────────\n# Format (2-port, dB-angle, as exported by the Keysight PNA):\n#   ! ...comment lines, ignored...\n#   # Hz S dB R 50          <- header: freq unit, format, impedance\n#   freq S11dB S11ang S21dB S21ang S12dB S12ang S22dB S22ang   <- one row per point\n#\n# Handles: comment lines, the header line, blank lines, and any trailing\n# non-numeric junk (e.g. text accidentally appended after the data) by\n# simply skipping any line that doesn't parse as exactly 9 numbers.\n\n_FREQ_UNIT_SCALE = {'hz': 1.0, 'khz': 1e3, 'mhz': 1e6, 'ghz': 1e9}\n\n\ndef parse_touchstone(raw_text: str):\n    \"\"\"\n    Parse raw Touchstone (.s2p) text into frequency (Hz) + S-param dB arrays.\n    Returns a dict: {'freq': np.array, 's11': np.array(dB), 's21': ..., 's12': ..., 's22': ...}\n    or None if no data rows were found at all.\n    \"\"\"\n    freq_scale = 1.0  # default Hz, overridden if header says otherwise\n    rows = []\n    n_skipped = 0\n\n    for line in raw_text.splitlines():\n        line = line.strip()\n        if not line:\n            continue\n        if line.startswith('!'):\n            continue   # comment line\n        if line.startswith('#'):\n            # header line, e.g. \"# Hz S dB R 50\" — extract the frequency unit\n            parts = line[1:].strip().lower().split()\n            if parts:\n                freq_scale = _FREQ_UNIT_SCALE.get(parts[0], 1.0)\n            continue\n        # attempt to parse as 9 whitespace-separated floats: freq + 4×(dB, angle)\n        tokens = line.split()\n        if len(tokens) != 9:\n            n_skipped += 1\n            continue\n        try:\n            vals = [float(t) for t in tokens]\n        except ValueError:\n            n_skipped += 1\n            continue   # non-numeric junk (e.g. trailing text) — skip, don't crash\n        rows.append(vals)\n\n    if not rows:\n        return None\n\n    arr = np.array(rows)   # shape (n_points, 9)\n    freq_hz = arr[:, 0] * freq_scale\n    return {\n        'freq': freq_hz,\n        's11': arr[:, 1],   # dB magnitude columns (angle columns 2,4,6,8 are ignored for mag plots)\n        's21': arr[:, 3],\n        's12': arr[:, 5],\n        's22': arr[:, 7],\n        '_n_skipped_lines': n_skipped,\n    }\n\n\n# ── Locate raw Touchstone text on the test object ───────────────────────────\n# The exact field name holding raw file content isn't confirmed, so this\n# tries several common ones. If none match, it reports what keys ARE\n# present so the real field name can be added here.\n_RAW_TEXT_KEYS = ('rawText', 'raw', 'raw_text', 'content', 'text', 'body', 'file_content', 'contents', 'data')\n\n\ndef find_raw_text(test_obj):\n    if isinstance(test_obj, str):\n        return test_obj\n    if isinstance(test_obj, dict):\n        for key in _RAW_TEXT_KEYS:\n            val = test_obj.get(key)\n            if isinstance(val, str) and len(val) > 20:\n                return val\n    return None\n\n\n# ── Main ──────────────────────────────────────────────────────────────────\n_tests = globals().get('tests', [])\n\nif not _tests:\n    print(\"No 'tests' available on this BB yet.\")\n    print(\"Drop an .s2p file into the Test results tab and re-run.\")\nelse:\n    _candidate = None\n    _candidate_name = None\n    _candidate_raw = None\n\n    for t in _tests:\n        name = None\n        if isinstance(t, dict):\n            name = t.get('name') or t.get('filename')\n        if TARGET_NAME and name != TARGET_NAME:\n            continue\n        raw = find_raw_text(t)\n        if raw is None:\n            continue\n        parsed = parse_touchstone(raw)\n        if parsed is not None:\n            _candidate = t\n            _candidate_name = name or '(unnamed)'\n            _candidate_raw = parsed\n            break\n\n    if _candidate_raw is None:\n        print(\"No parseable Touchstone (.s2p) content found among tests.\")\n        if _tests:\n            _sample = _tests[0]\n            if isinstance(_sample, dict):\n                print(f\"First test's available keys: {list(_sample.keys())}\")\n            else:\n                print(f\"First test's type: {type(_sample)}\")\n    else:\n        freqs_scaled = _candidate_raw['freq'] / FREQ_UNIT_DIVISOR\n        x_label = 'Frequency (GHz)' if FREQ_UNIT_DIVISOR == 1e9 else 'Frequency'\n        n_pts = len(_candidate_raw['freq'])\n        n_skip = _candidate_raw['_n_skipped_lines']\n\n        print(f\"Parsed '{_candidate_name}': {n_pts} data point(s)\"\n              + (f\", {n_skip} non-data line(s) skipped\" if n_skip else \"\"))\n\n        available = {p: _candidate_raw[p] for p in PARAMS if p in _candidate_raw}\n\n        if LAYOUT == 'grid':\n            ncols = 2\n            nrows = int(np.ceil(len(available) / ncols))\n            fig, axes = plt.subplots(nrows, ncols, figsize=(5 * ncols, 3.5 * nrows), squeeze=False)\n            axes_flat = axes.flatten()\n            for ax, (p, mag_db) in zip(axes_flat, available.items()):\n                ax.plot(freqs_scaled, mag_db, lw=1.2)\n                ax.set_title(p.upper())\n                ax.set_xlabel(x_label)\n                ax.set_ylabel(f'{p.upper()} (dB)')\n                ax.grid(True, alpha=0.3)\n            for ax in axes_flat[len(available):]:\n                ax.set_visible(False)\n            fig.suptitle(_candidate_name, y=1.02)\n        else:  # overlay\n            fig, ax = plt.subplots(figsize=(9, 5))\n            for p, mag_db in available.items():\n                ax.plot(freqs_scaled, mag_db, lw=1.2, label=p.upper())\n            ax.set_xlabel(x_label)\n            ax.set_ylabel('Magnitude (dB)')\n            ax.set_title(_candidate_name)\n            ax.grid(True, alpha=0.3)\n            ax.legend(fontsize=9, loc='best')\n\n        fig.tight_layout()\n        emit(fig)\n        print(f\"Plotted {list(available)} from '{_candidate_name}'.\")",
                   "command": "python ./scripts/plot_s2p_Khaled.py <data.csv>",
                   "who": "Khaled2Day",
                   "added": "2026-07-23T14:07:33.067Z",
                   "updated": "2026-07-23",
                   "repoPath": "users/Khaled2Day/New_BB_Khaled__ke8xtb/scripts/plot_s2p_Khaled.py",
                   "repoSha": "8be0da44b60d1da26b21dcdff02a2c595760e8be",
-                  "repoContentHash": "7p4_gmoyw0"
+                  "repoContentHash": "7p4_gmoyw0",
+                  "_fetched": true
                 }
               ],
               "datasets": [],
@@ -2913,7 +5549,8 @@
                       "_externalized": true,
                       "repoPath": "users/Khaled2Day/New_BB_Khaled__ke8xtb/tests/CH1_P1_circut_P2_intrinsic_btm_0dBm.s2p",
                       "repoSha": "741539c66ae8b6328e7532b0cc7496aed6c63be1",
-                      "repoContentHash": "b7t4_1y67mv"
+                      "repoContentHash": "b7t4_1y67mv",
+                      "_fetched": true
                     },
                     {
                       "id": "t_u48n9lj",
@@ -2934,7 +5571,8 @@
                       "_externalized": true,
                       "repoPath": "users/Khaled2Day/New_BB_Khaled__ke8xtb/tests/CH1_P1_circut_P2_intrinsic_btm_4dBm.s2p",
                       "repoSha": "7458fa3aa98ba9c37b251649d6ba7749a0ff72c1",
-                      "repoContentHash": "b7n8_ketyme"
+                      "repoContentHash": "b7n8_ketyme",
+                      "_fetched": true
                     },
                     {
                       "id": "t_2197buc",
@@ -2955,7 +5593,8 @@
                       "_externalized": true,
                       "repoPath": "users/Khaled2Day/New_BB_Khaled__ke8xtb/tests/CH1_P1_circut_P2_intrinsic_btm_6dBm.s2p",
                       "repoSha": "c65435b125fd5fd18df33077f967aa09e0062763",
-                      "repoContentHash": "b7n0_sfwpyo"
+                      "repoContentHash": "b7n0_sfwpyo",
+                      "_fetched": true
                     },
                     {
                       "id": "t_7owzbv4",
@@ -2976,7 +5615,8 @@
                       "_externalized": true,
                       "repoPath": "users/Khaled2Day/New_BB_Khaled__ke8xtb/tests/CH1_P1_circut_P2_intrinsic_mid_0dBm.s2p",
                       "repoSha": "475a26080426373602830a5646959c98a481af12",
-                      "repoContentHash": "b6to_36wksl"
+                      "repoContentHash": "b6to_36wksl",
+                      "_fetched": true
                     },
                     {
                       "id": "t_v3sadjk",
@@ -2997,7 +5637,8 @@
                       "_externalized": true,
                       "repoPath": "users/Khaled2Day/New_BB_Khaled__ke8xtb/tests/CH1_P1_circut_P2_intrinsic_mid_4dBm.s2p",
                       "repoSha": "6b0ab0dd67fda6609ed89d660eab3a21728fba0c",
-                      "repoContentHash": "b6xc_ke407a"
+                      "repoContentHash": "b6xc_ke407a",
+                      "_fetched": true
                     },
                     {
                       "id": "t_evphwko",
@@ -3018,7 +5659,8 @@
                       "_externalized": true,
                       "repoPath": "users/Khaled2Day/New_BB_Khaled__ke8xtb/tests/CH1_P1_circut_P2_intrinsic_mid_6dBm.s2p",
                       "repoSha": "de7f0a88e0d316ad0225e933109181c2ceae27de",
-                      "repoContentHash": "b6zo_1w6v8sa"
+                      "repoContentHash": "b6zo_1w6v8sa",
+                      "_fetched": true
                     },
                     {
                       "id": "t_s1ki77f",
@@ -3039,7 +5681,8 @@
                       "_externalized": true,
                       "repoPath": "users/Khaled2Day/New_BB_Khaled__ke8xtb/tests/CH1_P1_circut_P2_intrinsic_top_0dBm.s2p",
                       "repoSha": "3d436126b34c1f2c258f00414863523e6451e241",
-                      "repoContentHash": "b6wg_1gfhk97"
+                      "repoContentHash": "b6wg_1gfhk97",
+                      "_fetched": true
                     },
                     {
                       "id": "t_329tq16",
@@ -3060,7 +5703,8 @@
                       "_externalized": true,
                       "repoPath": "users/Khaled2Day/New_BB_Khaled__ke8xtb/tests/CH1_P1_circut_P2_intrinsic_top_4dBm.s2p",
                       "repoSha": "3d8a9adf57220de6d89965ede0478200588dad0f",
-                      "repoContentHash": "b6vg_ecw9o5"
+                      "repoContentHash": "b6vg_ecw9o5",
+                      "_fetched": true
                     },
                     {
                       "id": "t_n3qc3zq",
@@ -3081,7 +5725,8 @@
                       "_externalized": true,
                       "repoPath": "users/Khaled2Day/New_BB_Khaled__ke8xtb/tests/CH1_P1_circut_P2_intrinsic_top_6dBm.s2p",
                       "repoSha": "b76ea1688af6fe18005ff6637501b0c94a9a7538",
-                      "repoContentHash": "b6us_rgwzc7"
+                      "repoContentHash": "b6us_rgwzc7",
+                      "_fetched": true
                     }
                   ]
                 }
@@ -3102,7 +5747,8 @@
               "plannedReleaseDate": "",
               "trl": null,
               "cloudBases": {},
-              "smatrixGroups": []
+              "smatrixGroups": [],
+              "_fetched": true
             }
           ]
         },
@@ -3113,7 +5759,7 @@
             "material": "Si",
             "thickness": 340
           },
-          "collapsed": false,
+          "collapsed": true,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_340nm",
           "githubSubdir": "components",
@@ -3229,7 +5875,7 @@
             "material": "SiN",
             "thickness": 200
           },
-          "collapsed": false,
+          "collapsed": true,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_200nm",
           "githubSubdir": "components",
@@ -3332,6 +5978,21 @@
             }
           ],
           "entities": []
+        },
+        {
+          "id": "g_84kf3r2",
+          "name": "siin300-ON-SOI220",
+          "platformMeta": {
+            "material": "Si",
+            "thickness": 220
+          },
+          "collapsed": false,
+          "platformDocs": [],
+          "githubUrl": "",
+          "githubSubdir": "components",
+          "docsGithubUrl": "",
+          "githubSources": [],
+          "entities": []
         }
       ]
     },
@@ -3429,6 +6090,70 @@
     }
   ],
   "ownership": {
+    "e_86635m3": "admin",
+    "layout:e_86635m3": "Khaled2Day",
+    "e_k77neha": "admin",
+    "layout:e_k77neha": "Khaled2Day",
+    "e_ou06zu0": "admin",
+    "layout:e_ou06zu0": "Khaled2Day",
+    "e_wgt0y0l": "admin",
+    "layout:e_wgt0y0l": "Khaled2Day",
+    "e_01p193h": "admin",
+    "layout:e_01p193h": "Khaled2Day",
+    "e_838wngl": "admin",
+    "layout:e_838wngl": "Khaled2Day",
+    "e_yczzif7": "admin",
+    "layout:e_yczzif7": "Khaled2Day",
+    "e_1uuno83": "admin",
+    "layout:e_1uuno83": "Khaled2Day",
+    "e_d1k646t": "admin",
+    "layout:e_d1k646t": "Khaled2Day",
+    "e_fas2ih4": "admin",
+    "layout:e_fas2ih4": "Khaled2Day",
+    "e_3mmx63u": "admin",
+    "layout:e_3mmx63u": "Khaled2Day",
+    "e_zlimbjb": "admin",
+    "layout:e_zlimbjb": "Khaled2Day",
+    "e_5ix7pu8": "admin",
+    "layout:e_5ix7pu8": "Khaled2Day",
+    "e_4ebe0de": "admin",
+    "layout:e_4ebe0de": "Khaled2Day",
+    "e_m7dn718": "admin",
+    "layout:e_m7dn718": "Khaled2Day",
+    "e_txq39yh": "admin",
+    "layout:e_txq39yh": "Khaled2Day",
+    "e_8fnhtbv": "admin",
+    "layout:e_8fnhtbv": "Khaled2Day",
+    "e_0595r59": "admin",
+    "layout:e_0595r59": "Khaled2Day",
+    "e_ufug1m1": "admin",
+    "layout:e_ufug1m1": "Khaled2Day",
+    "e_ifq0qop": "admin",
+    "layout:e_ifq0qop": "Khaled2Day",
+    "e_15h45i5": "admin",
+    "layout:e_15h45i5": "Khaled2Day",
+    "e_kv8ahe8": "admin",
+    "layout:e_kv8ahe8": "Khaled2Day",
+    "e_eqnpp7u": "admin",
+    "layout:e_eqnpp7u": "Khaled2Day",
+    "e_tsj6jue": "admin",
+    "layout:e_tsj6jue": "Khaled2Day",
+    "e_gkqdfu8": "admin",
+    "layout:e_gkqdfu8": "Khaled2Day",
+    "e_4yy0o1l": "admin",
+    "layout:e_4yy0o1l": "Khaled2Day",
+    "e_4oasinb": "admin",
+    "layout:e_4oasinb": "Khaled2Day",
+    "e_hkbuzv7": "admin",
+    "layout:e_hkbuzv7": "Khaled2Day",
+    "e_fwdccyy": "admin",
+    "layout:e_fwdccyy": "Khaled2Day",
+    "e_d8lo05e": "admin",
+    "layout:e_d8lo05e": "Khaled2Day",
+    "e_3kf2xnn": "admin",
+    "layout:e_3kf2xnn": "Khaled2Day",
+    "e_t2jsm7s": "admin",
+    "layout:e_t2jsm7s": "Khaled2Day",
     "e_dswb6pl": "Khaled2Day",
     "e_37co0kr": "Khaled2Day",
     "e_z72ldbz": "Khaled2Day",
@@ -3466,15 +6191,7 @@
   "labels": {
     "Khaled2Day": "Khaled Mohammed"
   },
-  "contributors": [
-    {
-      "identity": "Khaled2Day",
-      "name": "Khaled Mohammed",
-      "role": "user-admin",
-      "addedAt": "2026-07-23T14:21:02.322Z",
-      "fromSlice": "users/Khaled2Day/dashboard.json"
-    }
-  ],
+  "contributors": [],
   "deletions": [
     {
       "kind": "file",
@@ -3499,34 +6216,34 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-07-23T14:28:38.811Z",
+    "publishedAt": "2026-07-26T11:49:32.845Z",
     "publisherIdentity": "Khaled2Day",
     "publisherLabel": "Khaled Mohammed",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.1.0",
-    "bbCount": 32,
-    "groupCount": 14,
+    "bbCount": 64,
+    "groupCount": 15,
     "tabCount": 4,
-    "fileCount": 70,
+    "fileCount": 130,
     "sliceFor": "Khaled2Day",
     "termsVersion": "1.1.0",
     "externalized": {
-      "uploaded": 9,
+      "uploaded": 60,
       "skipped": 0,
       "failed": 0,
-      "reused": 22,
+      "reused": 31,
       "usersDir": "users/Khaled2Day/",
       "layoutVersion": "rev5-tab-named",
       "note": "Per-BB folder layout: users/Khaled2Day/<bb>/<section>/<file> — section folders are tab-named one-to-one with the BB-panel tabs: layout (GDS / OASIS + canonical YAML), smatrix (S-matrix datasets), tests, fab, scripts, documents (non-canonical YAMLs + other docs), eda (eda_links.json), files (loose BB-level files), variants (recursive). Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent."
     },
     "stripped": {
-      "gdsContent": 30,
-      "layoutSvg": 9,
-      "documents": 70,
-      "datasets": 42,
-      "parsed": 20,
-      "approxBytes": 26713470,
+      "gdsContent": 4,
+      "layoutSvg": 0,
+      "documents": 0,
+      "datasets": 5,
+      "parsed": 2,
+      "approxBytes": 3383202,
       "note": "All embedded binaries (GDS, document data URLs, large SVGs, raw CSV / S-matrix bytes) were stripped from this published payload — only metadata remains. Adopters: run a per-BB or per-platform GitHub sync to repopulate the bytes from the original GitHub source."
     }
   }
