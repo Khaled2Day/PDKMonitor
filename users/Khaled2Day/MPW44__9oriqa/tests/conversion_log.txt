@@ -1,8 +1,8 @@
 
 ==============================================================
-Run:     2026-08-04 14:27:27
-Session: C:\Users\km1r08\OneDrive - University of Southampton\Documents\PhotonicsData\DeviceCharacterisation\MPW44\SLOT3\Chip2
-Results: 35 OK  |  0 warnings  |  0 failed
+Run:     2026-08-04 14:27:36
+Session: C:\Users\km1r08\OneDrive - University of Southampton\Documents\PhotonicsData\DeviceCharacterisation\MPW44\SLOT3\Chip3
+Results: 10 OK  |  0 warnings  |  0 failed
 ==============================================================
 [OK]  1_100nmBW.omr  |  1 graph sheet(s) exported
 [OK]  1_c-band.omr  |  1 graph sheet(s) exported
@@ -10,32 +10,7 @@ Results: 35 OK  |  0 warnings  |  0 failed
 [OK]  1B.omr  |  1 graph sheet(s) exported
 [OK]  1C.omr  |  1 graph sheet(s) exported
 [OK]  1D.omr  |  1 graph sheet(s) exported
-[OK]  2_t-25_cband.omr  |  1 graph sheet(s) exported
-[OK]  2_t0_cband.omr  |  1 graph sheet(s) exported
-[OK]  2_t25_cband.omr  |  1 graph sheet(s) exported
-[OK]  2_t50_cband.omr  |  1 graph sheet(s) exported
-[OK]  3_p-25_cbandTM.omr  |  1 graph sheet(s) exported
-[OK]  3_p0_cbandTM.omr  |  1 graph sheet(s) exported
-[OK]  3_p25_cbandTM.omr  |  1 graph sheet(s) exported
-[OK]  3_p50_cbandTM.omr  |  1 graph sheet(s) exported
-[OK]  3_t-25_cbandTM.omr  |  1 graph sheet(s) exported
-[OK]  3_t0_cbandTM.omr  |  1 graph sheet(s) exported
-[OK]  3_t25_cbandTM.omr  |  1 graph sheet(s) exported
-[OK]  3_t50_cbandTM.omr  |  1 graph sheet(s) exported
-[OK]  4_p-25_cbandTM.omr  |  1 graph sheet(s) exported
-[OK]  4_p0_cbandTM.omr  |  1 graph sheet(s) exported
-[OK]  4_p25_cbandTM.omr  |  1 graph sheet(s) exported
-[OK]  4_p50_cbandTM.omr  |  1 graph sheet(s) exported
-[OK]  4_t-25_cbandTM.omr  |  1 graph sheet(s) exported
-[OK]  4_t0_cbandTM.omr  |  1 graph sheet(s) exported
-[OK]  4_t25_cbandTM.omr  |  1 graph sheet(s) exported
-[OK]  4_t50_cbandTM.omr  |  1 graph sheet(s) exported
-[OK]  p-25_cbb100.omr  |  1 graph sheet(s) exported
-[OK]  p0_cbb100.omr  |  1 graph sheet(s) exported
-[OK]  p25_cbb100.omr  |  1 graph sheet(s) exported
-[OK]  p50_cbb100.omr  |  1 graph sheet(s) exported
 [OK]  t-25_cbb100.omr  |  1 graph sheet(s) exported
-[OK]  t-25_cbb100_r.omr  |  1 graph sheet(s) exported
 [OK]  t0_cbb100.omr  |  1 graph sheet(s) exported
 [OK]  t25_cbb100.omr  |  1 graph sheet(s) exported
 [OK]  t50_cbb100.omr  |  1 graph sheet(s) exported
